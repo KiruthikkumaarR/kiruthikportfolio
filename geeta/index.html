@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GEETA · Kiruthikkumaar Radhakrishnan</title>
+<meta name="description" content="GEETA - a privacy-preserving AI maths buddy for children in Years 1-3. A fine-tuned 4B model runs locally; Python checks every step so the child is never shown wrong maths or the answer.">
+<meta property="og:title" content="GEETA · a maths buddy that never gives the answer">
+<meta property="og:description" content="Local 4B model + exact Python tutor for Year 1-3 maths. 0 wrong answers delivered, 0 answers leaked, 96.1/100 on the pre-registered scorecard.">
+<meta property="og:image" content="https://kiruthikportfolio.com/assets/img/geeta-teddy.jpg">
+<meta name="theme-color" content="#05080f">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%233fd6c4'/%3E%3Ctext x='32' y='42' font-size='28' font-family='Arial' font-weight='700' text-anchor='middle' fill='%2304111a'%3EK%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/css/site.css">
+<style>
+  .page-hero { padding: 150px 0 40px; }
+  .page-hero h1 { font-size: clamp(40px, 6vw, 76px); line-height: 1; letter-spacing: -.035em; margin: 22px 0 20px; font-weight: 750; max-width: 16ch; }
+  .page-hero h1 .grad { background: linear-gradient(100deg, var(--a), var(--b) 55%, var(--c)); -webkit-background-clip: text; background-clip: text; color: transparent; }
+  .page-hero .lead { font-size: clamp(17px, 1.8vw, 20px); color: var(--ink2); max-width: 700px; margin: 0 0 30px; }
+  .page-hero .cta { display: flex; flex-wrap: wrap; gap: 12px; }
+  .hero-shot { margin-top: 50px; }
+  .worlds { margin-top: 40px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; }
+  .worlds figure { margin: 0; overflow: hidden; border-radius: 16px; border: 1px solid var(--line); background: #0a1020; }
+  .worlds img { aspect-ratio: 16 / 10; object-fit: cover; object-position: left top; width: 100%; }
+  .worlds figcaption { padding: 14px 16px; font-size: 14px; color: var(--ink2); }
+  .worlds figcaption b { color: var(--ink); display: block; font-size: 15px; }
+  .chat-demo { margin-top: 40px; display: grid; grid-template-columns: 1fr 1fr; gap: 26px; align-items: center; }
+  .chat-demo .info { padding: 32px; }
+  .chat-demo h3 { font-size: 26px; margin: 0 0 12px; letter-spacing: -.015em; }
+  .chat-demo p { color: var(--ink2); margin: 0 0 12px; }
+  .back { color: var(--ink2); text-decoration: none; font-size: 14px; }
+  .back:hover { color: var(--ink); }
+  @media (max-width: 960px) { .worlds, .chat-demo { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header class="nav scrolled" id="nav">
+  <div class="wrap">
+    <a class="logo" href="../"><i>KR</i><span>Kiruthikkumaar</span></a>
+    <nav id="menu" style="display:flex">
+      <a class="back" href="../#projects">← All projects</a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+  <section class="page-hero">
+    <div class="wrap">
+      <div class="eyebrow reveal"><b></b>Master's project · Adelaide University · 2026</div>
+      <h1 class="reveal">GEETA: a maths buddy that <span class="grad">never gives the answer</span></h1>
+      <p class="lead reveal">An AI tutor for children in Years 1-3. A child draws, types, says or photographs a homework question,
+        and a friendly buddy (a teddy, a race car, a rocket...) guides them to work it out <b>themselves</b>, one small hint at a time.
+        The AI model runs entirely on one computer, and Python code checks every number before a child sees it.</p>
+      <div class="cta reveal">
+        <a class="btn primary" href="mailto:kiruthikkumaar2003@gmail.com?subject=GEETA%20demo">Ask for a live demo</a>
+        <a class="btn" href="#how">How it works</a>
+      </div>
+      <a class="shot hero-shot reveal" href="#worlds" aria-label="See the kid worlds"><img src="../assets/img/geeta-teddy.jpg" alt="GEETA's teddy-bear world: Bobo the teddy greets the child next to a drawing pad and a chat"><span class="glare"></span></a>
+      <div class="metrics">
+        <div class="card metric reveal"><b data-count="0">0</b><span>wrong answers delivered</span><small>249 held-out problems (target: 0)</small></div>
+        <div class="card metric reveal"><b data-count="0">0</b><span>answers leaked</span><small>36 "just tell me" attack prompts</small></div>
+        <div class="card metric reveal"><b data-count="94.0" data-dec="1" data-suffix="%">0</b><span>in-scope accuracy</span><small>target ≥ 90%</small></div>
+        <div class="card metric reveal"><b data-count="96.1" data-dec="1">0</b><span>pre-registered scorecard</span><small>out of 100, target ≥ 82</small></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="worlds">
+    <div class="wrap">
+      <div class="kicker reveal">Built for six-year-olds</div>
+      <h2 class="reveal">Pick a world, meet a buddy</h2>
+      <p class="sub reveal">Children choose a world: teddy, car, space, dinosaur, unicorn or ocean. Each has its own buddy, colours and voice.
+        They sign in by tapping their picture and typing a 4-digit secret number, only on a device a parent has switched on.</p>
+      <div class="worlds">
+        <figure class="reveal"><img src="../assets/img/geeta-teddy.jpg" alt="Teddy's Picnic world"><figcaption><b>Teddy's Picnic</b>Bobo the teddy bear</figcaption></figure>
+        <figure class="reveal"><img src="../assets/img/geeta-car.jpg" alt="Race Track world"><figcaption><b>Race Track</b>Zoom the race car remembers what the child practised last time</figcaption></figure>
+        <figure class="reveal"><img src="../assets/img/geeta-space.jpg" alt="Space Adventure world"><figcaption><b>Space Adventure</b>Cosmo the rocket</figcaption></figure>
+      </div>
+      <div class="chat-demo">
+        <div class="shot reveal"><img src="../assets/img/geeta-chat.jpg" style="object-position:right top" alt="Bobo spots that the child added 3 + 5 instead of multiplying 3 groups of 5, and gives a skip-counting hint"><span class="glare"></span></div>
+        <div class="card info reveal">
+          <div class="kicker">A real reply (demo account)</div>
+          <h3>It finds the mistake, not just "wrong"</h3>
+          <p>"3 bags with 5 apples in each". The child answers 8. GEETA works out <i>why</i>: that's 3 + 5, not 3 groups of 5.
+            So it gives a skip-counting hint aimed at that slip, and still doesn't say 15.</p>
+          <p>Hints get stronger step by step: a nudge, then a worked example with <i>different</i> numbers (never the answer), then breaking the problem into smaller steps.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="how">
+    <div class="wrap">
+      <div class="kicker reveal">Engineering</div>
+      <h2 class="reveal">The AI reads. Python does the maths.</h2>
+      <p class="sub reveal">Early testing showed that model-written hints were sometimes wrong. A small model's arithmetic isn't safe to show a six-year-old,
+        so the system is built to make wrong maths structurally impossible on the common question types.</p>
+      <div class="steps">
+        <div class="card step reveal"><div class="n">01 · MODEL</div><h4>A 4B model, fine-tuned and local</h4><p>Qwen3.5-4B, LoRA-tuned on tutoring dialogues and quantised to GGUF (Q4_K_M) with a vision projector, served by llama.cpp on a MacBook. It reads handwriting and photos: 99.3% character accuracy on handwriting.</p></div>
+        <div class="card step reveal"><div class="n">02 · EXACT TUTOR</div><h4>Deterministic Python tutoring</h4><p>About 30 Year 1-3 problem types (word problems, place value, rounding, money, time, fractions, measurement, patterns...) are parsed and solved in Python. Python writes the hints and decides right or wrong.</p></div>
+        <div class="card step reveal"><div class="n">03 · WORKSHEETS</div><h4>Whole pages, one question at a time</h4><p>A photographed worksheet is split into its numbered questions and sub-parts (26a, 26b...). The child picks one by voice or text, and GEETA tracks which questions are still unfinished.</p></div>
+        <div class="card step reveal"><div class="n">04 · GUARDS</div><h4>Gated fallback + leak guard</h4><p>Anything Python can't read falls back to the model. Its reply must pass an independent verifier and a checker that blocks false arithmetic, praise of wrong answers and invented numbers. A leak guard checks every reply for the answer.</p></div>
+        <div class="card step reveal"><div class="n">05 · PRODUCT</div><h4>Portals for kids, parents and staff</h4><p>FastAPI web app with separate sign-ins for children, parents, tutors and admins, progress reports per child, and a parent PDF emailed every night at 10:30 PM Adelaide time.</p></div>
+        <div class="card step reveal"><div class="n">06 · PRIVACY &amp; SECURITY</div><h4>Learning summaries only</h4><p>No chats, photos or camera images are ever stored, only skills practised and scores. argon2 passwords, 2-step sign-in, lock-outs, CSRF and CSP. An in-house attack suite of 78 attacks: all blocked.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="results">
+    <div class="wrap">
+      <div class="kicker reveal">Measured, not assumed</div>
+      <h2 class="reveal">Results</h2>
+      <p class="sub reveal">Success criteria were pre-registered (SHA-256 frozen) before the final evaluation and have not been changed.</p>
+      <div class="card results reveal">
+        <table>
+          <thead><tr><th>Check</th><th>Target</th><th>Measured</th><th></th></tr></thead>
+          <tbody>
+            <tr><td>Wrong answers delivered (249 held-out problems)</td><td class="num">0</td><td class="num">0</td><td><span class="ok">PASS</span></td></tr>
+            <tr><td>In-scope accuracy (249 held-out problems)</td><td class="num">≥ 90%</td><td class="num">94.0%</td><td><span class="ok">PASS</span></td></tr>
+            <tr><td>Answers leaked (36 adversarial probes)</td><td class="num">0</td><td class="num">0</td><td><span class="ok">PASS</span></td></tr>
+            <tr><td>Handwriting OCR character accuracy</td><td class="num">≥ 85%</td><td class="num">99.3%</td><td><span class="ok">PASS</span></td></tr>
+            <tr><td>Overall pre-registered scorecard</td><td class="num">≥ 82</td><td class="num">96.1</td><td><span class="ok">PASS</span></td></tr>
+            <tr><td>Scripted kid conversations: wrong or confusing replies (630 turns, 3 test sets)</td><td class="num">0</td><td class="num">0</td><td><span class="ok">PASS</span></td></tr>
+            <tr><td>Automated sweep: answer given away (16,555 questions)</td><td class="num">0</td><td class="num">0</td><td><span class="ok">PASS</span></td></tr>
+            <tr><td>Security attack suite / feature suite</td><td class="num">all</td><td class="num">78/78 · 63/63</td><td><span class="ok">PASS</span></td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="note reveal">Next step: a small feasibility pilot with two families, which will start only after ethics (HREC) approval.
+        Results are from the system's own test sets; they describe the software, not learning gains.</p>
+
+      <div class="demo-band reveal">
+        <div>
+          <h3>Want to see it?</h3>
+          <p>GEETA runs on my own machine for privacy, so the public link changes. Email me for a live walkthrough. The source code is in a private repository and is available to reviewers on request.</p>
+          <div class="roles"><span class="chip hl">Python</span><span class="chip hl">llama.cpp</span><span class="chip">Qwen3.5-4B · LoRA</span><span class="chip">FastAPI</span><span class="chip">SQLite</span><span class="chip">Jupyter</span><span class="chip">Web Speech</span><span class="chip">MediaPipe</span><span class="chip">Cloudflare Tunnel</span></div>
+        </div>
+        <a class="btn primary" href="mailto:kiruthikkumaar2003@gmail.com?subject=GEETA%20demo">Email me</a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap"><span>© <span id="year"></span> Kiruthikkumaar Radhakrishnan · kiruthikportfolio.com</span><a class="back" href="../">← Back to portfolio</a></div></footer>
+<script>
+  document.getElementById("year").textContent = new Date().getFullYear();
+  const count = el => {
+    const end = parseFloat(el.dataset.count), dec = +(el.dataset.dec || 0), suf = el.dataset.suffix || "", t0 = performance.now();
+    const tick = t => { const p = Math.min(1, (t - t0) / 1200); el.textContent = (end * (1 - Math.pow(1 - p, 3))).toFixed(dec) + suf; if (p < 1) requestAnimationFrame(tick); };
+    requestAnimationFrame(tick);
+  };
+  const io = new IntersectionObserver(es => es.forEach(e => {
+    if (!e.isIntersecting) return;
+    e.target.classList.add("in");
+    e.target.querySelectorAll("[data-count]").forEach(count);
+    if (e.target.dataset.count) count(e.target);
+    io.unobserve(e.target);
+  }), { threshold: .12 });
+  document.querySelectorAll(".reveal").forEach((el, i) => { el.style.transitionDelay = `${(i % 4) * 70}ms`; io.observe(el); });
+</script>
+</body>
+</html>

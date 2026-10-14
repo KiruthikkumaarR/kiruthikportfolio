@@ -1,0 +1,161 @@
+eco_id,product,description,status,requested_by,date,impact
+ECO-6000,HX-250,Change bearing grade,Approved,Hannele Oksanen,2026-02-17,High
+ECO-6001,CU-4 Controller,Replace obsolete capacitor,In review,Mikuláš Bartošová,2026-02-19,High
+ECO-6002,HX-520,Revise drawing tolerance,Approved,Mirjam Parkkinen,2026-07-22,Low
+ECO-6003,HX-110,Update seal supplier,Approved,Jenni Kauppinen,2026-08-22,Medium
+ECO-6004,HX-110,Change bearing grade,Rejected,Marcelina Proć,2025-11-27,Low
+ECO-6005,HX-520,Update seal supplier,Approved,Joakim Jepsen,2025-10-27,High
+ECO-6006,HX-400,Replace obsolete capacitor,In review,Denise Fabre,2025-12-14,High
+ECO-6007,CU-4 Pro Controller,Replace obsolete capacitor,Approved,Luce Léger,2026-07-14,Low
+ECO-6008,HX-320,Change bearing grade,Approved,Bartek Tomaszczyk,2026-08-21,High
+ECO-6009,HX-280,Update seal supplier,Implemented,Jacqueline Marion,2026-04-18,High
+ECO-6010,HX-360,Revise drawing tolerance,Approved,Martirio Llorente,2026-04-08,High
+ECO-6011,HX-280,Change impeller material to duplex steel,Rejected,Annemette Hermansen,2026-02-26,High
+ECO-6012,HX-360,Add corrosion coating,Draft,Susan Lucas,2026-01-24,Low
+ECO-6013,HX-450,Change bearing grade,Implemented,Thierry Blin,2025-10-09,Medium
+ECO-6014,CU-4 Controller,Add corrosion coating,Draft,Sandra Drążyk,2026-07-20,High
+ECO-6015,HX-450,Firmware parameter change,Rejected,Jovana Meier,2025-11-07,Medium
+ECO-6016,HX-280,Replace obsolete capacitor,Implemented,Tatiana Maia,2026-07-25,Medium
+ECO-6017,HX-160,Change bearing grade,Approved,Bruno Ramos,2025-12-19,Medium
+ECO-6018,HX-160,Update seal supplier,Rejected,Tatiana Maia,2025-12-05,Low
+ECO-6019,CU-4 Pro Controller,Update seal supplier,Implemented,Martirio Llorente,2026-04-23,Low
+ECO-6020,HX-110,Replace obsolete capacitor,Draft,Luce Léger,2025-12-24,Low
+ECO-6021,HX-450,Firmware parameter change,Rejected,Luce Léger,2026-05-07,Low
+ECO-6022,HX-450,Change bearing grade,Rejected,Oscar Poulsen,2026-04-19,High
+ECO-6023,HX-280,Revise drawing tolerance,Approved,Martirio Llorente,2026-06-01,Medium
+ECO-6024,HX-450,Add corrosion coating,Approved,Basilio Anaya,2026-05-10,Medium
+ECO-6025,CU-4 Pro Controller,Change impeller material to duplex steel,Draft,Wojciech Heinrich,2026-01-04,Low
+ECO-6026,CU-4 Controller,Change bearing grade,Rejected,Marcial Pardo,2026-01-04,High
+ECO-6027,CU-4 Pro Controller,Change impeller material to duplex steel,Rejected,Jorma Hakala,2026-03-05,Medium
+ECO-6028,HX-450,Replace obsolete capacitor,Implemented,Vladimíra Pokorný,2026-05-22,High
+ECO-6029,CU-4 Controller,Change impeller material to duplex steel,Implemented,Salvador Paiva,2026-06-07,High
+ECO-6030,HX-200,Change impeller material to duplex steel,Approved,Leoncio Castell,2025-10-25,High
+ECO-6031,HX-320,Update seal supplier,Approved,Elisabeth Steffensen,2025-11-12,Medium
+ECO-6032,HX-160,Change bearing grade,Approved,Diogo Domingues,2026-02-17,Low
+ECO-6033,HX-140,Change bearing grade,Draft,Christian Jenewein,2025-12-15,Medium
+ECO-6034,HX-400,Update seal supplier,In review,Adalberto Peral,2026-01-13,Medium
+ECO-6035,HX-250,Change bearing grade,Draft,Lucie Fiala,2026-07-06,Low
+ECO-6036,HX-200,Revise drawing tolerance,In review,Lucie Fiala,2026-03-31,Low
+ECO-6037,CU-4 Pro Controller,Replace obsolete capacitor,In review,Mariusz Pryszcz,2026-04-14,Medium
+ECO-6038,HX-140,Add corrosion coating,Approved,Tola Kurtyka,2025-11-05,Low
+ECO-6039,HX-450,Update seal supplier,In review,Annemette Hermansen,2026-07-01,Low
+ECO-6040,CU-4 Pro Controller,Replace obsolete capacitor,Implemented,Raimo Mäkinen,2026-08-21,Low
+ECO-6041,HX-360,Add corrosion coating,Approved,Kamila Čechová,2025-10-09,Medium
+ECO-6042,HX-360,Change impeller material to duplex steel,In review,Francisco Jose Millán,2025-11-24,Low
+ECO-6043,HX-400,Add corrosion coating,In review,Mariusz Pryszcz,2025-11-07,High
+ECO-6044,HX-360,Add corrosion coating,Implemented,Louis Boyer,2025-12-03,Medium
+ECO-6045,HX-400,Add corrosion coating,Implemented,Martirio Llorente,2026-03-24,Low
+ECO-6046,HX-200,Update seal supplier,Implemented,Magdaléna Stejskal,2026-06-08,Medium
+ECO-6047,HX-160,Replace obsolete capacitor,Rejected,Evelyn Froschauer,2025-11-26,Medium
+ECO-6048,HX-200,Change bearing grade,Implemented,Darko Fleischmann,2026-08-09,High
+ECO-6049,HX-520,Change impeller material to duplex steel,Implemented,Basilio Anaya,2026-03-03,Medium
+ECO-6050,CU-4 Pro Controller,Change impeller material to duplex steel,Draft,Francisco Jose Millán,2025-11-05,Medium
+ECO-6051,HX-360,Change impeller material to duplex steel,Rejected,Tuomo Heinonen,2025-12-01,High
+ECO-6052,HX-280,Update seal supplier,Rejected,Erika Makkonen,2026-04-10,Medium
+ECO-6053,HX-160,Replace obsolete capacitor,Draft,Hannele Oksanen,2025-11-22,Low
+ECO-6054,HX-400,Add corrosion coating,In review,Thierry Blin,2026-07-04,Low
+ECO-6055,HX-110,Add corrosion coating,Approved,Mathilde Daniel,2026-07-19,High
+ECO-6056,HX-520,Add corrosion coating,Rejected,Mirjam Parkkinen,2026-05-11,Medium
+ECO-6057,HX-320,Change bearing grade,Rejected,Christelle Renault,2026-05-08,Low
+ECO-6058,HX-320,Change bearing grade,Rejected,Evelyn Froschauer,2025-12-29,High
+ECO-6059,HX-450,Change impeller material to duplex steel,In review,Johannes Häkkinen,2025-12-07,High
+ECO-6060,HX-600,Add corrosion coating,In review,Christelle Renault,2026-02-14,Medium
+ECO-6061,HX-600,Firmware parameter change,Rejected,Sara Margas,2025-10-04,Low
+ECO-6062,HX-250,Change bearing grade,Draft,Jacek Nestorowicz,2026-04-25,High
+ECO-6063,HX-600,Revise drawing tolerance,Draft,Diogo Domingues,2026-08-06,High
+ECO-6064,HX-160,Add corrosion coating,Approved,Mariusz Pryszcz,2026-08-26,High
+ECO-6065,HX-140,Add corrosion coating,Approved,Marcelina Proć,2026-07-19,Medium
+ECO-6066,HX-450,Add corrosion coating,In review,Angelita Llanos,2025-11-20,Medium
+ECO-6067,HX-450,Revise drawing tolerance,Draft,Vasyl Pešková,2026-07-28,Medium
+ECO-6068,HX-250,Revise drawing tolerance,Approved,Jasmina Steurer,2026-03-08,Medium
+ECO-6069,CU-4 Controller,Update seal supplier,Rejected,Frédéric Bourgeois,2026-07-30,Medium
+ECO-6070,HX-360,Revise drawing tolerance,Rejected,Sakari Rantanen,2026-05-24,Medium
+ECO-6071,HX-160,Replace obsolete capacitor,Rejected,Frédéric Bourgeois,2026-04-16,High
+ECO-6072,HX-320,Change impeller material to duplex steel,Implemented,Wojciech Heinrich,2025-11-24,High
+ECO-6073,HX-110,Replace obsolete capacitor,Rejected,Martirio Llorente,2026-02-16,Low
+ECO-6074,HX-200,Firmware parameter change,In review,Erika Makkonen,2026-06-26,Medium
+ECO-6075,CU-4 Pro Controller,Change bearing grade,Approved,Roldán Miralles,2026-08-09,Low
+ECO-6076,HX-400,Add corrosion coating,Draft,Hugo Oberndorfer,2026-05-04,Low
+ECO-6077,HX-400,Update seal supplier,Rejected,Wojciech Heinrich,2026-01-16,Low
+ECO-6078,HX-600,Change bearing grade,Approved,Teresa Figueiredo,2025-12-31,Low
+ECO-6079,HX-360,Firmware parameter change,Implemented,Igor Sousa,2026-03-15,Medium
+ECO-6080,HX-250,Revise drawing tolerance,Draft,Gabriel Pacheco,2026-01-22,Low
+ECO-6081,HX-200,Firmware parameter change,Approved,Vasyl Pešková,2025-11-18,High
+ECO-6082,HX-160,Replace obsolete capacitor,In review,Teresa Figueiredo,2026-05-02,Low
+ECO-6083,HX-280,Replace obsolete capacitor,Approved,Tola Kurtyka,2025-11-10,High
+ECO-6084,HX-200,Update seal supplier,Approved,Gabriel Pacheco,2025-11-17,Low
+ECO-6085,HX-140,Update seal supplier,In review,Cezary Grzelec,2026-05-08,Medium
+ECO-6086,HX-140,Change bearing grade,Implemented,Susan Lucas,2025-11-30,Medium
+ECO-6087,HX-320,Firmware parameter change,Approved,Johannes Häkkinen,2026-04-27,Medium
+ECO-6088,CU-4 Pro Controller,Replace obsolete capacitor,Rejected,Magdaléna Stejskal,2026-07-24,Medium
+ECO-6089,HX-110,Revise drawing tolerance,Draft,Vasyl Pešková,2026-06-30,Medium
+ECO-6090,HX-140,Change impeller material to duplex steel,Rejected,Kamila Čechová,2026-01-30,High
+ECO-6091,HX-280,Add corrosion coating,Approved,Maria Nieminen,2025-10-30,Medium
+ECO-6092,HX-250,Replace obsolete capacitor,Implemented,Maaria Saastamoinen,2026-03-14,High
+ECO-6093,HX-280,Update seal supplier,Draft,Gabriel Pacheco,2025-10-09,Low
+ECO-6094,HX-250,Update seal supplier,Implemented,Mariusz Pryszcz,2026-01-22,High
+ECO-6095,HX-520,Update seal supplier,Rejected,Cezary Andrearczyk,2026-04-02,Low
+ECO-6096,HX-360,Change bearing grade,In review,Karina Kruszona,2026-08-07,High
+ECO-6097,HX-520,Firmware parameter change,Draft,Magdaléna Stejskal,2025-12-12,High
+ECO-6098,HX-360,Change impeller material to duplex steel,Rejected,Růžena Beranová,2026-08-07,Medium
+ECO-6099,HX-280,Update seal supplier,Rejected,Christelle Renault,2026-04-28,Low
+ECO-6100,HX-520,Change bearing grade,In review,Aleksi Asikainen,2026-07-09,Medium
+ECO-6101,CU-4 Controller,Revise drawing tolerance,In review,Hubert Svoboda,2026-06-12,Low
+ECO-6102,CU-4 Controller,Revise drawing tolerance,Rejected,Ignác Ježková,2026-03-22,Low
+ECO-6103,HX-600,Revise drawing tolerance,In review,Bruno Ramos,2025-12-26,Low
+ECO-6104,HX-200,Change bearing grade,Approved,Darko Fleischmann,2026-04-29,High
+ECO-6105,HX-250,Replace obsolete capacitor,Approved,Angelita Llanos,2025-11-09,Low
+ECO-6106,HX-110,Change impeller material to duplex steel,Implemented,Maria Mikkola,2026-01-02,High
+ECO-6107,HX-160,Change impeller material to duplex steel,In review,Diogo Domingues,2026-02-09,Low
+ECO-6108,HX-600,Revise drawing tolerance,In review,Constanza Palacios,2026-04-19,Medium
+ECO-6109,HX-520,Change bearing grade,Implemented,Darko Fleischmann,2026-03-13,Low
+ECO-6110,HX-200,Update seal supplier,Rejected,Martirio Llorente,2026-07-21,Medium
+ECO-6111,CU-4 Controller,Replace obsolete capacitor,Draft,Martirio Llorente,2025-10-25,High
+ECO-6112,CU-4 Controller,Replace obsolete capacitor,Implemented,Darko Fleischmann,2025-12-24,Low
+ECO-6113,HX-280,Update seal supplier,Approved,Mariusz Pryszcz,2026-06-05,Medium
+ECO-6114,CU-4 Pro Controller,Change impeller material to duplex steel,Approved,Sten Krogh,2025-12-26,Low
+ECO-6115,HX-400,Update seal supplier,In review,Růžena Beranová,2026-08-09,High
+ECO-6116,HX-360,Add corrosion coating,Approved,Annemette Hermansen,2026-07-05,Medium
+ECO-6117,HX-520,Revise drawing tolerance,In review,Lúcia Nunes,2025-11-25,Low
+ECO-6118,HX-320,Add corrosion coating,Rejected,Sofia Erlacher,2025-10-17,Medium
+ECO-6119,HX-400,Change impeller material to duplex steel,Rejected,Maricela Buendía,2026-02-01,Low
+ECO-6120,CU-4 Pro Controller,Update seal supplier,Rejected,Tatiana Maia,2026-06-24,Low
+ECO-6121,CU-4 Pro Controller,Update seal supplier,Approved,Jolana Valentová,2025-11-07,Low
+ECO-6122,HX-520,Revise drawing tolerance,Implemented,Šimon Pospíšilová,2025-10-12,Low
+ECO-6123,HX-280,Add corrosion coating,Rejected,Francisco Jose Millán,2025-10-09,High
+ECO-6124,HX-400,Change bearing grade,Implemented,Martirio Llorente,2026-02-25,Low
+ECO-6125,HX-250,Change impeller material to duplex steel,Approved,Jorma Hakala,2026-03-08,High
+ECO-6126,HX-600,Change bearing grade,Approved,Ritva Soininen,2026-06-15,Low
+ECO-6127,HX-280,Change impeller material to duplex steel,In review,Virgilio Villanueva,2025-11-19,Medium
+ECO-6128,HX-160,Revise drawing tolerance,Implemented,Mariusz Pryszcz,2026-01-25,Low
+ECO-6129,HX-250,Replace obsolete capacitor,Approved,Teresa Figueiredo,2026-07-26,Medium
+ECO-6130,CU-4 Pro Controller,Replace obsolete capacitor,In review,Maria Rauhala,2026-05-10,High
+ECO-6131,HX-160,Update seal supplier,In review,Sørine Bruun,2026-04-10,High
+ECO-6132,HX-200,Change bearing grade,Rejected,Susan Lucas,2026-03-24,Medium
+ECO-6133,HX-280,Firmware parameter change,Rejected,Oscar Poulsen,2025-11-30,High
+ECO-6134,CU-4 Pro Controller,Change impeller material to duplex steel,Implemented,Adalberto Peral,2026-07-01,Low
+ECO-6135,CU-4 Controller,Update seal supplier,Rejected,Sofia Erlacher,2026-07-02,High
+ECO-6136,HX-320,Change bearing grade,Draft,Ragnar Pedersen,2026-03-29,High
+ECO-6137,CU-4 Controller,Revise drawing tolerance,Draft,Cezary Andrearczyk,2026-05-24,Medium
+ECO-6138,HX-250,Replace obsolete capacitor,Approved,Bruno Ramos,2025-12-22,Low
+ECO-6139,CU-4 Pro Controller,Firmware parameter change,Implemented,Veli Lehto,2026-06-29,Low
+ECO-6140,HX-600,Revise drawing tolerance,Approved,Maricela Buendía,2026-04-23,Medium
+ECO-6141,HX-600,Update seal supplier,In review,Kamila Čechová,2025-12-20,High
+ECO-6142,HX-160,Change impeller material to duplex steel,In review,Arne Holm,2026-07-13,Medium
+ECO-6143,CU-4 Pro Controller,Update seal supplier,Draft,Sten Krogh,2026-01-11,Low
+ECO-6144,HX-520,Replace obsolete capacitor,Approved,Thierry Blin,2026-06-22,Medium
+ECO-6145,HX-400,Add corrosion coating,Approved,Evelyn Froschauer,2026-05-23,Low
+ECO-6146,HX-600,Add corrosion coating,In review,Maria Nieminen,2026-04-23,Low
+ECO-6147,HX-360,Revise drawing tolerance,Approved,Kamila Čechová,2025-11-15,Medium
+ECO-6148,HX-400,Update seal supplier,Rejected,Ritva Soininen,2026-06-21,Medium
+ECO-6149,HX-600,Change bearing grade,In review,Lúcia Nunes,2026-04-30,Medium
+ECO-6150,CU-4 Pro Controller,Change impeller material to duplex steel,Rejected,Jean Lemaire,2025-10-06,Medium
+ECO-6151,HX-200,Replace obsolete capacitor,Approved,Annemette Hermansen,2025-10-08,Low
+ECO-6152,CU-4 Controller,Replace obsolete capacitor,Rejected,Otto Lammi,2026-01-03,Medium
+ECO-6153,HX-110,Replace obsolete capacitor,In review,Constance Normand,2026-07-07,Medium
+ECO-6154,HX-110,Update seal supplier,Approved,Diogo Domingues,2026-07-22,Medium
+ECO-6155,HX-320,Change bearing grade,In review,Beatrice Strasser,2026-05-20,Low
+ECO-6156,HX-600,Firmware parameter change,Approved,Tuomo Heinonen,2025-12-05,Medium
+ECO-6157,HX-160,Change impeller material to duplex steel,Rejected,Goyo Calzada,2025-11-05,High
+ECO-6158,HX-110,Revise drawing tolerance,Rejected,Joakim Jepsen,2026-02-20,Medium
+ECO-6159,HX-280,Firmware parameter change,Implemented,Magdaléna Stejskal,2026-06-02,Medium

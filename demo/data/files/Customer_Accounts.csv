@@ -1,0 +1,321 @@
+account_id,account_name,country,city,industry,segment,annual_revenue_eur,account_manager,customer_since,payment_terms_days,credit_limit_eur
+C-20000,Borges Building Services S.A.,Portugal,Porto,HVAC Contractors,Transactional,1486000,Jiřina Tůma,2016,90,50000
+C-20001,Bilbao Packaging S.L.,Spain,Bilbao,Pulp & Paper,Core,986500,Gilles Perrin,2017,90,1000000
+C-20002,Valencia Energy S.A.,Spain,Valencia,District Energy,Transactional,825000,Paweł Maciejewicz,2002,60,250000
+C-20003,Turku Climate Systems Oy,Finland,Turku,HVAC Contractors,Transactional,1773000,Paweł Maciejewicz,2005,45,500000
+C-20004,Valencia Power & Heat S.L.,Spain,Valencia,District Energy,Core,383000,Karolína Matoušková,1998,30,500000
+C-20005,Heikkilä Dairy Oy,Finland,Turku,Food & Beverage,Core,1547500,Gilles Perrin,2003,30,100000
+C-20006,Nasiadka Beverages S.A.,Poland,Poznań,Food & Beverage,Key,2198500,Alexa Schlager,2014,30,1000000
+C-20007,Graz Paper Mills AG,Austria,Graz,Pulp & Paper,Core,1514500,Karolína Matoušková,2017,30,250000
+C-20008,Carrera Process Chemicals S.L.,Spain,Valencia,Chemicals,Transactional,679500,Karolína Matoušková,2020,30,1000000
+C-20009,Guerreiro Foods S.A.,Portugal,Porto,Food & Beverage,Transactional,1005000,Miroslava Sedláčková,2022,30,250000
+C-20010,Thomsen Energy A/S,Denmark,Odense,District Energy,Transactional,339500,Karolína Matoušková,2003,45,500000
+C-20011,Uppsala Process Chemicals AB,Sweden,Uppsala,Chemicals,Transactional,771000,Artturi Nieminen,2013,60,50000
+C-20012,Cegła Foods Sp. z o.o.,Poland,Gdańsk,Food & Beverage,Strategic,1436000,Pánfilo Lloret,2025,90,50000
+C-20013,Lemaire Mining SAS,France,Nantes,Mining,Transactional,189000,Miroslava Sedláčková,1998,60,100000
+C-20014,Jespersen Energy A/S,Denmark,Odense,District Energy,Transactional,900000,Zuzana Navrátilová,2009,30,1000000
+C-20015,Bergsten Specialty Chemicals AB,Sweden,Malmö,Chemicals,Core,2292000,Paweł Maciejewicz,2010,30,500000
+C-20016,Gdańsk Resources S.A.,Poland,Gdańsk,Mining,Transactional,106500,Isabell Steinlechner,2015,60,250000
+C-20017,Bremen District Heating AG,Germany,Bremen,District Energy,Strategic,41000,Benoît Roux,2002,90,250000
+C-20018,Lyon Chemicals SA,France,Lyon,Chemicals,Transactional,1473000,Zuzana Navrátilová,2001,30,1000000
+C-20019,Malmö Beverages AB,Sweden,Malmö,Food & Beverage,Core,2229000,Paweł Maciejewicz,1998,30,100000
+C-20020,Leppänen Building Services Oy,Finland,Turku,HVAC Contractors,Key,1386000,Laurent Lopes,2005,30,500000
+C-20021,Jaroš Water Services s.r.o.,Czechia,Ostrava,Water Utilities,Transactional,365500,Marius Mandl,2024,45,1000000
+C-20022,Moura Installations S.A.,Portugal,Braga,HVAC Contractors,Core,1042000,Benoît Roux,2003,45,100000
+C-20023,Lindfors Waterworks Oy,Finland,Turku,Water Utilities,Core,280000,Isabell Steinlechner,2025,90,50000
+C-20024,Drubin Power & Heat GmbH,Germany,Leipzig,District Energy,Key,1422500,Jiřina Tůma,2008,45,500000
+C-20025,Ernst Beverages AG,Austria,Linz,Food & Beverage,Strategic,1669000,Laurent Lopes,2007,30,50000
+C-20026,Huszcza Mining S.A.,Poland,Poznań,Mining,Transactional,943000,Marco Anjos,1999,60,250000
+C-20027,Gdańsk Resources Sp. z o.o.,Poland,Gdańsk,Mining,Key,91000,Artturi Nieminen,2007,30,1000000
+C-20028,Porto Process Chemicals Lda.,Portugal,Porto,Chemicals,Transactional,840000,Artturi Nieminen,2002,60,50000
+C-20029,Lyon Water SAS,France,Lyon,Water Utilities,Key,126000,Jiřina Tůma,2019,30,500000
+C-20030,Bech Chemicals A/S,Denmark,Aarhus,Chemicals,Transactional,2244000,Marius Mandl,2025,90,500000
+C-20031,Oulu Chemicals Oyj,Finland,Oulu,Chemicals,Transactional,820500,Benoît Roux,2023,30,100000
+C-20032,Odense Water ApS,Denmark,Odense,Water Utilities,Transactional,1341000,Freja Gregersen,2009,60,250000
+C-20033,Seppälä Resources Oy,Finland,Lahti,Mining,Transactional,1348500,Alexa Schlager,2005,30,50000
+C-20034,Julien Process Chemicals SAS,France,Nantes,Chemicals,Key,1306000,Jiřina Tůma,2008,45,500000
+C-20035,Darłak Water Services S.A.,Poland,Poznań,Water Utilities,Key,759500,Laurent Lopes,2000,30,500000
+C-20036,Nantes Specialty Chemicals SA,France,Nantes,Chemicals,Key,1637000,Marius Mandl,2021,90,50000
+C-20037,Harju Installations Oy,Finland,Turku,HVAC Contractors,Key,1319500,Marco Anjos,2000,60,100000
+C-20038,Nantes Climate Systems SA,France,Nantes,HVAC Contractors,Transactional,1691000,Marius Mandl,2004,60,250000
+C-20039,Järvinen Climate Systems Oy,Finland,Lahti,HVAC Contractors,Transactional,969500,Gilles Perrin,1999,60,500000
+C-20040,Leipzig Chemicals GmbH,Germany,Leipzig,Chemicals,Transactional,280000,Alexa Schlager,2006,60,100000
+C-20041,Lyon Climate Systems SA,France,Lyon,HVAC Contractors,Core,1537000,Aurelia Chabior,2019,90,250000
+C-20042,Hanson District Heating AS,Estonia,Tartu,District Energy,Transactional,165000,Fernando Freitas,2014,90,100000
+C-20043,Krogh Minerals ApS,Denmark,Aarhus,Mining,Core,1778500,Isabell Steinlechner,2022,60,1000000
+C-20044,Lahti Climate Systems Oyj,Finland,Lahti,HVAC Contractors,Core,495500,Artturi Nieminen,2005,45,50000
+C-20045,Juncken Resources AG,Germany,Leipzig,Mining,Transactional,225500,Zuzana Navrátilová,2011,30,500000
+C-20046,Nascimento Climate Systems Lda.,Portugal,Braga,HVAC Contractors,Transactional,155500,Miroslava Sedláčková,2018,90,250000
+C-20047,Linz Specialty Chemicals AG,Austria,Linz,Chemicals,Core,78000,Pánfilo Lloret,2022,90,250000
+C-20048,Graz Power & Heat AG,Austria,Graz,District Energy,Core,716500,Pánfilo Lloret,2001,45,100000
+C-20049,Kristoffersen Energy A/S,Denmark,Odense,District Energy,Transactional,1395500,Marco Anjos,2017,60,250000
+C-20050,Rodrigues Chemicals S.A.,Portugal,Braga,Chemicals,Transactional,1488000,Pánfilo Lloret,2020,60,100000
+C-20051,Ostrava Water Services s.r.o.,Czechia,Ostrava,Water Utilities,Key,1837500,Marius Mandl,1998,60,100000
+C-20052,Aarhus Beverages A/S,Denmark,Aarhus,Food & Beverage,Transactional,66500,Gilles Perrin,2002,30,1000000
+C-20053,Turku Beverages Oy,Finland,Turku,Food & Beverage,Key,1890500,Pánfilo Lloret,2001,90,1000000
+C-20054,Oulu Brewery Oy,Finland,Oulu,Food & Beverage,Core,1323500,Benoît Roux,2002,45,50000
+C-20055,Linz Foods GmbH,Austria,Linz,Food & Beverage,Core,574000,Artturi Nieminen,2003,60,50000
+C-20056,Šimek Packaging a.s.,Czechia,Ostrava,Pulp & Paper,Core,2054500,Pánfilo Lloret,2009,60,100000
+C-20057,Nantes Mining SAS,France,Nantes,Mining,Core,373000,Freja Gregersen,2011,45,500000
+C-20058,Mikkonen Energy Oy,Finland,Turku,District Energy,Core,631000,Fernando Freitas,2009,30,250000
+C-20059,Mäkinen Waterworks Oyj,Finland,Turku,Water Utilities,Transactional,1419500,Alexa Schlager,2015,60,250000
+C-20060,Braga Resources S.A.,Portugal,Braga,Mining,Transactional,320000,Jiřina Tůma,2024,45,100000
+C-20061,Turku Power & Heat Oyj,Finland,Turku,District Energy,Transactional,163000,Jiřina Tůma,2000,90,50000
+C-20062,Lahti Building Services Oyj,Finland,Lahti,HVAC Contractors,Core,1072000,Fernando Freitas,2005,90,250000
+C-20063,Olsen Building Services ApS,Denmark,Odense,HVAC Contractors,Transactional,2088500,Jiřina Tůma,2003,60,250000
+C-20064,Turku Waterworks Oy,Finland,Turku,Water Utilities,Transactional,2238500,Paweł Maciejewicz,2020,45,250000
+C-20065,Aarhus Paper Mills ApS,Denmark,Aarhus,Pulp & Paper,Core,2385000,Karolína Matoušková,1999,60,100000
+C-20066,Leipzig Minerals GmbH,Germany,Leipzig,Mining,Strategic,2057500,Miroslava Sedláčková,2022,60,500000
+C-20067,Barros Mining Lda.,Portugal,Porto,Mining,Core,1428000,Fernando Freitas,2015,60,250000
+C-20068,Reinikainen Dairy Oy,Finland,Lahti,Food & Beverage,Transactional,284500,Jiřina Tůma,2006,30,50000
+C-20069,Turku Mining Oy,Finland,Turku,Mining,Key,621000,Artturi Nieminen,2016,45,1000000
+C-20070,Lyon Mining SA,France,Lyon,Mining,Transactional,472500,Marco Anjos,2019,90,500000
+C-20071,Ostrava Dairy a.s.,Czechia,Ostrava,Food & Beverage,Key,852000,Fernando Freitas,2009,30,500000
+C-20072,Dziewior Brewery Sp. z o.o.,Poland,Gdańsk,Food & Beverage,Core,771000,Gilles Perrin,2024,30,50000
+C-20073,Gaudin Installations SAS,France,Nantes,HVAC Contractors,Core,665500,Gilles Perrin,2019,30,1000000
+C-20074,Domingues Water Services S.A.,Portugal,Porto,Water Utilities,Core,803500,Zuzana Navrátilová,2003,60,100000
+C-20075,Łuckiewicz Mining Sp. z o.o.,Poland,Gdańsk,Mining,Transactional,385500,Pánfilo Lloret,2005,30,100000
+C-20076,Montenegro Packaging S.A.,Spain,Bilbao,Pulp & Paper,Core,1488000,Aurelia Chabior,2013,30,250000
+C-20077,Valverde Water S.A.,Spain,Valencia,Water Utilities,Transactional,1885000,Karolína Matoušková,2011,60,500000
+C-20078,Oulu Pulp & Board Oyj,Finland,Oulu,Pulp & Paper,Transactional,2041000,Artturi Nieminen,2007,30,50000
+C-20079,Pinto Foods S.A.,Portugal,Porto,Food & Beverage,Transactional,2113000,Freja Gregersen,2022,90,1000000
+C-20080,Linz Waterworks AG,Austria,Linz,Water Utilities,Core,1973500,Artturi Nieminen,2017,45,50000
+C-20081,Paffrath Pulp & Board GmbH,Germany,Bremen,Pulp & Paper,Transactional,954500,Jiřina Tůma,2023,30,500000
+C-20082,Malmö Resources AB,Sweden,Malmö,Mining,Core,514000,Karolína Matoušková,2006,90,250000
+C-20083,Peukert Packaging AG,Germany,Bremen,Pulp & Paper,Key,1752500,Fernando Freitas,2015,90,1000000
+C-20084,Jung Process Chemicals AG,Austria,Graz,Chemicals,Core,1252000,Alexa Schlager,2013,30,500000
+C-20085,Blanchet Climate Systems SA,France,Nantes,HVAC Contractors,Transactional,875000,Miroslava Sedláčková,2002,60,250000
+C-20086,Kotov Pulp & Board AS,Estonia,Tartu,Pulp & Paper,Transactional,2067000,Freja Gregersen,2016,60,50000
+C-20087,Reis Specialty Chemicals Lda.,Portugal,Braga,Chemicals,Key,524500,Gilles Perrin,2006,45,100000
+C-20088,Uppsala Paper Mills AB,Sweden,Uppsala,Pulp & Paper,Core,1472000,Marco Anjos,2004,60,250000
+C-20089,Mäki Building Services Oy,Finland,Turku,HVAC Contractors,Core,1131000,Marco Anjos,2008,30,50000
+C-20090,Bilbao Specialty Chemicals S.L.,Spain,Bilbao,Chemicals,Core,1548000,Karolína Matoušková,2004,90,1000000
+C-20091,Lahti Resources Oy,Finland,Lahti,Mining,Transactional,529000,Marius Mandl,2004,45,500000
+C-20092,Jourdan Process Chemicals SA,France,Nantes,Chemicals,Core,1801000,Marius Mandl,2019,30,100000
+C-20093,Leipzig Waterworks GmbH,Germany,Leipzig,Water Utilities,Transactional,1730500,Karolína Matoušková,2013,90,50000
+C-20094,Uppsala Water Services AB,Sweden,Uppsala,Water Utilities,Core,2200000,Laurent Lopes,2005,45,100000
+C-20095,Odense Pulp & Board ApS,Denmark,Odense,Pulp & Paper,Transactional,2282000,Gilles Perrin,2016,90,50000
+C-20096,Uppsala Chemicals AB,Sweden,Uppsala,Chemicals,Key,1987000,Gilles Perrin,2004,30,50000
+C-20097,Lyon Process Chemicals SA,France,Lyon,Chemicals,Core,597500,Fernando Freitas,2003,45,500000
+C-20098,Brno District Heating a.s.,Czechia,Brno,District Energy,Key,1936000,Pánfilo Lloret,2011,45,100000
+C-20099,Vigil Chemicals S.A.,Spain,Bilbao,Chemicals,Transactional,1143500,Freja Gregersen,2020,30,50000
+C-20100,Lund Waterworks A/S,Denmark,Odense,Water Utilities,Key,693000,Freja Gregersen,2003,90,1000000
+C-20101,Bremen Foods AG,Germany,Bremen,Food & Beverage,Core,465000,Miroslava Sedláčková,2017,60,100000
+C-20102,Mörth District Heating GmbH,Austria,Graz,District Energy,Core,1437500,Marco Anjos,2020,30,50000
+C-20103,Karlsson Climate Systems AB,Sweden,Malmö,HVAC Contractors,Core,2008500,Benoît Roux,2000,30,50000
+C-20104,Uppsala District Heating AB,Sweden,Uppsala,District Energy,Transactional,934000,Isabell Steinlechner,2009,30,100000
+C-20105,Mikk Pulp & Board OÜ,Estonia,Tartu,Pulp & Paper,Core,1572000,Paweł Maciejewicz,2015,30,50000
+C-20106,Pacheco Paper Mills S.A.,Portugal,Braga,Pulp & Paper,Transactional,1106000,Paweł Maciejewicz,2007,30,50000
+C-20107,Bilbao Water S.A.,Spain,Bilbao,Water Utilities,Transactional,1906000,Artturi Nieminen,2025,60,1000000
+C-20108,Holst Installations A/S,Denmark,Aarhus,HVAC Contractors,Strategic,434000,Benoît Roux,2010,30,50000
+C-20109,Ostrava Climate Systems s.r.o.,Czechia,Ostrava,HVAC Contractors,Core,2229000,Gilles Perrin,2024,60,250000
+C-20110,Aarhus Minerals A/S,Denmark,Aarhus,Mining,Transactional,516000,Marco Anjos,2004,30,250000
+C-20111,Uppsala Resources AB,Sweden,Uppsala,Mining,Transactional,1365000,Freja Gregersen,2020,30,50000
+C-20112,Seifert Climate Systems AG,Germany,Bremen,HVAC Contractors,Core,2387500,Paweł Maciejewicz,2003,60,100000
+C-20113,Dobes Power & Heat AG,Germany,Leipzig,District Energy,Transactional,641500,Fernando Freitas,1999,60,100000
+C-20114,Karlsson Paper Mills AB,Sweden,Malmö,Pulp & Paper,Transactional,1422500,Marco Anjos,2007,30,100000
+C-20115,Uppsala Building Services AB,Sweden,Uppsala,HVAC Contractors,Key,542500,Benoît Roux,2008,30,100000
+C-20116,Jandová Minerals a.s.,Czechia,Ostrava,Mining,Transactional,787500,Karolína Matoušková,2015,45,100000
+C-20117,Graz Mining GmbH,Austria,Graz,Mining,Core,551000,Karolína Matoušková,2005,30,100000
+C-20118,Jelínková Installations a.s.,Czechia,Ostrava,HVAC Contractors,Transactional,342500,Alexa Schlager,1999,30,250000
+C-20119,Ostrava Water Services a.s.,Czechia,Ostrava,Water Utilities,Key,1205000,Freja Gregersen,2013,30,500000
+C-20120,Neubacher Beverages AG,Austria,Linz,Food & Beverage,Core,289500,Jiřina Tůma,1998,30,1000000
+C-20121,Valencia Resources S.L.,Spain,Valencia,Mining,Key,766000,Isabell Steinlechner,2017,45,100000
+C-20122,Malmö Water AB,Sweden,Malmö,Water Utilities,Core,397500,Aurelia Chabior,2015,45,250000
+C-20123,Petrová Pulp & Board a.s.,Czechia,Ostrava,Pulp & Paper,Key,238500,Alexa Schlager,2019,45,500000
+C-20124,Lahti Specialty Chemicals Oyj,Finland,Lahti,Chemicals,Transactional,2229500,Aurelia Chabior,2009,90,250000
+C-20125,Graz Pulp & Board AG,Austria,Graz,Pulp & Paper,Key,1615500,Pánfilo Lloret,2006,60,500000
+C-20126,Zujev Resources AS,Estonia,Tartu,Mining,Transactional,1077000,Zuzana Navrátilová,2020,90,50000
+C-20127,Hauffer Power & Heat AG,Germany,Leipzig,District Energy,Strategic,2003000,Marco Anjos,2000,45,100000
+C-20128,Leipzig Process Chemicals GmbH,Germany,Leipzig,Chemicals,Transactional,1275000,Gilles Perrin,2009,30,50000
+C-20129,Linz Building Services GmbH,Austria,Linz,HVAC Contractors,Transactional,2030000,Miroslava Sedláčková,2008,30,250000
+C-20130,Horváth Resources a.s.,Czechia,Brno,Mining,Transactional,732000,Benoît Roux,2008,45,100000
+C-20131,Lahti Process Chemicals Oy,Finland,Lahti,Chemicals,Transactional,898500,Laurent Lopes,2010,30,500000
+C-20132,Porto Installations S.A.,Portugal,Porto,HVAC Contractors,Key,1323000,Fernando Freitas,2023,30,1000000
+C-20133,Jędrusiak Packaging S.A.,Poland,Gdańsk,Pulp & Paper,Transactional,1933000,Pánfilo Lloret,2023,30,50000
+C-20134,Lyon Brewery SAS,France,Lyon,Food & Beverage,Core,1101000,Karolína Matoušková,2008,45,50000
+C-20135,Wojczuk Minerals S.A.,Poland,Gdańsk,Mining,Transactional,192000,Gilles Perrin,2004,30,1000000
+C-20136,Braga Beverages S.A.,Portugal,Braga,Food & Beverage,Transactional,2218500,Miroslava Sedláčková,2005,90,100000
+C-20137,Linz Packaging AG,Austria,Linz,Pulp & Paper,Core,586000,Karolína Matoušková,2010,30,100000
+C-20138,Samuelsson Dairy AB,Sweden,Uppsala,Food & Beverage,Core,1647500,Marco Anjos,2025,30,250000
+C-20139,Poznań Resources Sp. z o.o.,Poland,Poznań,Mining,Key,1844500,Karolína Matoušková,2009,60,100000
+C-20140,Braga Water S.A.,Portugal,Braga,Water Utilities,Core,1954500,Isabell Steinlechner,2024,90,50000
+C-20141,Lahti Installations Oy,Finland,Lahti,HVAC Contractors,Transactional,1761500,Karolína Matoušková,2003,60,250000
+C-20142,Moroz Power & Heat AS,Estonia,Tartu,District Energy,Transactional,461500,Benoît Roux,2010,90,250000
+C-20143,Pesonen Resources Oy,Finland,Turku,Mining,Transactional,458500,Gilles Perrin,2004,30,1000000
+C-20144,Odense Chemicals ApS,Denmark,Odense,Chemicals,Transactional,1593000,Miroslava Sedláčková,2002,30,250000
+C-20145,Brno Foods a.s.,Czechia,Brno,Food & Beverage,Key,2199500,Isabell Steinlechner,2017,45,50000
+C-20146,Rohrer Process Chemicals GmbH,Austria,Linz,Chemicals,Key,1621000,Aurelia Chabior,2007,90,1000000
+C-20147,Calderon Climate Systems S.L.,Spain,Valencia,HVAC Contractors,Transactional,496000,Alexa Schlager,2004,60,250000
+C-20148,Poznań Packaging Sp. z o.o.,Poland,Poznań,Pulp & Paper,Core,280000,Benoît Roux,2016,45,100000
+C-20149,Puusepp Specialty Chemicals OÜ,Estonia,Tartu,Chemicals,Core,1292000,Aurelia Chabior,2005,45,1000000
+C-20150,Tartu Beverages AS,Estonia,Tartu,Food & Beverage,Core,2209000,Benoît Roux,2004,90,50000
+C-20151,Wechselberger Pulp & Board AG,Austria,Linz,Pulp & Paper,Key,443500,Artturi Nieminen,2012,90,50000
+C-20152,Bilbao Power & Heat S.A.,Spain,Bilbao,District Energy,Transactional,568500,Paweł Maciejewicz,2002,60,1000000
+C-20153,Godoy Climate Systems S.L.,Spain,Bilbao,HVAC Contractors,Core,333000,Freja Gregersen,2000,30,50000
+C-20154,Turku Chemicals Oy,Finland,Turku,Chemicals,Core,2164500,Isabell Steinlechner,2018,45,250000
+C-20155,Egger Resources AG,Austria,Linz,Mining,Core,1906000,Jiřina Tůma,2021,30,50000
+C-20156,Malmö Power & Heat AB,Sweden,Malmö,District Energy,Key,1347000,Jiřina Tůma,2013,45,1000000
+C-20157,Uppsala Water AB,Sweden,Uppsala,Water Utilities,Strategic,748000,Miroslava Sedláčková,2017,30,100000
+C-20158,Schinke Installations GmbH,Germany,Leipzig,HVAC Contractors,Transactional,1617500,Miroslava Sedláčková,2024,60,1000000
+C-20159,Tartu Paper Mills OÜ,Estonia,Tartu,Pulp & Paper,Key,613000,Pánfilo Lloret,2010,60,500000
+C-20160,Lyon Minerals SAS,France,Lyon,Mining,Transactional,1921000,Fernando Freitas,2011,90,1000000
+C-20161,Gdańsk Packaging Sp. z o.o.,Poland,Gdańsk,Pulp & Paper,Core,901000,Gilles Perrin,2013,30,1000000
+C-20162,Turku Water Oy,Finland,Turku,Water Utilities,Transactional,635000,Marco Anjos,2007,30,500000
+C-20163,Henry Paper Mills SA,France,Lyon,Pulp & Paper,Core,1324000,Laurent Lopes,2008,45,250000
+C-20164,Rantanen Waterworks Oyj,Finland,Lahti,Water Utilities,Transactional,2373000,Freja Gregersen,2024,90,100000
+C-20165,Berg Climate Systems A/S,Denmark,Odense,HVAC Contractors,Core,1500500,Zuzana Navrátilová,2025,60,1000000
+C-20166,Puustinen Mining Oy,Finland,Oulu,Mining,Strategic,1104500,Karolína Matoušková,2008,30,250000
+C-20167,Wimmer Process Chemicals GmbH,Austria,Linz,Chemicals,Key,799000,Karolína Matoušková,2022,90,250000
+C-20168,Odense Mining A/S,Denmark,Odense,Mining,Transactional,1050000,Aurelia Chabior,2001,30,500000
+C-20169,Valencia Minerals S.L.,Spain,Valencia,Mining,Transactional,1333000,Pánfilo Lloret,2025,30,250000
+C-20170,Brno Chemicals s.r.o.,Czechia,Brno,Chemicals,Transactional,528000,Miroslava Sedláčková,2020,30,100000
+C-20171,Porto Installations Lda.,Portugal,Porto,HVAC Contractors,Core,203000,Freja Gregersen,2010,45,500000
+C-20172,Gdańsk Chemicals Sp. z o.o.,Poland,Gdańsk,Chemicals,Core,221500,Pánfilo Lloret,2021,30,100000
+C-20173,Haiden Paper Mills GmbH,Austria,Linz,Pulp & Paper,Transactional,1083500,Isabell Steinlechner,2013,30,100000
+C-20174,Bremen Packaging AG,Germany,Bremen,Pulp & Paper,Key,1767500,Marius Mandl,1998,60,50000
+C-20175,Winther District Heating A/S,Denmark,Aarhus,District Energy,Core,1577000,Benoît Roux,1998,60,500000
+C-20176,Tartu Mining AS,Estonia,Tartu,Mining,Core,1136500,Laurent Lopes,2023,60,250000
+C-20177,Lyon Pulp & Board SA,France,Lyon,Pulp & Paper,Transactional,1578000,Miroslava Sedláčková,2007,60,100000
+C-20178,Braga Building Services S.A.,Portugal,Braga,HVAC Contractors,Transactional,2299500,Karolína Matoušková,2024,60,100000
+C-20179,Graz Energy GmbH,Austria,Graz,District Energy,Key,760500,Jiřina Tůma,2019,90,50000
+C-20180,Wurzinger Brewery AG,Austria,Linz,Food & Beverage,Transactional,1215500,Freja Gregersen,2007,45,250000
+C-20181,Marques Minerals Lda.,Portugal,Porto,Mining,Core,304000,Artturi Nieminen,2018,30,100000
+C-20182,Navrátil Specialty Chemicals s.r.o.,Czechia,Brno,Chemicals,Transactional,162500,Paweł Maciejewicz,2006,60,100000
+C-20183,Rivero Energy S.A.,Spain,Bilbao,District Energy,Core,834500,Miroslava Sedláčková,2007,60,50000
+C-20184,Scholtz Minerals AG,Germany,Leipzig,Mining,Transactional,2200500,Laurent Lopes,2012,30,500000
+C-20185,Berg Mining AB,Sweden,Uppsala,Mining,Core,1723000,Marius Mandl,2004,60,500000
+C-20186,Ostrava Mining a.s.,Czechia,Ostrava,Mining,Transactional,950000,Artturi Nieminen,2011,90,500000
+C-20187,Ericsson Mining AB,Sweden,Malmö,Mining,Core,838000,Benoît Roux,2019,60,50000
+C-20188,Ostrava Energy s.r.o.,Czechia,Ostrava,District Energy,Key,2332000,Freja Gregersen,2022,45,1000000
+C-20189,Matějková Waterworks s.r.o.,Czechia,Ostrava,Water Utilities,Key,2225000,Freja Gregersen,2018,30,100000
+C-20190,Němcová Pulp & Board s.r.o.,Czechia,Brno,Pulp & Paper,Key,1061000,Artturi Nieminen,1999,45,1000000
+C-20191,Oulu Waterworks Oy,Finland,Oulu,Water Utilities,Transactional,1781500,Freja Gregersen,2020,30,1000000
+C-20192,Aarhus Climate Systems A/S,Denmark,Aarhus,HVAC Contractors,Transactional,478500,Gilles Perrin,1998,30,50000
+C-20193,Malmö District Heating AB,Sweden,Malmö,District Energy,Strategic,1562500,Freja Gregersen,2024,90,100000
+C-20194,Braga Climate Systems Lda.,Portugal,Braga,HVAC Contractors,Transactional,1371500,Zuzana Navrátilová,2024,60,500000
+C-20195,Mattila Beverages Oyj,Finland,Lahti,Food & Beverage,Transactional,1043000,Paweł Maciejewicz,2019,60,250000
+C-20196,Nantes District Heating SAS,France,Nantes,District Energy,Transactional,832000,Alexa Schlager,2016,30,500000
+C-20197,Juntunen Foods Oyj,Finland,Lahti,Food & Beverage,Strategic,2214500,Paweł Maciejewicz,2014,30,100000
+C-20198,Mustonen Water Oy,Finland,Lahti,Water Utilities,Core,1538500,Fernando Freitas,2022,30,50000
+C-20199,Rabl Mining AG,Austria,Linz,Mining,Core,2192000,Benoît Roux,2001,30,1000000
+C-20200,Bremen Paper Mills AG,Germany,Bremen,Pulp & Paper,Transactional,150500,Miroslava Sedláčková,2012,30,500000
+C-20201,Porto Pulp & Board Lda.,Portugal,Porto,Pulp & Paper,Transactional,1566000,Marius Mandl,2005,45,1000000
+C-20202,Röhricht Climate Systems GmbH,Germany,Leipzig,HVAC Contractors,Transactional,92500,Paweł Maciejewicz,2009,60,250000
+C-20203,Poznań Energy S.A.,Poland,Poznań,District Energy,Transactional,211500,Karolína Matoušková,1998,90,250000
+C-20204,Linke Specialty Chemicals GmbH,Germany,Leipzig,Chemicals,Core,761500,Freja Gregersen,2024,60,500000
+C-20205,Hubert Packaging SA,France,Lyon,Pulp & Paper,Key,1390000,Freja Gregersen,2023,30,1000000
+C-20206,Tartu Chemicals AS,Estonia,Tartu,Chemicals,Core,795500,Alexa Schlager,2008,45,50000
+C-20207,Ziegert Specialty Chemicals AG,Germany,Bremen,Chemicals,Core,1193500,Gilles Perrin,2010,30,50000
+C-20208,Tudela Packaging S.A.,Spain,Valencia,Pulp & Paper,Transactional,1538500,Marius Mandl,2020,30,100000
+C-20209,Brunel Installations SA,France,Nantes,HVAC Contractors,Core,2325500,Miroslava Sedláčková,2015,45,50000
+C-20210,Malmö Process Chemicals AB,Sweden,Malmö,Chemicals,Core,1568000,Karolína Matoušková,2000,30,100000
+C-20211,Pereira Power & Heat Lda.,Portugal,Braga,District Energy,Core,2188000,Benoît Roux,2023,45,1000000
+C-20212,Tooming Energy AS,Estonia,Tartu,District Energy,Core,1031000,Artturi Nieminen,2022,45,100000
+C-20213,Aarhus Installations ApS,Denmark,Aarhus,HVAC Contractors,Transactional,1298500,Freja Gregersen,2019,30,250000
+C-20214,Tartu Brewery AS,Estonia,Tartu,Food & Beverage,Transactional,362000,Zuzana Navrátilová,2022,60,250000
+C-20215,Reinprecht Installations GmbH,Austria,Graz,HVAC Contractors,Transactional,2345000,Aurelia Chabior,2012,30,100000
+C-20216,Lahti Foods Oyj,Finland,Lahti,Food & Beverage,Key,823000,Pánfilo Lloret,2014,90,50000
+C-20217,Graz Resources AG,Austria,Graz,Mining,Strategic,186500,Paweł Maciejewicz,2017,90,250000
+C-20218,Aarhus Climate Systems ApS,Denmark,Aarhus,HVAC Contractors,Transactional,1197500,Benoît Roux,2002,60,100000
+C-20219,Pesendorfer Mining AG,Austria,Linz,Mining,Core,1598000,Marius Mandl,2012,45,250000
+C-20220,Aarhus Building Services A/S,Denmark,Aarhus,HVAC Contractors,Key,544500,Miroslava Sedláčková,2004,45,100000
+C-20221,Odense Climate Systems ApS,Denmark,Odense,HVAC Contractors,Core,861500,Zuzana Navrátilová,1998,60,500000
+C-20222,Ladner Power & Heat AG,Austria,Linz,District Energy,Transactional,97000,Alexa Schlager,2001,90,500000
+C-20223,Oliveira Waterworks S.A.,Portugal,Porto,Water Utilities,Core,1664000,Laurent Lopes,2008,30,250000
+C-20224,Sainz District Heating S.A.,Spain,Valencia,District Energy,Strategic,2288000,Paweł Maciejewicz,2007,90,50000
+C-20225,Steinböck Pulp & Board GmbH,Austria,Graz,Pulp & Paper,Transactional,580500,Fernando Freitas,2000,90,1000000
+C-20226,Skov Mining A/S,Denmark,Odense,Mining,Transactional,2386000,Freja Gregersen,2017,90,500000
+C-20227,Gdańsk Pulp & Board Sp. z o.o.,Poland,Gdańsk,Pulp & Paper,Key,1663500,Benoît Roux,2020,30,100000
+C-20228,Kochman Minerals Sp. z o.o.,Poland,Gdańsk,Mining,Key,904000,Aurelia Chabior,2021,30,500000
+C-20229,Braga Specialty Chemicals S.A.,Portugal,Braga,Chemicals,Core,1882000,Fernando Freitas,2004,30,500000
+C-20230,Hautala District Heating Oyj,Finland,Lahti,District Energy,Strategic,609000,Fernando Freitas,2010,45,50000
+C-20231,Heredia Building Services S.L.,Spain,Valencia,HVAC Contractors,Transactional,1694000,Jiřina Tůma,2007,60,250000
+C-20232,Saarinen Power & Heat Oy,Finland,Turku,District Energy,Core,1500000,Gilles Perrin,2016,30,50000
+C-20233,Acedo Building Services S.L.,Spain,Valencia,HVAC Contractors,Transactional,1820500,Paweł Maciejewicz,2017,60,500000
+C-20234,Gdańsk Water Services S.A.,Poland,Gdańsk,Water Utilities,Core,1654000,Aurelia Chabior,2003,60,1000000
+C-20235,Odense Packaging A/S,Denmark,Odense,Pulp & Paper,Core,1936500,Freja Gregersen,2003,30,250000
+C-20236,Uppsala Climate Systems AB,Sweden,Uppsala,HVAC Contractors,Key,2247000,Paweł Maciejewicz,1998,45,50000
+C-20237,Gdańsk Process Chemicals Sp. z o.o.,Poland,Gdańsk,Chemicals,Core,1616000,Paweł Maciejewicz,2009,90,500000
+C-20238,Porto Minerals S.A.,Portugal,Porto,Mining,Transactional,1720000,Laurent Lopes,2008,90,500000
+C-20239,Porto Beverages S.A.,Portugal,Porto,Food & Beverage,Core,2017500,Paweł Maciejewicz,2009,60,500000
+C-20240,Ravn Waterworks ApS,Denmark,Odense,Water Utilities,Core,1888500,Miroslava Sedláčková,1999,30,100000
+C-20241,Poznań Minerals Sp. z o.o.,Poland,Poznań,Mining,Strategic,396000,Fernando Freitas,2025,90,1000000
+C-20242,Turku Specialty Chemicals Oy,Finland,Turku,Chemicals,Key,1486500,Jiřina Tůma,2022,60,500000
+C-20243,Berrocal Mining S.A.,Spain,Bilbao,Mining,Key,916500,Aurelia Chabior,2007,45,250000
+C-20244,Krejčová Water Services s.r.o.,Czechia,Ostrava,Water Utilities,Core,225500,Artturi Nieminen,2003,30,50000
+C-20245,Loiseau Packaging SAS,France,Nantes,Pulp & Paper,Transactional,756000,Jiřina Tůma,2011,60,100000
+C-20246,Linz Pulp & Board AG,Austria,Linz,Pulp & Paper,Key,535500,Zuzana Navrátilová,2013,45,50000
+C-20247,Lampinen District Heating Oy,Finland,Lahti,District Energy,Transactional,676500,Fernando Freitas,2020,60,250000
+C-20248,Bremen Specialty Chemicals AG,Germany,Bremen,Chemicals,Transactional,1600500,Laurent Lopes,2000,30,100000
+C-20249,Berthelot Paper Mills SAS,France,Lyon,Pulp & Paper,Transactional,287500,Jiřina Tůma,2023,30,1000000
+C-20250,Poznań Dairy S.A.,Poland,Poznań,Food & Beverage,Core,1174000,Fernando Freitas,2024,30,100000
+C-20251,Cano Power & Heat S.A.,Spain,Bilbao,District Energy,Transactional,1186500,Gilles Perrin,2017,30,500000
+C-20252,Porto Water Services S.A.,Portugal,Porto,Water Utilities,Transactional,833000,Benoît Roux,2005,30,100000
+C-20253,Tartu Brewery OÜ,Estonia,Tartu,Food & Beverage,Key,1688500,Marco Anjos,2004,90,1000000
+C-20254,Vaz Water Services Lda.,Portugal,Braga,Water Utilities,Core,1098000,Paweł Maciejewicz,2005,45,250000
+C-20255,Tartu Energy OÜ,Estonia,Tartu,District Energy,Core,1142000,Marco Anjos,2002,90,250000
+C-20256,Lahti Minerals Oyj,Finland,Lahti,Mining,Core,1522000,Karolína Matoušková,2016,30,1000000
+C-20257,Aarhus Brewery ApS,Denmark,Aarhus,Food & Beverage,Core,891500,Laurent Lopes,2020,30,50000
+C-20258,Madrigal Beverages S.A.,Spain,Bilbao,Food & Beverage,Core,1040000,Fernando Freitas,2022,30,1000000
+C-20259,Tartu Packaging AS,Estonia,Tartu,Pulp & Paper,Core,1319000,Freja Gregersen,2005,60,50000
+C-20260,Bilbao Process Chemicals S.A.,Spain,Bilbao,Chemicals,Core,2059500,Alexa Schlager,2020,60,100000
+C-20261,Leipzig Building Services AG,Germany,Leipzig,HVAC Contractors,Key,344500,Artturi Nieminen,2013,30,1000000
+C-20262,Malmö Waterworks AB,Sweden,Malmö,Water Utilities,Key,2306000,Gilles Perrin,2001,60,250000
+C-20263,Linz District Heating AG,Austria,Linz,District Energy,Core,385500,Alexa Schlager,2008,30,50000
+C-20264,Zujev Power & Heat AS,Estonia,Tartu,District Energy,Core,1367000,Karolína Matoušková,2016,90,500000
+C-20265,Linz Paper Mills GmbH,Austria,Linz,Pulp & Paper,Key,1919500,Laurent Lopes,2003,30,250000
+C-20266,Aarhus Waterworks ApS,Denmark,Aarhus,Water Utilities,Core,1808000,Alexa Schlager,2009,45,500000
+C-20267,Cheba Climate Systems Sp. z o.o.,Poland,Gdańsk,HVAC Contractors,Core,1580000,Miroslava Sedláčková,1999,45,1000000
+C-20268,Brandt Energy ApS,Denmark,Odense,District Energy,Key,129500,Paweł Maciejewicz,2012,90,50000
+C-20269,Lindgren Resources AB,Sweden,Malmö,Mining,Key,1075500,Freja Gregersen,2019,60,50000
+C-20270,Tartu Minerals AS,Estonia,Tartu,Mining,Transactional,1739500,Laurent Lopes,2000,30,50000
+C-20271,Cabañas Resources S.A.,Spain,Bilbao,Mining,Strategic,717000,Artturi Nieminen,2013,30,50000
+C-20272,Tartu Climate Systems OÜ,Estonia,Tartu,HVAC Contractors,Transactional,428000,Isabell Steinlechner,2022,60,500000
+C-20273,Pääkkönen Building Services Oyj,Finland,Lahti,HVAC Contractors,Transactional,782000,Zuzana Navrátilová,2005,60,50000
+C-20274,Nantes Beverages SAS,France,Nantes,Food & Beverage,Core,1318500,Paweł Maciejewicz,2010,45,100000
+C-20275,Leipzig Brewery AG,Germany,Leipzig,Food & Beverage,Transactional,1967000,Marco Anjos,2003,30,500000
+C-20276,Lahti Paper Mills Oyj,Finland,Lahti,Pulp & Paper,Core,1533500,Pánfilo Lloret,2001,90,250000
+C-20277,Braga Paper Mills Lda.,Portugal,Braga,Pulp & Paper,Transactional,2019500,Artturi Nieminen,2001,30,250000
+C-20278,Larsson Water Services AB,Sweden,Uppsala,Water Utilities,Key,2353000,Karolína Matoušková,2004,45,1000000
+C-20279,Gontšarov Waterworks AS,Estonia,Tartu,Water Utilities,Transactional,1901000,Marco Anjos,2014,45,100000
+C-20280,Turku Pulp & Board Oyj,Finland,Turku,Pulp & Paper,Transactional,1048500,Gilles Perrin,2013,30,100000
+C-20281,Nantes Energy SA,France,Nantes,District Energy,Transactional,1635500,Pánfilo Lloret,2007,30,100000
+C-20282,Moreira Specialty Chemicals S.A.,Portugal,Porto,Chemicals,Key,1137000,Freja Gregersen,2003,90,250000
+C-20283,Olsson Brewery AB,Sweden,Malmö,Food & Beverage,Transactional,1554500,Gilles Perrin,2003,60,500000
+C-20284,Valencia Climate Systems S.L.,Spain,Valencia,HVAC Contractors,Core,2081000,Fernando Freitas,2018,90,250000
+C-20285,Sancho Packaging S.L.,Spain,Bilbao,Pulp & Paper,Key,1768000,Marco Anjos,2022,30,1000000
+C-20286,Nantes Installations SAS,France,Nantes,HVAC Contractors,Transactional,1661000,Artturi Nieminen,2024,90,1000000
+C-20287,Odense Climate Systems A/S,Denmark,Odense,HVAC Contractors,Key,1197000,Isabell Steinlechner,2019,45,50000
+C-20288,Alberdi Building Services S.A.,Spain,Valencia,HVAC Contractors,Core,1366500,Zuzana Navrátilová,2012,60,250000
+C-20289,Graz Pulp & Board GmbH,Austria,Graz,Pulp & Paper,Key,2217500,Paweł Maciejewicz,2010,30,1000000
+C-20290,Valencia Packaging S.L.,Spain,Valencia,Pulp & Paper,Transactional,1001000,Artturi Nieminen,2001,30,50000
+C-20291,Steffensen Mining A/S,Denmark,Odense,Mining,Core,2341500,Zuzana Navrátilová,2024,90,1000000
+C-20292,Leipzig Energy AG,Germany,Leipzig,District Energy,Transactional,1424500,Fernando Freitas,2002,90,1000000
+C-20293,Täht Power & Heat AS,Estonia,Tartu,District Energy,Transactional,2013000,Marius Mandl,2003,60,100000
+C-20294,Oksanen Power & Heat Oyj,Finland,Oulu,District Energy,Core,156000,Marius Mandl,2013,90,50000
+C-20295,Odense Process Chemicals A/S,Denmark,Odense,Chemicals,Transactional,1887500,Jiřina Tůma,2005,90,500000
+C-20296,Jalonen District Heating Oy,Finland,Lahti,District Energy,Transactional,1062000,Paweł Maciejewicz,2012,45,100000
+C-20297,Larsson Foods AB,Sweden,Uppsala,Food & Beverage,Transactional,2195000,Miroslava Sedláčková,2002,30,100000
+C-20298,Lahti Power & Heat Oy,Finland,Lahti,District Energy,Key,2029500,Alexa Schlager,2015,30,250000
+C-20299,Lahti District Heating Oyj,Finland,Lahti,District Energy,Core,814500,Laurent Lopes,1999,30,1000000
+C-20300,Aarhus Process Chemicals ApS,Denmark,Aarhus,Chemicals,Transactional,1843000,Laurent Lopes,2003,60,50000
+C-20301,Ruppersberger Paper Mills GmbH,Germany,Bremen,Pulp & Paper,Core,1768000,Zuzana Navrátilová,2019,90,250000
+C-20302,Bremen Power & Heat GmbH,Germany,Bremen,District Energy,Transactional,2189000,Fernando Freitas,2018,30,100000
+C-20303,Trujillo Chemicals S.A.,Spain,Valencia,Chemicals,Transactional,1029500,Jiřina Tůma,2022,90,250000
+C-20304,Platzer District Heating AG,Austria,Graz,District Energy,Transactional,1187000,Alexa Schlager,2003,60,500000
+C-20305,Oulu Resources Oyj,Finland,Oulu,Mining,Transactional,152000,Artturi Nieminen,2019,30,1000000
+C-20306,Rogge District Heating GmbH,Germany,Leipzig,District Energy,Core,1091500,Karolína Matoušková,2008,45,50000
+C-20307,Turku Paper Mills Oyj,Finland,Turku,Pulp & Paper,Core,1115500,Alexa Schlager,2013,90,50000
+C-20308,Ostrava Process Chemicals a.s.,Czechia,Ostrava,Chemicals,Transactional,123500,Miroslava Sedláčková,2018,90,500000
+C-20309,Graz Installations AG,Austria,Graz,HVAC Contractors,Key,2223500,Freja Gregersen,2011,60,1000000
+C-20310,Aarhus Pulp & Board A/S,Denmark,Aarhus,Pulp & Paper,Transactional,1768500,Laurent Lopes,1999,60,1000000
+C-20311,De Oliveira Foods SAS,France,Lyon,Food & Beverage,Transactional,828500,Miroslava Sedláčková,2004,45,250000
+C-20312,Dam Power & Heat A/S,Denmark,Odense,District Energy,Transactional,253000,Marius Mandl,2011,60,50000
+C-20313,Baudry Power & Heat SAS,France,Nantes,District Energy,Transactional,491000,Karolína Matoušková,2010,45,100000
+C-20314,Lévy Waterworks SAS,France,Nantes,Water Utilities,Core,2039000,Karolína Matoušková,2006,90,100000
+C-20315,Poznań Pulp & Board S.A.,Poland,Poznań,Pulp & Paper,Key,2352000,Fernando Freitas,2017,30,50000
+C-20316,Oulu Climate Systems Oy,Finland,Oulu,HVAC Contractors,Transactional,1490500,Laurent Lopes,2023,60,100000
+C-20317,Czuj Packaging Sp. z o.o.,Poland,Gdańsk,Pulp & Paper,Transactional,962000,Aurelia Chabior,1998,30,250000
+C-20318,Bremen Minerals GmbH,Germany,Bremen,Mining,Strategic,1037000,Marius Mandl,2004,30,250000
+C-20319,Lyon Dairy SA,France,Lyon,Food & Beverage,Strategic,280500,Karolína Matoušková,2025,30,1000000

@@ -1,0 +1,26 @@
+[
+ {
+  "username": "ceo",
+  "password": "Ceo@2026",
+  "full_name": "Maria Peltoniemi",
+  "title": "Chief Executive Officer",
+  "department": "Executive Office",
+  "role": "executive"
+ },
+ {
+  "username": "head.finance",
+  "password": "Head.Finance@2026",
+  "full_name": "Anna Kuisma",
+  "title": "Head of Finance",
+  "department": "Finance",
+  "role": "manager"
+ },
+ {
+  "username": "sales",
+  "password": "Sales@2026",
+  "full_name": "Karol\u00edna Matou\u0161kov\u00e1",
+  "title": "Key Account Manager",
+  "department": "Sales",
+  "role": "employee"
+ }
+]

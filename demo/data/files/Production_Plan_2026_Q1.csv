@@ -1,0 +1,261 @@
+order_id,product,site,week,quantity,customer,status
+PO-PLAN-0001,HX-400,Bilbao Plant,2026-W10,209,Larsson Water Services AB,In production
+PO-PLAN-0002,HX-520,Brno Machining,2026-W11,94,Reinprecht Installations GmbH,Planned
+PO-PLAN-0003,HX-110,Brno Machining,2026-W09,220,Poznań Resources Sp. z o.o.,Completed
+PO-PLAN-0004,HX-360,Porto Foundry,2026-W09,134,Dziewior Brewery Sp. z o.o.,Planned
+PO-PLAN-0005,HX-140,Tampere Works,2026-W01,39,Odense Chemicals ApS,Released
+PO-PLAN-0006,HX-320,Tampere Works,2026-W06,216,Mikk Pulp & Board OÜ,In production
+PO-PLAN-0007,HX-250,Tampere Works,2026-W01,7,Peukert Packaging AG,In production
+PO-PLAN-0008,HX-110,Porto Foundry,2026-W13,58,Karlsson Climate Systems AB,Planned
+PO-PLAN-0009,HX-520,Tampere Works,2026-W07,94,Horváth Resources a.s.,Released
+PO-PLAN-0010,HX-450,Brno Machining,2026-W07,167,Malmö Resources AB,Planned
+PO-PLAN-0011,HX-520,Porto Foundry,2026-W11,111,Acedo Building Services S.L.,In production
+PO-PLAN-0012,HX-160,Porto Foundry,2026-W04,7,Dam Power & Heat A/S,Completed
+PO-PLAN-0013,HX-250,Tampere Works,2026-W11,121,Matějková Waterworks s.r.o.,Released
+PO-PLAN-0014,HX-450,Tampere Works,2026-W08,79,Uppsala Building Services AB,Released
+PO-PLAN-0015,HX-250,Brno Machining,2026-W07,211,Dam Power & Heat A/S,Planned
+PO-PLAN-0016,HX-360,Lyon Systems,2026-W02,177,Gontšarov Waterworks AS,Released
+PO-PLAN-0017,HX-160,Lyon Systems,2026-W09,160,Ostrava Dairy a.s.,Released
+PO-PLAN-0018,HX-160,Brno Machining,2026-W03,9,Czuj Packaging Sp. z o.o.,Planned
+PO-PLAN-0019,HX-140,Porto Foundry,2026-W08,210,Nasiadka Beverages S.A.,In production
+PO-PLAN-0020,HX-280,Gdansk Assembly,2026-W08,34,Mikk Pulp & Board OÜ,In production
+PO-PLAN-0021,HX-140,Porto Foundry,2026-W04,85,Gdańsk Process Chemicals Sp. z o.o.,Planned
+PO-PLAN-0022,HX-110,Tampere Works,2026-W08,143,Odense Water ApS,Completed
+PO-PLAN-0023,HX-250,Graz Electronics,2026-W06,99,Porto Beverages S.A.,Planned
+PO-PLAN-0024,HX-450,Porto Foundry,2026-W06,96,Pesonen Resources Oy,Completed
+PO-PLAN-0025,HX-320,Lyon Systems,2026-W10,178,Gaudin Installations SAS,Completed
+PO-PLAN-0026,HX-160,Gdansk Assembly,2026-W10,44,Pesonen Resources Oy,In production
+PO-PLAN-0027,HX-520,Brno Machining,2026-W11,150,Bilbao Packaging S.L.,Planned
+PO-PLAN-0028,HX-280,Porto Foundry,2026-W03,187,Mäki Building Services Oy,Planned
+PO-PLAN-0029,HX-520,Bilbao Plant,2026-W05,33,Aarhus Installations ApS,Released
+PO-PLAN-0030,HX-200,Gdansk Assembly,2026-W12,43,Neubacher Beverages AG,Released
+PO-PLAN-0031,HX-520,Tampere Works,2026-W07,90,Lahti Building Services Oyj,Released
+PO-PLAN-0032,HX-520,Tampere Works,2026-W12,178,Odense Process Chemicals A/S,Planned
+PO-PLAN-0033,HX-110,Lyon Systems,2026-W05,166,Uppsala Water Services AB,Released
+PO-PLAN-0034,HX-400,Porto Foundry,2026-W08,158,Braga Resources S.A.,In production
+PO-PLAN-0035,HX-320,Graz Electronics,2026-W06,109,Nantes Climate Systems SA,In production
+PO-PLAN-0036,HX-140,Bilbao Plant,2026-W01,24,Lahti Process Chemicals Oy,Completed
+PO-PLAN-0037,HX-360,Lyon Systems,2026-W04,132,Poznań Dairy S.A.,In production
+PO-PLAN-0038,HX-400,Brno Machining,2026-W01,91,Aarhus Climate Systems ApS,Planned
+PO-PLAN-0039,HX-450,Tampere Works,2026-W08,14,Godoy Climate Systems S.L.,In production
+PO-PLAN-0040,HX-280,Gdansk Assembly,2026-W03,131,Lahti Process Chemicals Oy,Released
+PO-PLAN-0041,HX-400,Brno Machining,2026-W08,208,Winther District Heating A/S,Released
+PO-PLAN-0042,HX-400,Gdansk Assembly,2026-W07,26,Bech Chemicals A/S,Completed
+PO-PLAN-0043,HX-400,Brno Machining,2026-W01,150,Turku Specialty Chemicals Oy,Released
+PO-PLAN-0044,HX-200,Gdansk Assembly,2026-W11,141,Bremen Power & Heat GmbH,Planned
+PO-PLAN-0045,HX-280,Tampere Works,2026-W11,143,Drubin Power & Heat GmbH,Completed
+PO-PLAN-0046,HX-400,Graz Electronics,2026-W07,174,Rohrer Process Chemicals GmbH,Planned
+PO-PLAN-0047,HX-110,Gdansk Assembly,2026-W08,142,Poznań Pulp & Board S.A.,Planned
+PO-PLAN-0048,HX-110,Lyon Systems,2026-W12,126,Haiden Paper Mills GmbH,Released
+PO-PLAN-0049,HX-600,Bilbao Plant,2026-W13,42,Darłak Water Services S.A.,In production
+PO-PLAN-0050,HX-280,Lyon Systems,2026-W08,123,Bremen Specialty Chemicals AG,Planned
+PO-PLAN-0051,HX-110,Porto Foundry,2026-W04,24,Moura Installations S.A.,In production
+PO-PLAN-0052,HX-110,Lyon Systems,2026-W02,100,Hubert Packaging SA,Completed
+PO-PLAN-0053,HX-520,Lyon Systems,2026-W03,125,Uppsala Climate Systems AB,Planned
+PO-PLAN-0054,HX-200,Bilbao Plant,2026-W10,169,Linz Paper Mills GmbH,In production
+PO-PLAN-0055,HX-600,Tampere Works,2026-W12,220,Porto Process Chemicals Lda.,In production
+PO-PLAN-0056,HX-520,Brno Machining,2026-W01,29,Harju Installations Oy,Completed
+PO-PLAN-0057,HX-360,Graz Electronics,2026-W05,35,Reinprecht Installations GmbH,Released
+PO-PLAN-0058,HX-250,Gdansk Assembly,2026-W07,55,Lahti Minerals Oyj,In production
+PO-PLAN-0059,HX-450,Brno Machining,2026-W03,171,Oulu Pulp & Board Oyj,In production
+PO-PLAN-0060,HX-360,Gdansk Assembly,2026-W13,91,Porto Minerals S.A.,In production
+PO-PLAN-0061,HX-400,Graz Electronics,2026-W04,218,Harju Installations Oy,Completed
+PO-PLAN-0062,HX-110,Gdansk Assembly,2026-W06,141,Bremen Power & Heat GmbH,In production
+PO-PLAN-0063,HX-160,Graz Electronics,2026-W02,90,Poznań Dairy S.A.,Released
+PO-PLAN-0064,HX-320,Bilbao Plant,2026-W02,33,Leipzig Chemicals GmbH,Planned
+PO-PLAN-0065,HX-110,Graz Electronics,2026-W07,197,Godoy Climate Systems S.L.,Released
+PO-PLAN-0066,HX-250,Gdansk Assembly,2026-W07,96,Rogge District Heating GmbH,Planned
+PO-PLAN-0067,HX-280,Tampere Works,2026-W11,25,Nantes Energy SA,Completed
+PO-PLAN-0068,HX-600,Porto Foundry,2026-W04,86,Seppälä Resources Oy,In production
+PO-PLAN-0069,HX-320,Brno Machining,2026-W05,138,Carrera Process Chemicals S.L.,Planned
+PO-PLAN-0070,HX-110,Bilbao Plant,2026-W04,38,Sancho Packaging S.L.,In production
+PO-PLAN-0071,HX-320,Graz Electronics,2026-W12,190,Egger Resources AG,Released
+PO-PLAN-0072,HX-520,Bilbao Plant,2026-W06,115,Poznań Resources Sp. z o.o.,Planned
+PO-PLAN-0073,HX-250,Graz Electronics,2026-W09,146,Uppsala Water AB,Planned
+PO-PLAN-0074,HX-400,Brno Machining,2026-W13,206,Uppsala Climate Systems AB,Planned
+PO-PLAN-0075,HX-200,Gdansk Assembly,2026-W12,34,Aarhus Brewery ApS,Released
+PO-PLAN-0076,HX-360,Gdansk Assembly,2026-W04,56,Valencia Resources S.L.,Released
+PO-PLAN-0077,HX-360,Tampere Works,2026-W13,107,Järvinen Climate Systems Oy,Completed
+PO-PLAN-0078,HX-360,Lyon Systems,2026-W04,127,Braga Specialty Chemicals S.A.,Released
+PO-PLAN-0079,HX-450,Brno Machining,2026-W10,201,Pääkkönen Building Services Oyj,In production
+PO-PLAN-0080,HX-250,Bilbao Plant,2026-W01,113,Pinto Foods S.A.,In production
+PO-PLAN-0081,HX-250,Bilbao Plant,2026-W05,138,Pereira Power & Heat Lda.,Completed
+PO-PLAN-0082,HX-520,Graz Electronics,2026-W13,38,Nasiadka Beverages S.A.,Released
+PO-PLAN-0083,HX-450,Gdansk Assembly,2026-W11,152,Oulu Chemicals Oyj,Released
+PO-PLAN-0084,HX-520,Bilbao Plant,2026-W08,148,Ostrava Climate Systems s.r.o.,In production
+PO-PLAN-0085,HX-400,Tampere Works,2026-W11,101,Odense Packaging A/S,Released
+PO-PLAN-0086,HX-600,Bilbao Plant,2026-W09,172,Uppsala Water Services AB,Planned
+PO-PLAN-0087,HX-520,Porto Foundry,2026-W04,72,Oliveira Waterworks S.A.,Released
+PO-PLAN-0088,HX-600,Bilbao Plant,2026-W02,101,Leppänen Building Services Oy,Completed
+PO-PLAN-0089,HX-320,Lyon Systems,2026-W05,144,Porto Installations Lda.,In production
+PO-PLAN-0090,HX-520,Lyon Systems,2026-W05,196,Bremen Foods AG,Released
+PO-PLAN-0091,HX-110,Bilbao Plant,2026-W12,89,Porto Pulp & Board Lda.,Planned
+PO-PLAN-0092,HX-110,Gdansk Assembly,2026-W12,88,Bilbao Power & Heat S.A.,In production
+PO-PLAN-0093,HX-600,Lyon Systems,2026-W04,136,Leipzig Minerals GmbH,Completed
+PO-PLAN-0094,HX-140,Brno Machining,2026-W09,182,Aarhus Installations ApS,Planned
+PO-PLAN-0095,HX-280,Bilbao Plant,2026-W12,46,Porto Installations S.A.,Released
+PO-PLAN-0096,HX-320,Tampere Works,2026-W05,156,Dam Power & Heat A/S,In production
+PO-PLAN-0097,HX-360,Gdansk Assembly,2026-W03,113,Pinto Foods S.A.,Completed
+PO-PLAN-0098,HX-600,Bilbao Plant,2026-W05,119,Jelínková Installations a.s.,Completed
+PO-PLAN-0099,HX-450,Lyon Systems,2026-W09,162,Krogh Minerals ApS,In production
+PO-PLAN-0100,HX-520,Graz Electronics,2026-W01,181,Gdańsk Packaging Sp. z o.o.,Released
+PO-PLAN-0101,HX-600,Tampere Works,2026-W12,115,Graz Paper Mills AG,Planned
+PO-PLAN-0102,HX-140,Porto Foundry,2026-W11,10,Saarinen Power & Heat Oy,In production
+PO-PLAN-0103,HX-320,Porto Foundry,2026-W05,103,Braga Paper Mills Lda.,Released
+PO-PLAN-0104,HX-110,Porto Foundry,2026-W03,80,Ostrava Mining a.s.,Planned
+PO-PLAN-0105,HX-600,Brno Machining,2026-W04,6,Hanson District Heating AS,Released
+PO-PLAN-0106,HX-400,Tampere Works,2026-W08,43,Ruppersberger Paper Mills GmbH,In production
+PO-PLAN-0107,HX-450,Gdansk Assembly,2026-W07,96,Tudela Packaging S.A.,Completed
+PO-PLAN-0108,HX-520,Lyon Systems,2026-W02,153,Ladner Power & Heat AG,Released
+PO-PLAN-0109,HX-140,Graz Electronics,2026-W13,34,Gdańsk Chemicals Sp. z o.o.,Planned
+PO-PLAN-0110,HX-280,Gdansk Assembly,2026-W06,170,Cheba Climate Systems Sp. z o.o.,Completed
+PO-PLAN-0111,HX-280,Bilbao Plant,2026-W10,149,Oulu Chemicals Oyj,Planned
+PO-PLAN-0112,HX-320,Porto Foundry,2026-W01,209,Oulu Climate Systems Oy,Completed
+PO-PLAN-0113,HX-400,Porto Foundry,2026-W01,155,Olsson Brewery AB,Released
+PO-PLAN-0114,HX-200,Gdansk Assembly,2026-W05,175,Hauffer Power & Heat AG,In production
+PO-PLAN-0115,HX-450,Brno Machining,2026-W08,36,Mattila Beverages Oyj,Released
+PO-PLAN-0116,HX-140,Gdansk Assembly,2026-W11,36,Mikk Pulp & Board OÜ,Planned
+PO-PLAN-0117,HX-360,Lyon Systems,2026-W05,189,Linz Paper Mills GmbH,Planned
+PO-PLAN-0118,HX-360,Porto Foundry,2026-W06,175,Olsson Brewery AB,Planned
+PO-PLAN-0119,HX-520,Tampere Works,2026-W01,63,Malmö Water AB,In production
+PO-PLAN-0120,HX-320,Gdansk Assembly,2026-W04,94,Seppälä Resources Oy,Planned
+PO-PLAN-0121,HX-450,Lyon Systems,2026-W04,114,Berg Mining AB,Released
+PO-PLAN-0122,HX-360,Bilbao Plant,2026-W03,18,Oulu Pulp & Board Oyj,Planned
+PO-PLAN-0123,HX-600,Porto Foundry,2026-W09,83,Bilbao Water S.A.,Released
+PO-PLAN-0124,HX-450,Tampere Works,2026-W09,29,Zujev Power & Heat AS,Completed
+PO-PLAN-0125,HX-520,Brno Machining,2026-W12,135,Odense Packaging A/S,Completed
+PO-PLAN-0126,HX-400,Gdansk Assembly,2026-W10,85,Reinikainen Dairy Oy,In production
+PO-PLAN-0127,HX-320,Lyon Systems,2026-W04,167,Linz Pulp & Board AG,Completed
+PO-PLAN-0128,HX-140,Tampere Works,2026-W04,164,Lahti Installations Oy,In production
+PO-PLAN-0129,HX-600,Porto Foundry,2026-W03,43,Tartu Energy OÜ,Completed
+PO-PLAN-0130,HX-600,Graz Electronics,2026-W12,44,Wurzinger Brewery AG,Released
+PO-PLAN-0131,HX-200,Graz Electronics,2026-W06,189,Graz Paper Mills AG,Planned
+PO-PLAN-0132,HX-280,Gdansk Assembly,2026-W07,108,Turku Waterworks Oy,Completed
+PO-PLAN-0133,HX-160,Brno Machining,2026-W03,118,Gdańsk Packaging Sp. z o.o.,Completed
+PO-PLAN-0134,HX-280,Porto Foundry,2026-W07,190,Graz Pulp & Board AG,Planned
+PO-PLAN-0135,HX-110,Tampere Works,2026-W02,101,Moura Installations S.A.,Completed
+PO-PLAN-0136,HX-360,Porto Foundry,2026-W06,185,Nantes Mining SAS,Released
+PO-PLAN-0137,HX-320,Gdansk Assembly,2026-W08,194,Mäki Building Services Oy,Planned
+PO-PLAN-0138,HX-160,Tampere Works,2026-W05,32,Tartu Paper Mills OÜ,Released
+PO-PLAN-0139,HX-450,Tampere Works,2026-W12,195,Brunel Installations SA,In production
+PO-PLAN-0140,HX-360,Tampere Works,2026-W03,115,Lyon Climate Systems SA,Completed
+PO-PLAN-0141,HX-600,Graz Electronics,2026-W02,216,Mustonen Water Oy,Released
+PO-PLAN-0142,HX-520,Gdansk Assembly,2026-W03,117,Marques Minerals Lda.,Completed
+PO-PLAN-0143,HX-450,Tampere Works,2026-W12,121,Jandová Minerals a.s.,Completed
+PO-PLAN-0144,HX-280,Lyon Systems,2026-W09,117,Mäki Building Services Oy,Planned
+PO-PLAN-0145,HX-400,Brno Machining,2026-W08,198,Bremen Power & Heat GmbH,In production
+PO-PLAN-0146,HX-160,Brno Machining,2026-W08,77,Odense Water ApS,Completed
+PO-PLAN-0147,HX-280,Bilbao Plant,2026-W08,200,Jędrusiak Packaging S.A.,Released
+PO-PLAN-0148,HX-320,Tampere Works,2026-W12,217,Bilbao Water S.A.,Released
+PO-PLAN-0149,HX-450,Brno Machining,2026-W01,42,Drubin Power & Heat GmbH,Planned
+PO-PLAN-0150,HX-450,Gdansk Assembly,2026-W06,173,Bremen Packaging AG,Planned
+PO-PLAN-0151,HX-160,Lyon Systems,2026-W13,146,Tartu Brewery AS,In production
+PO-PLAN-0152,HX-200,Lyon Systems,2026-W03,84,Linz Pulp & Board AG,Planned
+PO-PLAN-0153,HX-140,Porto Foundry,2026-W04,56,Moura Installations S.A.,In production
+PO-PLAN-0154,HX-110,Lyon Systems,2026-W12,170,Lahti Minerals Oyj,Planned
+PO-PLAN-0155,HX-600,Porto Foundry,2026-W04,173,Poznań Energy S.A.,Released
+PO-PLAN-0156,HX-400,Gdansk Assembly,2026-W06,17,Gdańsk Pulp & Board Sp. z o.o.,Released
+PO-PLAN-0157,HX-110,Graz Electronics,2026-W13,17,Mäki Building Services Oy,Planned
+PO-PLAN-0158,HX-140,Tampere Works,2026-W06,94,Puusepp Specialty Chemicals OÜ,Completed
+PO-PLAN-0159,HX-320,Lyon Systems,2026-W07,39,Valencia Climate Systems S.L.,Completed
+PO-PLAN-0160,HX-400,Bilbao Plant,2026-W12,94,Turku Beverages Oy,Planned
+PO-PLAN-0161,HX-360,Bilbao Plant,2026-W01,6,Vaz Water Services Lda.,In production
+PO-PLAN-0162,HX-520,Graz Electronics,2026-W01,30,Pereira Power & Heat Lda.,Planned
+PO-PLAN-0163,HX-360,Brno Machining,2026-W09,152,Jelínková Installations a.s.,Released
+PO-PLAN-0164,HX-250,Brno Machining,2026-W01,8,Němcová Pulp & Board s.r.o.,Completed
+PO-PLAN-0165,HX-450,Tampere Works,2026-W12,5,Graz Mining GmbH,Planned
+PO-PLAN-0166,HX-600,Gdansk Assembly,2026-W09,24,Alberdi Building Services S.A.,Planned
+PO-PLAN-0167,HX-160,Bilbao Plant,2026-W09,118,Bremen Packaging AG,Planned
+PO-PLAN-0168,HX-250,Bilbao Plant,2026-W07,69,Kotov Pulp & Board AS,Completed
+PO-PLAN-0169,HX-160,Gdansk Assembly,2026-W01,117,Larsson Foods AB,Planned
+PO-PLAN-0170,HX-160,Graz Electronics,2026-W11,122,Graz Power & Heat AG,In production
+PO-PLAN-0171,HX-320,Bilbao Plant,2026-W04,166,Graz Mining GmbH,In production
+PO-PLAN-0172,HX-110,Porto Foundry,2026-W08,187,Berrocal Mining S.A.,Released
+PO-PLAN-0173,HX-320,Brno Machining,2026-W06,6,Gdańsk Chemicals Sp. z o.o.,Completed
+PO-PLAN-0174,HX-520,Lyon Systems,2026-W02,174,Moura Installations S.A.,Planned
+PO-PLAN-0175,HX-160,Brno Machining,2026-W09,21,Rogge District Heating GmbH,Planned
+PO-PLAN-0176,HX-250,Lyon Systems,2026-W13,44,Cheba Climate Systems Sp. z o.o.,Released
+PO-PLAN-0177,HX-320,Gdansk Assembly,2026-W04,112,Jourdan Process Chemicals SA,Completed
+PO-PLAN-0178,HX-400,Bilbao Plant,2026-W07,68,Linz Waterworks AG,Released
+PO-PLAN-0179,HX-140,Graz Electronics,2026-W11,99,Pacheco Paper Mills S.A.,Planned
+PO-PLAN-0180,HX-250,Tampere Works,2026-W04,94,Tartu Brewery AS,Released
+PO-PLAN-0181,HX-600,Bilbao Plant,2026-W08,144,Jespersen Energy A/S,Completed
+PO-PLAN-0182,HX-450,Tampere Works,2026-W13,23,Nantes Mining SAS,Planned
+PO-PLAN-0183,HX-320,Brno Machining,2026-W09,49,Lahti Power & Heat Oy,Released
+PO-PLAN-0184,HX-320,Brno Machining,2026-W03,188,Bremen District Heating AG,Completed
+PO-PLAN-0185,HX-200,Lyon Systems,2026-W12,207,Carrera Process Chemicals S.L.,Planned
+PO-PLAN-0186,HX-200,Tampere Works,2026-W09,27,Aarhus Installations ApS,Released
+PO-PLAN-0187,HX-450,Porto Foundry,2026-W04,113,Brno District Heating a.s.,Planned
+PO-PLAN-0188,HX-320,Brno Machining,2026-W04,119,Poznań Resources Sp. z o.o.,Completed
+PO-PLAN-0189,HX-280,Porto Foundry,2026-W13,214,Haiden Paper Mills GmbH,In production
+PO-PLAN-0190,HX-140,Porto Foundry,2026-W08,157,Carrera Process Chemicals S.L.,Released
+PO-PLAN-0191,HX-320,Tampere Works,2026-W13,79,Zujev Power & Heat AS,In production
+PO-PLAN-0192,HX-520,Graz Electronics,2026-W05,202,Valencia Climate Systems S.L.,In production
+PO-PLAN-0193,HX-360,Brno Machining,2026-W13,12,Lahti Climate Systems Oyj,In production
+PO-PLAN-0194,HX-110,Lyon Systems,2026-W05,220,Valencia Resources S.L.,Planned
+PO-PLAN-0195,HX-450,Brno Machining,2026-W08,219,Leipzig Waterworks GmbH,Completed
+PO-PLAN-0196,HX-140,Graz Electronics,2026-W13,173,Ostrava Energy s.r.o.,In production
+PO-PLAN-0197,HX-200,Graz Electronics,2026-W12,139,Hanson District Heating AS,Completed
+PO-PLAN-0198,HX-520,Graz Electronics,2026-W04,59,Valencia Energy S.A.,In production
+PO-PLAN-0199,HX-110,Gdansk Assembly,2026-W07,101,Blanchet Climate Systems SA,Planned
+PO-PLAN-0200,HX-280,Brno Machining,2026-W04,15,Olsen Building Services ApS,Released
+PO-PLAN-0201,HX-320,Porto Foundry,2026-W04,115,Leipzig Waterworks GmbH,In production
+PO-PLAN-0202,HX-160,Bilbao Plant,2026-W03,152,Oulu Resources Oyj,In production
+PO-PLAN-0203,HX-280,Porto Foundry,2026-W13,40,Pinto Foods S.A.,In production
+PO-PLAN-0204,HX-110,Bilbao Plant,2026-W05,157,Gdańsk Resources S.A.,Completed
+PO-PLAN-0205,HX-520,Tampere Works,2026-W05,182,Neubacher Beverages AG,Planned
+PO-PLAN-0206,HX-400,Graz Electronics,2026-W12,13,Nantes Climate Systems SA,In production
+PO-PLAN-0207,HX-360,Porto Foundry,2026-W02,29,Ostrava Energy s.r.o.,Planned
+PO-PLAN-0208,HX-360,Lyon Systems,2026-W08,51,Aarhus Brewery ApS,Released
+PO-PLAN-0209,HX-520,Graz Electronics,2026-W05,128,Valencia Power & Heat S.L.,Released
+PO-PLAN-0210,HX-360,Bilbao Plant,2026-W04,204,Nantes Mining SAS,Planned
+PO-PLAN-0211,HX-400,Lyon Systems,2026-W02,86,Němcová Pulp & Board s.r.o.,Completed
+PO-PLAN-0212,HX-450,Brno Machining,2026-W01,137,Madrigal Beverages S.A.,Released
+PO-PLAN-0213,HX-520,Tampere Works,2026-W04,13,Lévy Waterworks SAS,Planned
+PO-PLAN-0214,HX-200,Graz Electronics,2026-W12,155,Jaroš Water Services s.r.o.,Completed
+PO-PLAN-0215,HX-280,Tampere Works,2026-W12,90,Kotov Pulp & Board AS,Released
+PO-PLAN-0216,HX-140,Bilbao Plant,2026-W11,105,Lemaire Mining SAS,Released
+PO-PLAN-0217,HX-600,Lyon Systems,2026-W07,115,Karlsson Climate Systems AB,In production
+PO-PLAN-0218,HX-520,Tampere Works,2026-W13,53,Valencia Climate Systems S.L.,Released
+PO-PLAN-0219,HX-110,Porto Foundry,2026-W05,70,Gdańsk Pulp & Board Sp. z o.o.,Released
+PO-PLAN-0220,HX-360,Porto Foundry,2026-W04,95,Malmö Power & Heat AB,Completed
+PO-PLAN-0221,HX-400,Lyon Systems,2026-W08,82,Graz Mining GmbH,Completed
+PO-PLAN-0222,HX-360,Lyon Systems,2026-W01,119,Egger Resources AG,In production
+PO-PLAN-0223,HX-280,Brno Machining,2026-W03,26,Borges Building Services S.A.,In production
+PO-PLAN-0224,HX-450,Bilbao Plant,2026-W06,12,Jaroš Water Services s.r.o.,In production
+PO-PLAN-0225,HX-280,Brno Machining,2026-W13,208,Pääkkönen Building Services Oyj,Planned
+PO-PLAN-0226,HX-280,Brno Machining,2026-W10,51,Wechselberger Pulp & Board AG,Completed
+PO-PLAN-0227,HX-520,Graz Electronics,2026-W08,17,Gdańsk Packaging Sp. z o.o.,Planned
+PO-PLAN-0228,HX-400,Brno Machining,2026-W08,16,Holst Installations A/S,Released
+PO-PLAN-0229,HX-280,Graz Electronics,2026-W11,136,Aarhus Minerals A/S,Planned
+PO-PLAN-0230,HX-280,Lyon Systems,2026-W01,113,Pereira Power & Heat Lda.,Planned
+PO-PLAN-0231,HX-280,Tampere Works,2026-W13,187,Odense Water ApS,In production
+PO-PLAN-0232,HX-200,Gdansk Assembly,2026-W01,89,Cheba Climate Systems Sp. z o.o.,Planned
+PO-PLAN-0233,HX-140,Gdansk Assembly,2026-W06,148,Seifert Climate Systems AG,In production
+PO-PLAN-0234,HX-520,Lyon Systems,2026-W08,120,Skov Mining A/S,Planned
+PO-PLAN-0235,HX-200,Lyon Systems,2026-W04,150,Jung Process Chemicals AG,Planned
+PO-PLAN-0236,HX-520,Lyon Systems,2026-W13,56,Julien Process Chemicals SAS,Completed
+PO-PLAN-0237,HX-600,Brno Machining,2026-W07,109,Aarhus Beverages A/S,Released
+PO-PLAN-0238,HX-110,Bilbao Plant,2026-W09,180,Mörth District Heating GmbH,In production
+PO-PLAN-0239,HX-280,Lyon Systems,2026-W07,27,Uppsala Paper Mills AB,Planned
+PO-PLAN-0240,HX-110,Graz Electronics,2026-W09,40,Leipzig Building Services AG,Completed
+PO-PLAN-0241,HX-110,Porto Foundry,2026-W11,195,Brno District Heating a.s.,Planned
+PO-PLAN-0242,HX-600,Gdansk Assembly,2026-W01,54,Oulu Resources Oyj,In production
+PO-PLAN-0243,HX-140,Brno Machining,2026-W10,112,Madrigal Beverages S.A.,Completed
+PO-PLAN-0244,HX-600,Graz Electronics,2026-W01,29,Aarhus Waterworks ApS,Released
+PO-PLAN-0245,HX-250,Porto Foundry,2026-W08,122,Braga Specialty Chemicals S.A.,Planned
+PO-PLAN-0246,HX-200,Gdansk Assembly,2026-W07,108,Krejčová Water Services s.r.o.,Completed
+PO-PLAN-0247,HX-140,Graz Electronics,2026-W13,68,Moreira Specialty Chemicals S.A.,Planned
+PO-PLAN-0248,HX-400,Bilbao Plant,2026-W09,193,Bremen Paper Mills AG,Released
+PO-PLAN-0249,HX-450,Tampere Works,2026-W06,5,Valencia Packaging S.L.,Released
+PO-PLAN-0250,HX-520,Lyon Systems,2026-W13,97,Dziewior Brewery Sp. z o.o.,Planned
+PO-PLAN-0251,HX-520,Gdansk Assembly,2026-W09,110,Carrera Process Chemicals S.L.,Completed
+PO-PLAN-0252,HX-280,Bilbao Plant,2026-W12,77,Ostrava Process Chemicals a.s.,Completed
+PO-PLAN-0253,HX-160,Bilbao Plant,2026-W07,61,Paffrath Pulp & Board GmbH,Planned
+PO-PLAN-0254,HX-360,Gdansk Assembly,2026-W02,76,Juncken Resources AG,Planned
+PO-PLAN-0255,HX-160,Lyon Systems,2026-W02,128,Tartu Climate Systems OÜ,Released
+PO-PLAN-0256,HX-520,Gdansk Assembly,2026-W08,16,Ziegert Specialty Chemicals AG,Released
+PO-PLAN-0257,HX-360,Brno Machining,2026-W13,134,Malmö Power & Heat AB,Planned
+PO-PLAN-0258,HX-450,Gdansk Assembly,2026-W08,27,Łuckiewicz Mining Sp. z o.o.,Completed
+PO-PLAN-0259,HX-600,Porto Foundry,2026-W11,178,Turku Pulp & Board Oyj,In production
+PO-PLAN-0260,HX-110,Gdansk Assembly,2026-W04,210,Seppälä Resources Oy,Released

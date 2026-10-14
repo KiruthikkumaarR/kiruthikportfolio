@@ -1,0 +1,541 @@
+opportunity_id,account,product,stage,value_eur,probability_pct,expected_close,owner,country
+OPP-90000,Mikk Pulp & Board OÜ,Spare Parts Kit,Needs analysis,806000,25,2026-08-08,Paweł Maciejewicz,Estonia
+OPP-90001,Guerreiro Foods S.A.,HX-250,Negotiation,774500,70,2026-03-16,Miroslava Sedláčková,Portugal
+OPP-90002,Leipzig Chemicals GmbH,CU-4 Controller,Negotiation,1385000,70,2026-05-11,Alexa Schlager,Germany
+OPP-90003,Godoy Climate Systems S.L.,HX-320,Qualification,997000,10,2026-11-16,Freja Gregersen,Spain
+OPP-90004,Oulu Waterworks Oy,HX-280,Negotiation,672000,70,2026-10-04,Freja Gregersen,Finland
+OPP-90005,Malmö Resources AB,HX-360,Closed won,330000,100,2026-12-26,Karolína Matoušková,Sweden
+OPP-90006,Łuckiewicz Mining Sp. z o.o.,HX-250,Proposal,1760500,45,2026-11-12,Pánfilo Lloret,Poland
+OPP-90007,Nantes Beverages SAS,HX-520,Negotiation,752000,70,2026-06-23,Paweł Maciejewicz,France
+OPP-90008,Linz Foods GmbH,HX-360,Qualification,1068500,10,2026-11-18,Artturi Nieminen,Austria
+OPP-90009,Poznań Resources Sp. z o.o.,HX-250,Needs analysis,459500,25,2026-04-22,Karolína Matoušková,Poland
+OPP-90010,Tartu Climate Systems OÜ,HX-250,Closed lost,481500,0,2027-02-24,Isabell Steinlechner,Estonia
+OPP-90011,Lyon Pulp & Board SA,HX-110,Qualification,565000,10,2026-10-11,Miroslava Sedláčková,France
+OPP-90012,Braga Water S.A.,HX-110,Proposal,235000,45,2026-10-31,Isabell Steinlechner,Portugal
+OPP-90013,Saarinen Power & Heat Oy,Service Agreement Silver,Negotiation,695500,70,2026-02-19,Gilles Perrin,Finland
+OPP-90014,Seifert Climate Systems AG,HX-400,Qualification,1580000,10,2026-06-30,Paweł Maciejewicz,Germany
+OPP-90015,Malmö Process Chemicals AB,HX-200,Proposal,829000,45,2027-01-26,Karolína Matoušková,Sweden
+OPP-90016,Winther District Heating A/S,HX-160,Proposal,1143500,45,2026-07-14,Benoît Roux,Denmark
+OPP-90017,Berg Mining AB,HX-200,Closed lost,134000,0,2027-03-05,Marius Mandl,Sweden
+OPP-90018,Zujev Resources AS,HX-400,Proposal,855500,45,2026-08-05,Zuzana Navrátilová,Estonia
+OPP-90019,Braga Building Services S.A.,Service Agreement Gold,Closed won,180500,100,2026-08-27,Karolína Matoušková,Portugal
+OPP-90020,Lampinen District Heating Oy,HX-160,Needs analysis,229000,25,2026-06-09,Fernando Freitas,Finland
+OPP-90021,Brandt Energy ApS,HX-450,Qualification,482000,10,2026-03-02,Paweł Maciejewicz,Denmark
+OPP-90022,Berg Climate Systems A/S,HX-600,Proposal,329000,45,2026-07-16,Zuzana Navrátilová,Denmark
+OPP-90023,Jung Process Chemicals AG,CU-4 Pro Controller,Qualification,365000,10,2026-06-04,Alexa Schlager,Austria
+OPP-90024,Mikkonen Energy Oy,CU-4 Pro Controller,Closed lost,805500,0,2026-05-27,Fernando Freitas,Finland
+OPP-90025,Baudry Power & Heat SAS,HX-600,Closed won,1142500,100,2026-06-30,Karolína Matoušková,France
+OPP-90026,Lahti Building Services Oyj,CU-4 Pro Controller,Needs analysis,193500,25,2026-03-06,Fernando Freitas,Finland
+OPP-90027,Scholtz Minerals AG,HX-400,Proposal,792000,45,2027-02-08,Laurent Lopes,Germany
+OPP-90028,Scholtz Minerals AG,HX-110,Closed won,1336000,100,2026-01-29,Laurent Lopes,Germany
+OPP-90029,Tudela Packaging S.A.,HX-520,Qualification,1840000,10,2026-02-13,Marius Mandl,Spain
+OPP-90030,Oulu Chemicals Oyj,HX-110,Closed won,647000,100,2026-10-17,Benoît Roux,Finland
+OPP-90031,Lahti Building Services Oyj,HX-360,Qualification,1333000,10,2026-04-15,Fernando Freitas,Finland
+OPP-90032,Moura Installations S.A.,HX-110,Closed won,1797500,100,2026-07-09,Benoît Roux,Portugal
+OPP-90033,Graz Mining GmbH,CU-4 Pro Controller,Negotiation,557000,70,2026-07-20,Karolína Matoušková,Austria
+OPP-90034,Valencia Power & Heat S.L.,CU-4 Pro Controller,Closed won,157000,100,2026-02-07,Karolína Matoušková,Spain
+OPP-90035,Zujev Resources AS,CU-4 Controller,Negotiation,1481500,70,2026-02-02,Zuzana Navrátilová,Estonia
+OPP-90036,Dziewior Brewery Sp. z o.o.,HX-280,Closed lost,1184500,0,2026-09-04,Gilles Perrin,Poland
+OPP-90037,Carrera Process Chemicals S.L.,SmartFlow Monitoring (SaaS),Closed lost,1718000,0,2026-09-22,Karolína Matoušková,Spain
+OPP-90038,Uppsala Resources AB,HX-360,Closed won,229500,100,2026-08-06,Freja Gregersen,Sweden
+OPP-90039,Jespersen Energy A/S,Service Agreement Gold,Closed lost,446500,0,2026-05-01,Zuzana Navrátilová,Denmark
+OPP-90040,Odense Climate Systems A/S,HX-400,Negotiation,393000,70,2026-02-26,Isabell Steinlechner,Denmark
+OPP-90041,Lahti Building Services Oyj,Service Agreement Gold,Needs analysis,1814000,25,2026-09-12,Fernando Freitas,Finland
+OPP-90042,Rogge District Heating GmbH,HX-200,Qualification,1040000,10,2027-01-03,Karolína Matoušková,Germany
+OPP-90043,Montenegro Packaging S.A.,HX-360,Closed won,1663500,100,2026-07-11,Aurelia Chabior,Spain
+OPP-90044,Ericsson Mining AB,HX-600,Proposal,600500,45,2026-01-18,Benoît Roux,Sweden
+OPP-90045,Uppsala Process Chemicals AB,Service Agreement Gold,Closed won,1411000,100,2026-05-10,Artturi Nieminen,Sweden
+OPP-90046,Calderon Climate Systems S.L.,HX-280,Needs analysis,1506000,25,2026-03-23,Alexa Schlager,Spain
+OPP-90047,Moreira Specialty Chemicals S.A.,HX-450,Closed won,796000,100,2026-12-06,Freja Gregersen,Portugal
+OPP-90048,Samuelsson Dairy AB,HX-520,Proposal,368500,45,2026-12-06,Marco Anjos,Sweden
+OPP-90049,Malmö Water AB,Service Agreement Gold,Negotiation,1721000,70,2026-03-09,Aurelia Chabior,Sweden
+OPP-90050,Leipzig Waterworks GmbH,HX-200,Proposal,1144000,45,2026-10-23,Karolína Matoušková,Germany
+OPP-90051,Brno Chemicals s.r.o.,HX-280,Closed lost,894000,0,2026-07-26,Miroslava Sedláčková,Czechia
+OPP-90052,Bech Chemicals A/S,HX-280,Needs analysis,257000,25,2026-09-01,Marius Mandl,Denmark
+OPP-90053,Peukert Packaging AG,CU-4 Controller,Closed won,1289500,100,2026-05-17,Fernando Freitas,Germany
+OPP-90054,Porto Minerals S.A.,CU-4 Controller,Qualification,474000,10,2026-10-09,Laurent Lopes,Portugal
+OPP-90055,Aarhus Installations ApS,HX-140,Proposal,511000,45,2026-07-17,Freja Gregersen,Denmark
+OPP-90056,Zujev Resources AS,Service Agreement Gold,Needs analysis,162000,25,2026-04-27,Zuzana Navrátilová,Estonia
+OPP-90057,Bremen District Heating AG,HX-520,Qualification,1053500,10,2026-01-29,Benoît Roux,Germany
+OPP-90058,Brunel Installations SA,HX-200,Closed won,654000,100,2026-01-18,Miroslava Sedláčková,France
+OPP-90059,Leppänen Building Services Oy,HX-160,Negotiation,1597000,70,2026-12-03,Laurent Lopes,Finland
+OPP-90060,Mörth District Heating GmbH,HX-110,Closed won,1002500,100,2026-08-29,Marco Anjos,Austria
+OPP-90061,Juntunen Foods Oyj,HX-110,Closed won,1244500,100,2026-11-10,Paweł Maciejewicz,Finland
+OPP-90062,Pesendorfer Mining AG,SmartFlow Monitoring (SaaS),Negotiation,1103500,70,2026-06-18,Marius Mandl,Austria
+OPP-90063,Linz Packaging AG,HX-450,Needs analysis,529500,25,2026-01-22,Karolína Matoušková,Austria
+OPP-90064,Scholtz Minerals AG,CU-4 Controller,Needs analysis,1795500,25,2026-12-22,Laurent Lopes,Germany
+OPP-90065,Linz Foods GmbH,HX-110,Closed lost,915000,0,2026-06-09,Artturi Nieminen,Austria
+OPP-90066,Turku Mining Oy,Service Agreement Gold,Proposal,89000,45,2026-01-31,Artturi Nieminen,Finland
+OPP-90067,Egger Resources AG,HX-110,Closed lost,1789500,0,2026-05-12,Jiřina Tůma,Austria
+OPP-90068,Navrátil Specialty Chemicals s.r.o.,HX-280,Needs analysis,145000,25,2027-01-01,Paweł Maciejewicz,Czechia
+OPP-90069,Paffrath Pulp & Board GmbH,HX-360,Qualification,1166500,10,2027-02-16,Jiřina Tůma,Germany
+OPP-90070,Uppsala Climate Systems AB,HX-250,Qualification,297000,10,2026-08-02,Paweł Maciejewicz,Sweden
+OPP-90071,Moura Installations S.A.,SmartFlow Monitoring (SaaS),Negotiation,160500,70,2026-04-17,Benoît Roux,Portugal
+OPP-90072,Peukert Packaging AG,HX-140,Needs analysis,1348000,25,2026-08-09,Fernando Freitas,Germany
+OPP-90073,Heikkilä Dairy Oy,SmartFlow Monitoring (SaaS),Negotiation,541500,70,2026-09-07,Gilles Perrin,Finland
+OPP-90074,Aarhus Minerals A/S,Service Agreement Gold,Proposal,285000,45,2026-02-22,Marco Anjos,Denmark
+OPP-90075,Ostrava Water Services a.s.,HX-280,Closed won,848500,100,2026-07-27,Freja Gregersen,Czechia
+OPP-90076,Graz Installations AG,CU-4 Controller,Closed won,1391000,100,2026-09-10,Freja Gregersen,Austria
+OPP-90077,Larsson Foods AB,HX-280,Needs analysis,90500,25,2026-04-03,Miroslava Sedláčková,Sweden
+OPP-90078,Bremen Packaging AG,CU-4 Controller,Negotiation,813500,70,2026-08-26,Marius Mandl,Germany
+OPP-90079,Turku Chemicals Oy,HX-600,Proposal,1865000,45,2026-01-23,Isabell Steinlechner,Finland
+OPP-90080,Braga Specialty Chemicals S.A.,HX-250,Negotiation,1715500,70,2026-05-07,Fernando Freitas,Portugal
+OPP-90081,Bremen Foods AG,HX-140,Closed won,1276500,100,2026-03-13,Miroslava Sedláčková,Germany
+OPP-90082,Oulu Pulp & Board Oyj,HX-280,Negotiation,1790000,70,2026-06-07,Artturi Nieminen,Finland
+OPP-90083,Mikkonen Energy Oy,HX-110,Proposal,1408000,45,2026-10-16,Fernando Freitas,Finland
+OPP-90084,Montenegro Packaging S.A.,HX-110,Proposal,1540000,45,2026-07-14,Aurelia Chabior,Spain
+OPP-90085,Mörth District Heating GmbH,SmartFlow Monitoring (SaaS),Qualification,891500,10,2026-09-08,Marco Anjos,Austria
+OPP-90086,Mustonen Water Oy,HX-520,Closed lost,1803000,0,2026-05-27,Fernando Freitas,Finland
+OPP-90087,Graz Resources AG,Spare Parts Kit,Qualification,829500,10,2026-06-05,Paweł Maciejewicz,Austria
+OPP-90088,Oulu Resources Oyj,HX-520,Proposal,1552000,45,2026-08-31,Artturi Nieminen,Finland
+OPP-90089,Hautala District Heating Oyj,HX-140,Closed lost,1822000,0,2026-09-30,Fernando Freitas,Finland
+OPP-90090,Graz Power & Heat AG,HX-280,Closed lost,1897500,0,2026-05-07,Pánfilo Lloret,Austria
+OPP-90091,Nantes Specialty Chemicals SA,HX-360,Qualification,831000,10,2026-08-14,Marius Mandl,France
+OPP-90092,Gdańsk Resources Sp. z o.o.,HX-140,Negotiation,619500,70,2026-04-26,Artturi Nieminen,Poland
+OPP-90093,Wechselberger Pulp & Board AG,HX-600,Needs analysis,746000,25,2026-02-21,Artturi Nieminen,Austria
+OPP-90094,Berg Climate Systems A/S,HX-160,Qualification,198500,10,2026-11-03,Zuzana Navrátilová,Denmark
+OPP-90095,Valencia Resources S.L.,HX-140,Closed lost,1407000,0,2026-10-04,Isabell Steinlechner,Spain
+OPP-90096,Uppsala Water AB,HX-140,Closed won,382500,100,2027-02-16,Miroslava Sedláčková,Sweden
+OPP-90097,Puustinen Mining Oy,HX-250,Negotiation,1392000,70,2026-06-08,Karolína Matoušková,Finland
+OPP-90098,Oulu Chemicals Oyj,HX-600,Qualification,962000,10,2026-11-15,Benoît Roux,Finland
+OPP-90099,Henry Paper Mills SA,HX-250,Closed lost,1569500,0,2026-11-17,Laurent Lopes,France
+OPP-90100,Leppänen Building Services Oy,Spare Parts Kit,Qualification,255500,10,2026-08-20,Laurent Lopes,Finland
+OPP-90101,Uppsala Climate Systems AB,Service Agreement Silver,Proposal,1445500,45,2026-10-04,Paweł Maciejewicz,Sweden
+OPP-90102,Puustinen Mining Oy,HX-160,Needs analysis,1834500,25,2026-06-07,Karolína Matoušková,Finland
+OPP-90103,Lyon Minerals SAS,HX-110,Qualification,1874000,10,2026-07-22,Fernando Freitas,France
+OPP-90104,Winther District Heating A/S,HX-200,Negotiation,1614000,70,2027-01-01,Benoît Roux,Denmark
+OPP-90105,Poznań Minerals Sp. z o.o.,HX-140,Proposal,396500,45,2027-02-26,Fernando Freitas,Poland
+OPP-90106,Mattila Beverages Oyj,CU-4 Pro Controller,Needs analysis,1621500,25,2027-03-01,Paweł Maciejewicz,Finland
+OPP-90107,Ericsson Mining AB,HX-450,Closed lost,12500,0,2026-10-15,Benoît Roux,Sweden
+OPP-90108,Turku Water Oy,HX-320,Closed lost,1449500,0,2026-07-06,Marco Anjos,Finland
+OPP-90109,Braga Resources S.A.,HX-160,Needs analysis,1343000,25,2026-06-10,Jiřina Tůma,Portugal
+OPP-90110,Bremen Foods AG,HX-110,Closed lost,1332000,0,2026-05-08,Miroslava Sedláčková,Germany
+OPP-90111,Graz Energy GmbH,HX-160,Needs analysis,391000,25,2026-04-14,Jiřina Tůma,Austria
+OPP-90112,Ladner Power & Heat AG,Service Agreement Silver,Qualification,1145500,10,2026-05-15,Alexa Schlager,Austria
+OPP-90113,Wurzinger Brewery AG,HX-140,Closed won,474500,100,2026-01-23,Freja Gregersen,Austria
+OPP-90114,Pereira Power & Heat Lda.,HX-520,Needs analysis,1385000,25,2026-12-05,Benoît Roux,Portugal
+OPP-90115,Poznań Dairy S.A.,Service Agreement Silver,Proposal,1736000,45,2026-11-29,Fernando Freitas,Poland
+OPP-90116,Leipzig Minerals GmbH,CU-4 Controller,Closed lost,1108000,0,2027-03-05,Miroslava Sedláčková,Germany
+OPP-90117,Brandt Energy ApS,HX-280,Closed won,1426500,100,2026-07-11,Paweł Maciejewicz,Denmark
+OPP-90118,Tudela Packaging S.A.,HX-160,Closed lost,958000,0,2026-09-23,Marius Mandl,Spain
+OPP-90119,Alberdi Building Services S.A.,Service Agreement Gold,Negotiation,342000,70,2026-08-16,Zuzana Navrátilová,Spain
+OPP-90120,Poznań Dairy S.A.,HX-200,Qualification,1330000,10,2026-05-10,Fernando Freitas,Poland
+OPP-90121,Ericsson Mining AB,HX-250,Negotiation,924000,70,2026-06-03,Benoît Roux,Sweden
+OPP-90122,Aarhus Building Services A/S,HX-160,Negotiation,44500,70,2026-02-08,Miroslava Sedláčková,Denmark
+OPP-90123,Leipzig Brewery AG,Service Agreement Gold,Closed won,823500,100,2026-03-17,Marco Anjos,Germany
+OPP-90124,Mattila Beverages Oyj,HX-400,Closed won,1025000,100,2027-02-01,Paweł Maciejewicz,Finland
+OPP-90125,Täht Power & Heat AS,Service Agreement Gold,Proposal,1167000,45,2026-01-25,Marius Mandl,Estonia
+OPP-90126,Paffrath Pulp & Board GmbH,HX-450,Closed won,1007000,100,2026-01-26,Jiřina Tůma,Germany
+OPP-90127,Malmö Water AB,HX-140,Needs analysis,1893000,25,2026-03-19,Aurelia Chabior,Sweden
+OPP-90128,Uppsala Water Services AB,HX-450,Proposal,1855500,45,2026-03-26,Laurent Lopes,Sweden
+OPP-90129,Porto Beverages S.A.,HX-160,Needs analysis,878500,25,2026-03-06,Paweł Maciejewicz,Portugal
+OPP-90130,Lahti Building Services Oyj,HX-200,Qualification,1617000,10,2026-07-14,Fernando Freitas,Finland
+OPP-90131,Saarinen Power & Heat Oy,HX-400,Qualification,1275500,10,2026-07-08,Gilles Perrin,Finland
+OPP-90132,Aarhus Climate Systems A/S,CU-4 Controller,Closed won,1074000,100,2026-06-09,Gilles Perrin,Denmark
+OPP-90133,Hauffer Power & Heat AG,HX-140,Proposal,755000,45,2027-01-04,Marco Anjos,Germany
+OPP-90134,Lahti Installations Oy,Spare Parts Kit,Closed lost,1838000,0,2026-03-13,Karolína Matoušková,Finland
+OPP-90135,Nantes Mining SAS,HX-160,Closed lost,519500,0,2026-09-17,Freja Gregersen,France
+OPP-90136,Linz Building Services GmbH,HX-200,Qualification,1491000,10,2026-09-20,Miroslava Sedláčková,Austria
+OPP-90137,Acedo Building Services S.L.,HX-450,Qualification,1621000,10,2026-12-22,Paweł Maciejewicz,Spain
+OPP-90138,Heredia Building Services S.L.,HX-400,Proposal,28000,45,2026-03-25,Jiřina Tůma,Spain
+OPP-90139,Ostrava Water Services a.s.,HX-140,Closed won,1038000,100,2026-10-21,Freja Gregersen,Czechia
+OPP-90140,Aarhus Climate Systems ApS,SmartFlow Monitoring (SaaS),Closed won,752500,100,2026-07-15,Benoît Roux,Denmark
+OPP-90141,Moura Installations S.A.,Service Agreement Silver,Closed lost,1182000,0,2026-10-30,Benoît Roux,Portugal
+OPP-90142,Täht Power & Heat AS,CU-4 Controller,Proposal,303500,45,2026-04-06,Marius Mandl,Estonia
+OPP-90143,Paffrath Pulp & Board GmbH,HX-360,Negotiation,186000,70,2026-04-20,Jiřina Tůma,Germany
+OPP-90144,Paffrath Pulp & Board GmbH,HX-600,Closed lost,1401000,0,2026-11-04,Jiřina Tůma,Germany
+OPP-90145,Karlsson Paper Mills AB,CU-4 Pro Controller,Closed won,827000,100,2026-09-04,Marco Anjos,Sweden
+OPP-90146,De Oliveira Foods SAS,HX-250,Qualification,57000,10,2026-11-20,Miroslava Sedláčková,France
+OPP-90147,Järvinen Climate Systems Oy,HX-520,Negotiation,77500,70,2026-09-10,Gilles Perrin,Finland
+OPP-90148,Tartu Chemicals AS,CU-4 Pro Controller,Negotiation,1051000,70,2026-12-30,Alexa Schlager,Estonia
+OPP-90149,Malmö Water AB,HX-400,Negotiation,466500,70,2026-10-07,Aurelia Chabior,Sweden
+OPP-90150,Darłak Water Services S.A.,HX-250,Closed won,202500,100,2027-02-21,Laurent Lopes,Poland
+OPP-90151,Tartu Paper Mills OÜ,SmartFlow Monitoring (SaaS),Needs analysis,317000,25,2026-09-02,Pánfilo Lloret,Estonia
+OPP-90152,Nantes Installations SAS,HX-360,Negotiation,1004500,70,2026-01-20,Artturi Nieminen,France
+OPP-90153,Guerreiro Foods S.A.,HX-280,Negotiation,836500,70,2026-12-08,Miroslava Sedláčková,Portugal
+OPP-90154,Pacheco Paper Mills S.A.,Spare Parts Kit,Closed won,1241000,100,2026-02-06,Paweł Maciejewicz,Portugal
+OPP-90155,Poznań Pulp & Board S.A.,HX-600,Qualification,1476000,10,2026-05-10,Fernando Freitas,Poland
+OPP-90156,Leipzig Energy AG,HX-400,Proposal,1618000,45,2026-02-26,Fernando Freitas,Germany
+OPP-90157,Hauffer Power & Heat AG,Spare Parts Kit,Negotiation,1622000,70,2026-09-19,Marco Anjos,Germany
+OPP-90158,Harju Installations Oy,Service Agreement Silver,Negotiation,962500,70,2027-02-15,Marco Anjos,Finland
+OPP-90159,Aarhus Minerals A/S,SmartFlow Monitoring (SaaS),Needs analysis,1477500,25,2026-09-20,Marco Anjos,Denmark
+OPP-90160,Thomsen Energy A/S,HX-520,Negotiation,61500,70,2026-06-13,Karolína Matoušková,Denmark
+OPP-90161,Malmö Water AB,Spare Parts Kit,Negotiation,1812000,70,2026-11-04,Aurelia Chabior,Sweden
+OPP-90162,Mäkinen Waterworks Oyj,HX-110,Proposal,1254500,45,2026-04-30,Alexa Schlager,Finland
+OPP-90163,Karlsson Paper Mills AB,HX-280,Negotiation,1469500,70,2027-01-24,Marco Anjos,Sweden
+OPP-90164,Montenegro Packaging S.A.,HX-200,Proposal,160000,45,2026-04-22,Aurelia Chabior,Spain
+OPP-90165,Heredia Building Services S.L.,HX-280,Needs analysis,1399000,25,2026-11-05,Jiřina Tůma,Spain
+OPP-90166,Steinböck Pulp & Board GmbH,CU-4 Controller,Qualification,409000,10,2026-05-12,Fernando Freitas,Austria
+OPP-90167,Tartu Packaging AS,HX-140,Qualification,924500,10,2026-12-22,Freja Gregersen,Estonia
+OPP-90168,Moura Installations S.A.,HX-200,Qualification,1302000,10,2026-08-04,Benoît Roux,Portugal
+OPP-90169,Bremen Power & Heat GmbH,HX-200,Closed lost,272500,0,2026-10-06,Fernando Freitas,Germany
+OPP-90170,Jędrusiak Packaging S.A.,HX-360,Qualification,710500,10,2026-05-12,Pánfilo Lloret,Poland
+OPP-90171,Lahti Installations Oy,Service Agreement Gold,Negotiation,1874500,70,2026-01-19,Karolína Matoušková,Finland
+OPP-90172,Graz Energy GmbH,CU-4 Controller,Needs analysis,1698500,25,2026-01-22,Jiřina Tůma,Austria
+OPP-90173,Brno Chemicals s.r.o.,SmartFlow Monitoring (SaaS),Needs analysis,157000,25,2026-08-24,Miroslava Sedláčková,Czechia
+OPP-90174,Holst Installations A/S,Service Agreement Gold,Proposal,210500,45,2026-06-14,Benoît Roux,Denmark
+OPP-90175,Berg Mining AB,HX-140,Closed won,367500,100,2026-04-22,Marius Mandl,Sweden
+OPP-90176,Oulu Brewery Oy,HX-320,Qualification,748000,10,2026-05-08,Benoît Roux,Finland
+OPP-90177,Valencia Minerals S.L.,HX-360,Negotiation,747500,70,2026-08-11,Pánfilo Lloret,Spain
+OPP-90178,Nascimento Climate Systems Lda.,CU-4 Pro Controller,Negotiation,172500,70,2027-01-27,Miroslava Sedláčková,Portugal
+OPP-90179,Tooming Energy AS,CU-4 Pro Controller,Qualification,1753500,10,2027-02-28,Artturi Nieminen,Estonia
+OPP-90180,Aarhus Minerals A/S,HX-140,Proposal,1428500,45,2027-01-22,Marco Anjos,Denmark
+OPP-90181,Olsen Building Services ApS,HX-450,Negotiation,159000,70,2026-08-30,Jiřina Tůma,Denmark
+OPP-90182,Rogge District Heating GmbH,HX-600,Negotiation,846000,70,2027-02-19,Karolína Matoušková,Germany
+OPP-90183,Ruppersberger Paper Mills GmbH,HX-320,Closed won,479000,100,2027-02-09,Zuzana Navrátilová,Germany
+OPP-90184,Hubert Packaging SA,HX-450,Closed won,1519000,100,2026-05-24,Freja Gregersen,France
+OPP-90185,Jourdan Process Chemicals SA,HX-450,Negotiation,153500,70,2026-05-15,Marius Mandl,France
+OPP-90186,Turku Power & Heat Oyj,HX-400,Qualification,1008000,10,2026-12-12,Jiřina Tůma,Finland
+OPP-90187,Poznań Resources Sp. z o.o.,HX-160,Proposal,79000,45,2026-03-24,Karolína Matoušková,Poland
+OPP-90188,Oulu Resources Oyj,HX-140,Qualification,1283500,10,2026-09-08,Artturi Nieminen,Finland
+OPP-90189,Gdańsk Resources Sp. z o.o.,HX-600,Needs analysis,1080500,25,2027-02-10,Artturi Nieminen,Poland
+OPP-90190,Aarhus Building Services A/S,Spare Parts Kit,Negotiation,1247000,70,2026-09-14,Miroslava Sedláčková,Denmark
+OPP-90191,Larsson Water Services AB,HX-450,Closed won,1418000,100,2026-10-17,Karolína Matoušková,Sweden
+OPP-90192,Aarhus Minerals A/S,Service Agreement Silver,Closed lost,1272500,0,2027-01-15,Marco Anjos,Denmark
+OPP-90193,Porto Water Services S.A.,CU-4 Pro Controller,Negotiation,1170500,70,2026-03-10,Benoît Roux,Portugal
+OPP-90194,Oulu Resources Oyj,HX-140,Needs analysis,132500,25,2026-03-13,Artturi Nieminen,Finland
+OPP-90195,Malmö Water AB,CU-4 Controller,Qualification,617500,10,2026-09-06,Aurelia Chabior,Sweden
+OPP-90196,Acedo Building Services S.L.,HX-250,Closed lost,307000,0,2026-10-07,Paweł Maciejewicz,Spain
+OPP-90197,Bilbao Specialty Chemicals S.L.,CU-4 Pro Controller,Needs analysis,1463000,25,2027-02-22,Karolína Matoušková,Spain
+OPP-90198,Ernst Beverages AG,HX-110,Proposal,423000,45,2026-08-21,Laurent Lopes,Austria
+OPP-90199,Valencia Resources S.L.,CU-4 Controller,Closed won,1797500,100,2026-09-02,Isabell Steinlechner,Spain
+OPP-90200,Egger Resources AG,HX-450,Negotiation,1294500,70,2026-11-10,Jiřina Tůma,Austria
+OPP-90201,Brunel Installations SA,HX-280,Closed won,1340000,100,2027-01-26,Miroslava Sedláčková,France
+OPP-90202,Pereira Power & Heat Lda.,Service Agreement Silver,Closed lost,1398000,0,2026-09-13,Benoît Roux,Portugal
+OPP-90203,Braga Water S.A.,SmartFlow Monitoring (SaaS),Closed won,1729500,100,2026-06-23,Isabell Steinlechner,Portugal
+OPP-90204,Egger Resources AG,HX-520,Qualification,1865500,10,2027-03-07,Jiřina Tůma,Austria
+OPP-90205,Wojczuk Minerals S.A.,HX-360,Needs analysis,153500,25,2026-11-12,Gilles Perrin,Poland
+OPP-90206,Marques Minerals Lda.,HX-110,Proposal,1372500,45,2026-04-19,Artturi Nieminen,Portugal
+OPP-90207,Linz District Heating AG,HX-110,Proposal,1164500,45,2026-04-19,Alexa Schlager,Austria
+OPP-90208,Lahti District Heating Oyj,HX-250,Closed lost,1594500,0,2027-03-08,Laurent Lopes,Finland
+OPP-90209,Navrátil Specialty Chemicals s.r.o.,SmartFlow Monitoring (SaaS),Needs analysis,1684500,25,2026-06-15,Paweł Maciejewicz,Czechia
+OPP-90210,Gdańsk Chemicals Sp. z o.o.,HX-600,Proposal,447000,45,2026-09-22,Pánfilo Lloret,Poland
+OPP-90211,Hautala District Heating Oyj,HX-140,Needs analysis,1676500,25,2026-10-13,Fernando Freitas,Finland
+OPP-90212,Lyon Brewery SAS,HX-280,Qualification,1460000,10,2026-12-03,Karolína Matoušková,France
+OPP-90213,Aarhus Paper Mills ApS,Spare Parts Kit,Needs analysis,873000,25,2026-03-25,Karolína Matoušková,Denmark
+OPP-90214,Lahti Power & Heat Oy,Service Agreement Gold,Closed won,1521500,100,2026-05-04,Alexa Schlager,Finland
+OPP-90215,Leipzig Chemicals GmbH,CU-4 Controller,Closed lost,1528500,0,2027-02-18,Alexa Schlager,Germany
+OPP-90216,Leipzig Process Chemicals GmbH,HX-280,Negotiation,1860500,70,2026-05-04,Gilles Perrin,Germany
+OPP-90217,Ernst Beverages AG,Service Agreement Gold,Qualification,1544500,10,2026-04-24,Laurent Lopes,Austria
+OPP-90218,Karlsson Climate Systems AB,HX-140,Qualification,652000,10,2026-05-23,Benoît Roux,Sweden
+OPP-90219,Dam Power & Heat A/S,CU-4 Pro Controller,Closed lost,1223000,0,2026-08-20,Marius Mandl,Denmark
+OPP-90220,Valencia Packaging S.L.,SmartFlow Monitoring (SaaS),Closed lost,1798000,0,2027-02-24,Artturi Nieminen,Spain
+OPP-90221,Baudry Power & Heat SAS,Spare Parts Kit,Closed lost,17500,0,2026-05-09,Karolína Matoušková,France
+OPP-90222,Nascimento Climate Systems Lda.,HX-450,Proposal,617000,45,2026-08-26,Miroslava Sedláčková,Portugal
+OPP-90223,Odense Process Chemicals A/S,HX-450,Closed won,705500,100,2026-06-16,Jiřina Tůma,Denmark
+OPP-90224,Porto Pulp & Board Lda.,SmartFlow Monitoring (SaaS),Proposal,1513500,45,2026-04-10,Marius Mandl,Portugal
+OPP-90225,Linz Pulp & Board AG,HX-280,Needs analysis,120500,25,2026-05-26,Zuzana Navrátilová,Austria
+OPP-90226,Oliveira Waterworks S.A.,Service Agreement Gold,Closed won,1743500,100,2026-08-22,Laurent Lopes,Portugal
+OPP-90227,Lahti Power & Heat Oy,HX-520,Proposal,731500,45,2026-07-17,Alexa Schlager,Finland
+OPP-90228,Vigil Chemicals S.A.,HX-520,Negotiation,112000,70,2026-08-14,Freja Gregersen,Spain
+OPP-90229,Loiseau Packaging SAS,CU-4 Controller,Closed won,1027500,100,2026-06-18,Jiřina Tůma,France
+OPP-90230,Bremen Minerals GmbH,HX-320,Needs analysis,944500,25,2026-07-15,Marius Mandl,Germany
+OPP-90231,Zujev Resources AS,CU-4 Controller,Closed lost,834000,0,2027-01-27,Zuzana Navrátilová,Estonia
+OPP-90232,Wimmer Process Chemicals GmbH,HX-520,Closed won,1686000,100,2027-01-29,Karolína Matoušková,Austria
+OPP-90233,Tartu Brewery AS,HX-140,Negotiation,1388500,70,2026-09-18,Zuzana Navrátilová,Estonia
+OPP-90234,Tartu Energy OÜ,HX-200,Closed won,1839500,100,2026-12-31,Marco Anjos,Estonia
+OPP-90235,Kotov Pulp & Board AS,HX-320,Qualification,316500,10,2026-04-12,Freja Gregersen,Estonia
+OPP-90236,Pääkkönen Building Services Oyj,HX-450,Closed lost,1365000,0,2026-09-10,Zuzana Navrátilová,Finland
+OPP-90237,Tartu Mining AS,HX-160,Needs analysis,1154500,25,2026-06-06,Laurent Lopes,Estonia
+OPP-90238,Paffrath Pulp & Board GmbH,HX-200,Proposal,384500,45,2026-10-08,Jiřina Tůma,Germany
+OPP-90239,Oulu Brewery Oy,HX-250,Qualification,286000,10,2026-07-05,Benoît Roux,Finland
+OPP-90240,Porto Pulp & Board Lda.,HX-140,Proposal,756000,45,2026-10-09,Marius Mandl,Portugal
+OPP-90241,Harju Installations Oy,HX-450,Proposal,1161000,45,2026-02-19,Marco Anjos,Finland
+OPP-90242,Porto Water Services S.A.,HX-360,Needs analysis,724500,25,2026-02-03,Benoît Roux,Portugal
+OPP-90243,Steinböck Pulp & Board GmbH,HX-320,Closed lost,1390000,0,2026-07-07,Fernando Freitas,Austria
+OPP-90244,Wojczuk Minerals S.A.,SmartFlow Monitoring (SaaS),Needs analysis,1770500,25,2026-03-08,Gilles Perrin,Poland
+OPP-90245,Uppsala Resources AB,HX-110,Closed lost,624500,0,2026-11-13,Freja Gregersen,Sweden
+OPP-90246,Poznań Dairy S.A.,HX-160,Needs analysis,1003000,25,2027-01-12,Fernando Freitas,Poland
+OPP-90247,Lahti Foods Oyj,HX-140,Proposal,242500,45,2026-01-23,Pánfilo Lloret,Finland
+OPP-90248,Poznań Pulp & Board S.A.,HX-280,Closed lost,341000,0,2026-03-01,Fernando Freitas,Poland
+OPP-90249,Lahti Building Services Oyj,HX-450,Closed lost,1115000,0,2026-01-30,Fernando Freitas,Finland
+OPP-90250,Berthelot Paper Mills SAS,SmartFlow Monitoring (SaaS),Proposal,747500,45,2027-02-19,Jiřina Tůma,France
+OPP-90251,Hanson District Heating AS,Service Agreement Gold,Closed won,1316500,100,2026-11-30,Fernando Freitas,Estonia
+OPP-90252,Lyon Water SAS,HX-250,Closed won,1717000,100,2026-12-07,Jiřina Tůma,France
+OPP-90253,Jelínková Installations a.s.,HX-520,Needs analysis,76500,25,2026-01-22,Alexa Schlager,Czechia
+OPP-90254,Poznań Energy S.A.,HX-160,Needs analysis,359000,25,2027-02-14,Karolína Matoušková,Poland
+OPP-90255,Aarhus Beverages A/S,CU-4 Controller,Needs analysis,1572000,25,2026-12-17,Gilles Perrin,Denmark
+OPP-90256,Olsson Brewery AB,HX-450,Closed won,566500,100,2027-01-16,Gilles Perrin,Sweden
+OPP-90257,Horváth Resources a.s.,HX-320,Needs analysis,1351000,25,2026-04-11,Benoît Roux,Czechia
+OPP-90258,Bremen Paper Mills AG,HX-600,Needs analysis,942500,25,2026-08-07,Miroslava Sedláčková,Germany
+OPP-90259,Gdańsk Resources Sp. z o.o.,SmartFlow Monitoring (SaaS),Needs analysis,921000,25,2026-01-26,Artturi Nieminen,Poland
+OPP-90260,Odense Packaging A/S,HX-360,Closed won,1547500,100,2026-01-15,Freja Gregersen,Denmark
+OPP-90261,Valencia Energy S.A.,HX-320,Qualification,1250500,10,2027-02-23,Paweł Maciejewicz,Spain
+OPP-90262,Porto Water Services S.A.,HX-250,Closed won,559500,100,2026-08-08,Benoît Roux,Portugal
+OPP-90263,Juntunen Foods Oyj,HX-160,Closed lost,1345500,0,2026-07-27,Paweł Maciejewicz,Finland
+OPP-90264,Brno Chemicals s.r.o.,HX-400,Proposal,549000,45,2026-08-22,Miroslava Sedláčková,Czechia
+OPP-90265,Gdańsk Pulp & Board Sp. z o.o.,HX-250,Negotiation,585000,70,2027-01-26,Benoît Roux,Poland
+OPP-90266,Turku Mining Oy,SmartFlow Monitoring (SaaS),Qualification,17000,10,2026-06-06,Artturi Nieminen,Finland
+OPP-90267,Jelínková Installations a.s.,HX-160,Proposal,1641500,45,2026-12-24,Alexa Schlager,Czechia
+OPP-90268,Leipzig Minerals GmbH,HX-280,Closed won,665000,100,2026-03-06,Miroslava Sedláčková,Germany
+OPP-90269,Linz Waterworks AG,HX-400,Needs analysis,878500,25,2027-01-25,Artturi Nieminen,Austria
+OPP-90270,Tudela Packaging S.A.,HX-360,Closed won,1076500,100,2027-02-22,Marius Mandl,Spain
+OPP-90271,Tartu Beverages AS,HX-110,Closed won,1791500,100,2027-01-24,Benoît Roux,Estonia
+OPP-90272,Tartu Chemicals AS,HX-280,Closed won,1465000,100,2026-05-21,Alexa Schlager,Estonia
+OPP-90273,Skov Mining A/S,HX-160,Qualification,1634000,10,2026-08-06,Freja Gregersen,Denmark
+OPP-90274,Malmö Water AB,HX-600,Proposal,628000,45,2026-10-13,Aurelia Chabior,Sweden
+OPP-90275,Turku Chemicals Oy,HX-140,Closed lost,538000,0,2026-02-24,Isabell Steinlechner,Finland
+OPP-90276,Nantes District Heating SAS,Service Agreement Gold,Negotiation,440000,70,2026-10-30,Alexa Schlager,France
+OPP-90277,Turku Chemicals Oy,HX-400,Qualification,1072500,10,2026-03-08,Isabell Steinlechner,Finland
+OPP-90278,Uppsala Chemicals AB,HX-450,Closed lost,1075500,0,2026-11-05,Gilles Perrin,Sweden
+OPP-90279,Nantes Mining SAS,HX-140,Closed won,790500,100,2026-09-27,Freja Gregersen,France
+OPP-90280,Linz Paper Mills GmbH,CU-4 Controller,Needs analysis,693500,25,2026-10-28,Laurent Lopes,Austria
+OPP-90281,Lahti Process Chemicals Oy,Service Agreement Gold,Proposal,1428500,45,2027-01-23,Laurent Lopes,Finland
+OPP-90282,Henry Paper Mills SA,HX-140,Closed won,669500,100,2026-06-13,Laurent Lopes,France
+OPP-90283,Mattila Beverages Oyj,Service Agreement Silver,Qualification,440500,10,2026-06-06,Paweł Maciejewicz,Finland
+OPP-90284,Porto Installations Lda.,CU-4 Pro Controller,Negotiation,158500,70,2026-07-22,Freja Gregersen,Portugal
+OPP-90285,Poznań Resources Sp. z o.o.,HX-110,Proposal,1591500,45,2026-02-15,Karolína Matoušková,Poland
+OPP-90286,Marques Minerals Lda.,Spare Parts Kit,Needs analysis,1863500,25,2026-06-08,Artturi Nieminen,Portugal
+OPP-90287,Odense Mining A/S,HX-200,Closed lost,14500,0,2027-02-13,Aurelia Chabior,Denmark
+OPP-90288,Braga Building Services S.A.,Service Agreement Gold,Negotiation,1347000,70,2027-02-16,Karolína Matoušková,Portugal
+OPP-90289,Bremen District Heating AG,CU-4 Pro Controller,Closed won,832500,100,2026-03-10,Benoît Roux,Germany
+OPP-90290,Jelínková Installations a.s.,Spare Parts Kit,Closed lost,391500,0,2026-05-18,Alexa Schlager,Czechia
+OPP-90291,Heredia Building Services S.L.,HX-450,Closed lost,72000,0,2026-09-25,Jiřina Tůma,Spain
+OPP-90292,Uppsala Resources AB,HX-280,Closed won,286000,100,2027-01-11,Freja Gregersen,Sweden
+OPP-90293,Braga Paper Mills Lda.,HX-200,Closed won,598000,100,2027-02-20,Artturi Nieminen,Portugal
+OPP-90294,Huszcza Mining S.A.,Service Agreement Gold,Needs analysis,588500,25,2026-02-17,Marco Anjos,Poland
+OPP-90295,Brno Chemicals s.r.o.,Spare Parts Kit,Needs analysis,1780500,25,2026-06-15,Miroslava Sedláčková,Czechia
+OPP-90296,Hubert Packaging SA,CU-4 Pro Controller,Needs analysis,1529000,25,2027-01-31,Freja Gregersen,France
+OPP-90297,Turku Chemicals Oy,CU-4 Pro Controller,Closed won,1226000,100,2026-08-07,Isabell Steinlechner,Finland
+OPP-90298,Reinprecht Installations GmbH,HX-110,Proposal,91000,45,2026-01-20,Aurelia Chabior,Austria
+OPP-90299,Turku Power & Heat Oyj,HX-400,Closed lost,489500,0,2026-10-05,Jiřina Tůma,Finland
+OPP-90300,Pereira Power & Heat Lda.,CU-4 Controller,Proposal,560500,45,2026-07-11,Benoît Roux,Portugal
+OPP-90301,Gontšarov Waterworks AS,SmartFlow Monitoring (SaaS),Negotiation,179000,70,2026-08-21,Marco Anjos,Estonia
+OPP-90302,Mikkonen Energy Oy,HX-520,Proposal,862000,45,2027-03-03,Fernando Freitas,Finland
+OPP-90303,Graz Pulp & Board AG,HX-520,Qualification,964000,10,2026-08-18,Pánfilo Lloret,Austria
+OPP-90304,Turku Power & Heat Oyj,HX-110,Negotiation,1194000,70,2026-10-12,Jiřina Tůma,Finland
+OPP-90305,Nantes Energy SA,HX-140,Needs analysis,1294500,25,2026-01-19,Pánfilo Lloret,France
+OPP-90306,Dziewior Brewery Sp. z o.o.,HX-320,Closed lost,1836000,0,2026-10-30,Gilles Perrin,Poland
+OPP-90307,Aarhus Building Services A/S,CU-4 Controller,Closed won,868500,100,2027-02-18,Miroslava Sedláčková,Denmark
+OPP-90308,Dziewior Brewery Sp. z o.o.,HX-200,Closed won,552000,100,2027-01-29,Gilles Perrin,Poland
+OPP-90309,Oulu Waterworks Oy,Service Agreement Silver,Needs analysis,1705000,25,2026-09-27,Freja Gregersen,Finland
+OPP-90310,Dam Power & Heat A/S,HX-110,Closed won,1463000,100,2026-11-05,Marius Mandl,Denmark
+OPP-90311,Samuelsson Dairy AB,HX-400,Needs analysis,1586000,25,2026-11-02,Marco Anjos,Sweden
+OPP-90312,Bilbao Process Chemicals S.A.,HX-140,Closed lost,596000,0,2027-03-05,Alexa Schlager,Spain
+OPP-90313,Oliveira Waterworks S.A.,HX-280,Closed won,285000,100,2026-06-15,Laurent Lopes,Portugal
+OPP-90314,Hautala District Heating Oyj,CU-4 Controller,Qualification,975500,10,2027-01-29,Fernando Freitas,Finland
+OPP-90315,Linke Specialty Chemicals GmbH,HX-160,Closed lost,103000,0,2027-02-12,Freja Gregersen,Germany
+OPP-90316,Guerreiro Foods S.A.,HX-600,Closed won,677000,100,2026-03-13,Miroslava Sedláčková,Portugal
+OPP-90317,Pesendorfer Mining AG,HX-110,Negotiation,1634500,70,2026-07-26,Marius Mandl,Austria
+OPP-90318,Lévy Waterworks SAS,Service Agreement Gold,Needs analysis,37500,25,2026-09-30,Karolína Matoušková,France
+OPP-90319,Järvinen Climate Systems Oy,HX-520,Closed lost,1154500,0,2026-08-14,Gilles Perrin,Finland
+OPP-90320,Loiseau Packaging SAS,HX-200,Qualification,508500,10,2026-09-26,Jiřina Tůma,France
+OPP-90321,Drubin Power & Heat GmbH,HX-160,Closed lost,1374000,0,2026-08-16,Jiřina Tůma,Germany
+OPP-90322,Lahti Resources Oy,HX-280,Proposal,887000,45,2026-02-14,Marius Mandl,Finland
+OPP-90323,Steinböck Pulp & Board GmbH,HX-160,Needs analysis,495000,25,2027-01-26,Fernando Freitas,Austria
+OPP-90324,Turku Climate Systems Oy,HX-520,Proposal,1748500,45,2027-02-25,Paweł Maciejewicz,Finland
+OPP-90325,Loiseau Packaging SAS,HX-360,Proposal,1777500,45,2026-11-27,Jiřina Tůma,France
+OPP-90326,Uppsala Process Chemicals AB,Service Agreement Gold,Proposal,633000,45,2026-12-30,Artturi Nieminen,Sweden
+OPP-90327,Olsson Brewery AB,HX-250,Negotiation,1132000,70,2026-09-06,Gilles Perrin,Sweden
+OPP-90328,Marques Minerals Lda.,HX-140,Qualification,903500,10,2026-03-01,Artturi Nieminen,Portugal
+OPP-90329,Bech Chemicals A/S,HX-320,Proposal,1576500,45,2027-02-03,Marius Mandl,Denmark
+OPP-90330,Bremen Specialty Chemicals AG,Spare Parts Kit,Closed lost,641000,0,2026-04-20,Laurent Lopes,Germany
+OPP-90331,Uppsala Water AB,CU-4 Controller,Qualification,1526000,10,2026-09-12,Miroslava Sedláčková,Sweden
+OPP-90332,Krejčová Water Services s.r.o.,HX-110,Needs analysis,1368500,25,2026-04-18,Artturi Nieminen,Czechia
+OPP-90333,Łuckiewicz Mining Sp. z o.o.,HX-160,Negotiation,1822500,70,2027-03-03,Pánfilo Lloret,Poland
+OPP-90334,Seifert Climate Systems AG,HX-110,Closed lost,680000,0,2026-01-18,Paweł Maciejewicz,Germany
+OPP-90335,Lampinen District Heating Oy,HX-520,Closed won,952000,100,2026-04-28,Fernando Freitas,Finland
+OPP-90336,Tartu Mining AS,HX-140,Needs analysis,151500,25,2027-01-14,Laurent Lopes,Estonia
+OPP-90337,Lyon Climate Systems SA,HX-400,Proposal,49000,45,2026-09-05,Aurelia Chabior,France
+OPP-90338,Rabl Mining AG,HX-110,Closed lost,713000,0,2026-12-22,Benoît Roux,Austria
+OPP-90339,Lemaire Mining SAS,HX-250,Closed won,159500,100,2026-05-09,Miroslava Sedláčková,France
+OPP-90340,Poznań Packaging Sp. z o.o.,CU-4 Controller,Needs analysis,1686000,25,2026-07-17,Benoît Roux,Poland
+OPP-90341,Rabl Mining AG,Spare Parts Kit,Negotiation,527000,70,2026-11-09,Benoît Roux,Austria
+OPP-90342,Aarhus Beverages A/S,HX-320,Proposal,549500,45,2026-09-05,Gilles Perrin,Denmark
+OPP-90343,Ostrava Mining a.s.,HX-280,Needs analysis,132000,25,2026-07-27,Artturi Nieminen,Czechia
+OPP-90344,Neubacher Beverages AG,CU-4 Controller,Proposal,766500,45,2026-08-15,Jiřina Tůma,Austria
+OPP-90345,Graz Pulp & Board GmbH,CU-4 Pro Controller,Closed lost,1052500,0,2026-02-11,Paweł Maciejewicz,Austria
+OPP-90346,Neubacher Beverages AG,Service Agreement Gold,Closed won,1652000,100,2026-03-17,Jiřina Tůma,Austria
+OPP-90347,Braga Paper Mills Lda.,Service Agreement Silver,Proposal,856000,45,2026-08-12,Artturi Nieminen,Portugal
+OPP-90348,Lahti Foods Oyj,HX-140,Closed won,1118000,100,2026-12-31,Pánfilo Lloret,Finland
+OPP-90349,Hanson District Heating AS,HX-110,Proposal,1656000,45,2026-12-30,Fernando Freitas,Estonia
+OPP-90350,Carrera Process Chemicals S.L.,HX-400,Needs analysis,1265000,25,2026-01-17,Karolína Matoušková,Spain
+OPP-90351,Tartu Climate Systems OÜ,HX-320,Needs analysis,60000,25,2026-12-09,Isabell Steinlechner,Estonia
+OPP-90352,Linz Pulp & Board AG,HX-400,Closed won,1362500,100,2026-11-27,Zuzana Navrátilová,Austria
+OPP-90353,Larsson Water Services AB,Spare Parts Kit,Closed lost,78000,0,2026-06-08,Karolína Matoušková,Sweden
+OPP-90354,Ostrava Water Services s.r.o.,HX-280,Needs analysis,189500,25,2026-09-22,Marius Mandl,Czechia
+OPP-90355,Braga Specialty Chemicals S.A.,CU-4 Controller,Needs analysis,1037000,25,2027-02-17,Fernando Freitas,Portugal
+OPP-90356,Lyon Mining SA,Service Agreement Gold,Closed won,1364500,100,2026-11-29,Marco Anjos,France
+OPP-90357,Odense Pulp & Board ApS,Service Agreement Gold,Closed won,1763000,100,2026-07-03,Gilles Perrin,Denmark
+OPP-90358,Lahti Climate Systems Oyj,HX-450,Proposal,24000,45,2026-06-16,Artturi Nieminen,Finland
+OPP-90359,Dziewior Brewery Sp. z o.o.,HX-400,Closed lost,330000,0,2026-09-06,Gilles Perrin,Poland
+OPP-90360,Sancho Packaging S.L.,HX-140,Needs analysis,1386000,25,2026-01-31,Marco Anjos,Spain
+OPP-90361,Malmö District Heating AB,HX-360,Closed lost,734000,0,2026-08-10,Freja Gregersen,Sweden
+OPP-90362,Linz Building Services GmbH,HX-520,Needs analysis,501000,25,2026-03-07,Miroslava Sedláčková,Austria
+OPP-90363,Neubacher Beverages AG,HX-200,Closed lost,1582000,0,2027-01-06,Jiřina Tůma,Austria
+OPP-90364,Krogh Minerals ApS,HX-250,Negotiation,152500,70,2027-02-10,Isabell Steinlechner,Denmark
+OPP-90365,Gdańsk Process Chemicals Sp. z o.o.,HX-320,Closed lost,1617000,0,2026-04-26,Paweł Maciejewicz,Poland
+OPP-90366,Thomsen Energy A/S,HX-400,Negotiation,1055500,70,2026-11-18,Karolína Matoušková,Denmark
+OPP-90367,Vigil Chemicals S.A.,SmartFlow Monitoring (SaaS),Needs analysis,751500,25,2026-09-22,Freja Gregersen,Spain
+OPP-90368,Trujillo Chemicals S.A.,Spare Parts Kit,Closed lost,835000,0,2026-02-03,Jiřina Tůma,Spain
+OPP-90369,Nasiadka Beverages S.A.,HX-160,Closed won,271000,100,2026-12-07,Alexa Schlager,Poland
+OPP-90370,Valencia Minerals S.L.,Spare Parts Kit,Proposal,1579500,45,2027-02-27,Pánfilo Lloret,Spain
+OPP-90371,Aarhus Building Services A/S,CU-4 Pro Controller,Proposal,165500,45,2026-08-03,Miroslava Sedláčková,Denmark
+OPP-90372,Berrocal Mining S.A.,HX-140,Needs analysis,629000,25,2026-09-30,Aurelia Chabior,Spain
+OPP-90373,Tartu Paper Mills OÜ,HX-400,Proposal,1436000,45,2026-09-15,Pánfilo Lloret,Estonia
+OPP-90374,Mörth District Heating GmbH,HX-200,Proposal,900000,45,2026-06-19,Marco Anjos,Austria
+OPP-90375,Aarhus Process Chemicals ApS,Spare Parts Kit,Closed lost,1801500,0,2026-08-07,Laurent Lopes,Denmark
+OPP-90376,Leipzig Building Services AG,HX-520,Negotiation,992500,70,2027-01-17,Artturi Nieminen,Germany
+OPP-90377,Ostrava Process Chemicals a.s.,HX-360,Negotiation,1328000,70,2026-09-30,Miroslava Sedláčková,Czechia
+OPP-90378,Hubert Packaging SA,Service Agreement Silver,Negotiation,147500,70,2026-03-23,Freja Gregersen,France
+OPP-90379,Olsen Building Services ApS,HX-160,Negotiation,1379500,70,2026-07-01,Jiřina Tůma,Denmark
+OPP-90380,Graz Mining GmbH,HX-400,Proposal,1269000,45,2026-02-18,Karolína Matoušková,Austria
+OPP-90381,Aarhus Climate Systems ApS,HX-110,Closed won,220500,100,2026-09-15,Benoît Roux,Denmark
+OPP-90382,Cegła Foods Sp. z o.o.,HX-250,Negotiation,945500,70,2026-04-27,Pánfilo Lloret,Poland
+OPP-90383,Pesonen Resources Oy,HX-320,Closed lost,662000,0,2026-09-21,Gilles Perrin,Finland
+OPP-90384,Lahti Specialty Chemicals Oyj,HX-360,Closed lost,738000,0,2026-04-04,Aurelia Chabior,Finland
+OPP-90385,Zujev Power & Heat AS,CU-4 Controller,Qualification,76500,10,2026-04-19,Karolína Matoušková,Estonia
+OPP-90386,Malmö Water AB,HX-110,Qualification,711000,10,2026-08-13,Aurelia Chabior,Sweden
+OPP-90387,Porto Pulp & Board Lda.,HX-160,Needs analysis,553000,25,2027-02-28,Marius Mandl,Portugal
+OPP-90388,Tartu Packaging AS,HX-110,Qualification,134000,10,2027-01-21,Freja Gregersen,Estonia
+OPP-90389,Carrera Process Chemicals S.L.,HX-600,Closed lost,1863500,0,2026-07-23,Karolína Matoušková,Spain
+OPP-90390,Poznań Dairy S.A.,CU-4 Controller,Closed lost,13500,0,2026-03-14,Fernando Freitas,Poland
+OPP-90391,Poznań Dairy S.A.,Service Agreement Gold,Needs analysis,1315500,25,2026-03-22,Fernando Freitas,Poland
+OPP-90392,Uppsala District Heating AB,HX-520,Qualification,169500,10,2026-02-26,Isabell Steinlechner,Sweden
+OPP-90393,Henry Paper Mills SA,HX-250,Closed lost,570500,0,2027-03-07,Laurent Lopes,France
+OPP-90394,Jędrusiak Packaging S.A.,CU-4 Controller,Negotiation,1273500,70,2026-02-05,Pánfilo Lloret,Poland
+OPP-90395,Berthelot Paper Mills SAS,HX-280,Negotiation,819500,70,2026-02-10,Jiřina Tůma,France
+OPP-90396,Peukert Packaging AG,HX-320,Proposal,968500,45,2026-12-14,Fernando Freitas,Germany
+OPP-90397,Tartu Paper Mills OÜ,HX-200,Closed lost,1293500,0,2026-04-12,Pánfilo Lloret,Estonia
+OPP-90398,Braga Resources S.A.,HX-600,Negotiation,1125500,70,2026-11-21,Jiřina Tůma,Portugal
+OPP-90399,Berrocal Mining S.A.,CU-4 Pro Controller,Qualification,1686000,10,2026-02-20,Aurelia Chabior,Spain
+OPP-90400,Vaz Water Services Lda.,HX-400,Needs analysis,781000,25,2026-06-13,Paweł Maciejewicz,Portugal
+OPP-90401,Graz Pulp & Board AG,CU-4 Pro Controller,Closed won,1078000,100,2026-09-14,Pánfilo Lloret,Austria
+OPP-90402,Tartu Mining AS,HX-400,Closed lost,786000,0,2026-06-20,Laurent Lopes,Estonia
+OPP-90403,Pinto Foods S.A.,HX-200,Proposal,909000,45,2026-09-23,Freja Gregersen,Portugal
+OPP-90404,Poznań Energy S.A.,HX-200,Negotiation,467000,70,2026-03-19,Karolína Matoušková,Poland
+OPP-90405,Barros Mining Lda.,HX-360,Negotiation,1209000,70,2027-01-15,Fernando Freitas,Portugal
+OPP-90406,Valencia Resources S.L.,HX-600,Qualification,919000,10,2026-10-22,Isabell Steinlechner,Spain
+OPP-90407,Gdańsk Packaging Sp. z o.o.,HX-360,Negotiation,887500,70,2026-01-27,Gilles Perrin,Poland
+OPP-90408,Harju Installations Oy,HX-200,Closed lost,1165000,0,2026-11-10,Marco Anjos,Finland
+OPP-90409,Turku Specialty Chemicals Oy,HX-200,Closed won,744500,100,2026-09-28,Jiřina Tůma,Finland
+OPP-90410,Lahti Minerals Oyj,SmartFlow Monitoring (SaaS),Needs analysis,1055000,25,2026-05-07,Karolína Matoušková,Finland
+OPP-90411,Bilbao Specialty Chemicals S.L.,CU-4 Controller,Proposal,524000,45,2026-08-25,Karolína Matoušková,Spain
+OPP-90412,Lahti Foods Oyj,HX-600,Negotiation,716000,70,2026-07-05,Pánfilo Lloret,Finland
+OPP-90413,Leipzig Chemicals GmbH,HX-320,Closed won,800500,100,2027-02-24,Alexa Schlager,Germany
+OPP-90414,Lund Waterworks A/S,HX-160,Qualification,1406500,10,2026-06-14,Freja Gregersen,Denmark
+OPP-90415,Moroz Power & Heat AS,Service Agreement Silver,Closed won,653000,100,2027-02-09,Benoît Roux,Estonia
+OPP-90416,Barros Mining Lda.,CU-4 Controller,Closed won,1301500,100,2026-12-28,Fernando Freitas,Portugal
+OPP-90417,Oksanen Power & Heat Oyj,HX-160,Qualification,610000,10,2026-05-17,Marius Mandl,Finland
+OPP-90418,Gdańsk Resources Sp. z o.o.,HX-250,Closed lost,648000,0,2027-01-17,Artturi Nieminen,Poland
+OPP-90419,Paffrath Pulp & Board GmbH,Service Agreement Silver,Closed lost,1532000,0,2026-08-29,Jiřina Tůma,Germany
+OPP-90420,Lahti Process Chemicals Oy,HX-400,Proposal,1584500,45,2027-01-09,Laurent Lopes,Finland
+OPP-90421,Vigil Chemicals S.A.,SmartFlow Monitoring (SaaS),Closed lost,1853500,0,2026-10-12,Freja Gregersen,Spain
+OPP-90422,Rohrer Process Chemicals GmbH,HX-280,Needs analysis,1829500,25,2026-06-18,Aurelia Chabior,Austria
+OPP-90423,Bilbao Water S.A.,HX-320,Needs analysis,457000,25,2026-05-23,Artturi Nieminen,Spain
+OPP-90424,Linz Paper Mills GmbH,HX-280,Negotiation,974500,70,2026-11-25,Laurent Lopes,Austria
+OPP-90425,Gdańsk Process Chemicals Sp. z o.o.,HX-280,Closed lost,1060500,0,2026-07-13,Paweł Maciejewicz,Poland
+OPP-90426,Calderon Climate Systems S.L.,HX-360,Needs analysis,1741500,25,2026-10-15,Alexa Schlager,Spain
+OPP-90427,Brno Foods a.s.,HX-360,Closed lost,1749500,0,2026-07-25,Isabell Steinlechner,Czechia
+OPP-90428,Cabañas Resources S.A.,CU-4 Controller,Qualification,1697500,10,2026-08-27,Artturi Nieminen,Spain
+OPP-90429,Tartu Brewery OÜ,SmartFlow Monitoring (SaaS),Closed won,831000,100,2027-01-09,Marco Anjos,Estonia
+OPP-90430,Łuckiewicz Mining Sp. z o.o.,Service Agreement Gold,Negotiation,687500,70,2026-06-05,Pánfilo Lloret,Poland
+OPP-90431,Dobes Power & Heat AG,HX-160,Negotiation,1167000,70,2026-12-20,Fernando Freitas,Germany
+OPP-90432,Tartu Brewery OÜ,HX-450,Qualification,647500,10,2026-11-10,Marco Anjos,Estonia
+OPP-90433,Odense Climate Systems A/S,HX-250,Needs analysis,309000,25,2027-01-18,Isabell Steinlechner,Denmark
+OPP-90434,Nascimento Climate Systems Lda.,Spare Parts Kit,Proposal,1528000,45,2026-12-26,Miroslava Sedláčková,Portugal
+OPP-90435,Berrocal Mining S.A.,HX-200,Closed won,1654000,100,2026-10-22,Aurelia Chabior,Spain
+OPP-90436,Gdańsk Resources Sp. z o.o.,CU-4 Pro Controller,Closed won,391000,100,2027-03-08,Artturi Nieminen,Poland
+OPP-90437,Tartu Brewery AS,HX-360,Proposal,760500,45,2026-07-12,Zuzana Navrátilová,Estonia
+OPP-90438,Ericsson Mining AB,HX-520,Closed won,405500,100,2026-06-16,Benoît Roux,Sweden
+OPP-90439,Kochman Minerals Sp. z o.o.,HX-320,Closed lost,942500,0,2027-02-09,Aurelia Chabior,Poland
+OPP-90440,Uppsala Chemicals AB,CU-4 Pro Controller,Qualification,708000,10,2026-07-12,Gilles Perrin,Sweden
+OPP-90441,Ladner Power & Heat AG,Spare Parts Kit,Negotiation,1401500,70,2026-07-14,Alexa Schlager,Austria
+OPP-90442,Odense Water ApS,Service Agreement Gold,Closed lost,1427000,0,2026-06-10,Freja Gregersen,Denmark
+OPP-90443,Oulu Pulp & Board Oyj,HX-280,Negotiation,941500,70,2026-11-04,Artturi Nieminen,Finland
+OPP-90444,Steffensen Mining A/S,CU-4 Controller,Needs analysis,471500,25,2027-01-04,Zuzana Navrátilová,Denmark
+OPP-90445,Moreira Specialty Chemicals S.A.,HX-360,Proposal,355000,45,2026-06-05,Freja Gregersen,Portugal
+OPP-90446,Pesonen Resources Oy,HX-250,Proposal,1469500,45,2026-06-18,Gilles Perrin,Finland
+OPP-90447,Braga Beverages S.A.,Service Agreement Silver,Closed won,655000,100,2027-01-17,Miroslava Sedláčková,Portugal
+OPP-90448,Brandt Energy ApS,Service Agreement Gold,Negotiation,806500,70,2026-10-13,Paweł Maciejewicz,Denmark
+OPP-90449,Pääkkönen Building Services Oyj,HX-280,Proposal,266500,45,2027-02-11,Zuzana Navrátilová,Finland
+OPP-90450,Tartu Brewery OÜ,HX-110,Proposal,1166500,45,2026-12-01,Marco Anjos,Estonia
+OPP-90451,Hubert Packaging SA,HX-520,Qualification,453500,10,2026-12-21,Freja Gregersen,France
+OPP-90452,Turku Climate Systems Oy,HX-250,Closed won,1098500,100,2027-01-23,Paweł Maciejewicz,Finland
+OPP-90453,Domingues Water Services S.A.,HX-520,Needs analysis,238000,25,2026-02-10,Zuzana Navrátilová,Portugal
+OPP-90454,Darłak Water Services S.A.,SmartFlow Monitoring (SaaS),Negotiation,957500,70,2026-12-09,Laurent Lopes,Poland
+OPP-90455,Jelínková Installations a.s.,CU-4 Pro Controller,Closed won,1481000,100,2027-02-18,Alexa Schlager,Czechia
+OPP-90456,Larsson Foods AB,SmartFlow Monitoring (SaaS),Needs analysis,378500,25,2026-11-11,Miroslava Sedláčková,Sweden
+OPP-90457,Ostrava Dairy a.s.,HX-520,Qualification,1653000,10,2026-08-09,Fernando Freitas,Czechia
+OPP-90458,Calderon Climate Systems S.L.,Spare Parts Kit,Closed won,1622000,100,2027-02-28,Alexa Schlager,Spain
+OPP-90459,Borges Building Services S.A.,HX-400,Proposal,850500,45,2026-06-12,Jiřina Tůma,Portugal
+OPP-90460,Olsson Brewery AB,HX-320,Negotiation,1566500,70,2026-07-25,Gilles Perrin,Sweden
+OPP-90461,Neubacher Beverages AG,HX-140,Closed lost,1015500,0,2026-06-20,Jiřina Tůma,Austria
+OPP-90462,Saarinen Power & Heat Oy,SmartFlow Monitoring (SaaS),Proposal,1862000,45,2026-12-13,Gilles Perrin,Finland
+OPP-90463,Aarhus Pulp & Board A/S,HX-110,Proposal,582500,45,2026-07-26,Laurent Lopes,Denmark
+OPP-90464,Wimmer Process Chemicals GmbH,Service Agreement Silver,Negotiation,851000,70,2026-07-17,Karolína Matoušková,Austria
+OPP-90465,Aarhus Building Services A/S,SmartFlow Monitoring (SaaS),Closed lost,1039500,0,2026-05-02,Miroslava Sedláčková,Denmark
+OPP-90466,Tooming Energy AS,SmartFlow Monitoring (SaaS),Closed lost,274500,0,2026-06-28,Artturi Nieminen,Estonia
+OPP-90467,Carrera Process Chemicals S.L.,HX-450,Closed lost,401000,0,2026-03-01,Karolína Matoušková,Spain
+OPP-90468,Täht Power & Heat AS,HX-360,Closed lost,435500,0,2026-03-31,Marius Mandl,Estonia
+OPP-90469,Tartu Mining AS,CU-4 Controller,Closed lost,185500,0,2026-11-12,Laurent Lopes,Estonia
+OPP-90470,Bremen District Heating AG,HX-280,Closed won,913500,100,2026-02-16,Benoît Roux,Germany
+OPP-90471,Mattila Beverages Oyj,HX-280,Needs analysis,177000,25,2026-02-26,Paweł Maciejewicz,Finland
+OPP-90472,Peukert Packaging AG,CU-4 Pro Controller,Closed lost,1668500,0,2026-11-11,Fernando Freitas,Germany
+OPP-90473,Täht Power & Heat AS,HX-140,Closed won,281000,100,2026-06-09,Marius Mandl,Estonia
+OPP-90474,Leipzig Process Chemicals GmbH,HX-140,Negotiation,1117500,70,2026-06-02,Gilles Perrin,Germany
+OPP-90475,Ericsson Mining AB,HX-140,Proposal,418000,45,2026-07-23,Benoît Roux,Sweden
+OPP-90476,Gaudin Installations SAS,Service Agreement Silver,Proposal,1437500,45,2026-03-14,Gilles Perrin,France
+OPP-90477,Bremen Paper Mills AG,HX-320,Proposal,1494000,45,2026-09-07,Miroslava Sedláčková,Germany
+OPP-90478,Malmö Water AB,HX-400,Negotiation,80000,70,2026-05-13,Aurelia Chabior,Sweden
+OPP-90479,Poznań Dairy S.A.,Service Agreement Gold,Proposal,724000,45,2027-02-01,Fernando Freitas,Poland
+OPP-90480,Tartu Beverages AS,Service Agreement Gold,Needs analysis,909500,25,2027-03-08,Benoît Roux,Estonia
+OPP-90481,Gdańsk Process Chemicals Sp. z o.o.,HX-280,Closed won,1140000,100,2026-11-11,Paweł Maciejewicz,Poland
+OPP-90482,Oulu Waterworks Oy,HX-600,Proposal,1238000,45,2026-11-19,Freja Gregersen,Finland
+OPP-90483,Graz Pulp & Board GmbH,HX-600,Qualification,121500,10,2026-05-10,Paweł Maciejewicz,Austria
+OPP-90484,Ostrava Mining a.s.,Service Agreement Gold,Qualification,531500,10,2026-07-02,Artturi Nieminen,Czechia
+OPP-90485,Aarhus Building Services A/S,CU-4 Controller,Proposal,1074500,45,2026-08-04,Miroslava Sedláčková,Denmark
+OPP-90486,Malmö Beverages AB,HX-140,Closed won,70000,100,2026-01-16,Paweł Maciejewicz,Sweden
+OPP-90487,Uppsala Paper Mills AB,HX-400,Closed lost,769500,0,2026-06-07,Marco Anjos,Sweden
+OPP-90488,Madrigal Beverages S.A.,SmartFlow Monitoring (SaaS),Qualification,1369500,10,2026-12-27,Fernando Freitas,Spain
+OPP-90489,Leipzig Minerals GmbH,HX-250,Proposal,153500,45,2026-11-30,Miroslava Sedláčková,Germany
+OPP-90490,Brno Foods a.s.,HX-200,Closed won,449000,100,2026-12-19,Isabell Steinlechner,Czechia
+OPP-90491,Cano Power & Heat S.A.,HX-110,Closed lost,123500,0,2026-03-10,Gilles Perrin,Spain
+OPP-90492,Moroz Power & Heat AS,HX-450,Closed won,1878500,100,2026-08-23,Benoît Roux,Estonia
+OPP-90493,Lyon Minerals SAS,HX-600,Closed won,315500,100,2026-10-14,Fernando Freitas,France
+OPP-90494,Moura Installations S.A.,HX-520,Negotiation,447500,70,2026-05-12,Benoît Roux,Portugal
+OPP-90495,Lindfors Waterworks Oy,Spare Parts Kit,Closed lost,1650000,0,2026-12-11,Isabell Steinlechner,Finland
+OPP-90496,Berrocal Mining S.A.,CU-4 Controller,Closed lost,1434500,0,2026-01-23,Aurelia Chabior,Spain
+OPP-90497,Rivero Energy S.A.,HX-140,Qualification,441500,10,2026-04-01,Miroslava Sedláčková,Spain
+OPP-90498,Bremen Power & Heat GmbH,HX-110,Negotiation,1085500,70,2026-11-02,Fernando Freitas,Germany
+OPP-90499,Borges Building Services S.A.,HX-520,Closed won,849000,100,2026-04-11,Jiřina Tůma,Portugal
+OPP-90500,Leipzig Building Services AG,HX-400,Closed won,237000,100,2027-01-03,Artturi Nieminen,Germany
+OPP-90501,Pääkkönen Building Services Oyj,HX-450,Qualification,368500,10,2026-09-22,Zuzana Navrátilová,Finland
+OPP-90502,Kristoffersen Energy A/S,HX-110,Proposal,1348000,45,2026-12-29,Marco Anjos,Denmark
+OPP-90503,Oulu Pulp & Board Oyj,SmartFlow Monitoring (SaaS),Negotiation,1823500,70,2027-03-07,Artturi Nieminen,Finland
+OPP-90504,Uppsala Building Services AB,HX-520,Closed lost,1343000,0,2026-07-05,Benoît Roux,Sweden
+OPP-90505,Blanchet Climate Systems SA,HX-110,Closed lost,1369500,0,2026-11-17,Miroslava Sedláčková,France
+OPP-90506,Saarinen Power & Heat Oy,HX-520,Qualification,1480000,10,2026-08-10,Gilles Perrin,Finland
+OPP-90507,Mustonen Water Oy,HX-280,Closed lost,1531000,0,2026-02-08,Fernando Freitas,Finland
+OPP-90508,Guerreiro Foods S.A.,HX-600,Negotiation,1525000,70,2027-02-06,Miroslava Sedláčková,Portugal
+OPP-90509,Valencia Packaging S.L.,HX-140,Closed lost,1576000,0,2026-03-23,Artturi Nieminen,Spain
+OPP-90510,Odense Pulp & Board ApS,HX-160,Closed won,1666500,100,2026-08-07,Gilles Perrin,Denmark
+OPP-90511,Ladner Power & Heat AG,SmartFlow Monitoring (SaaS),Needs analysis,1668500,25,2026-09-01,Alexa Schlager,Austria
+OPP-90512,Ostrava Water Services a.s.,SmartFlow Monitoring (SaaS),Negotiation,1520500,70,2026-06-05,Freja Gregersen,Czechia
+OPP-90513,Bremen Specialty Chemicals AG,HX-360,Closed lost,918500,0,2026-05-09,Laurent Lopes,Germany
+OPP-90514,Zujev Resources AS,HX-200,Proposal,1144500,45,2026-09-21,Zuzana Navrátilová,Estonia
+OPP-90515,Lyon Water SAS,HX-360,Qualification,1092000,10,2026-08-10,Jiřina Tůma,France
+OPP-90516,Thomsen Energy A/S,HX-200,Negotiation,350000,70,2026-09-02,Karolína Matoušková,Denmark
+OPP-90517,Graz Power & Heat AG,CU-4 Pro Controller,Qualification,1541000,10,2026-10-20,Pánfilo Lloret,Austria
+OPP-90518,Gdańsk Water Services S.A.,HX-520,Needs analysis,1260500,25,2026-02-01,Aurelia Chabior,Poland
+OPP-90519,Braga Water S.A.,Spare Parts Kit,Needs analysis,732000,25,2026-03-29,Isabell Steinlechner,Portugal
+OPP-90520,Bremen Specialty Chemicals AG,Service Agreement Silver,Closed won,1333000,100,2026-02-23,Laurent Lopes,Germany
+OPP-90521,Valencia Power & Heat S.L.,CU-4 Controller,Qualification,1879500,10,2026-07-29,Karolína Matoušková,Spain
+OPP-90522,Heredia Building Services S.L.,HX-110,Negotiation,941500,70,2026-12-06,Jiřina Tůma,Spain
+OPP-90523,Steinböck Pulp & Board GmbH,CU-4 Controller,Closed lost,1734500,0,2026-04-04,Fernando Freitas,Austria
+OPP-90524,Samuelsson Dairy AB,SmartFlow Monitoring (SaaS),Proposal,881000,45,2026-03-02,Marco Anjos,Sweden
+OPP-90525,Turku Mining Oy,HX-400,Needs analysis,192000,25,2026-03-30,Artturi Nieminen,Finland
+OPP-90526,Bremen Specialty Chemicals AG,CU-4 Pro Controller,Qualification,421500,10,2026-05-02,Laurent Lopes,Germany
+OPP-90527,Turku Water Oy,HX-320,Needs analysis,430000,25,2026-11-25,Marco Anjos,Finland
+OPP-90528,Uppsala Water Services AB,SmartFlow Monitoring (SaaS),Qualification,262000,10,2026-12-23,Laurent Lopes,Sweden
+OPP-90529,Braga Paper Mills Lda.,HX-600,Closed lost,1415000,0,2026-03-09,Artturi Nieminen,Portugal
+OPP-90530,Valencia Energy S.A.,CU-4 Pro Controller,Closed lost,641000,0,2026-08-27,Paweł Maciejewicz,Spain
+OPP-90531,Bilbao Packaging S.L.,HX-280,Negotiation,1068000,70,2026-02-21,Gilles Perrin,Spain
+OPP-90532,Sainz District Heating S.A.,HX-140,Needs analysis,1806000,25,2026-02-13,Paweł Maciejewicz,Spain
+OPP-90533,Nantes District Heating SAS,Spare Parts Kit,Proposal,628000,45,2026-07-09,Alexa Schlager,France
+OPP-90534,Graz Energy GmbH,HX-280,Needs analysis,250000,25,2026-01-24,Jiřina Tůma,Austria
+OPP-90535,Paffrath Pulp & Board GmbH,Service Agreement Gold,Qualification,821500,10,2026-08-24,Jiřina Tůma,Germany
+OPP-90536,Gdańsk Water Services S.A.,Service Agreement Silver,Needs analysis,1878000,25,2026-02-08,Aurelia Chabior,Poland
+OPP-90537,Lahti Specialty Chemicals Oyj,HX-200,Proposal,407000,45,2026-03-02,Aurelia Chabior,Finland
+OPP-90538,Porto Installations S.A.,Service Agreement Silver,Proposal,1806000,45,2026-10-31,Fernando Freitas,Portugal
+OPP-90539,Mikk Pulp & Board OÜ,Service Agreement Gold,Closed won,9000,100,2026-11-29,Paweł Maciejewicz,Estonia

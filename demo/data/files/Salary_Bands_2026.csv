@@ -1,0 +1,8 @@
+grade,level_description,min_eur,midpoint_eur,max_eur
+E1,Executive,210000,300000,420000
+M1,Head of function,125000,155000,190000
+P3,Senior professional,78000,96000,118000
+P2,Professional,56000,68000,82000
+P1,Associate,42000,50000,60000
+S3,Senior technician,38000,45000,52000
+S2,Technician / operator,31000,36000,42000

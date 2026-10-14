@@ -1,0 +1,241 @@
+employee_id,name,department,manager,rating,potential,flight_risk,merit_increase
+E10064,Niklas Nieminen,Legal & Compliance,Oskari Martikainen,3 - Meets,High,No,5%
+E10107,Christine Bonnet,Operations,Vito Draxler,4 - Exceeds,Low,No,3%
+E10646,Jukka Ketola,Marketing,Gabriel Eisner,3 - Meets,High,Yes,2%
+E10033,Perla Pera,Operations,Vito Draxler,3 - Meets,High,No,5%
+E10453,Nina Kronsteiner,Operations,Vito Draxler,3 - Meets,Medium,Yes,3%
+E10329,Bohumír Dostál,Operations,Vito Draxler,3 - Meets,Medium,No,3%
+E10634,Olavi Kortelainen,IT,Emmi Rantanen,3 - Meets,Medium,No,0%
+E10598,Palle Thomsen,Operations,Vito Draxler,4 - Exceeds,High,No,3.5%
+E10569,Madalena Teixeira,Finance,Anna Kuisma,3 - Meets,Low,Yes,3.5%
+E10629,Denise Fabre,Engineering,Jenni Kauppinen,4 - Exceeds,Medium,No,5%
+E10278,Martine Charrier,Quality,Cyprian Piguła,3 - Meets,High,No,3%
+E10620,Annabelle Santner,Operations,Vito Draxler,3 - Meets,High,No,5%
+E10291,Luna Neto,Human Resources,Aage Kristiansen,3 - Meets,Low,No,3.5%
+E10512,Susan Lucas,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,2.5%
+E10031,Eemeli Mäntylä,Operations,Vito Draxler,4 - Exceeds,Low,No,0%
+E10460,Airi Salo,Procurement,Trine Søndergaard,5 - Outstanding,High,No,3%
+E10465,Alice Magalhães,Finance,Anna Kuisma,3 - Meets,High,Yes,0%
+E10304,Jussi Karppinen,IT,Emmi Rantanen,4 - Exceeds,Low,No,3.5%
+E10264,Brigitte Diallo,Operations,Vito Draxler,4 - Exceeds,Medium,No,2.5%
+E10164,Ragnar Pedersen,Engineering,Jenni Kauppinen,3 - Meets,High,No,3%
+E10482,Nicole Pereira,Operations,Vito Draxler,3 - Meets,Low,No,3.5%
+E10186,Victor Normand,Operations,Vito Draxler,3 - Meets,Medium,No,3.5%
+E10518,André Clerc,Operations,Vito Draxler,4 - Exceeds,Low,No,4%
+E10614,Kurt Andresen,Operations,Vito Draxler,3 - Meets,Medium,No,3%
+E10573,Tanja Rasmussen,Quality,Cyprian Piguła,5 - Outstanding,Medium,No,2.5%
+E10384,Juhani Järvinen,Operations,Vito Draxler,3 - Meets,Low,Yes,2%
+E10244,Naděžda Kopecký,Quality,Cyprian Piguła,4 - Exceeds,Medium,Yes,2.5%
+E10590,Adrianna Cegła,Sales,Tymoteusz Lizoń,3 - Meets,High,Yes,3%
+E10259,Mira Piirainen,Sales,Tymoteusz Lizoń,5 - Outstanding,Medium,No,5%
+E10535,Aurelia Toczko,Operations,Vito Draxler,2 - Partly meets,Low,No,3%
+E10381,Robin Strnad,Operations,Vito Draxler,3 - Meets,High,No,0%
+E10203,Bernardo Amaral,Operations,Vito Draxler,3 - Meets,Medium,No,5%
+E10166,Goyo Calzada,Engineering,Jenni Kauppinen,3 - Meets,Low,No,2%
+E10599,Jaime Matos,Procurement,Trine Søndergaard,4 - Exceeds,High,No,3%
+E10412,Anton Holappa,IT,Emmi Rantanen,3 - Meets,Low,No,3.5%
+E10389,Eemeli Soini,Human Resources,Aage Kristiansen,3 - Meets,Low,No,2%
+E10034,Karolína Matoušková,Sales,Tymoteusz Lizoń,3 - Meets,Medium,No,3%
+E10509,Susanna Kuronen,Operations,Vito Draxler,4 - Exceeds,Medium,No,2.5%
+E10043,Olivia Kuusela,Finance,Anna Kuisma,3 - Meets,Low,No,3%
+E10047,Sebastian Szyda,Marketing,Gabriel Eisner,3 - Meets,High,No,0%
+E10134,Luis Bayer,Quality,Cyprian Piguła,3 - Meets,Medium,Yes,0%
+E10609,Maria Jokinen,Human Resources,Aage Kristiansen,3 - Meets,High,No,2.5%
+E10193,Nicole Wyrostek,Legal & Compliance,Oskari Martikainen,3 - Meets,High,No,2%
+E10401,Johanna Jussila,Finance,Anna Kuisma,3 - Meets,Low,No,5%
+E10191,Ebbe Bech,Quality,Cyprian Piguła,3 - Meets,Medium,No,3.5%
+E10239,Catherine Roche,Operations,Vito Draxler,4 - Exceeds,Medium,Yes,3%
+E10263,Pasi Hannula,Legal & Compliance,Oskari Martikainen,5 - Outstanding,Medium,No,4%
+E10105,Kacper Pryk,Marketing,Gabriel Eisner,4 - Exceeds,Low,No,4%
+E10220,Pánfilo Lloret,Sales,Tymoteusz Lizoń,3 - Meets,Low,No,3.5%
+E10305,Marjatta Miettinen,Sales,Tymoteusz Lizoń,2 - Partly meets,High,No,3%
+E10322,Marika Kołak,Marketing,Gabriel Eisner,4 - Exceeds,Low,No,0%
+E10280,Kristiina Lappalainen,Procurement,Trine Søndergaard,3 - Meets,High,Yes,3%
+E10428,Joona Järvinen,Legal & Compliance,Oskari Martikainen,3 - Meets,Low,No,0%
+E10018,Trine Søndergaard,Procurement,Maria Peltoniemi,3 - Meets,Medium,No,3%
+E10336,Krystian Kluj,Operations,Vito Draxler,4 - Exceeds,Medium,No,5%
+E10386,Emil Wydmuch,Operations,Vito Draxler,3 - Meets,Low,No,2%
+E10028,Ester Kříž,Operations,Vito Draxler,3 - Meets,Medium,No,2%
+E10287,Marius Mandl,Sales,Tymoteusz Lizoń,3 - Meets,Low,Yes,3%
+E10429,Ignác Vítková,Quality,Cyprian Piguła,3 - Meets,Medium,No,5%
+E10393,Hellevi Koski,Human Resources,Aage Kristiansen,3 - Meets,Medium,No,3%
+E10104,Beth Poulsen,Sales,Tymoteusz Lizoń,3 - Meets,High,No,3.5%
+E10352,Johannes Häkkinen,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,4%
+E10086,Johanna Koski,Operations,Vito Draxler,3 - Meets,High,Yes,0%
+E10612,Margot Blanchard,Operations,Vito Draxler,4 - Exceeds,Medium,Yes,3%
+E10373,Susanna Nieminen,Operations,Vito Draxler,3 - Meets,High,No,2.5%
+E10539,Jiřina Tůma,Sales,Tymoteusz Lizoń,3 - Meets,High,No,0%
+E10222,Calvin Stern,Sales,Tymoteusz Lizoń,5 - Outstanding,Medium,No,5%
+E10476,Fryderyk Drygas,Operations,Vito Draxler,1 - Below,High,No,3%
+E10597,Yasmina Feigl,Operations,Vito Draxler,5 - Outstanding,Low,No,3%
+E10277,Emília Nascimento,Human Resources,Aage Kristiansen,2 - Partly meets,High,No,3.5%
+E10504,Sirkka Makkonen,Operations,Vito Draxler,3 - Meets,Low,Yes,5%
+E10399,Andrée Gaudin,Operations,Vito Draxler,4 - Exceeds,Medium,No,5%
+E10083,Nicole Klemczak,Sales,Tymoteusz Lizoń,3 - Meets,Low,Yes,3.5%
+E10257,Tapani Hakala,Human Resources,Aage Kristiansen,3 - Meets,High,No,0%
+E10588,Luciana Ortega,Engineering,Jenni Kauppinen,4 - Exceeds,High,No,3.5%
+E10623,Francisco Jose Millán,Engineering,Jenni Kauppinen,4 - Exceeds,Medium,Yes,2.5%
+E10436,Olgierd Molga,Legal & Compliance,Oskari Martikainen,3 - Meets,Low,No,3.5%
+E10229,Petri Karhunen,Procurement,Trine Søndergaard,3 - Meets,Medium,No,5%
+E10397,Miroslav Janečková,Operations,Vito Draxler,5 - Outstanding,Low,Yes,0%
+E10471,Jean Lemaire,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,4%
+E10364,Paul Eriksen,Engineering,Jenni Kauppinen,3 - Meets,Low,No,3.5%
+E10066,Dita Kubíček,Operations,Vito Draxler,3 - Meets,Low,Yes,2%
+E10456,Fernando Machado,Procurement,Trine Søndergaard,4 - Exceeds,Medium,No,3.5%
+E10236,Poul Rasmussen,Operations,Vito Draxler,3 - Meets,Medium,No,3%
+E10537,Elżbieta Woszczak,Engineering,Jenni Kauppinen,3 - Meets,High,No,0%
+E10464,Wojciech Heinrich,Engineering,Jenni Kauppinen,3 - Meets,Medium,Yes,3.5%
+E10395,Marcelina Proć,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,0%
+E10042,Fiona Hemetsberger,Operations,Vito Draxler,3 - Meets,Medium,Yes,2%
+E10420,Tonny Petersen,Operations,Vito Draxler,3 - Meets,High,No,3.5%
+E10285,Aitana Aguilera,Quality,Cyprian Piguła,3 - Meets,High,Yes,3.5%
+E10122,Ari Vainio,Human Resources,Aage Kristiansen,4 - Exceeds,High,Yes,4%
+E10040,Alexandre Pinheiro,Quality,Cyprian Piguła,4 - Exceeds,Low,No,3%
+E10566,Rémy Masse,Operations,Vito Draxler,3 - Meets,Low,No,3%
+E10362,Roldán Miralles,Engineering,Jenni Kauppinen,3 - Meets,High,Yes,5%
+E10443,Clara Krenn,Operations,Vito Draxler,3 - Meets,Medium,Yes,3%
+E10376,Maks Świerad,Finance,Anna Kuisma,4 - Exceeds,Low,No,2%
+E10441,Olivia Aramburu,Operations,Vito Draxler,3 - Meets,Medium,No,2.5%
+E10068,Aurelia Chabior,Sales,Tymoteusz Lizoń,3 - Meets,Low,No,2.5%
+E10492,Antero Holmström,IT,Emmi Rantanen,2 - Partly meets,High,Yes,3%
+E10217,Teresa Figueiredo,Engineering,Jenni Kauppinen,4 - Exceeds,High,No,3%
+E10013,Tymoteusz Lizoń,Sales,Jarmo Pesonen,4 - Exceeds,High,No,3%
+E10032,Cathrine Johnsen,Engineering,Jenni Kauppinen,3 - Meets,Low,Yes,0%
+E10547,Jouko Lehtimäki,Quality,Cyprian Piguła,3 - Meets,Low,No,0%
+E10615,Julianna Szczesiak,Operations,Vito Draxler,3 - Meets,Low,No,3.5%
+E10332,Ensio Valtonen,Finance,Anna Kuisma,4 - Exceeds,High,No,2.5%
+E10382,Jacek Hetmańczyk,Marketing,Gabriel Eisner,3 - Meets,High,Yes,3%
+E10131,Jolana Valentová,Engineering,Jenni Kauppinen,3 - Meets,Medium,Yes,4%
+E10017,Cyprian Piguła,Quality,Maria Peltoniemi,4 - Exceeds,Low,Yes,2.5%
+E10639,Pirjo Nissinen,Sales,Tymoteusz Lizoń,5 - Outstanding,High,No,2.5%
+E10469,Victoria Arjona,Operations,Vito Draxler,5 - Outstanding,High,No,4%
+E10450,Dafne Zurita,Operations,Vito Draxler,3 - Meets,Low,No,3.5%
+E10554,Blanka Sado,Quality,Cyprian Piguła,3 - Meets,High,No,4%
+E10577,Xavier Santos,Marketing,Gabriel Eisner,3 - Meets,Low,Yes,4%
+E10630,Johanne Frandsen,Quality,Cyprian Piguła,3 - Meets,High,Yes,4%
+E10390,Sandra Drążyk,Engineering,Jenni Kauppinen,4 - Exceeds,High,Yes,4%
+E10611,Grzegorz Zapaśnik,Operations,Vito Draxler,3 - Meets,High,Yes,3%
+E10012,Vito Draxler,Operations,Ilari Pesonen,3 - Meets,Medium,No,0%
+E10558,Anna-Liisa Ikonen,Procurement,Trine Søndergaard,5 - Outstanding,Low,Yes,3.5%
+E10039,Libuše Pavlíková,Operations,Vito Draxler,4 - Exceeds,Low,Yes,2.5%
+E10431,Éléonore Camus,Sales,Tymoteusz Lizoń,2 - Partly meets,Low,No,0%
+E10439,Kristian Schramm,Quality,Cyprian Piguła,4 - Exceeds,High,No,5%
+E10635,Juhani Koskela,Procurement,Trine Søndergaard,4 - Exceeds,High,No,4%
+E10243,Roosa Virtanen,Human Resources,Aage Kristiansen,3 - Meets,High,No,3%
+E10501,Aurora Heikkilä,IT,Emmi Rantanen,2 - Partly meets,Low,No,0%
+E10156,Arne Holm,Engineering,Jenni Kauppinen,5 - Outstanding,Medium,No,3%
+E10188,Leander Heger,Operations,Vito Draxler,2 - Partly meets,Medium,No,5%
+E10045,Mikael Koivisto,Operations,Vito Draxler,2 - Partly meets,Low,No,2.5%
+E10546,Jozef Horáček,Operations,Vito Draxler,3 - Meets,High,Yes,4%
+E10283,Irene Lindqvist,IT,Emmi Rantanen,4 - Exceeds,High,No,3.5%
+E10077,Paula Carbonell,Sales,Tymoteusz Lizoń,3 - Meets,Low,No,2%
+E10204,Ilmari Kuisma,Legal & Compliance,Oskari Martikainen,5 - Outstanding,High,No,3.5%
+E10337,Jacinta Bru,Operations,Vito Draxler,3 - Meets,Low,No,4%
+E10195,Laurent Fouquet,Operations,Vito Draxler,3 - Meets,High,No,3%
+E10583,Marek Witaszek,Finance,Anna Kuisma,4 - Exceeds,Medium,No,2%
+E10489,Jiří Soukup,Quality,Cyprian Piguła,3 - Meets,Medium,No,3.5%
+E10202,Elisabeth Laukkanen,Procurement,Trine Søndergaard,3 - Meets,High,No,4%
+E10090,Przemysław Nowotny,Operations,Vito Draxler,3 - Meets,High,No,2%
+E10002,Ilari Pesonen,Operations,Maria Peltoniemi,4 - Exceeds,High,Yes,3.5%
+E10224,Beatriz Magalhães,Finance,Anna Kuisma,4 - Exceeds,High,No,3%
+E10427,Tola Kurtyka,Engineering,Jenni Kauppinen,4 - Exceeds,High,No,3.5%
+E10369,Anouk Laroche,Operations,Vito Draxler,4 - Exceeds,Low,No,3.5%
+E10225,Evelyn Froschauer,Engineering,Jenni Kauppinen,3 - Meets,Low,No,0%
+E10321,Miriam Marques,Finance,Anna Kuisma,4 - Exceeds,High,No,3%
+E10071,Sarah Christiansen,Quality,Cyprian Piguła,4 - Exceeds,Low,No,3.5%
+E10067,Olga Duszczak,Marketing,Gabriel Eisner,5 - Outstanding,High,Yes,4%
+E10543,Elżbieta Oleszczak,IT,Emmi Rantanen,5 - Outstanding,Medium,No,3%
+E10327,Heidi Penttilä,Legal & Compliance,Oskari Martikainen,4 - Exceeds,High,Yes,5%
+E10095,Sophia Hofstätter,Operations,Vito Draxler,3 - Meets,Low,Yes,3.5%
+E10544,Verneri Martikainen,Human Resources,Aage Kristiansen,4 - Exceeds,Low,No,3%
+E10377,Jacqueline Marion,Engineering,Jenni Kauppinen,3 - Meets,High,Yes,4%
+E10624,Mathilde Daniel,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,4%
+E10198,Alina Vainio,Legal & Compliance,Oskari Martikainen,3 - Meets,Medium,No,3.5%
+E10300,Sinikka Myllymäki,Finance,Anna Kuisma,4 - Exceeds,High,Yes,3%
+E10593,Freja Gregersen,Sales,Tymoteusz Lizoń,4 - Exceeds,Medium,Yes,3%
+E10218,Kimmo Nieminen,Procurement,Trine Søndergaard,3 - Meets,Medium,No,5%
+E10161,Susanne Da Costa,Sales,Tymoteusz Lizoń,3 - Meets,Low,No,4%
+E10021,Gyda Kristiansen,Operations,Vito Draxler,4 - Exceeds,Low,Yes,3%
+E10345,Filipa Miranda,Legal & Compliance,Oskari Martikainen,3 - Meets,High,No,0%
+E10260,Ragnhild Jeppesen,Operations,Vito Draxler,3 - Meets,Medium,No,0%
+E10146,Ignác Ježková,Engineering,Jenni Kauppinen,4 - Exceeds,High,Yes,3.5%
+E10271,Bernard Da Silva,Operations,Vito Draxler,3 - Meets,Low,No,4%
+E10265,Marja Nurmi,IT,Emmi Rantanen,3 - Meets,High,No,3%
+E10208,Martti Mäkelä,Quality,Cyprian Piguła,5 - Outstanding,High,No,4%
+E10477,Isabella Gross,Operations,Vito Draxler,3 - Meets,Low,No,3%
+E10292,Henrikki Varis,Operations,Vito Draxler,4 - Exceeds,High,No,3.5%
+E10038,Sørine Bruun,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,0%
+E10467,Odalys Amo,Operations,Vito Draxler,3 - Meets,Medium,Yes,3%
+E10053,Lucie Fiala,Engineering,Jenni Kauppinen,4 - Exceeds,Medium,No,3.5%
+E10274,Édouard Ollivier,Operations,Vito Draxler,3 - Meets,Low,No,5%
+E10209,Albert Zeman,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,4%
+E10258,Karina Żyrek,Engineering,Jenni Kauppinen,3 - Meets,Medium,No,3%
+E10000,Maria Peltoniemi,Executive Office,Board of Directors,3 - Meets,High,Yes,5%
+E10418,Kyllikki Valkonen,Executive Office,Hannele Turunen,3 - Meets,High,No,2%
+E10500,Marek Misior,Legal & Compliance,Oskari Martikainen,3 - Meets,Medium,No,2.5%
+E10331,Irmeli Laakso,Operations,Vito Draxler,4 - Exceeds,Medium,No,3%
+E10499,Olgierd Parkitna,Operations,Vito Draxler,3 - Meets,Medium,No,0%
+E10355,Miroslava Sedláčková,Sales,Tymoteusz Lizoń,3 - Meets,Low,No,3%
+E10328,Juan Francisco Marti,Operations,Vito Draxler,3 - Meets,Low,No,4%
+E10419,Frederico Moreira,Marketing,Gabriel Eisner,4 - Exceeds,Low,No,3.5%
+E10454,Tola Łokietek,IT,Emmi Rantanen,5 - Outstanding,Low,No,3%
+E10015,Oskari Martikainen,Legal & Compliance,Anne Laakkonen,3 - Meets,Medium,Yes,3%
+E10139,Ilmari Laurila,Human Resources,Aage Kristiansen,3 - Meets,Medium,No,5%
+E10480,Axel Glatz,Operations,Vito Draxler,2 - Partly meets,Medium,Yes,2.5%
+E10121,Borys Skomra,Operations,Vito Draxler,3 - Meets,Low,No,3%
+E10148,Matthias Haid,Engineering,Jenni Kauppinen,5 - Outstanding,High,No,3%
+E10245,Denise Röck,Operations,Vito Draxler,3 - Meets,Medium,No,0%
+E10448,Beth Danielsen,Quality,Cyprian Piguła,4 - Exceeds,High,No,3%
+E10557,Antoni Hajder,Operations,Vito Draxler,4 - Exceeds,Low,No,5%
+E10008,Hannele Turunen,Executive Office,Maria Peltoniemi,3 - Meets,Low,No,5%
+E10649,Adalberto Peral,Engineering,Jenni Kauppinen,3 - Meets,High,Yes,4%
+E10523,Inkeri Karjalainen,Human Resources,Aage Kristiansen,4 - Exceeds,High,No,2.5%
+E10640,Martirio Llorente,Engineering,Jenni Kauppinen,4 - Exceeds,High,Yes,2.5%
+E10087,Teodora Puga,Quality,Cyprian Piguła,3 - Meets,High,No,5%
+E10648,Christiane Lebreton,Engineering,Jenni Kauppinen,3 - Meets,Low,No,3.5%
+E10571,Anaïs Alves,Quality,Cyprian Piguła,3 - Meets,Medium,No,3%
+E10426,Chus Leon,Quality,Cyprian Piguła,4 - Exceeds,High,No,4%
+E10007,Anne Laakkonen,Legal & Compliance,Maria Peltoniemi,3 - Meets,Medium,No,3.5%
+E10241,Sara Loureiro,Executive Office,Hannele Turunen,4 - Exceeds,Medium,Yes,3%
+E10637,Mirjami Nurmi,IT,Emmi Rantanen,2 - Partly meets,Low,No,2%
+E10221,Lilja Berg,Marketing,Gabriel Eisner,2 - Partly meets,Low,No,2.5%
+E10194,Katriina Markkanen,Executive Office,Hannele Turunen,3 - Meets,High,No,3%
+E10470,Sascha Platzer,Quality,Cyprian Piguła,4 - Exceeds,High,No,4%
+E10240,Veera Sutinen,Engineering,Jenni Kauppinen,4 - Exceeds,Medium,No,5%
+E10026,Matias Hakala,Marketing,Gabriel Eisner,4 - Exceeds,Medium,Yes,2.5%
+E10297,Marcial Ferrándiz,Operations,Vito Draxler,3 - Meets,High,No,2.5%
+E10168,Sanna Silvennoinen,IT,Emmi Rantanen,4 - Exceeds,Low,No,2%
+E10505,Ricardo Alves,Operations,Vito Draxler,4 - Exceeds,Medium,No,3%
+E10235,Olivia Riedl,Operations,Vito Draxler,4 - Exceeds,Low,No,2.5%
+E10636,Kerttu Korhonen,Marketing,Gabriel Eisner,3 - Meets,Medium,Yes,4%
+E10432,Julianna Chwalisz,Operations,Vito Draxler,3 - Meets,High,No,3.5%
+E10335,Arvo Kuusisto,Finance,Anna Kuisma,3 - Meets,High,No,2%
+E10628,Augustin Daniel,Engineering,Jenni Kauppinen,2 - Partly meets,Medium,No,0%
+E10534,Mikuláš Bartošová,Engineering,Jenni Kauppinen,4 - Exceeds,Low,No,3%
+E10282,Merja Eklund,Marketing,Gabriel Eisner,3 - Meets,Low,Yes,3%
+E10481,Tommy Friis,Quality,Cyprian Piguła,3 - Meets,High,Yes,3%
+E10130,Johanna Keskinen,IT,Emmi Rantanen,4 - Exceeds,Low,Yes,4%
+E10100,Ludvig Steffensen,Sales,Tymoteusz Lizoń,4 - Exceeds,Medium,No,3%
+E10089,Elżbieta Kaczka,Human Resources,Aage Kristiansen,3 - Meets,Medium,No,4%
+E10507,Martim Pinho,IT,Emmi Rantanen,3 - Meets,High,Yes,2%
+E10357,Sára Kučera,Operations,Vito Draxler,5 - Outstanding,Medium,No,2.5%
+E10379,Bartek Uroda,Quality,Cyprian Piguła,3 - Meets,Low,Yes,3%
+E10058,Ryszard Przeklasa,Marketing,Gabriel Eisner,3 - Meets,Low,Yes,5%
+E10029,Inês Ribeiro,Operations,Vito Draxler,3 - Meets,Low,Yes,2.5%
+E10589,Alexandra Heikkilä,Finance,Anna Kuisma,3 - Meets,Low,No,0%
+E10502,Suvi Kovanen,Marketing,Gabriel Eisner,4 - Exceeds,High,Yes,2.5%
+E10055,Igor Sousa,Engineering,Jenni Kauppinen,3 - Meets,High,No,5%
+E10484,Elena Garcés,Operations,Vito Draxler,2 - Partly meets,Medium,Yes,2%
+E10405,Kelly Barros,Finance,Anna Kuisma,5 - Outstanding,Low,No,2%
+E10175,Minna Laine,Legal & Compliance,Oskari Martikainen,3 - Meets,Medium,No,2.5%
+E10154,James Iversen,Engineering,Jenni Kauppinen,4 - Exceeds,Medium,No,2.5%
+E10468,Steven Kain,Operations,Vito Draxler,2 - Partly meets,Medium,Yes,3.5%
+E10602,Lidia Ragus,Operations,Vito Draxler,3 - Meets,Medium,No,2%
+E10519,Patrick Frank,Operations,Vito Draxler,3 - Meets,Low,Yes,0%
+E10592,Basilio Anaya,Engineering,Jenni Kauppinen,3 - Meets,High,No,2.5%
+E10238,Kalervo Niemi,Finance,Anna Kuisma,3 - Meets,High,No,3%
+E10103,Nikol Urban,Operations,Vito Draxler,4 - Exceeds,Low,Yes,2%
+E10358,Rodrigo Mota,Procurement,Trine Søndergaard,5 - Outstanding,Low,No,3.5%
+E10048,Aino Nieminen,Finance,Anna Kuisma,4 - Exceeds,High,No,3%
+E10339,Marjaana Tiainen,IT,Emmi Rantanen,2 - Partly meets,Medium,Yes,3%
+E10091,Ilkka Kangas,Finance,Anna Kuisma,4 - Exceeds,High,No,3.5%

@@ -1,0 +1,701 @@
+asset_tag,type,model,serial_number,assigned_to,department,purchase_date,refresh_due,status
+IT-100000,Laptop,HP EliteBook 840 G11,SN12881820,Alan Hoffmann,Operations,2023-02-23,2026-02-22,In repair
+IT-100001,Tablet,iPad Air,SN87837811,Vítor Leal,Sales,2022-01-07,2025-01-06,In use
+IT-100002,Laptop,Dell Latitude 7450,SN40933523,Connie Frederiksen,Operations,2022-12-04,2025-12-03,In use
+IT-100003,Tablet,iPad Air,SN15949215,Elisabeth Hänninen,Finance,2025-07-06,2028-07-05,Retired
+IT-100004,Laptop,Dell Latitude 7450,SN43053343,Zehnia Søndergaard,Sales,2025-11-26,2028-11-25,Retired
+IT-100005,Laptop,HP EliteBook 840 G11,SN27720121,Ari Vainio,Human Resources,2022-09-01,2025-08-31,In use
+IT-100006,Tablet,iPad Air,SN39743198,Kacper Hewelt,IT,2022-07-22,2025-07-21,In use
+IT-100007,Docking station,Lenovo USB-C Dock,SN18438257,Tuomo Heinonen,Engineering,2022-09-04,2025-09-03,In use
+IT-100008,Laptop,HP EliteBook 840 G11,SN92222103,Kalervo Järvinen,IT,2024-07-23,2027-07-23,In repair
+IT-100009,Laptop,Lenovo ThinkPad T14 Gen 5,SN83177377,Annikki Kari,IT,2024-09-18,2027-09-18,Retired
+IT-100010,Mobile phone,Samsung Galaxy S24,SN90819554,Filipa Oliveira,Quality,2024-03-25,2027-03-25,In use
+IT-100011,Mobile phone,iPhone 15,SN75957439,Johanna Pietilä,Operations,2024-08-07,2027-08-07,In use
+IT-100012,Laptop,Lenovo ThinkPad T14 Gen 5,SN95229611,Guilherme Ribeiro,IT,2022-03-10,2025-03-09,In repair
+IT-100013,Mobile phone,iPhone 15,SN29217622,Anouk Laroche,Operations,2024-11-26,2027-11-26,In use
+IT-100014,Tablet,iPad Air,SN97859512,Hugo Oberndorfer,Engineering,2025-08-07,2028-08-06,Retired
+IT-100015,Monitor,Dell P2725H,SN99198776,Kacper Hewelt,IT,2022-01-08,2025-01-07,In use
+IT-100016,Tablet,iPad Air,SN41104285,Tarja Saastamoinen,Legal & Compliance,2024-05-09,2027-05-09,In repair
+IT-100017,Tablet,iPad Air,SN68358850,Felix Kopecký,Operations,2025-09-27,2028-09-26,Retired
+IT-100018,Mobile phone,iPhone 15,SN72603702,Jose Puig,Quality,2025-01-04,2028-01-04,In repair
+IT-100019,Tablet,iPad Air,SN31757745,Christine Bonnet,Operations,2022-05-03,2025-05-02,In use
+IT-100020,Monitor,Dell P2725H,SN66481330,Bohumír Dostál,Operations,2025-10-02,2028-10-01,In use
+IT-100021,Docking station,Lenovo USB-C Dock,SN96841527,Micaela Vaquero,Quality,2025-07-03,2028-07-02,Retired
+IT-100022,Docking station,Lenovo USB-C Dock,SN83861428,Erika Makkonen,Engineering,2025-04-26,2028-04-25,In use
+IT-100023,Monitor,Dell P2725H,SN15720802,Sanna Kosonen,Marketing,2022-05-09,2025-05-08,Retired
+IT-100024,Mobile phone,Samsung Galaxy S24,SN98389907,Eemeli Mäntylä,Operations,2025-01-11,2028-01-11,In use
+IT-100025,Laptop,Dell Latitude 7450,SN13362430,Luis Bayer,Quality,2025-10-19,2028-10-18,In use
+IT-100026,Tablet,iPad Air,SN79463853,Susanne Da Costa,Sales,2022-10-02,2025-10-01,In use
+IT-100027,Monitor,Dell P2725H,SN73373933,Marek Misior,Legal & Compliance,2022-06-26,2025-06-25,Retired
+IT-100028,Laptop,Dell Latitude 7450,SN12824106,Marie Holubová,Operations,2025-04-12,2028-04-11,In repair
+IT-100029,Tablet,iPad Air,SN18754706,Ragnar Pedersen,Engineering,2024-12-12,2027-12-12,In use
+IT-100030,Docking station,Lenovo USB-C Dock,SN67271857,Sinikka Myllymäki,Finance,2023-06-13,2026-06-12,Retired
+IT-100031,Tablet,iPad Air,SN89455190,Jukka Ketola,Marketing,2022-12-24,2025-12-23,In use
+IT-100032,Mobile phone,iPhone 15,SN17283612,Maciej Mateńko,Procurement,2025-02-20,2028-02-20,In use
+IT-100033,Docking station,Lenovo USB-C Dock,SN67866538,Yasmin Poulsen,Operations,2025-09-04,2028-09-03,In repair
+IT-100034,Laptop,Dell Latitude 7450,SN83265038,Leo Korhonen,Sales,2022-09-14,2025-09-13,In use
+IT-100035,Monitor,Dell P2725H,SN27007116,Sascha Mühlböck,Operations,2023-08-30,2026-08-29,In use
+IT-100036,Tablet,iPad Air,SN58072591,Kalervo Järvinen,IT,2024-05-07,2027-05-07,In use
+IT-100037,Monitor,Dell P2725H,SN12148743,Ignác Ježková,Engineering,2023-05-12,2026-05-11,In use
+IT-100038,Docking station,Lenovo USB-C Dock,SN64873628,Alan Hoffmann,Operations,2022-10-28,2025-10-27,In use
+IT-100039,Tablet,iPad Air,SN65288098,Martim Pacheco,Quality,2024-09-12,2027-09-12,In use
+IT-100040,Mobile phone,Samsung Galaxy S24,SN32511877,Linda Ševčík,Sales,2024-08-20,2027-08-20,In use
+IT-100041,Mobile phone,iPhone 15,SN66055721,Inkeri Harju,Human Resources,2024-12-02,2027-12-02,In use
+IT-100042,Mobile phone,iPhone 15,SN76829228,Tapio Kinnunen,Marketing,2024-11-05,2027-11-05,In use
+IT-100043,Docking station,Lenovo USB-C Dock,SN44564221,Dagmara Bogumił,Executive Office,2024-09-22,2027-09-22,In repair
+IT-100044,Monitor,Dell P2725H,SN30617099,Aitor Vara,Quality,2024-02-29,2027-02-28,In use
+IT-100045,Mobile phone,Samsung Galaxy S24,SN80310279,Odalys Amo,Operations,2023-09-29,2026-09-28,In use
+IT-100046,Tablet,iPad Air,SN86280164,Eemeli Soini,Human Resources,2025-03-07,2028-03-06,In use
+IT-100047,Mobile phone,iPhone 15,SN47170671,Ingrid Mikkelsen,Sales,2026-01-26,2029-01-25,In use
+IT-100048,Monitor,Dell P2725H,SN79770654,Mia Guerreiro,Operations,2026-01-16,2029-01-15,In use
+IT-100049,Monitor,Dell P2725H,SN38396261,Irmeli Laakso,Operations,2022-05-22,2025-05-21,In use
+IT-100050,Laptop,HP EliteBook 840 G11,SN57894721,Bartek Ofiara,Procurement,2022-03-13,2025-03-12,In use
+IT-100051,Tablet,iPad Air,SN48222422,Rémy Masse,Operations,2025-07-24,2028-07-23,In use
+IT-100052,Monitor,Dell P2725H,SN77035850,Luis Bayer,Quality,2025-02-14,2028-02-14,In use
+IT-100053,Tablet,iPad Air,SN78098836,Kaija Lehtinen,Human Resources,2024-08-26,2027-08-26,Retired
+IT-100054,Laptop,Lenovo ThinkPad T14 Gen 5,SN14265297,Maria Rauhala,Engineering,2025-04-25,2028-04-24,In repair
+IT-100055,Laptop,Dell Latitude 7450,SN67769709,Sofia Erlacher,Engineering,2022-03-29,2025-03-28,Retired
+IT-100056,Docking station,Lenovo USB-C Dock,SN99202248,Elisabet Tuominen,Human Resources,2023-04-18,2026-04-17,In use
+IT-100057,Laptop,Lenovo ThinkPad T14 Gen 5,SN43001877,Samuel Cruz,Sales,2022-07-17,2025-07-16,Retired
+IT-100058,Laptop,Dell Latitude 7450,SN62066986,Marek Witaszek,Finance,2023-01-30,2026-01-29,In repair
+IT-100059,Monitor,Dell P2725H,SN10002379,Antti Jokinen,Sales,2024-05-28,2027-05-28,Retired
+IT-100060,Tablet,iPad Air,SN81072474,Johannes Paavilainen,Finance,2026-02-08,2029-02-07,In use
+IT-100061,Docking station,Lenovo USB-C Dock,SN65881877,Iveta Beranová,Operations,2022-09-11,2025-09-10,In repair
+IT-100062,Docking station,Lenovo USB-C Dock,SN25885158,Andreia Martins,IT,2024-01-14,2027-01-13,In use
+IT-100063,Mobile phone,Samsung Galaxy S24,SN91575521,Darko Fleischmann,Engineering,2024-12-28,2027-12-28,In use
+IT-100064,Tablet,iPad Air,SN41290044,Linnea Rauhala,Operations,2024-08-04,2027-08-04,In use
+IT-100065,Laptop,HP EliteBook 840 G11,SN18561208,Aurora Heikkilä,IT,2024-09-13,2027-09-13,In repair
+IT-100066,Monitor,Dell P2725H,SN98975570,Róża Miękina,Operations,2023-06-17,2026-06-16,In repair
+IT-100067,Laptop,HP EliteBook 840 G11,SN30309988,Margaret Bonnet,Sales,2025-03-17,2028-03-16,In use
+IT-100068,Laptop,Lenovo ThinkPad T14 Gen 5,SN24434289,Marcial Ferrándiz,Operations,2024-12-03,2027-12-03,In use
+IT-100069,Monitor,Dell P2725H,SN48673469,Jussi Karppinen,IT,2024-07-24,2027-07-24,In use
+IT-100070,Laptop,HP EliteBook 840 G11,SN59356582,Marie Holubová,Operations,2024-06-17,2027-06-17,In repair
+IT-100071,Docking station,Lenovo USB-C Dock,SN19378637,Gabriel Pacheco,Engineering,2023-06-22,2026-06-21,In use
+IT-100072,Laptop,HP EliteBook 840 G11,SN57240742,Kristina Saari,Human Resources,2023-08-09,2026-08-08,In repair
+IT-100073,Docking station,Lenovo USB-C Dock,SN44752042,Dominga Aguiló,Sales,2024-03-20,2027-03-20,In use
+IT-100074,Laptop,Dell Latitude 7450,SN92739804,Íris Marques,Sales,2024-03-07,2027-03-07,In repair
+IT-100075,Laptop,Lenovo ThinkPad T14 Gen 5,SN47150174,Juhani Konttinen,Procurement,2024-07-28,2027-07-28,In use
+IT-100076,Docking station,Lenovo USB-C Dock,SN17044632,Carl Gregersen,Operations,2024-10-29,2027-10-29,In use
+IT-100077,Docking station,Lenovo USB-C Dock,SN92112838,Raili Niemi,Finance,2023-11-12,2026-11-11,Retired
+IT-100078,Laptop,Dell Latitude 7450,SN51776095,Pentti Palomäki,Marketing,2024-12-27,2027-12-27,Retired
+IT-100079,Mobile phone,Samsung Galaxy S24,SN23247110,Sandro Amaral,Engineering,2023-10-10,2026-10-09,In use
+IT-100080,Laptop,HP EliteBook 840 G11,SN84897624,Valentino Klingler,Operations,2023-10-23,2026-10-22,In use
+IT-100081,Laptop,Lenovo ThinkPad T14 Gen 5,SN54476595,Elżbieta Oleszczak,IT,2024-07-15,2027-07-15,In use
+IT-100082,Docking station,Lenovo USB-C Dock,SN50780544,Isabell Steinlechner,Sales,2023-03-12,2026-03-11,In repair
+IT-100083,Docking station,Lenovo USB-C Dock,SN52745588,Christoph Leibetseder,Operations,2025-11-09,2028-11-08,In repair
+IT-100084,Mobile phone,iPhone 15,SN63039576,Éléonore Camus,Sales,2022-12-14,2025-12-13,In use
+IT-100085,Laptop,Lenovo ThinkPad T14 Gen 5,SN25505366,Elena Garcés,Operations,2022-01-05,2025-01-04,In use
+IT-100086,Laptop,Lenovo ThinkPad T14 Gen 5,SN59422014,Elina Elo,Human Resources,2025-06-17,2028-06-16,In repair
+IT-100087,Laptop,HP EliteBook 840 G11,SN21780359,Sandra Drążyk,Engineering,2023-10-12,2026-10-11,In repair
+IT-100088,Laptop,HP EliteBook 840 G11,SN53911286,Tommy Friis,Quality,2024-11-25,2027-11-25,Retired
+IT-100089,Monitor,Dell P2725H,SN21718884,Jean Lemaire,Engineering,2025-09-18,2028-09-17,In repair
+IT-100090,Laptop,HP EliteBook 840 G11,SN78416877,Ragnhild Jeppesen,Operations,2025-11-07,2028-11-06,In use
+IT-100091,Monitor,Dell P2725H,SN85433297,Alois Král,Operations,2025-07-26,2028-07-25,In use
+IT-100092,Tablet,iPad Air,SN63505378,Xavier Haidinger,Operations,2024-09-04,2027-09-04,Retired
+IT-100093,Docking station,Lenovo USB-C Dock,SN84598968,Arvo Kuusisto,Finance,2025-03-14,2028-03-13,In use
+IT-100094,Docking station,Lenovo USB-C Dock,SN27303220,Johanne Frandsen,Quality,2023-09-30,2026-09-29,In repair
+IT-100095,Laptop,Dell Latitude 7450,SN21567808,Axel Glatz,Operations,2025-11-13,2028-11-12,In use
+IT-100096,Docking station,Lenovo USB-C Dock,SN96786844,Karina Ogłaza,Finance,2023-12-18,2026-12-17,In use
+IT-100097,Laptop,HP EliteBook 840 G11,SN39256194,Lucie Matějková,Sales,2022-02-15,2025-02-14,In use
+IT-100098,Laptop,Dell Latitude 7450,SN79790612,Maricela Buendía,Engineering,2025-02-04,2028-02-04,In use
+IT-100099,Laptop,HP EliteBook 840 G11,SN33936043,Johanna Jussila,Finance,2023-09-03,2026-09-02,In use
+IT-100100,Laptop,Dell Latitude 7450,SN67565766,Raimo Mäkinen,Engineering,2023-12-23,2026-12-22,Retired
+IT-100101,Mobile phone,Samsung Galaxy S24,SN51963579,Inkeri Harju,Human Resources,2023-12-30,2026-12-29,In use
+IT-100102,Docking station,Lenovo USB-C Dock,SN53654528,Palle Thomsen,Operations,2024-06-22,2027-06-22,In repair
+IT-100103,Mobile phone,iPhone 15,SN61913985,Sara Loureiro,Executive Office,2024-12-12,2027-12-12,Retired
+IT-100104,Mobile phone,iPhone 15,SN91955055,Gyda Kristiansen,Operations,2025-01-16,2028-01-16,In use
+IT-100105,Tablet,iPad Air,SN86671205,Sára Němcová,Operations,2023-03-30,2026-03-29,In use
+IT-100106,Laptop,Dell Latitude 7450,SN73583014,Aage Kristiansen,Human Resources,2024-02-04,2027-02-03,In use
+IT-100107,Mobile phone,Samsung Galaxy S24,SN57200603,Pánfilo Lloret,Sales,2025-05-07,2028-05-06,In repair
+IT-100108,Docking station,Lenovo USB-C Dock,SN93206193,Jędrzej Kulis,Marketing,2022-01-31,2025-01-30,In use
+IT-100109,Laptop,HP EliteBook 840 G11,SN69910205,Magdaléna Stejskal,Engineering,2023-06-30,2026-06-29,In use
+IT-100110,Laptop,Dell Latitude 7450,SN82223842,Eemeli Kankaanpää,Finance,2024-01-02,2027-01-01,In use
+IT-100111,Laptop,HP EliteBook 840 G11,SN55463985,Augustin Deschamps,Operations,2024-09-19,2027-09-19,In use
+IT-100112,Docking station,Lenovo USB-C Dock,SN93528427,Błażej Kierat,Operations,2025-11-06,2028-11-05,In repair
+IT-100113,Docking station,Lenovo USB-C Dock,SN78299858,Wiktor Jędrys,Finance,2025-02-13,2028-02-13,In repair
+IT-100114,Tablet,iPad Air,SN84647082,Juliana Valente,Finance,2025-10-27,2028-10-26,In use
+IT-100115,Laptop,Lenovo ThinkPad T14 Gen 5,SN70318452,Hannele Haataja,Human Resources,2024-11-28,2027-11-28,In repair
+IT-100116,Mobile phone,iPhone 15,SN83098395,Charles Renault,Operations,2022-12-01,2025-11-30,In use
+IT-100117,Tablet,iPad Air,SN24272350,Tarja Saastamoinen,Legal & Compliance,2025-12-17,2028-12-16,In use
+IT-100118,Laptop,Lenovo ThinkPad T14 Gen 5,SN39583616,Calvin Schalk,Operations,2024-02-18,2027-02-17,Retired
+IT-100119,Tablet,iPad Air,SN97712605,Ascensión Beltrán,Operations,2022-04-24,2025-04-23,In use
+IT-100120,Tablet,iPad Air,SN62621618,Antero Holmström,IT,2024-08-03,2027-08-03,In use
+IT-100121,Monitor,Dell P2725H,SN25179736,Niklas Nieminen,Legal & Compliance,2025-01-11,2028-01-11,In repair
+IT-100122,Mobile phone,Samsung Galaxy S24,SN80787287,Sisko Väänänen,Human Resources,2024-01-19,2027-01-18,In repair
+IT-100123,Tablet,iPad Air,SN13954986,Leena Laitinen,IT,2022-02-24,2025-02-23,In use
+IT-100124,Monitor,Dell P2725H,SN27788427,Johannes Paavilainen,Finance,2022-09-14,2025-09-13,In use
+IT-100125,Docking station,Lenovo USB-C Dock,SN31825468,Leoš Vaněk,Operations,2025-04-02,2028-04-01,In use
+IT-100126,Laptop,HP EliteBook 840 G11,SN50303231,Igor Sousa,Engineering,2025-03-24,2028-03-23,Retired
+IT-100127,Laptop,Dell Latitude 7450,SN64924760,Maria Nieminen,Engineering,2022-07-06,2025-07-05,In use
+IT-100128,Docking station,Lenovo USB-C Dock,SN69823699,Vítor Carvalho,Marketing,2023-11-18,2026-11-17,In repair
+IT-100129,Tablet,iPad Air,SN98669117,Tarja Eklund,Quality,2023-06-27,2026-06-26,In use
+IT-100130,Laptop,Dell Latitude 7450,SN58328402,Dagmara Bogumił,Executive Office,2024-07-02,2027-07-02,Retired
+IT-100131,Tablet,iPad Air,SN56071188,Laetitia Leroux,Sales,2023-07-06,2026-07-05,Retired
+IT-100132,Mobile phone,iPhone 15,SN64603119,Kristian Schramm,Quality,2023-01-09,2026-01-08,In use
+IT-100133,Mobile phone,Samsung Galaxy S24,SN94427714,Juhana Pekkala,Marketing,2022-07-21,2025-07-20,In use
+IT-100134,Mobile phone,Samsung Galaxy S24,SN36442428,Sandro Amaral,Engineering,2025-09-22,2028-09-21,In use
+IT-100135,Laptop,HP EliteBook 840 G11,SN70371632,Karoline Toft,Operations,2024-09-19,2027-09-19,In use
+IT-100136,Monitor,Dell P2725H,SN26034196,Steven Kain,Operations,2024-05-10,2027-05-10,In repair
+IT-100137,Mobile phone,Samsung Galaxy S24,SN39727957,Sára Kučera,Operations,2022-07-14,2025-07-13,In use
+IT-100138,Laptop,Lenovo ThinkPad T14 Gen 5,SN42614630,Nikol Urban,Operations,2022-09-06,2025-09-05,In use
+IT-100139,Laptop,Dell Latitude 7450,SN88185065,Heidi Penttilä,Legal & Compliance,2024-08-06,2027-08-06,In use
+IT-100140,Mobile phone,iPhone 15,SN61819113,Hubert Svoboda,Engineering,2024-08-14,2027-08-14,In use
+IT-100141,Laptop,HP EliteBook 840 G11,SN18622176,Iveta Beranová,Operations,2025-12-17,2028-12-16,In use
+IT-100142,Monitor,Dell P2725H,SN99273248,Timo Mattila,Marketing,2023-03-29,2026-03-28,In use
+IT-100143,Tablet,iPad Air,SN38104220,Clara Krenn,Operations,2023-02-13,2026-02-12,Retired
+IT-100144,Monitor,Dell P2725H,SN57192480,Kornel Gozdur,Human Resources,2023-12-07,2026-12-06,In repair
+IT-100145,Docking station,Lenovo USB-C Dock,SN58978903,Leoncio Castell,Engineering,2023-05-09,2026-05-08,In use
+IT-100146,Docking station,Lenovo USB-C Dock,SN99629689,Tapani Lipponen,Executive Office,2022-03-12,2025-03-11,In repair
+IT-100147,Laptop,Dell Latitude 7450,SN18318588,Oscar Poulsen,Engineering,2025-01-18,2028-01-18,In repair
+IT-100148,Docking station,Lenovo USB-C Dock,SN63853768,Karoline Toft,Operations,2022-07-15,2025-07-14,In repair
+IT-100149,Monitor,Dell P2725H,SN90844819,Rafael Tavares,Human Resources,2022-10-01,2025-09-30,Retired
+IT-100150,Laptop,Dell Latitude 7450,SN57681822,Sebastian Szyda,Marketing,2022-12-09,2025-12-08,In use
+IT-100151,Tablet,iPad Air,SN74140482,Aino Nieminen,Finance,2022-04-24,2025-04-23,In use
+IT-100152,Tablet,iPad Air,SN22177956,Petri Rantanen,Procurement,2024-06-26,2027-06-26,In use
+IT-100153,Tablet,iPad Air,SN70092759,Petteri Hartikainen,Human Resources,2023-08-06,2026-08-05,In repair
+IT-100154,Docking station,Lenovo USB-C Dock,SN17313041,Valdemar Peltonen,Finance,2023-12-11,2026-12-10,In use
+IT-100155,Docking station,Lenovo USB-C Dock,SN12651008,Olivia Aramburu,Operations,2023-04-04,2026-04-03,In use
+IT-100156,Laptop,Lenovo ThinkPad T14 Gen 5,SN33147632,Marianne Benard,Operations,2026-02-05,2029-02-04,Retired
+IT-100157,Laptop,HP EliteBook 840 G11,SN67933606,Aitor Vara,Quality,2025-05-24,2028-05-23,In use
+IT-100158,Monitor,Dell P2725H,SN60581742,Zora Krejčová,Sales,2023-07-01,2026-06-30,In use
+IT-100159,Docking station,Lenovo USB-C Dock,SN48805360,Rita Alves,Finance,2025-03-09,2028-03-08,In use
+IT-100160,Laptop,Lenovo ThinkPad T14 Gen 5,SN30799010,Piotr Noszczyk,Operations,2024-03-03,2027-03-03,In use
+IT-100161,Docking station,Lenovo USB-C Dock,SN76098865,Katriina Harju,Operations,2023-10-13,2026-10-12,Retired
+IT-100162,Tablet,iPad Air,SN39446736,Radovan Havel,Operations,2025-10-27,2028-10-26,In use
+IT-100163,Docking station,Lenovo USB-C Dock,SN73591213,Christine Sanchez,Operations,2025-06-17,2028-06-16,In repair
+IT-100164,Tablet,iPad Air,SN69979326,Johanna Koski,Operations,2025-12-23,2028-12-22,In use
+IT-100165,Laptop,HP EliteBook 840 G11,SN12970554,Marja Lehtonen,Quality,2023-07-23,2026-07-22,Retired
+IT-100166,Tablet,iPad Air,SN52192102,Isabell Steinlechner,Sales,2023-06-13,2026-06-12,In repair
+IT-100167,Mobile phone,iPhone 15,SN17038746,Kristian Schramm,Quality,2022-01-06,2025-01-05,In use
+IT-100168,Mobile phone,Samsung Galaxy S24,SN54014942,Maricela Buendía,Engineering,2024-07-02,2027-07-02,In use
+IT-100169,Tablet,iPad Air,SN22591254,Cyprian Piguła,Quality,2024-02-05,2027-02-04,In use
+IT-100170,Laptop,Dell Latitude 7450,SN29260924,Susanne Da Costa,Sales,2024-12-30,2027-12-30,In use
+IT-100171,Laptop,Lenovo ThinkPad T14 Gen 5,SN53967261,Christian Jenewein,Engineering,2023-04-12,2026-04-11,In repair
+IT-100172,Docking station,Lenovo USB-C Dock,SN89363975,Christine Sanchez,Operations,2025-08-09,2028-08-08,In use
+IT-100173,Laptop,HP EliteBook 840 G11,SN62330799,Timo Mattila,Marketing,2022-12-30,2025-12-29,In use
+IT-100174,Mobile phone,Samsung Galaxy S24,SN68982983,Bernardo Amaral,Operations,2022-12-28,2025-12-27,In repair
+IT-100175,Laptop,Lenovo ThinkPad T14 Gen 5,SN72187961,Kornelia Misiuk,Engineering,2026-01-22,2029-01-21,Retired
+IT-100176,Laptop,Dell Latitude 7450,SN48033435,Gabriel Eisner,Marketing,2023-03-23,2026-03-22,In use
+IT-100177,Docking station,Lenovo USB-C Dock,SN25927702,Victoria Arjona,Operations,2025-05-18,2028-05-17,In repair
+IT-100178,Docking station,Lenovo USB-C Dock,SN37074137,Susanna Hiltunen,IT,2023-03-26,2026-03-25,Retired
+IT-100179,Docking station,Lenovo USB-C Dock,SN64326445,Luis Bayer,Quality,2024-04-02,2027-04-02,In use
+IT-100180,Monitor,Dell P2725H,SN95462201,Ingrid Mikkelsen,Sales,2024-05-17,2027-05-17,Retired
+IT-100181,Laptop,HP EliteBook 840 G11,SN99023858,Sine Lund,Operations,2025-03-11,2028-03-10,In repair
+IT-100182,Laptop,Lenovo ThinkPad T14 Gen 5,SN79202357,Ryszard Przeklasa,Marketing,2022-04-21,2025-04-20,In use
+IT-100183,Laptop,Dell Latitude 7450,SN53765812,Lúcia Nunes,Engineering,2024-12-23,2027-12-23,In repair
+IT-100184,Monitor,Dell P2725H,SN81445901,Otto Lammi,Engineering,2024-01-01,2026-12-31,In use
+IT-100185,Docking station,Lenovo USB-C Dock,SN76423326,James Iversen,Engineering,2023-03-31,2026-03-30,In repair
+IT-100186,Mobile phone,iPhone 15,SN45856651,Christine Sanchez,Operations,2023-02-25,2026-02-24,Retired
+IT-100187,Mobile phone,iPhone 15,SN20539966,Niko Steinbacher,Operations,2023-01-20,2026-01-19,Retired
+IT-100188,Laptop,HP EliteBook 840 G11,SN85258309,Antoine Lagarde,Operations,2022-02-19,2025-02-18,In use
+IT-100189,Mobile phone,Samsung Galaxy S24,SN40286335,Dita Kubíček,Operations,2025-03-13,2028-03-12,In use
+IT-100190,Mobile phone,iPhone 15,SN70682794,Johannes Paavilainen,Finance,2022-05-26,2025-05-25,In repair
+IT-100191,Docking station,Lenovo USB-C Dock,SN11443304,Joona Järvinen,Legal & Compliance,2023-12-18,2026-12-17,Retired
+IT-100192,Mobile phone,Samsung Galaxy S24,SN66515607,Antoine Lagarde,Operations,2025-12-12,2028-12-11,Retired
+IT-100193,Monitor,Dell P2725H,SN22183105,Maria Jokinen,Human Resources,2022-09-30,2025-09-29,In use
+IT-100194,Tablet,iPad Air,SN41794370,Tola Łokietek,IT,2024-09-03,2027-09-03,In use
+IT-100195,Mobile phone,iPhone 15,SN46427368,Natan Eisner,Operations,2024-11-14,2027-11-14,In use
+IT-100196,Docking station,Lenovo USB-C Dock,SN74838296,Angelita Llanos,Engineering,2023-07-12,2026-07-11,In repair
+IT-100197,Docking station,Lenovo USB-C Dock,SN27182169,Veronika Šimek,Operations,2022-12-11,2025-12-10,In repair
+IT-100198,Docking station,Lenovo USB-C Dock,SN76019226,Petri Laine,IT,2026-01-21,2029-01-20,In repair
+IT-100199,Docking station,Lenovo USB-C Dock,SN18690755,Aage Kristiansen,Human Resources,2023-01-14,2026-01-13,In use
+IT-100200,Tablet,iPad Air,SN19661279,Rikke Mathiesen,Operations,2023-03-27,2026-03-26,Retired
+IT-100201,Laptop,Lenovo ThinkPad T14 Gen 5,SN98259884,Tapio Salmi,Human Resources,2025-09-14,2028-09-13,Retired
+IT-100202,Tablet,iPad Air,SN40456100,Guilherme Ribeiro,IT,2026-02-04,2029-02-03,In use
+IT-100203,Monitor,Dell P2725H,SN87537082,Ingrid Østergaard,Engineering,2023-09-25,2026-09-24,In use
+IT-100204,Laptop,HP EliteBook 840 G11,SN87296879,Oskari Martikainen,Legal & Compliance,2023-05-20,2026-05-19,In use
+IT-100205,Laptop,HP EliteBook 840 G11,SN42921447,Sanna Kosonen,Marketing,2024-02-25,2027-02-24,In repair
+IT-100206,Mobile phone,Samsung Galaxy S24,SN94796378,Ragnhild Jeppesen,Operations,2023-07-21,2026-07-20,In use
+IT-100207,Laptop,Dell Latitude 7450,SN85108332,Maria Nieminen,Engineering,2023-05-12,2026-05-11,In repair
+IT-100208,Tablet,iPad Air,SN85563128,Rémy Masse,Operations,2025-04-14,2028-04-13,In use
+IT-100209,Laptop,Dell Latitude 7450,SN82217913,Isidro Correa,Operations,2023-07-21,2026-07-20,In use
+IT-100210,Laptop,Lenovo ThinkPad T14 Gen 5,SN32248173,Anna Kuisma,Finance,2025-06-20,2028-06-19,In use
+IT-100211,Laptop,HP EliteBook 840 G11,SN75773076,Heikki Anttila,Procurement,2024-12-23,2027-12-23,Retired
+IT-100212,Laptop,Lenovo ThinkPad T14 Gen 5,SN74231087,Andrée Gaudin,Operations,2023-02-11,2026-02-10,In use
+IT-100213,Laptop,Lenovo ThinkPad T14 Gen 5,SN60128318,Sinikka Myllymäki,Finance,2024-08-22,2027-08-22,In repair
+IT-100214,Monitor,Dell P2725H,SN85051443,Xavier Santos,Marketing,2025-04-10,2028-04-09,In use
+IT-100215,Mobile phone,Samsung Galaxy S24,SN36607608,Vladislav Kolář,Operations,2024-04-04,2027-04-04,In use
+IT-100216,Laptop,HP EliteBook 840 G11,SN93896491,Irene Lindqvist,IT,2024-06-09,2027-06-09,In repair
+IT-100217,Mobile phone,iPhone 15,SN77037489,Christiane Lebreton,Engineering,2022-03-18,2025-03-17,In repair
+IT-100218,Tablet,iPad Air,SN10685401,Adèle Duhamel,Engineering,2025-08-21,2028-08-20,In use
+IT-100219,Tablet,iPad Air,SN21446854,Maria Karlsson,Sales,2025-08-13,2028-08-12,In use
+IT-100220,Laptop,Dell Latitude 7450,SN88937519,Stanislava Staněk,Operations,2025-03-02,2028-03-01,In use
+IT-100221,Mobile phone,iPhone 15,SN14665379,Maurice Jank,Operations,2022-05-19,2025-05-18,In use
+IT-100222,Laptop,HP EliteBook 840 G11,SN88653459,Mia Guerreiro,Operations,2022-02-09,2025-02-08,Retired
+IT-100223,Laptop,Dell Latitude 7450,SN86181886,Martin Springer,Quality,2024-05-12,2027-05-12,Retired
+IT-100224,Laptop,Dell Latitude 7450,SN60710477,Kyllikki Valkonen,Executive Office,2023-10-04,2026-10-03,Retired
+IT-100225,Tablet,iPad Air,SN79195732,Karolína Matoušková,Sales,2025-02-16,2028-02-16,In use
+IT-100226,Mobile phone,Samsung Galaxy S24,SN86088619,Aimé Leroux,Sales,2024-06-19,2027-06-19,In use
+IT-100227,Mobile phone,Samsung Galaxy S24,SN15115521,Laurent Lopes,Sales,2024-02-16,2027-02-15,In use
+IT-100228,Laptop,Dell Latitude 7450,SN52876498,Johanne Frandsen,Quality,2025-02-13,2028-02-13,In use
+IT-100229,Monitor,Dell P2725H,SN70065230,Teodora Puga,Quality,2022-01-07,2025-01-06,In repair
+IT-100230,Docking station,Lenovo USB-C Dock,SN33336514,Harri Nurmi,Operations,2023-05-30,2026-05-29,Retired
+IT-100231,Laptop,Dell Latitude 7450,SN37742575,Zuzana Navrátilová,Sales,2022-05-16,2025-05-15,In use
+IT-100232,Docking station,Lenovo USB-C Dock,SN21122238,Raimo Mäkinen,Engineering,2023-08-17,2026-08-16,Retired
+IT-100233,Tablet,iPad Air,SN51096868,Grzegorz Zapaśnik,Operations,2022-08-24,2025-08-23,In use
+IT-100234,Docking station,Lenovo USB-C Dock,SN12788484,Azucena Román,Sales,2024-09-23,2027-09-23,In use
+IT-100235,Monitor,Dell P2725H,SN21924203,Rafał Ciesielka,Operations,2022-05-31,2025-05-30,In use
+IT-100236,Tablet,iPad Air,SN21047662,Ryszard Przeklasa,Marketing,2023-05-10,2026-05-09,In use
+IT-100237,Monitor,Dell P2725H,SN64731054,Katriina Kuisma,Procurement,2022-11-28,2025-11-27,Retired
+IT-100238,Tablet,iPad Air,SN63122812,Eemeli Mäenpää,Procurement,2023-07-20,2026-07-19,In use
+IT-100239,Laptop,Lenovo ThinkPad T14 Gen 5,SN46075175,Cyprian Piguła,Quality,2023-09-16,2026-09-15,In use
+IT-100240,Laptop,HP EliteBook 840 G11,SN74189857,Hannele Oksanen,Engineering,2024-07-23,2027-07-23,In repair
+IT-100241,Monitor,Dell P2725H,SN44128967,Ricardo Alves,Operations,2022-04-15,2025-04-14,In use
+IT-100242,Tablet,iPad Air,SN83280176,Luna Simões,Legal & Compliance,2022-03-07,2025-03-06,In use
+IT-100243,Laptop,HP EliteBook 840 G11,SN74566890,Thibaut Carre,Operations,2022-09-30,2025-09-29,Retired
+IT-100244,Tablet,iPad Air,SN79147312,Riikka Mäenpää,Marketing,2023-08-03,2026-08-02,Retired
+IT-100245,Laptop,Dell Latitude 7450,SN87337224,Marine Grenier,Operations,2024-01-14,2027-01-13,In use
+IT-100246,Docking station,Lenovo USB-C Dock,SN86359735,Vítor Leal,Sales,2022-12-24,2025-12-23,In use
+IT-100247,Laptop,HP EliteBook 840 G11,SN97306580,Tarja Eklund,Quality,2026-01-30,2029-01-29,Retired
+IT-100248,Monitor,Dell P2725H,SN57622599,Oscar Poulsen,Engineering,2023-08-19,2026-08-18,Retired
+IT-100249,Laptop,Lenovo ThinkPad T14 Gen 5,SN63303149,Olga Duszczak,Marketing,2024-02-05,2027-02-04,Retired
+IT-100250,Monitor,Dell P2725H,SN25071100,Olivia Kuusela,Finance,2022-08-14,2025-08-13,In use
+IT-100251,Laptop,Dell Latitude 7450,SN95090887,Inkeri Järvenpää,Operations,2022-06-27,2025-06-26,Retired
+IT-100252,Monitor,Dell P2725H,SN58823752,Guadalupe Fernandez,Operations,2025-07-24,2028-07-23,In repair
+IT-100253,Monitor,Dell P2725H,SN92501557,Severiano Espinosa,Operations,2023-06-04,2026-06-03,In use
+IT-100254,Docking station,Lenovo USB-C Dock,SN75583275,Irmeli Laakso,Operations,2024-05-15,2027-05-15,In use
+IT-100255,Laptop,HP EliteBook 840 G11,SN40167439,Niko Steinbacher,Operations,2024-01-21,2027-01-20,Retired
+IT-100256,Laptop,HP EliteBook 840 G11,SN25710822,Jussi Karppinen,IT,2025-12-03,2028-12-02,In use
+IT-100257,Tablet,iPad Air,SN63767004,Cláudio Cruz,Operations,2023-12-22,2026-12-21,Retired
+IT-100258,Monitor,Dell P2725H,SN85850241,Jaakko Berg,Engineering,2022-08-15,2025-08-14,In use
+IT-100259,Monitor,Dell P2725H,SN49206864,Zuzana Navrátilová,Sales,2023-09-07,2026-09-06,Retired
+IT-100260,Laptop,Dell Latitude 7450,SN91797128,Artturi Nieminen,Sales,2025-10-27,2028-10-26,In repair
+IT-100261,Mobile phone,Samsung Galaxy S24,SN31932471,Evelyn Froschauer,Engineering,2022-12-20,2025-12-19,In repair
+IT-100262,Monitor,Dell P2725H,SN79475862,Pernille Laursen,Operations,2024-05-29,2027-05-29,In use
+IT-100263,Mobile phone,Samsung Galaxy S24,SN73632913,Albert Zeman,Engineering,2023-03-27,2026-03-26,In repair
+IT-100264,Laptop,Dell Latitude 7450,SN16920298,Kalervo Niemi,Finance,2023-07-21,2026-07-20,In use
+IT-100265,Tablet,iPad Air,SN44257868,Filipa Oliveira,Quality,2023-07-08,2026-07-07,In use
+IT-100266,Mobile phone,iPhone 15,SN89217563,Pilar Brito,Engineering,2025-06-28,2028-06-27,In use
+IT-100267,Monitor,Dell P2725H,SN30567006,Inkeri Järvenpää,Operations,2022-11-25,2025-11-24,Retired
+IT-100268,Monitor,Dell P2725H,SN42058408,Marcelina Proć,Engineering,2025-07-12,2028-07-11,In use
+IT-100269,Tablet,iPad Air,SN74556893,Mélanie Pinheiro,Quality,2023-06-21,2026-06-20,In use
+IT-100270,Docking station,Lenovo USB-C Dock,SN96968858,Elena Garcés,Operations,2025-04-23,2028-04-22,Retired
+IT-100271,Tablet,iPad Air,SN88389415,Mara Andrade,Finance,2022-08-26,2025-08-25,Retired
+IT-100272,Laptop,HP EliteBook 840 G11,SN24526092,Minna Ylitalo,Marketing,2023-09-14,2026-09-13,In use
+IT-100273,Tablet,iPad Air,SN13050476,Calvin Schalk,Operations,2024-06-25,2027-06-25,In repair
+IT-100274,Laptop,Lenovo ThinkPad T14 Gen 5,SN41944505,Felix Kopecký,Operations,2023-09-19,2026-09-18,In use
+IT-100275,Docking station,Lenovo USB-C Dock,SN38599916,Martti Mäkelä,Quality,2025-05-17,2028-05-16,Retired
+IT-100276,Monitor,Dell P2725H,SN26451469,Alice Domingues,Operations,2025-12-10,2028-12-09,In use
+IT-100277,Mobile phone,iPhone 15,SN92866045,Flor Correia,Operations,2023-09-15,2026-09-14,In use
+IT-100278,Laptop,Dell Latitude 7450,SN16832230,Kornel Gozdur,Human Resources,2024-03-19,2027-03-19,In use
+IT-100279,Mobile phone,Samsung Galaxy S24,SN59743850,Oscar Poulsen,Engineering,2023-01-16,2026-01-15,Retired
+IT-100280,Docking station,Lenovo USB-C Dock,SN58725485,Chus Leon,Quality,2023-10-03,2026-10-02,In repair
+IT-100281,Mobile phone,Samsung Galaxy S24,SN30860190,Antoni Hajder,Operations,2023-02-27,2026-02-26,In use
+IT-100282,Monitor,Dell P2725H,SN33934102,Xavier Santos,Marketing,2024-09-28,2027-09-28,In use
+IT-100283,Monitor,Dell P2725H,SN99930946,Dita Kubíček,Operations,2025-03-04,2028-03-03,Retired
+IT-100284,Monitor,Dell P2725H,SN23066381,Olavi Tuominen,Legal & Compliance,2025-04-13,2028-04-12,In use
+IT-100285,Mobile phone,Samsung Galaxy S24,SN91046334,Alexandre Pinheiro,Quality,2025-04-28,2028-04-27,In use
+IT-100286,Laptop,HP EliteBook 840 G11,SN63690936,Ângela Henriques,Quality,2025-08-15,2028-08-14,In repair
+IT-100287,Mobile phone,Samsung Galaxy S24,SN41337081,Antti Jokinen,Sales,2025-08-09,2028-08-08,In use
+IT-100288,Laptop,Lenovo ThinkPad T14 Gen 5,SN20778464,Inês Ribeiro,Operations,2024-11-06,2027-11-06,Retired
+IT-100289,Tablet,iPad Air,SN76447828,Katriina Harju,Operations,2025-01-31,2028-01-31,In use
+IT-100290,Monitor,Dell P2725H,SN92394985,Pastor Salmerón,Operations,2022-10-13,2025-10-12,In use
+IT-100291,Monitor,Dell P2725H,SN97135714,Lucie Fiala,Engineering,2022-02-18,2025-02-17,In repair
+IT-100292,Docking station,Lenovo USB-C Dock,SN57805309,Olgierd Parkitna,Operations,2023-11-27,2026-11-26,In use
+IT-100293,Laptop,Dell Latitude 7450,SN84838621,Elisabet Tuominen,Human Resources,2023-02-19,2026-02-18,In use
+IT-100294,Monitor,Dell P2725H,SN15934687,Luce Léger,Engineering,2022-12-25,2025-12-24,In repair
+IT-100295,Docking station,Lenovo USB-C Dock,SN52737102,Paco Alcántara,Operations,2023-05-22,2026-05-21,In use
+IT-100296,Laptop,HP EliteBook 840 G11,SN20037361,Dominga Aguiló,Sales,2025-03-18,2028-03-17,In use
+IT-100297,Laptop,Lenovo ThinkPad T14 Gen 5,SN68358502,Matilda Peltonen,Procurement,2026-01-24,2029-01-23,In use
+IT-100298,Mobile phone,iPhone 15,SN72381480,Emmi Rantanen,IT,2025-06-05,2028-06-04,In use
+IT-100299,Mobile phone,Samsung Galaxy S24,SN87691229,Igor Sousa,Engineering,2022-06-10,2025-06-09,In use
+IT-100300,Monitor,Dell P2725H,SN62832588,Cathrine Johnsen,Engineering,2023-11-08,2026-11-07,In use
+IT-100301,Docking station,Lenovo USB-C Dock,SN11707610,Józef Berdzik,Operations,2025-09-13,2028-09-12,In repair
+IT-100302,Laptop,Dell Latitude 7450,SN52430031,Artturi Nieminen,Sales,2024-09-24,2027-09-24,In use
+IT-100303,Laptop,Lenovo ThinkPad T14 Gen 5,SN66744279,Cyprian Piguła,Quality,2023-12-11,2026-12-10,In use
+IT-100304,Mobile phone,iPhone 15,SN44464519,Juhani Konttinen,Procurement,2023-12-01,2026-11-30,In use
+IT-100305,Laptop,Lenovo ThinkPad T14 Gen 5,SN23640023,Rafael Tavares,Human Resources,2023-12-29,2026-12-28,Retired
+IT-100306,Tablet,iPad Air,SN36758237,Tarja Eklund,Quality,2025-08-06,2028-08-05,In use
+IT-100307,Laptop,HP EliteBook 840 G11,SN15024218,Constance Normand,Engineering,2022-11-12,2025-11-11,Retired
+IT-100308,Mobile phone,Samsung Galaxy S24,SN96501723,Leena Kivelä,Procurement,2023-04-20,2026-04-19,Retired
+IT-100309,Monitor,Dell P2725H,SN17284040,Maricela Buendía,Engineering,2022-11-14,2025-11-13,In use
+IT-100310,Docking station,Lenovo USB-C Dock,SN61763458,Thibaut Carre,Operations,2024-10-13,2027-10-13,In use
+IT-100311,Docking station,Lenovo USB-C Dock,SN46487515,Johanna Keskinen,IT,2025-08-30,2028-08-29,In repair
+IT-100312,Tablet,iPad Air,SN38675301,Miguela Moraleda,Sales,2022-03-25,2025-03-24,In use
+IT-100313,Mobile phone,Samsung Galaxy S24,SN51331106,Anna Kuisma,Finance,2025-10-18,2028-10-17,In use
+IT-100314,Laptop,Dell Latitude 7450,SN94881065,Eemeli Soini,Human Resources,2022-02-06,2025-02-05,In use
+IT-100315,Monitor,Dell P2725H,SN97599247,Anton Holappa,IT,2024-07-02,2027-07-02,In repair
+IT-100316,Mobile phone,iPhone 15,SN37338414,Petri Karhunen,Procurement,2024-06-22,2027-06-22,In repair
+IT-100317,Monitor,Dell P2725H,SN75583670,Olga Salvador,Quality,2024-12-29,2027-12-29,In repair
+IT-100318,Monitor,Dell P2725H,SN74378510,Stanislava Staněk,Operations,2024-03-26,2027-03-26,In use
+IT-100319,Tablet,iPad Air,SN67959624,Anton Holappa,IT,2024-06-19,2027-06-19,In use
+IT-100320,Monitor,Dell P2725H,SN42031853,Sascha Mühlböck,Operations,2025-02-21,2028-02-21,Retired
+IT-100321,Tablet,iPad Air,SN82210069,Juan Francisco Marti,Operations,2023-04-30,2026-04-29,In repair
+IT-100322,Docking station,Lenovo USB-C Dock,SN76045803,Julia Viitala,Legal & Compliance,2025-05-03,2028-05-02,In repair
+IT-100323,Monitor,Dell P2725H,SN13707817,Linnea Rauhala,Operations,2025-10-23,2028-10-22,In repair
+IT-100324,Monitor,Dell P2725H,SN51336979,Perla Pera,Operations,2022-01-23,2025-01-22,In use
+IT-100325,Laptop,HP EliteBook 840 G11,SN68535523,Juhani Mattila,Procurement,2024-03-30,2027-03-30,In use
+IT-100326,Laptop,Dell Latitude 7450,SN56638219,Päivi Lehtonen,Quality,2023-08-20,2026-08-19,In use
+IT-100327,Monitor,Dell P2725H,SN99839826,Adrianna Cegła,Sales,2024-07-27,2027-07-27,In use
+IT-100328,Monitor,Dell P2725H,SN13429308,Suvi Kovanen,Marketing,2024-07-04,2027-07-04,In use
+IT-100329,Mobile phone,Samsung Galaxy S24,SN97352046,Radoslav Bláhová,Quality,2024-02-02,2027-02-01,In repair
+IT-100330,Tablet,iPad Air,SN52560841,Miguela Moraleda,Sales,2025-04-22,2028-04-21,In use
+IT-100331,Monitor,Dell P2725H,SN87599385,Roosa Virtanen,Human Resources,2025-05-17,2028-05-16,In use
+IT-100332,Laptop,Dell Latitude 7450,SN76124126,Aukusti Ollikainen,Quality,2023-04-22,2026-04-21,In use
+IT-100333,Mobile phone,Samsung Galaxy S24,SN39105113,Kalevi Tarvainen,Operations,2022-12-19,2025-12-18,In use
+IT-100334,Docking station,Lenovo USB-C Dock,SN77773396,Aleksi Asikainen,Engineering,2025-11-06,2028-11-05,Retired
+IT-100335,Docking station,Lenovo USB-C Dock,SN59741511,Pirjo Nissinen,Sales,2022-03-16,2025-03-15,In use
+IT-100336,Docking station,Lenovo USB-C Dock,SN25977797,Berta Johansen,Operations,2022-06-01,2025-05-31,In repair
+IT-100337,Monitor,Dell P2725H,SN21483460,Alfred Philippe,Operations,2022-07-26,2025-07-25,In use
+IT-100338,Tablet,iPad Air,SN17911131,Riikka Mäenpää,Marketing,2024-05-31,2027-05-31,In repair
+IT-100339,Monitor,Dell P2725H,SN10741665,Heikki Kanerva,IT,2022-11-10,2025-11-09,In repair
+IT-100340,Mobile phone,Samsung Galaxy S24,SN49583400,Matthias Haid,Engineering,2024-01-18,2027-01-17,In use
+IT-100341,Laptop,Lenovo ThinkPad T14 Gen 5,SN69956151,Hannu Halonen,IT,2025-10-01,2028-09-30,Retired
+IT-100342,Docking station,Lenovo USB-C Dock,SN11045336,Virgilio Acosta,Operations,2023-12-11,2026-12-10,In use
+IT-100343,Tablet,iPad Air,SN25947653,Maria Mäki,Procurement,2023-08-29,2026-08-28,In use
+IT-100344,Mobile phone,Samsung Galaxy S24,SN58652920,Šárka Němec,Operations,2025-09-08,2028-09-07,Retired
+IT-100345,Tablet,iPad Air,SN21069221,Cathrine Johnsen,Engineering,2022-12-18,2025-12-17,Retired
+IT-100346,Laptop,Dell Latitude 7450,SN35990283,Patrik Hämäläinen,Human Resources,2023-10-20,2026-10-19,In use
+IT-100347,Mobile phone,Samsung Galaxy S24,SN87518231,Anton Andreasen,Quality,2024-03-01,2027-03-01,In use
+IT-100348,Monitor,Dell P2725H,SN30312110,Chus Leon,Quality,2024-08-27,2027-08-27,In use
+IT-100349,Monitor,Dell P2725H,SN42279665,Mari Keränen,Finance,2022-11-04,2025-11-03,In use
+IT-100350,Laptop,Dell Latitude 7450,SN33527551,Connie Frederiksen,Operations,2022-02-14,2025-02-13,In use
+IT-100351,Docking station,Lenovo USB-C Dock,SN97976894,Andrée Gaudin,Operations,2022-01-19,2025-01-18,In use
+IT-100352,Monitor,Dell P2725H,SN78237956,Felix Kopecký,Operations,2022-04-04,2025-04-03,In repair
+IT-100353,Tablet,iPad Air,SN15973778,Adélaïde Pierre,Operations,2023-10-09,2026-10-08,In use
+IT-100354,Monitor,Dell P2725H,SN26049899,Carl Gregersen,Operations,2025-02-19,2028-02-19,In repair
+IT-100355,Laptop,Dell Latitude 7450,SN44672929,Julia Viitala,Legal & Compliance,2025-08-16,2028-08-15,In repair
+IT-100356,Docking station,Lenovo USB-C Dock,SN39292263,Paco Alcántara,Operations,2022-04-01,2025-03-31,Retired
+IT-100357,Tablet,iPad Air,SN26931249,Berta Johansen,Operations,2025-05-18,2028-05-17,In use
+IT-100358,Monitor,Dell P2725H,SN61443163,Hannu Halonen,IT,2023-01-25,2026-01-24,In use
+IT-100359,Monitor,Dell P2725H,SN85943419,Irmeli Laakso,Operations,2025-05-09,2028-05-08,In use
+IT-100360,Laptop,HP EliteBook 840 G11,SN59268344,Niko Steinbacher,Operations,2025-03-05,2028-03-04,In repair
+IT-100361,Docking station,Lenovo USB-C Dock,SN23800242,Erika Makkonen,Engineering,2025-06-27,2028-06-26,In use
+IT-100362,Docking station,Lenovo USB-C Dock,SN49469286,Ritva Salo,Finance,2024-12-21,2027-12-21,In use
+IT-100363,Docking station,Lenovo USB-C Dock,SN20855044,Tapio Ahola,Operations,2022-06-15,2025-06-14,In use
+IT-100364,Laptop,HP EliteBook 840 G11,SN87563694,Jussi Tiihonen,Marketing,2025-03-17,2028-03-16,Retired
+IT-100365,Tablet,iPad Air,SN41085828,Doris Bech,Sales,2023-11-12,2026-11-11,In use
+IT-100366,Mobile phone,iPhone 15,SN59849109,Evelyn Froschauer,Engineering,2022-07-22,2025-07-21,In use
+IT-100367,Laptop,HP EliteBook 840 G11,SN32492618,Connie Frederiksen,Operations,2023-04-12,2026-04-11,In use
+IT-100368,Tablet,iPad Air,SN79618520,Paweł Maciejewicz,Sales,2022-01-27,2025-01-26,Retired
+IT-100369,Tablet,iPad Air,SN43640613,Martim Pacheco,Quality,2024-06-01,2027-06-01,In use
+IT-100370,Mobile phone,Samsung Galaxy S24,SN41288309,Anouk Laroche,Operations,2023-04-17,2026-04-16,In use
+IT-100371,Laptop,Lenovo ThinkPad T14 Gen 5,SN92027960,Alexandre Pinheiro,Quality,2022-01-30,2025-01-29,In use
+IT-100372,Mobile phone,Samsung Galaxy S24,SN98530724,Heikki Anttila,Procurement,2023-11-10,2026-11-09,In repair
+IT-100373,Laptop,HP EliteBook 840 G11,SN64757747,Colette Riou,Sales,2022-08-18,2025-08-17,In use
+IT-100374,Laptop,Lenovo ThinkPad T14 Gen 5,SN67722013,Gabriel Żółtek,Procurement,2023-05-09,2026-05-08,In use
+IT-100375,Mobile phone,iPhone 15,SN55630703,Angelita Llanos,Engineering,2022-10-25,2025-10-24,In use
+IT-100376,Laptop,Dell Latitude 7450,SN94130949,Paul Eriksen,Engineering,2022-10-25,2025-10-24,Retired
+IT-100377,Mobile phone,Samsung Galaxy S24,SN33802838,Jacek Nestorowicz,Engineering,2025-06-29,2028-06-28,In use
+IT-100378,Laptop,Lenovo ThinkPad T14 Gen 5,SN17022401,Milla Jokela,Marketing,2022-06-18,2025-06-17,Retired
+IT-100379,Laptop,HP EliteBook 840 G11,SN74534032,Maria Mäki,Procurement,2023-01-08,2026-01-07,Retired
+IT-100380,Monitor,Dell P2725H,SN79128892,Kyllikki Valkonen,Executive Office,2023-10-12,2026-10-11,In use
+IT-100381,Docking station,Lenovo USB-C Dock,SN95492455,Luis Bayer,Quality,2023-10-28,2026-10-27,In use
+IT-100382,Tablet,iPad Air,SN53189597,Kristina Saari,Human Resources,2024-08-09,2027-08-09,In use
+IT-100383,Laptop,Dell Latitude 7450,SN10793271,Eemeli Mäenpää,Procurement,2022-01-04,2025-01-03,In repair
+IT-100384,Monitor,Dell P2725H,SN25082306,Caetana Rodrigues,Finance,2025-01-29,2028-01-29,In repair
+IT-100385,Tablet,iPad Air,SN99763270,Marcial Ferrándiz,Operations,2022-07-10,2025-07-09,In use
+IT-100386,Docking station,Lenovo USB-C Dock,SN44177694,Philippe Foucher,Engineering,2025-10-10,2028-10-09,In use
+IT-100387,Laptop,Lenovo ThinkPad T14 Gen 5,SN23986934,Nina Kronsteiner,Operations,2025-09-02,2028-09-01,In use
+IT-100388,Laptop,Lenovo ThinkPad T14 Gen 5,SN33957078,Cathrine Johnsen,Engineering,2024-11-20,2027-11-20,In use
+IT-100389,Mobile phone,Samsung Galaxy S24,SN87105322,Lucie Matějková,Sales,2024-03-16,2027-03-16,In repair
+IT-100390,Docking station,Lenovo USB-C Dock,SN12979740,Azucena Román,Sales,2025-03-14,2028-03-13,In use
+IT-100391,Tablet,iPad Air,SN47707439,Poul Rasmussen,Operations,2025-05-21,2028-05-20,In use
+IT-100392,Laptop,HP EliteBook 840 G11,SN11142139,Sirkka Makkonen,Operations,2025-07-05,2028-07-04,In use
+IT-100393,Monitor,Dell P2725H,SN87781576,Christian Palomäki,Procurement,2022-11-18,2025-11-17,Retired
+IT-100394,Laptop,HP EliteBook 840 G11,SN22800505,Bruno Ramos,Engineering,2026-01-21,2029-01-20,In use
+IT-100395,Laptop,Lenovo ThinkPad T14 Gen 5,SN66159257,Elżbieta Oleszczak,IT,2025-01-31,2028-01-31,In use
+IT-100396,Docking station,Lenovo USB-C Dock,SN84294918,Magdaléna Stejskal,Engineering,2024-11-04,2027-11-04,Retired
+IT-100397,Docking station,Lenovo USB-C Dock,SN97167634,Johannes Häkkinen,Engineering,2023-07-04,2026-07-03,Retired
+IT-100398,Mobile phone,Samsung Galaxy S24,SN86509770,Agnès Devaux,Operations,2022-10-14,2025-10-13,In use
+IT-100399,Docking station,Lenovo USB-C Dock,SN58967240,Blanka Sado,Quality,2025-05-18,2028-05-17,In repair
+IT-100400,Laptop,HP EliteBook 840 G11,SN66688765,Martim Pacheco,Quality,2024-03-28,2027-03-28,In use
+IT-100401,Tablet,iPad Air,SN75157838,Sari Moisio,Marketing,2022-10-18,2025-10-17,Retired
+IT-100402,Laptop,HP EliteBook 840 G11,SN88379727,Maya Steffensen,Quality,2023-03-17,2026-03-16,Retired
+IT-100403,Laptop,HP EliteBook 840 G11,SN43575830,Tapani Hakala,Human Resources,2022-11-17,2025-11-16,In use
+IT-100404,Laptop,Lenovo ThinkPad T14 Gen 5,SN50872509,Francisco Borges,Marketing,2022-03-24,2025-03-23,In use
+IT-100405,Docking station,Lenovo USB-C Dock,SN36604408,Mikko Kallio,Finance,2024-06-14,2027-06-14,In use
+IT-100406,Tablet,iPad Air,SN98023745,Olivia Riedl,Operations,2023-09-30,2026-09-29,Retired
+IT-100407,Docking station,Lenovo USB-C Dock,SN25660803,Audrey Léger,Operations,2025-01-27,2028-01-27,In use
+IT-100408,Mobile phone,iPhone 15,SN51928706,Päivi Lehtonen,Quality,2025-10-11,2028-10-10,In use
+IT-100409,Docking station,Lenovo USB-C Dock,SN51168756,Marja Soininen,Operations,2025-07-26,2028-07-25,In use
+IT-100410,Tablet,iPad Air,SN30950265,Sandra Drążyk,Engineering,2025-07-09,2028-07-08,In use
+IT-100411,Docking station,Lenovo USB-C Dock,SN98987788,Erwin Hausberger,Operations,2025-08-26,2028-08-25,In use
+IT-100412,Monitor,Dell P2725H,SN13697757,Olivia Riedl,Operations,2022-06-07,2025-06-06,In use
+IT-100413,Monitor,Dell P2725H,SN96714770,Anaïs Alves,Quality,2023-01-21,2026-01-20,In use
+IT-100414,Laptop,Dell Latitude 7450,SN18807029,Ensio Valtonen,Finance,2025-10-22,2028-10-21,In use
+IT-100415,Monitor,Dell P2725H,SN16930826,Venla Pasanen,Operations,2025-03-12,2028-03-11,In use
+IT-100416,Laptop,Dell Latitude 7450,SN99964068,Olavi Tuominen,Legal & Compliance,2023-06-28,2026-06-27,In use
+IT-100417,Monitor,Dell P2725H,SN51382155,Ana Puerta,Quality,2022-06-27,2025-06-26,In use
+IT-100418,Laptop,Dell Latitude 7450,SN46914727,Flor Correia,Operations,2022-12-10,2025-12-09,In repair
+IT-100419,Laptop,Dell Latitude 7450,SN56342335,Hellevi Koski,Human Resources,2023-01-31,2026-01-30,In use
+IT-100420,Laptop,Lenovo ThinkPad T14 Gen 5,SN98722235,Jose Manuel Ibarra,Operations,2024-05-10,2027-05-10,In repair
+IT-100421,Laptop,HP EliteBook 840 G11,SN13370799,Gyda Kristiansen,Operations,2026-02-02,2029-02-01,In use
+IT-100422,Tablet,iPad Air,SN78438221,Palle Thomsen,Operations,2024-04-17,2027-04-17,Retired
+IT-100423,Docking station,Lenovo USB-C Dock,SN60859018,Marius Mandl,Sales,2024-11-30,2027-11-30,In repair
+IT-100424,Laptop,Dell Latitude 7450,SN73782253,Inkeri Karjalainen,Human Resources,2024-01-12,2027-01-11,Retired
+IT-100425,Tablet,iPad Air,SN17465250,Marie Holubová,Operations,2024-09-12,2027-09-12,In use
+IT-100426,Tablet,iPad Air,SN40438066,Johanna Koski,Operations,2024-03-09,2027-03-09,In use
+IT-100427,Tablet,iPad Air,SN48909699,Naděžda Kopecký,Quality,2024-12-10,2027-12-10,In use
+IT-100428,Monitor,Dell P2725H,SN89045981,Éléonore Camus,Sales,2022-06-21,2025-06-20,In use
+IT-100429,Laptop,Dell Latitude 7450,SN84142476,Mirjami Nurmi,IT,2023-07-12,2026-07-11,In use
+IT-100430,Laptop,Lenovo ThinkPad T14 Gen 5,SN61876595,Jannie Christoffersen,Operations,2025-05-21,2028-05-20,In use
+IT-100431,Mobile phone,Samsung Galaxy S24,SN77857595,Christoph Leibetseder,Operations,2024-04-20,2027-04-20,In use
+IT-100432,Laptop,HP EliteBook 840 G11,SN74371856,Raimo Mäkinen,Engineering,2024-06-16,2027-06-16,In repair
+IT-100433,Docking station,Lenovo USB-C Dock,SN14986781,Nádia Correia,Operations,2025-07-01,2028-06-30,Retired
+IT-100434,Monitor,Dell P2725H,SN53637473,Minna Laine,Legal & Compliance,2024-03-24,2027-03-24,In use
+IT-100435,Laptop,HP EliteBook 840 G11,SN72760326,Sascha Platzer,Quality,2023-05-21,2026-05-20,Retired
+IT-100436,Mobile phone,iPhone 15,SN47502875,Basilio Anaya,Engineering,2025-09-05,2028-09-04,Retired
+IT-100437,Docking station,Lenovo USB-C Dock,SN95805391,Aitana Aguilera,Quality,2026-01-02,2029-01-01,In use
+IT-100438,Tablet,iPad Air,SN36152956,Oskari Martikainen,Legal & Compliance,2024-03-06,2027-03-06,In repair
+IT-100439,Laptop,HP EliteBook 840 G11,SN13928724,Hannu Halonen,IT,2024-08-20,2027-08-20,In use
+IT-100440,Laptop,Lenovo ThinkPad T14 Gen 5,SN75784951,Afonso Gaspar,Sales,2022-01-14,2025-01-13,In use
+IT-100441,Monitor,Dell P2725H,SN50272786,Marcial Ferrándiz,Operations,2025-10-15,2028-10-14,In use
+IT-100442,Tablet,iPad Air,SN68200035,Valentino Klingler,Operations,2023-07-02,2026-07-01,Retired
+IT-100443,Monitor,Dell P2725H,SN30009341,Flor Correia,Operations,2025-03-01,2028-02-29,In use
+IT-100444,Laptop,HP EliteBook 840 G11,SN62255799,Hilkka Seppä,Procurement,2022-02-01,2025-01-31,Retired
+IT-100445,Monitor,Dell P2725H,SN48182142,Mikael Koivisto,Operations,2022-06-17,2025-06-16,In use
+IT-100446,Laptop,Dell Latitude 7450,SN89887390,Miroslava Sedláčková,Sales,2023-09-14,2026-09-13,In repair
+IT-100447,Laptop,HP EliteBook 840 G11,SN21110210,Isabella Gross,Operations,2024-04-03,2027-04-03,In use
+IT-100448,Laptop,Lenovo ThinkPad T14 Gen 5,SN26066588,Bartek Jeżyna,IT,2025-10-16,2028-10-15,Retired
+IT-100449,Laptop,Dell Latitude 7450,SN38883325,Vítor Leal,Sales,2024-10-04,2027-10-04,Retired
+IT-100450,Laptop,Lenovo ThinkPad T14 Gen 5,SN74567292,Olivia Riedl,Operations,2022-09-22,2025-09-21,In use
+IT-100451,Tablet,iPad Air,SN42009377,Albert Zeman,Engineering,2025-12-26,2028-12-25,In use
+IT-100452,Mobile phone,Samsung Galaxy S24,SN91244389,Frédéric Bourgeois,Engineering,2025-09-07,2028-09-06,In repair
+IT-100453,Mobile phone,iPhone 15,SN79691456,Guadalupe Fernandez,Operations,2025-04-25,2028-04-24,In repair
+IT-100454,Laptop,Dell Latitude 7450,SN22492051,Leander Heger,Operations,2022-06-14,2025-06-13,In repair
+IT-100455,Mobile phone,iPhone 15,SN66061466,Ester Kříž,Operations,2025-10-03,2028-10-02,In repair
+IT-100456,Laptop,Lenovo ThinkPad T14 Gen 5,SN30423500,Marine Grenier,Operations,2023-04-16,2026-04-15,In use
+IT-100457,Mobile phone,Samsung Galaxy S24,SN88138107,Paulo Morais,IT,2022-02-26,2025-02-25,In use
+IT-100458,Tablet,iPad Air,SN82509335,Jaakko Berg,Engineering,2023-03-24,2026-03-23,In use
+IT-100459,Tablet,iPad Air,SN49855073,Irja Pesonen,Human Resources,2023-02-23,2026-02-22,In use
+IT-100460,Tablet,iPad Air,SN79673146,Ruy Gutiérrez,Operations,2025-07-28,2028-07-27,Retired
+IT-100461,Mobile phone,Samsung Galaxy S24,SN51323109,Marta Němeček,Sales,2025-12-14,2028-12-13,In use
+IT-100462,Mobile phone,iPhone 15,SN78544882,Juan Francisco Marti,Operations,2025-06-07,2028-06-06,Retired
+IT-100463,Laptop,Dell Latitude 7450,SN93605407,Sine Lund,Operations,2022-09-10,2025-09-09,In use
+IT-100464,Tablet,iPad Air,SN32982772,Luis Bayer,Quality,2024-04-07,2027-04-07,In use
+IT-100465,Laptop,Lenovo ThinkPad T14 Gen 5,SN54270872,Audrey Léger,Operations,2025-08-29,2028-08-28,In use
+IT-100466,Mobile phone,Samsung Galaxy S24,SN58683677,Ella Mäkelä,Marketing,2023-09-16,2026-09-15,Retired
+IT-100467,Laptop,HP EliteBook 840 G11,SN56543892,Airi Salo,Procurement,2024-11-21,2027-11-21,Retired
+IT-100468,Laptop,Dell Latitude 7450,SN63948981,Nicole Wyrostek,Legal & Compliance,2025-12-02,2028-12-01,In repair
+IT-100469,Monitor,Dell P2725H,SN98415787,Palle Thomsen,Operations,2023-01-07,2026-01-06,In repair
+IT-100470,Laptop,HP EliteBook 840 G11,SN40650700,Ruy Gutiérrez,Operations,2023-06-16,2026-06-15,In use
+IT-100471,Monitor,Dell P2725H,SN80177678,Tapio Ahola,Operations,2022-03-30,2025-03-29,In use
+IT-100472,Laptop,Lenovo ThinkPad T14 Gen 5,SN48950939,Jolana Valentová,Engineering,2025-04-18,2028-04-17,In use
+IT-100473,Tablet,iPad Air,SN92344104,Esther Pröll,Operations,2022-04-20,2025-04-19,Retired
+IT-100474,Mobile phone,iPhone 15,SN61090025,Inkeri Järvenpää,Operations,2023-06-29,2026-06-28,In use
+IT-100475,Monitor,Dell P2725H,SN18256021,Tanja Rasmussen,Quality,2025-11-29,2028-11-28,Retired
+IT-100476,Docking station,Lenovo USB-C Dock,SN56770798,Ritva Salo,Finance,2025-05-12,2028-05-11,In use
+IT-100477,Docking station,Lenovo USB-C Dock,SN43008731,Augustin Daniel,Engineering,2024-03-21,2027-03-21,In use
+IT-100478,Docking station,Lenovo USB-C Dock,SN34931257,Zora Krejčová,Sales,2025-11-07,2028-11-06,In repair
+IT-100479,Monitor,Dell P2725H,SN19845595,Poul Rasmussen,Operations,2025-08-05,2028-08-04,In use
+IT-100480,Mobile phone,iPhone 15,SN92122051,Seppo Saarinen,Legal & Compliance,2022-06-25,2025-06-24,In use
+IT-100481,Docking station,Lenovo USB-C Dock,SN26934308,Maria Grönroos,Human Resources,2025-10-15,2028-10-14,In use
+IT-100482,Docking station,Lenovo USB-C Dock,SN39812380,Fernando Freitas,Sales,2025-06-13,2028-06-12,In use
+IT-100483,Monitor,Dell P2725H,SN26621138,Hubert Svoboda,Engineering,2024-08-16,2027-08-16,In use
+IT-100484,Mobile phone,iPhone 15,SN38303199,Lucie Fiala,Engineering,2022-12-19,2025-12-18,In use
+IT-100485,Mobile phone,iPhone 15,SN66015271,Juhani Lindroos,Marketing,2025-09-24,2028-09-23,In use
+IT-100486,Tablet,iPad Air,SN12841766,Sørine Bruun,Engineering,2023-04-20,2026-04-19,In repair
+IT-100487,Tablet,iPad Air,SN37199604,Tapio Salmi,Human Resources,2024-05-13,2027-05-13,In use
+IT-100488,Monitor,Dell P2725H,SN77655220,Leena Laitinen,IT,2025-06-10,2028-06-09,Retired
+IT-100489,Docking station,Lenovo USB-C Dock,SN77315633,Johanna Jussila,Finance,2024-08-23,2027-08-23,Retired
+IT-100490,Laptop,Dell Latitude 7450,SN41530044,Jarmo Pesonen,Sales,2023-11-30,2026-11-29,In use
+IT-100491,Monitor,Dell P2725H,SN56560080,Roldán Miralles,Engineering,2024-04-05,2027-04-05,In repair
+IT-100492,Tablet,iPad Air,SN59022875,Markku Hokkanen,IT,2022-07-18,2025-07-17,In use
+IT-100493,Tablet,iPad Air,SN48691181,Marika Kołak,Marketing,2024-03-05,2027-03-05,In use
+IT-100494,Laptop,Dell Latitude 7450,SN52639750,Linda Koponen,Finance,2023-08-19,2026-08-18,Retired
+IT-100495,Monitor,Dell P2725H,SN48002383,Hannu Puustinen,Operations,2023-06-09,2026-06-08,In repair
+IT-100496,Docking station,Lenovo USB-C Dock,SN60288935,Ritva Salo,Finance,2022-10-30,2025-10-29,Retired
+IT-100497,Laptop,Dell Latitude 7450,SN67742165,Pastor Salmerón,Operations,2026-01-28,2029-01-27,Retired
+IT-100498,Laptop,Dell Latitude 7450,SN97376715,Hellevi Koski,Human Resources,2022-03-25,2025-03-24,In use
+IT-100499,Monitor,Dell P2725H,SN22796056,Sten Krogh,Engineering,2025-12-11,2028-12-10,In use
+IT-100500,Mobile phone,iPhone 15,SN50523810,Leander Heger,Operations,2025-08-28,2028-08-27,In use
+IT-100501,Tablet,iPad Air,SN99059706,Anneli Hokkanen,Legal & Compliance,2024-11-08,2027-11-08,In use
+IT-100502,Tablet,iPad Air,SN94245324,Heli Miettinen,IT,2023-03-21,2026-03-20,In use
+IT-100503,Laptop,Lenovo ThinkPad T14 Gen 5,SN62690130,Aurora Heikkilä,IT,2023-08-21,2026-08-20,Retired
+IT-100504,Docking station,Lenovo USB-C Dock,SN84200871,Ebbe Bech,Quality,2024-07-05,2027-07-05,In use
+IT-100505,Monitor,Dell P2725H,SN53627800,Jacek Hetmańczyk,Marketing,2025-04-22,2028-04-21,Retired
+IT-100506,Docking station,Lenovo USB-C Dock,SN69420342,Isabella Gross,Operations,2024-01-05,2027-01-04,In use
+IT-100507,Mobile phone,Samsung Galaxy S24,SN27697746,Tommy Friis,Quality,2024-06-17,2027-06-17,In use
+IT-100508,Docking station,Lenovo USB-C Dock,SN79233394,Marius Mandl,Sales,2025-07-11,2028-07-10,In repair
+IT-100509,Monitor,Dell P2725H,SN71784304,Mélanie Vaz,IT,2022-11-28,2025-11-27,In repair
+IT-100510,Docking station,Lenovo USB-C Dock,SN14808621,Yasmin Poulsen,Operations,2025-10-01,2028-09-30,In use
+IT-100511,Monitor,Dell P2725H,SN68806240,Johanna Juntunen,Legal & Compliance,2022-07-15,2025-07-14,In use
+IT-100512,Docking station,Lenovo USB-C Dock,SN25118497,Henrik Leskinen,Marketing,2024-08-29,2027-08-29,In repair
+IT-100513,Tablet,iPad Air,SN60093503,Virgilio Villanueva,Engineering,2026-02-03,2029-02-02,In repair
+IT-100514,Monitor,Dell P2725H,SN26007171,Madalena Teixeira,Finance,2025-04-18,2028-04-17,In repair
+IT-100515,Tablet,iPad Air,SN91601526,Laetitia Leroux,Sales,2024-09-18,2027-09-18,In use
+IT-100516,Laptop,Dell Latitude 7450,SN54390664,Anna-Liisa Ikonen,Procurement,2025-10-19,2028-10-18,In use
+IT-100517,Tablet,iPad Air,SN76514915,Annemette Hermansen,Engineering,2024-02-12,2027-02-11,In use
+IT-100518,Laptop,Dell Latitude 7450,SN74653406,Chus Leon,Quality,2023-12-07,2026-12-06,In use
+IT-100519,Monitor,Dell P2725H,SN28204971,Karina Kruszona,Engineering,2025-02-01,2028-02-01,In use
+IT-100520,Mobile phone,iPhone 15,SN60755981,Piotr Noszczyk,Operations,2023-03-01,2026-02-28,In repair
+IT-100521,Tablet,iPad Air,SN29491325,Rita Alves,Finance,2024-02-28,2027-02-27,In use
+IT-100522,Monitor,Dell P2725H,SN49644500,Maarit Silvennoinen,Finance,2023-10-21,2026-10-20,Retired
+IT-100523,Docking station,Lenovo USB-C Dock,SN62523273,Maks Świerad,Finance,2024-04-26,2027-04-26,In use
+IT-100524,Tablet,iPad Air,SN38191814,Beatriz Magalhães,Finance,2023-01-12,2026-01-11,Retired
+IT-100525,Mobile phone,Samsung Galaxy S24,SN96287118,Ester Kříž,Operations,2025-06-01,2028-05-31,Retired
+IT-100526,Docking station,Lenovo USB-C Dock,SN81821938,Karina Żyrek,Engineering,2022-01-06,2025-01-05,Retired
+IT-100527,Laptop,HP EliteBook 840 G11,SN93233400,Victor Normand,Operations,2025-01-10,2028-01-10,In repair
+IT-100528,Monitor,Dell P2725H,SN48231998,Jarkko Hämäläinen,IT,2023-05-21,2026-05-20,In use
+IT-100529,Monitor,Dell P2725H,SN20359691,Olgierd Molga,Legal & Compliance,2023-12-12,2026-12-11,Retired
+IT-100530,Mobile phone,Samsung Galaxy S24,SN92078314,Jarmo Pesonen,Sales,2024-11-17,2027-11-17,Retired
+IT-100531,Laptop,Lenovo ThinkPad T14 Gen 5,SN37143172,Kristiina Lappalainen,Procurement,2025-05-25,2028-05-24,Retired
+IT-100532,Tablet,iPad Air,SN97855487,Otto Lammi,Engineering,2025-05-17,2028-05-16,In use
+IT-100533,Tablet,iPad Air,SN24487346,Sofia Erlacher,Engineering,2025-11-19,2028-11-18,In use
+IT-100534,Laptop,Dell Latitude 7450,SN87055319,Carlota Barros,Operations,2022-02-02,2025-02-01,In repair
+IT-100535,Tablet,iPad Air,SN26555302,Antero Holmström,IT,2024-10-09,2027-10-09,In use
+IT-100536,Tablet,iPad Air,SN31849556,Alfred Philippe,Operations,2022-01-17,2025-01-16,In repair
+IT-100537,Laptop,HP EliteBook 840 G11,SN15501560,Jarl Mogensen,Sales,2022-02-28,2025-02-27,In repair
+IT-100538,Docking station,Lenovo USB-C Dock,SN73475193,Rafael Tavares,Human Resources,2023-11-12,2026-11-11,In repair
+IT-100539,Mobile phone,iPhone 15,SN73807941,Tonny Petersen,Operations,2022-09-06,2025-09-05,In use
+IT-100540,Laptop,Lenovo ThinkPad T14 Gen 5,SN27497239,Alfred Philippe,Operations,2023-08-29,2026-08-28,Retired
+IT-100541,Tablet,iPad Air,SN22112392,Verneri Martikainen,Human Resources,2022-09-17,2025-09-16,In use
+IT-100542,Monitor,Dell P2725H,SN13730361,Riikka Mäenpää,Marketing,2023-04-29,2026-04-28,In use
+IT-100543,Monitor,Dell P2725H,SN21306188,Anne Laakkonen,Legal & Compliance,2025-08-23,2028-08-22,In use
+IT-100544,Tablet,iPad Air,SN24299753,Antero Holmström,IT,2024-11-30,2027-11-30,In repair
+IT-100545,Mobile phone,Samsung Galaxy S24,SN43651119,Wilson Magalhães,Human Resources,2024-10-05,2027-10-05,In use
+IT-100546,Mobile phone,iPhone 15,SN28787452,Dagmara Bogumił,Executive Office,2024-12-29,2027-12-29,In use
+IT-100547,Laptop,HP EliteBook 840 G11,SN36267555,Tuomo Heinonen,Engineering,2024-01-28,2027-01-27,In use
+IT-100548,Docking station,Lenovo USB-C Dock,SN85845521,Kristian Schramm,Quality,2022-08-19,2025-08-18,In use
+IT-100549,Tablet,iPad Air,SN43364851,Luis Bayer,Quality,2024-06-19,2027-06-19,In use
+IT-100550,Monitor,Dell P2725H,SN24115359,Ilmari Laurila,Human Resources,2024-09-27,2027-09-27,In use
+IT-100551,Docking station,Lenovo USB-C Dock,SN99546445,Caetana Rodrigues,Finance,2025-03-26,2028-03-25,In repair
+IT-100552,Mobile phone,Samsung Galaxy S24,SN46099437,Hannele Haataja,Human Resources,2022-11-11,2025-11-10,In repair
+IT-100553,Laptop,HP EliteBook 840 G11,SN37709319,Karina Żyrek,Engineering,2022-10-19,2025-10-18,In use
+IT-100554,Tablet,iPad Air,SN76109755,Ryszard Przeklasa,Marketing,2025-06-27,2028-06-26,In use
+IT-100555,Monitor,Dell P2725H,SN23661894,Valentino Klingler,Operations,2024-03-25,2027-03-25,In repair
+IT-100556,Laptop,HP EliteBook 840 G11,SN31568875,Alina Vainio,Legal & Compliance,2024-08-24,2027-08-24,In repair
+IT-100557,Laptop,Lenovo ThinkPad T14 Gen 5,SN24380984,Maarit Silvennoinen,Finance,2024-05-22,2027-05-22,In repair
+IT-100558,Monitor,Dell P2725H,SN53344351,Tapio Salmi,Human Resources,2025-08-18,2028-08-17,In repair
+IT-100559,Laptop,HP EliteBook 840 G11,SN50891504,Bartek Uroda,Quality,2022-02-17,2025-02-16,In use
+IT-100560,Tablet,iPad Air,SN43157603,Jannie Kristensen,Sales,2024-03-05,2027-03-05,In use
+IT-100561,Laptop,HP EliteBook 840 G11,SN46862965,Mélanie Vaz,IT,2023-09-10,2026-09-09,Retired
+IT-100562,Monitor,Dell P2725H,SN10215984,Borys Skomra,Operations,2023-04-09,2026-04-08,In use
+IT-100563,Mobile phone,Samsung Galaxy S24,SN38446938,Marcial Pardo,Engineering,2023-01-10,2026-01-09,In use
+IT-100564,Docking station,Lenovo USB-C Dock,SN69374591,Trine Søndergaard,Procurement,2024-07-23,2027-07-23,In use
+IT-100565,Tablet,iPad Air,SN16727661,Arkadiusz Sądej,Operations,2023-10-05,2026-10-04,In use
+IT-100566,Docking station,Lenovo USB-C Dock,SN25131033,Ruy Gutiérrez,Operations,2022-01-05,2025-01-04,In repair
+IT-100567,Monitor,Dell P2725H,SN30798981,Mikko Kallio,Finance,2024-06-05,2027-06-05,Retired
+IT-100568,Laptop,HP EliteBook 840 G11,SN64188681,Kornelia Misiuk,Engineering,2025-09-10,2028-09-09,In use
+IT-100569,Tablet,iPad Air,SN80013676,Sisko Väänänen,Human Resources,2022-10-06,2025-10-05,Retired
+IT-100570,Laptop,Dell Latitude 7450,SN65063657,Mikuláš Bartošová,Engineering,2024-09-11,2027-09-11,In use
+IT-100571,Mobile phone,iPhone 15,SN74382596,Olivia Kuusela,Finance,2025-04-25,2028-04-24,In use
+IT-100572,Docking station,Lenovo USB-C Dock,SN25359811,Sarah Christiansen,Quality,2022-08-12,2025-08-11,In repair
+IT-100573,Docking station,Lenovo USB-C Dock,SN80675356,Katriina Markkanen,Executive Office,2023-10-25,2026-10-24,In use
+IT-100574,Laptop,Dell Latitude 7450,SN14066866,Rita Alves,Finance,2024-04-03,2027-04-03,In repair
+IT-100575,Mobile phone,Samsung Galaxy S24,SN39513861,Heidi Schultz,Operations,2022-05-07,2025-05-06,In use
+IT-100576,Laptop,HP EliteBook 840 G11,SN87568836,Luděk Němečková,Operations,2025-08-07,2028-08-06,Retired
+IT-100577,Laptop,Dell Latitude 7450,SN57923727,Johannes Häkkinen,Engineering,2025-02-13,2028-02-13,Retired
+IT-100578,Laptop,Dell Latitude 7450,SN73180382,Maciej Mateńko,Procurement,2025-08-28,2028-08-27,Retired
+IT-100579,Mobile phone,Samsung Galaxy S24,SN12524142,Benedicte Svendsen,Operations,2025-10-22,2028-10-21,Retired
+IT-100580,Mobile phone,Samsung Galaxy S24,SN22353324,Martim Pacheco,Quality,2023-04-15,2026-04-14,In use
+IT-100581,Laptop,HP EliteBook 840 G11,SN57745560,Jarkko Hämäläinen,IT,2022-11-03,2025-11-02,Retired
+IT-100582,Monitor,Dell P2725H,SN21081788,Johannes Paavilainen,Finance,2025-08-12,2028-08-11,Retired
+IT-100583,Monitor,Dell P2725H,SN86397121,Annemette Hermansen,Engineering,2022-12-08,2025-12-07,In repair
+IT-100584,Tablet,iPad Air,SN25836283,Eemeli Kankaanpää,Finance,2023-03-06,2026-03-05,In use
+IT-100585,Laptop,Lenovo ThinkPad T14 Gen 5,SN54465535,Alina Vainio,Legal & Compliance,2023-07-31,2026-07-30,In use
+IT-100586,Laptop,HP EliteBook 840 G11,SN80866362,Sari Moisio,Marketing,2025-01-29,2028-01-29,In use
+IT-100587,Laptop,HP EliteBook 840 G11,SN33517890,Christoph Leibetseder,Operations,2023-01-27,2026-01-26,In repair
+IT-100588,Laptop,Lenovo ThinkPad T14 Gen 5,SN10439558,Maria Mikkola,Engineering,2023-10-12,2026-10-11,In repair
+IT-100589,Mobile phone,Samsung Galaxy S24,SN15264769,Marita Huttunen,Sales,2025-04-28,2028-04-27,In use
+IT-100590,Tablet,iPad Air,SN52142306,Azucena Román,Sales,2025-08-11,2028-08-10,In use
+IT-100591,Monitor,Dell P2725H,SN73060159,Christoph Leibetseder,Operations,2025-01-29,2028-01-29,In use
+IT-100592,Laptop,Dell Latitude 7450,SN49041836,Ritva Soininen,Engineering,2025-08-16,2028-08-15,Retired
+IT-100593,Tablet,iPad Air,SN74168574,Fernando Freitas,Sales,2024-01-23,2027-01-22,In use
+IT-100594,Laptop,Lenovo ThinkPad T14 Gen 5,SN35479013,Rafaela Figueiredo,Procurement,2024-03-26,2027-03-26,In repair
+IT-100595,Laptop,Dell Latitude 7450,SN96562468,Victoria Arjona,Operations,2025-01-13,2028-01-13,In use
+IT-100596,Tablet,iPad Air,SN15509115,Ensio Valtonen,Finance,2025-05-18,2028-05-17,In use
+IT-100597,Tablet,iPad Air,SN39955580,Karolína Matoušková,Sales,2022-10-23,2025-10-22,In repair
+IT-100598,Monitor,Dell P2725H,SN76378339,Hannele Oksanen,Engineering,2022-12-07,2025-12-06,In use
+IT-100599,Monitor,Dell P2725H,SN83910672,Sophia Hofstätter,Operations,2024-08-02,2027-08-02,In repair
+IT-100600,Mobile phone,Samsung Galaxy S24,SN76393134,Aimé Leroux,Sales,2023-09-30,2026-09-29,In use
+IT-100601,Laptop,Dell Latitude 7450,SN54646960,Zora Krejčová,Sales,2022-10-23,2025-10-22,In use
+IT-100602,Monitor,Dell P2725H,SN85113038,Clara Krenn,Operations,2023-12-26,2026-12-25,In repair
+IT-100603,Laptop,Dell Latitude 7450,SN25859740,Kacper Hewelt,IT,2025-06-26,2028-06-25,In use
+IT-100604,Tablet,iPad Air,SN12364335,Rafał Ciesielka,Operations,2025-01-27,2028-01-27,In repair
+IT-100605,Monitor,Dell P2725H,SN19189792,Borys Skomra,Operations,2023-01-28,2026-01-27,In use
+IT-100606,Docking station,Lenovo USB-C Dock,SN84546942,Šárka Němec,Operations,2022-04-19,2025-04-18,In use
+IT-100607,Laptop,Dell Latitude 7450,SN37190622,Mira Piirainen,Sales,2022-02-07,2025-02-06,In repair
+IT-100608,Laptop,HP EliteBook 840 G11,SN73039281,Růžena Beranová,Engineering,2025-06-22,2028-06-21,Retired
+IT-100609,Monitor,Dell P2725H,SN81362693,Carlota Barros,Operations,2025-03-03,2028-03-02,Retired
+IT-100610,Docking station,Lenovo USB-C Dock,SN33533555,Maya Steffensen,Quality,2025-01-05,2028-01-05,In use
+IT-100611,Docking station,Lenovo USB-C Dock,SN84937654,Veli Lehto,Engineering,2024-01-14,2027-01-13,In use
+IT-100612,Laptop,Lenovo ThinkPad T14 Gen 5,SN33557265,Miroslav Janečková,Operations,2023-02-12,2026-02-11,In use
+IT-100613,Tablet,iPad Air,SN31040509,Bernardo Amaral,Operations,2023-07-26,2026-07-25,In use
+IT-100614,Monitor,Dell P2725H,SN21428930,Mirjami Nurmi,IT,2022-01-11,2025-01-10,In use
+IT-100615,Mobile phone,iPhone 15,SN40719776,Jiří Soukup,Quality,2024-06-26,2027-06-26,In use
+IT-100616,Monitor,Dell P2725H,SN65754750,Luna Neto,Human Resources,2022-08-06,2025-08-05,In use
+IT-100617,Tablet,iPad Air,SN81235738,Šimon Pospíšilová,Engineering,2022-12-13,2025-12-12,Retired
+IT-100618,Docking station,Lenovo USB-C Dock,SN16582963,Kaisa Lampinen,Finance,2022-07-14,2025-07-13,Retired
+IT-100619,Mobile phone,iPhone 15,SN15437594,Alexandra Heikkilä,Finance,2025-12-28,2028-12-27,In use
+IT-100620,Laptop,HP EliteBook 840 G11,SN41370883,Sandra Drążyk,Engineering,2024-12-28,2027-12-28,Retired
+IT-100621,Docking station,Lenovo USB-C Dock,SN35308854,Alan Hoffmann,Operations,2024-02-22,2027-02-21,Retired
+IT-100622,Laptop,Dell Latitude 7450,SN11986454,Vasco Valente,Operations,2022-08-27,2025-08-26,In use
+IT-100623,Laptop,Dell Latitude 7450,SN17440169,Juhani Simonen,Marketing,2025-03-13,2028-03-12,In repair
+IT-100624,Mobile phone,Samsung Galaxy S24,SN75708266,Lasse Mikkelsen,Operations,2025-12-09,2028-12-08,Retired
+IT-100625,Laptop,HP EliteBook 840 G11,SN56822900,Kurt Andresen,Operations,2024-04-27,2027-04-27,In repair
+IT-100626,Tablet,iPad Air,SN34218695,Katriina Markkanen,Executive Office,2023-01-23,2026-01-22,In repair
+IT-100627,Docking station,Lenovo USB-C Dock,SN39311262,Beth Danielsen,Quality,2024-04-02,2027-04-02,In use
+IT-100628,Laptop,Dell Latitude 7450,SN98689665,Lidia Ragus,Operations,2022-12-10,2025-12-09,Retired
+IT-100629,Mobile phone,Samsung Galaxy S24,SN64672238,Mia Guerreiro,Operations,2024-06-01,2027-06-01,In use
+IT-100630,Laptop,HP EliteBook 840 G11,SN61216505,Nicole Klemczak,Sales,2024-01-28,2027-01-27,In use
+IT-100631,Monitor,Dell P2725H,SN27910249,Matilda Peltonen,Procurement,2023-12-08,2026-12-07,In use
+IT-100632,Docking station,Lenovo USB-C Dock,SN48276605,Ignác Ježková,Engineering,2024-02-03,2027-02-02,In use
+IT-100633,Mobile phone,iPhone 15,SN60926778,Veera Sutinen,Engineering,2025-06-27,2028-06-26,In use
+IT-100634,Mobile phone,Samsung Galaxy S24,SN27618407,Heikki Koskinen,Operations,2025-04-08,2028-04-07,In use
+IT-100635,Docking station,Lenovo USB-C Dock,SN53308320,Juliana Valente,Finance,2023-10-01,2026-09-30,In use
+IT-100636,Tablet,iPad Air,SN12946254,Ella Mäkelä,Marketing,2023-12-15,2026-12-14,In use
+IT-100637,Docking station,Lenovo USB-C Dock,SN52886272,Nicole Wyrostek,Legal & Compliance,2023-01-03,2026-01-02,Retired
+IT-100638,Tablet,iPad Air,SN30008557,Alois Král,Operations,2025-06-14,2028-06-13,In use
+IT-100639,Docking station,Lenovo USB-C Dock,SN53166747,Andreia Martins,IT,2024-12-04,2027-12-04,In use
+IT-100640,Docking station,Lenovo USB-C Dock,SN21231167,Borys Skomra,Operations,2025-01-26,2028-01-26,Retired
+IT-100641,Monitor,Dell P2725H,SN59088871,Christian Jenewein,Engineering,2024-07-11,2027-07-11,In use
+IT-100642,Tablet,iPad Air,SN25030939,Louis Boyer,Engineering,2023-07-27,2026-07-26,In use
+IT-100643,Mobile phone,iPhone 15,SN11290198,Bohumír Dostál,Operations,2025-01-30,2028-01-30,Retired
+IT-100644,Mobile phone,Samsung Galaxy S24,SN32607254,Natasha Dam,Sales,2022-06-14,2025-06-13,In use
+IT-100645,Docking station,Lenovo USB-C Dock,SN94495239,Inês Ribeiro,Operations,2024-03-27,2027-03-27,Retired
+IT-100646,Tablet,iPad Air,SN90310799,Otto Lammi,Engineering,2022-04-25,2025-04-24,In use
+IT-100647,Tablet,iPad Air,SN18033826,Ragnhild Jeppesen,Operations,2024-04-23,2027-04-23,Retired
+IT-100648,Laptop,Lenovo ThinkPad T14 Gen 5,SN56270684,Antero Holmström,IT,2024-11-29,2027-11-29,In use
+IT-100649,Mobile phone,Samsung Galaxy S24,SN15523584,Johanna Keskinen,IT,2023-03-06,2026-03-05,In repair
+IT-100650,Monitor,Dell P2725H,SN76044190,Danuše Polák,Engineering,2025-03-12,2028-03-11,Retired
+IT-100651,Docking station,Lenovo USB-C Dock,SN43322042,Anouk Laroche,Operations,2022-08-27,2025-08-26,In use
+IT-100652,Laptop,Lenovo ThinkPad T14 Gen 5,SN69850421,Wilson Magalhães,Human Resources,2024-01-24,2027-01-23,In use
+IT-100653,Laptop,Lenovo ThinkPad T14 Gen 5,SN67197821,Caetana Rodrigues,Finance,2024-06-04,2027-06-04,In use
+IT-100654,Laptop,Dell Latitude 7450,SN99792288,Johanna Pietilä,Operations,2023-07-02,2026-07-01,In use
+IT-100655,Mobile phone,iPhone 15,SN67240163,Veera Sutinen,Engineering,2024-01-21,2027-01-20,Retired
+IT-100656,Mobile phone,iPhone 15,SN64836694,Connie Frederiksen,Operations,2023-01-13,2026-01-12,In use
+IT-100657,Laptop,HP EliteBook 840 G11,SN97186845,Dafne Zurita,Operations,2023-04-06,2026-04-05,In use
+IT-100658,Laptop,Dell Latitude 7450,SN53851206,Ilmari Laurila,Human Resources,2022-10-16,2025-10-15,In use
+IT-100659,Tablet,iPad Air,SN10583418,Krystian Kluj,Operations,2023-07-25,2026-07-24,Retired
+IT-100660,Docking station,Lenovo USB-C Dock,SN12289001,Miguela Moraleda,Sales,2024-05-16,2027-05-16,In use
+IT-100661,Mobile phone,iPhone 15,SN95616683,Eemeli Mäntylä,Operations,2023-11-08,2026-11-07,Retired
+IT-100662,Monitor,Dell P2725H,SN84950735,Elżbieta Kaczka,Human Resources,2024-04-04,2027-04-04,In use
+IT-100663,Monitor,Dell P2725H,SN40386557,Aleksi Asikainen,Engineering,2023-11-01,2026-10-31,In use
+IT-100664,Docking station,Lenovo USB-C Dock,SN37535823,Iida Kangas,Finance,2024-06-17,2027-06-17,Retired
+IT-100665,Laptop,HP EliteBook 840 G11,SN17713134,Maria Rauhala,Engineering,2026-01-21,2029-01-20,In use
+IT-100666,Monitor,Dell P2725H,SN87794496,André Mendes,Operations,2025-10-02,2028-10-01,In use
+IT-100667,Mobile phone,Samsung Galaxy S24,SN46402540,Emilia Saarinen,Finance,2024-12-08,2027-12-08,In use
+IT-100668,Laptop,Dell Latitude 7450,SN97363779,Philippe Foucher,Engineering,2023-01-14,2026-01-13,Retired
+IT-100669,Docking station,Lenovo USB-C Dock,SN12431455,Sarah Christiansen,Quality,2023-02-06,2026-02-05,In use
+IT-100670,Tablet,iPad Air,SN57721347,Emil Wydmuch,Operations,2023-05-20,2026-05-19,In repair
+IT-100671,Monitor,Dell P2725H,SN97562306,Suvi Kovanen,Marketing,2023-04-27,2026-04-26,In use
+IT-100672,Monitor,Dell P2725H,SN57038011,Heikki Lähteenmäki,Marketing,2022-01-11,2025-01-10,In use
+IT-100673,Mobile phone,Samsung Galaxy S24,SN85760523,Olgierd Parkitna,Operations,2023-03-14,2026-03-13,In use
+IT-100674,Monitor,Dell P2725H,SN41709056,Timo Mattila,Marketing,2023-07-20,2026-07-19,In use
+IT-100675,Laptop,HP EliteBook 840 G11,SN76390527,Sam Tiefenbacher,Operations,2025-01-22,2028-01-22,In repair
+IT-100676,Mobile phone,iPhone 15,SN96347740,Nair Vieira,Marketing,2023-08-26,2026-08-25,In use
+IT-100677,Monitor,Dell P2725H,SN94627111,Teodora Puga,Quality,2025-08-24,2028-08-23,In repair
+IT-100678,Tablet,iPad Air,SN11845198,Emmi Rantanen,IT,2024-09-08,2027-09-08,In use
+IT-100679,Mobile phone,iPhone 15,SN66866932,João Barbosa,Engineering,2022-12-20,2025-12-19,In use
+IT-100680,Mobile phone,iPhone 15,SN24773294,Marvin Neumayer,Operations,2025-10-05,2028-10-04,In use
+IT-100681,Monitor,Dell P2725H,SN62048673,Basilio Anaya,Engineering,2023-06-02,2026-06-01,In repair
+IT-100682,Laptop,HP EliteBook 840 G11,SN55887073,Calvin Stern,Sales,2024-03-24,2027-03-24,In repair
+IT-100683,Tablet,iPad Air,SN60013359,Inkeri Harju,Human Resources,2025-04-23,2028-04-22,In use
+IT-100684,Mobile phone,Samsung Galaxy S24,SN71905351,Gustaw Leszcz,IT,2022-03-21,2025-03-20,In repair
+IT-100685,Docking station,Lenovo USB-C Dock,SN50981166,Arvo Kuusisto,Finance,2023-12-03,2026-12-02,In use
+IT-100686,Laptop,Dell Latitude 7450,SN58468465,Luna Simões,Legal & Compliance,2022-04-08,2025-04-07,Retired
+IT-100687,Mobile phone,Samsung Galaxy S24,SN74984966,Ignác Ježková,Engineering,2024-02-10,2027-02-09,Retired
+IT-100688,Monitor,Dell P2725H,SN82764317,Bartek Tomaszczyk,Engineering,2025-11-09,2028-11-08,In use
+IT-100689,Monitor,Dell P2725H,SN20908523,Miroslav Janečková,Operations,2024-12-06,2027-12-06,In use
+IT-100690,Monitor,Dell P2725H,SN96891535,Airi Salo,Procurement,2025-12-13,2028-12-12,Retired
+IT-100691,Laptop,Dell Latitude 7450,SN78599507,Kalervo Niemi,Finance,2022-08-17,2025-08-16,In use
+IT-100692,Docking station,Lenovo USB-C Dock,SN73062877,Róża Miękina,Operations,2023-01-28,2026-01-27,In repair
+IT-100693,Mobile phone,Samsung Galaxy S24,SN61547674,Jasmina Steurer,Engineering,2023-02-28,2026-02-27,Retired
+IT-100694,Monitor,Dell P2725H,SN80126127,Aatos Niemi,Human Resources,2023-06-23,2026-06-22,In use
+IT-100695,Laptop,HP EliteBook 840 G11,SN87535502,Zora Krejčová,Sales,2025-08-15,2028-08-14,Retired
+IT-100696,Laptop,HP EliteBook 840 G11,SN57388475,Henrik Leskinen,Marketing,2023-08-21,2026-08-20,In use
+IT-100697,Docking station,Lenovo USB-C Dock,SN28423682,Rikke Mathiesen,Operations,2023-09-15,2026-09-14,In use
+IT-100698,Mobile phone,iPhone 15,SN80351729,Jiří Soukup,Quality,2022-05-19,2025-05-18,In use
+IT-100699,Tablet,iPad Air,SN90538149,Laurent Lopes,Sales,2023-12-06,2026-12-05,In use

@@ -1,0 +1,121 @@
+incident_id,date,site,type,severity,days_lost,status,investigator
+SI-2025-001,2025-04-17,Brno Machining,Chemical splash,First aid,7,Closed,Emilija Schober
+SI-2025-002,2025-12-21,Graz Electronics,Slip/trip,Medical treatment,10,Closed,Nikol Urban
+SI-2025-003,2025-03-10,Brno Machining,Falling object,First aid,8,Closed,Esther Pröll
+SI-2025-004,2025-04-05,Aarhus Service Centre,Burn,First aid,7,Closed,Antoine Lagarde
+SI-2025-005,2025-07-05,Lyon Systems,Hand injury,Near miss,8,Closed,Xavier Haidinger
+SI-2025-006,2025-10-01,Lyon Systems,Burn,Lost time,1,Closed,Ana Sofía Miralles
+SI-2025-007,2025-12-06,Tampere Works,Forklift near miss,Near miss,12,Action open,Alena Růžičková
+SI-2025-008,2025-01-23,Porto Foundry,Manual handling,Near miss,2,Action open,Kalevi Sirén
+SI-2025-009,2025-11-25,Porto Foundry,Slip/trip,Medical treatment,9,Closed,Aristides Lucena
+SI-2025-010,2025-09-19,Brno Machining,Falling object,Medical treatment,9,Closed,Poul Rasmussen
+SI-2025-011,2025-05-11,Tampere Works,Chemical splash,Near miss,0,Closed,Heikki Koskinen
+SI-2025-012,2025-09-21,Porto Foundry,Hand injury,First aid,7,Closed,Ina Schlögl
+SI-2025-013,2025-02-21,Gdansk Assembly,Manual handling,First aid,8,Closed,Kurt Andresen
+SI-2025-014,2025-03-20,Bilbao Plant,Slip/trip,Near miss,10,Closed,Sirkka Makkonen
+SI-2025-015,2025-12-24,Lyon Systems,Falling object,Near miss,12,Closed,Stanislava Staněk
+SI-2025-016,2025-05-11,Bilbao Plant,Chemical splash,Lost time,12,Closed,Heidi Schultz
+SI-2025-017,2025-11-02,Tampere Works,Slip/trip,Near miss,2,Action open,Natan Eisner
+SI-2025-018,2025-06-11,Aarhus Service Centre,Forklift near miss,Near miss,5,Closed,Patrick Frank
+SI-2025-019,2025-11-18,Tampere Works,Falling object,First aid,5,Action open,Jannie Christoffersen
+SI-2025-020,2025-07-20,Lyon Systems,Chemical splash,Near miss,6,Closed,Leander Heger
+SI-2025-021,2025-11-06,Tampere Works,Falling object,Lost time,1,Closed,Benedicte Svendsen
+SI-2025-022,2025-11-17,Lyon Systems,Falling object,First aid,4,Closed,Irmeli Laakso
+SI-2025-023,2025-08-29,Lyon Systems,Chemical splash,First aid,0,Action open,Irmeli Laakso
+SI-2025-024,2025-06-30,Bilbao Plant,Burn,Medical treatment,7,Closed,Guadalupe Fernandez
+SI-2025-025,2025-05-30,Porto Foundry,Burn,First aid,5,Closed,Ragnhild Jeppesen
+SI-2025-026,2025-12-05,Tampere Works,Hand injury,First aid,12,Closed,Miroslav Janečková
+SI-2025-027,2025-10-24,Porto Foundry,Slip/trip,Near miss,9,Closed,Alice Domingues
+SI-2025-028,2025-09-09,Brno Machining,Falling object,Medical treatment,4,Action open,Carolina Almeida
+SI-2025-029,2025-01-03,Tampere Works,Slip/trip,Near miss,3,Closed,Paulino Buendía
+SI-2025-030,2025-10-07,Lyon Systems,Falling object,Near miss,1,Closed,Pastor Salmerón
+SI-2025-031,2025-04-24,Tampere Works,Chemical splash,Near miss,7,Closed,Veronika Šimek
+SI-2025-032,2025-12-07,Aarhus Service Centre,Burn,First aid,0,Action open,Noa Figueiredo
+SI-2025-033,2025-05-16,Tampere Works,Forklift near miss,Near miss,4,Closed,Leander Heger
+SI-2025-034,2025-06-29,Tampere Works,Chemical splash,First aid,1,Closed,Sascha Mühlböck
+SI-2025-035,2025-05-22,Gdansk Assembly,Burn,Near miss,2,Closed,Maire Turunen
+SI-2025-036,2025-09-11,Porto Foundry,Slip/trip,Medical treatment,11,Closed,Monika Parkitny
+SI-2025-037,2025-04-26,Graz Electronics,Chemical splash,Near miss,9,Action open,Ruy Gutiérrez
+SI-2025-038,2025-03-02,Bilbao Plant,Hand injury,Medical treatment,12,Closed,Johanna Koski
+SI-2025-039,2025-08-31,Tampere Works,Chemical splash,First aid,9,Action open,Connie Frederiksen
+SI-2025-040,2025-05-09,Lyon Systems,Forklift near miss,Near miss,8,Action open,Marvin Neumayer
+SI-2025-041,2025-05-21,Aarhus Service Centre,Slip/trip,First aid,4,Action open,Tonny Petersen
+SI-2025-042,2025-11-11,Brno Machining,Chemical splash,Near miss,5,Closed,Berta Johansen
+SI-2025-043,2025-03-29,Graz Electronics,Manual handling,Near miss,11,Closed,Maurice Jank
+SI-2025-044,2025-12-05,Tampere Works,Forklift near miss,Near miss,4,Closed,Patricie Havlíčková
+SI-2025-045,2025-10-11,Tampere Works,Hand injury,Medical treatment,7,Closed,Brigitte Diallo
+SI-2025-046,2025-03-05,Gdansk Assembly,Hand injury,Lost time,9,Closed,Przemysław Nowotny
+SI-2025-047,2025-08-11,Aarhus Service Centre,Manual handling,First aid,13,Action open,Heidi Schultz
+SI-2025-048,2025-04-25,Porto Foundry,Hand injury,Lost time,2,Action open,Dafne Zurita
+SI-2025-049,2025-05-19,Gdansk Assembly,Burn,Near miss,13,Action open,Ascensión Beltrán
+SI-2025-050,2025-05-12,Aarhus Service Centre,Chemical splash,Near miss,14,Action open,Inkeri Järvenpää
+SI-2025-051,2025-05-01,Bilbao Plant,Manual handling,First aid,10,Action open,Sára Kučera
+SI-2025-052,2025-02-16,Brno Machining,Forklift near miss,Near miss,7,Closed,Yasmina Feigl
+SI-2025-053,2025-09-04,Lyon Systems,Chemical splash,Medical treatment,5,Closed,Agnès Devaux
+SI-2025-054,2025-08-15,Bilbao Plant,Falling object,Near miss,11,Closed,Julianna Szczesiak
+SI-2025-055,2025-05-11,Brno Machining,Forklift near miss,Medical treatment,9,Closed,Alan Hoffmann
+SI-2025-056,2025-11-08,Brno Machining,Falling object,First aid,9,Closed,Irmeli Laakso
+SI-2025-057,2025-04-02,Lyon Systems,Chemical splash,Lost time,12,Closed,Ana Sofía Miralles
+SI-2025-058,2025-07-01,Bilbao Plant,Hand injury,Near miss,12,Closed,Marvin Neumayer
+SI-2025-059,2025-02-04,Bilbao Plant,Chemical splash,First aid,1,Closed,Nina Kronsteiner
+SI-2025-060,2025-07-03,Lyon Systems,Chemical splash,Near miss,6,Closed,Vasco Valente
+SI-2025-061,2025-08-31,Brno Machining,Slip/trip,Medical treatment,11,Action open,Noa Figueiredo
+SI-2025-062,2025-09-07,Porto Foundry,Manual handling,Near miss,4,Action open,Emilija Schober
+SI-2025-063,2025-06-27,Aarhus Service Centre,Slip/trip,Near miss,8,Closed,Emilija Schober
+SI-2025-064,2025-03-03,Bilbao Plant,Hand injury,First aid,0,Action open,Antoni Hajder
+SI-2025-065,2025-04-19,Graz Electronics,Slip/trip,First aid,4,Action open,Ruy Gutiérrez
+SI-2025-066,2025-08-28,Aarhus Service Centre,Manual handling,Near miss,6,Closed,Adélaïde Pierre
+SI-2025-067,2025-10-14,Graz Electronics,Slip/trip,First aid,4,Closed,Mia Guerreiro
+SI-2025-068,2025-07-24,Gdansk Assembly,Forklift near miss,Medical treatment,2,Closed,Olivia Aramburu
+SI-2025-069,2025-04-20,Aarhus Service Centre,Burn,First aid,8,Closed,Emil Wydmuch
+SI-2025-070,2025-02-12,Aarhus Service Centre,Manual handling,Near miss,14,Action open,Victor Normand
+SI-2025-071,2025-10-30,Lyon Systems,Slip/trip,First aid,13,Action open,Robin Strnad
+SI-2025-072,2025-12-20,Aarhus Service Centre,Hand injury,Near miss,7,Action open,Pastor Salmerón
+SI-2025-073,2025-10-27,Tampere Works,Hand injury,Near miss,6,Action open,Jaromír Šmídová
+SI-2025-074,2025-04-23,Brno Machining,Hand injury,Near miss,4,Action open,Venla Pasanen
+SI-2025-075,2025-01-26,Bilbao Plant,Forklift near miss,Near miss,1,Closed,Niko Steinbacher
+SI-2025-076,2025-01-17,Gdansk Assembly,Burn,Near miss,3,Action open,Carl Gregersen
+SI-2025-077,2025-05-30,Lyon Systems,Hand injury,Lost time,5,Closed,Brigitte Diallo
+SI-2025-078,2025-03-18,Tampere Works,Falling object,Lost time,4,Closed,Sascha Mühlböck
+SI-2025-079,2025-10-09,Bilbao Plant,Chemical splash,First aid,1,Closed,Arkadiusz Sądej
+SI-2025-080,2025-02-07,Lyon Systems,Falling object,First aid,10,Closed,Aurelia Toczko
+SI-2025-081,2025-03-03,Aarhus Service Centre,Chemical splash,Near miss,8,Action open,Renata Pereira
+SI-2025-082,2025-01-04,Tampere Works,Slip/trip,Medical treatment,5,Closed,Susanna Nieminen
+SI-2025-083,2025-10-15,Gdansk Assembly,Manual handling,Near miss,10,Closed,Niko Steinbacher
+SI-2025-084,2025-01-08,Brno Machining,Chemical splash,Near miss,12,Closed,Iveta Beranová
+SI-2025-085,2025-08-30,Lyon Systems,Slip/trip,First aid,5,Action open,Agnès Devaux
+SI-2025-086,2025-03-10,Graz Electronics,Hand injury,Near miss,2,Closed,Lidia Ragus
+SI-2025-087,2025-06-24,Aarhus Service Centre,Slip/trip,Near miss,8,Closed,Aurelia Toczko
+SI-2025-088,2025-06-16,Porto Foundry,Chemical splash,Near miss,14,Closed,Clara Krenn
+SI-2025-089,2025-07-03,Porto Foundry,Manual handling,First aid,4,Closed,Błażej Kierat
+SI-2025-090,2025-09-02,Bilbao Plant,Forklift near miss,First aid,3,Closed,Esther Pröll
+SI-2025-091,2025-11-12,Gdansk Assembly,Burn,Medical treatment,12,Action open,Charles Renault
+SI-2025-092,2025-11-30,Porto Foundry,Forklift near miss,Near miss,7,Closed,Marcial Ferrándiz
+SI-2025-093,2025-07-28,Brno Machining,Manual handling,Medical treatment,3,Closed,Elena Garcés
+SI-2025-094,2025-10-01,Gdansk Assembly,Manual handling,Near miss,0,Closed,Fryderyk Drygas
+SI-2025-095,2025-02-04,Graz Electronics,Falling object,Near miss,2,Closed,Antoni Hajder
+SI-2025-096,2025-03-10,Graz Electronics,Burn,Lost time,14,Closed,Monika Parkitny
+SI-2025-097,2025-03-09,Gdansk Assembly,Slip/trip,Medical treatment,11,Closed,Antero Partanen
+SI-2025-098,2025-02-01,Aarhus Service Centre,Hand injury,Near miss,1,Closed,Lasse Mikkelsen
+SI-2025-099,2025-12-20,Brno Machining,Chemical splash,First aid,8,Closed,Janina Galuba
+SI-2025-100,2025-04-26,Gdansk Assembly,Slip/trip,First aid,5,Closed,Mojmír Král
+SI-2025-101,2025-05-09,Porto Foundry,Burn,Medical treatment,6,Closed,Adélaïde Pierre
+SI-2025-102,2025-06-18,Graz Electronics,Burn,Medical treatment,11,Closed,Paulino Buendía
+SI-2025-103,2025-06-08,Tampere Works,Slip/trip,Lost time,14,Closed,André Mendes
+SI-2025-104,2025-12-05,Graz Electronics,Forklift near miss,Lost time,6,Closed,Seija Sirviö
+SI-2025-105,2025-09-18,Bilbao Plant,Burn,Lost time,0,Closed,Ana Sofía Miralles
+SI-2025-106,2025-07-31,Graz Electronics,Burn,Medical treatment,12,Closed,Robin Strnad
+SI-2025-107,2025-10-21,Bilbao Plant,Burn,Medical treatment,1,Action open,Olivia Aramburu
+SI-2025-108,2025-03-18,Aarhus Service Centre,Falling object,Medical treatment,2,Closed,Piotr Noszczyk
+SI-2025-109,2025-02-26,Gdansk Assembly,Forklift near miss,First aid,13,Closed,Virgilio Acosta
+SI-2025-110,2025-06-25,Bilbao Plant,Chemical splash,First aid,4,Action open,Heikki Koskinen
+SI-2025-111,2025-10-14,Graz Electronics,Falling object,Near miss,3,Closed,Palle Thomsen
+SI-2025-112,2025-05-27,Tampere Works,Slip/trip,First aid,13,Closed,Rikke Mathiesen
+SI-2025-113,2025-01-31,Tampere Works,Manual handling,First aid,3,Closed,Adélaïde Blot
+SI-2025-114,2025-04-11,Bilbao Plant,Manual handling,First aid,12,Action open,Susanna Kuronen
+SI-2025-115,2025-08-13,Gdansk Assembly,Burn,First aid,5,Closed,Adélaïde Pierre
+SI-2025-116,2025-08-04,Gdansk Assembly,Manual handling,Near miss,11,Action open,Sára Kučera
+SI-2025-117,2025-05-30,Bilbao Plant,Manual handling,Near miss,9,Closed,Christine Sanchez
+SI-2025-118,2025-07-03,Graz Electronics,Burn,Lost time,8,Action open,Anouk Laroche
+SI-2025-119,2025-02-17,Lyon Systems,Manual handling,Near miss,4,Action open,Jonathan Simonsen
+SI-2025-120,2025-01-31,Aarhus Service Centre,Chemical splash,Near miss,3,Closed,Susanna Kuronen

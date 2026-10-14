@@ -1,0 +1,421 @@
+invoice_no,supplier,invoice_date,due_date,amount_eur,days_overdue,status
+INV-77000,Silverfjord Motors,2026-04-05,2026-05-05,92200,149,Paid
+INV-77001,Ironpeak Coatings,2026-02-18,2026-04-04,28120,0,Paid
+INV-77002,Meridian Machining,2026-08-12,2026-09-11,7650,0,Paid
+INV-77003,Baltic Machining,2026-01-01,2026-01-31,139620,0,Approved
+INV-77004,Meridian Fasteners,2026-08-18,2026-10-17,266520,0,Approved
+INV-77005,Silverfjord Motors,2026-03-02,2026-04-01,70290,183,Paid
+INV-77006,Brightline Cables,2026-08-30,2026-09-29,180090,0,Paid
+INV-77007,Meridian Logistics,2026-05-19,2026-07-18,9970,75,On hold - price variance
+INV-77008,Ironpeak Seals,2026-09-20,2026-11-04,181060,0,Approved
+INV-77009,Bluecrest Bearings,2026-01-28,2026-03-14,225920,201,On hold - price variance
+INV-77010,Summit Cables,2026-01-12,2026-02-11,137580,0,On hold - price variance
+INV-77011,Baltic Castings,2026-07-07,2026-08-21,262790,0,Paid
+INV-77012,Oakridge Electronics,2026-09-16,2026-11-15,336310,0,Approved
+INV-77013,Nordwave Fasteners,2026-07-03,2026-08-02,137140,0,On hold - price variance
+INV-77014,Silverfjord Coatings,2026-09-23,2026-11-07,149730,0,Paid
+INV-77015,Northgate Motors,2026-08-19,2026-10-03,96980,0,Paid
+INV-77016,Granite Polymers,2026-06-11,2026-07-11,277900,0,Paid
+INV-77017,Silverfjord Coatings,2026-05-08,2026-06-07,92460,0,Approved
+INV-77018,Granite Machining,2026-04-02,2026-05-02,339370,0,Paid
+INV-77019,Meridian Polymers,2026-01-22,2026-03-23,260080,0,On hold - price variance
+INV-77020,Harbour Electronics,2026-08-17,2026-10-16,299020,0,Paid
+INV-77021,Harbour Cables,2026-07-03,2026-08-17,183130,0,Paid
+INV-77022,Oakridge Bearings,2026-03-10,2026-05-09,3280,145,Approved
+INV-77023,Ironpeak Fasteners,2026-05-21,2026-07-05,101300,88,Paid
+INV-77024,Granite Machining,2026-06-03,2026-08-02,5490,0,Approved
+INV-77025,Granite Polymers,2026-01-01,2026-03-02,92670,0,Paid
+INV-77026,Baltic Fasteners,2026-02-16,2026-03-18,228680,0,Paid
+INV-77027,Nordwave Motors,2026-06-16,2026-08-15,219890,0,Approved
+INV-77028,Alpine Coatings,2026-05-10,2026-07-09,73000,0,Paid
+INV-77029,Oakridge Bearings,2026-02-21,2026-04-22,82780,0,Paid
+INV-77030,Granite Machining,2026-04-30,2026-05-30,165210,0,Paid
+INV-77031,Keystone Logistics,2026-06-16,2026-08-15,42000,0,Approved
+INV-77032,Ironpeak Cables,2026-08-28,2026-09-27,296820,0,Paid
+INV-77033,Meridian Cables,2026-05-24,2026-06-23,3920,100,Approved
+INV-77034,Keystone Logistics,2026-06-21,2026-07-21,236970,0,Approved
+INV-77035,Harbour Seals,2026-02-27,2026-04-13,187140,0,Approved
+INV-77036,Alpine Fasteners,2026-03-21,2026-04-20,155130,0,Paid
+INV-77037,Silverfjord Motors,2026-09-15,2026-11-14,314340,0,Paid
+INV-77038,Alpine Seals,2026-01-04,2026-02-18,271920,0,Paid
+INV-77039,Baltic Motors,2026-09-17,2026-10-17,305030,0,Paid
+INV-77040,Harbour Seals,2026-04-18,2026-06-17,172060,0,Approved
+INV-77041,Brightline Cables,2026-09-21,2026-11-20,139650,0,On hold - price variance
+INV-77042,Ironpeak Seals,2026-03-14,2026-04-13,287630,171,Paid
+INV-77043,Keystone Electronics,2026-06-23,2026-08-22,210300,0,Paid
+INV-77044,Silverfjord Steelworks,2026-04-05,2026-05-05,178680,0,Paid
+INV-77045,Evergreen Coatings,2026-02-10,2026-03-12,129310,0,Paid
+INV-77046,Evergreen Machining,2026-05-11,2026-06-10,338650,0,On hold - price variance
+INV-77047,Granite Machining,2026-05-14,2026-07-13,147990,0,Paid
+INV-77048,Bluecrest Logistics,2026-03-01,2026-04-15,199500,0,Approved
+INV-77049,Silverfjord Cables,2026-06-18,2026-08-17,303090,45,Approved
+INV-77050,Brightline Steelworks,2026-03-13,2026-04-12,276650,0,Paid
+INV-77051,Danube Seals,2026-05-05,2026-06-04,78730,0,Paid
+INV-77052,Redstone Polymers,2026-06-01,2026-07-16,121070,77,On hold - price variance
+INV-77053,Vantage Logistics,2026-06-05,2026-08-04,294180,58,On hold - price variance
+INV-77054,Silverfjord Machining,2026-04-01,2026-05-16,276730,0,Approved
+INV-77055,Polaris Castings,2026-02-24,2026-03-26,163460,0,Paid
+INV-77056,Danube Machining,2026-09-13,2026-10-13,170350,0,Paid
+INV-77057,Harbour Electronics,2026-08-06,2026-09-20,267280,0,On hold - price variance
+INV-77058,Nordwave Steelworks,2026-04-02,2026-05-17,66940,0,Approved
+INV-77059,Danube Fasteners,2026-01-21,2026-03-22,81670,193,Paid
+INV-77060,Ironpeak Fasteners,2026-01-05,2026-03-06,166300,0,Approved
+INV-77061,Brightline Cables,2026-01-09,2026-02-23,269560,220,Paid
+INV-77062,Clearwater Seals,2026-02-17,2026-03-19,150750,196,Approved
+INV-77063,Silverfjord Coatings,2026-01-19,2026-03-20,115520,195,Approved
+INV-77064,Polaris Machining,2026-09-13,2026-10-13,328060,0,Approved
+INV-77065,Vantage Polymers,2026-04-16,2026-06-15,275160,108,Paid
+INV-77066,Redstone Polymers,2026-09-26,2026-10-26,192350,0,Approved
+INV-77067,Northgate Bearings,2026-04-07,2026-06-06,225440,0,On hold - price variance
+INV-77068,Bluecrest Logistics,2026-08-11,2026-10-10,131000,0,Approved
+INV-77069,Nordwave Motors,2026-07-14,2026-08-28,250790,0,Paid
+INV-77070,Clearwater Polymers,2026-06-20,2026-07-20,153190,73,Approved
+INV-77071,Clearwater Steelworks,2026-02-27,2026-04-13,88600,0,Paid
+INV-77072,Ironpeak Cables,2026-08-04,2026-09-03,313290,0,Paid
+INV-77073,Brightline Fasteners,2026-07-02,2026-08-16,334580,46,Paid
+INV-77074,Clearwater Steelworks,2026-06-13,2026-07-28,282480,0,Paid
+INV-77075,Meridian Polymers,2026-05-20,2026-06-19,334340,0,Paid
+INV-77076,Vantage Polymers,2026-04-18,2026-06-17,251680,0,On hold - price variance
+INV-77077,Meridian Castings,2026-02-25,2026-04-26,216830,0,Paid
+INV-77078,Harbour Machining,2026-01-28,2026-02-27,257700,216,Paid
+INV-77079,Meridian Logistics,2026-09-13,2026-11-12,198720,0,Approved
+INV-77080,Danube Machining,2026-01-29,2026-02-28,291380,215,Approved
+INV-77081,Danube Fasteners,2026-03-13,2026-04-12,163970,172,Approved
+INV-77082,Baltic Fasteners,2026-07-04,2026-08-03,183260,59,Paid
+INV-77083,Clearwater Seals,2026-04-25,2026-05-25,47640,129,Paid
+INV-77084,Polaris Fasteners,2026-03-15,2026-04-14,114230,170,Approved
+INV-77085,Summit Cables,2026-04-28,2026-06-12,22140,111,Paid
+INV-77086,Northgate Bearings,2026-08-20,2026-09-19,238410,0,Paid
+INV-77087,Evergreen Coatings,2026-07-29,2026-08-28,272090,34,Paid
+INV-77088,Polaris Steelworks,2026-02-06,2026-04-07,319830,0,Paid
+INV-77089,Summit Seals,2026-04-04,2026-05-19,247800,0,On hold - price variance
+INV-77090,Polaris Machining,2026-05-12,2026-06-11,109040,0,Approved
+INV-77091,Silverfjord Motors,2026-08-13,2026-09-12,17470,0,Paid
+INV-77092,Ironpeak Fasteners,2026-06-11,2026-07-26,142610,0,Approved
+INV-77093,Polaris Fasteners,2026-04-13,2026-06-12,45690,0,Approved
+INV-77094,Danube Electronics,2026-01-11,2026-02-10,221600,0,On hold - price variance
+INV-77095,Harbour Fasteners,2026-02-07,2026-03-24,212630,0,Paid
+INV-77096,Nordwave Electronics,2026-09-19,2026-10-19,243470,0,Paid
+INV-77097,Silverfjord Logistics,2026-01-28,2026-03-29,59310,0,Paid
+INV-77098,Ironpeak Fasteners,2026-07-18,2026-09-01,37660,0,Approved
+INV-77099,Polaris Castings,2026-06-14,2026-07-29,137540,0,On hold - price variance
+INV-77100,Evergreen Machining,2026-07-20,2026-09-18,143370,13,On hold - price variance
+INV-77101,Summit Fasteners,2026-03-22,2026-05-06,125810,0,Paid
+INV-77102,Meridian Fasteners,2026-04-03,2026-06-02,140900,0,Approved
+INV-77103,Meridian Motors,2026-08-31,2026-10-30,262740,0,On hold - price variance
+INV-77104,Nordwave Motors,2026-08-17,2026-10-16,280800,0,Paid
+INV-77105,Granite Seals,2026-02-27,2026-03-29,59250,0,Approved
+INV-77106,Meridian Cables,2026-06-17,2026-08-01,118310,61,Approved
+INV-77107,Granite Machining,2026-02-08,2026-03-25,36550,0,Approved
+INV-77108,Baltic Coatings,2026-08-04,2026-10-03,118580,0,Paid
+INV-77109,Falcon Logistics,2026-07-29,2026-09-12,310990,0,Approved
+INV-77110,Meridian Logistics,2026-04-29,2026-06-28,272630,0,Paid
+INV-77111,Granite Cables,2026-01-04,2026-03-05,29930,0,Paid
+INV-77112,Falcon Logistics,2026-09-07,2026-10-07,115380,0,Paid
+INV-77113,Evergreen Polymers,2026-04-08,2026-06-07,143320,116,On hold - price variance
+INV-77114,Harbour Seals,2026-01-11,2026-02-25,192980,218,Paid
+INV-77115,Falcon Logistics,2026-09-11,2026-11-10,80510,0,Paid
+INV-77116,Polaris Castings,2026-04-09,2026-05-09,303780,145,On hold - price variance
+INV-77117,Evergreen Bearings,2026-06-07,2026-07-22,185860,0,On hold - price variance
+INV-77118,Bluecrest Steelworks,2026-01-16,2026-02-15,13890,0,Paid
+INV-77119,Oakridge Bearings,2026-03-29,2026-04-28,309480,156,Approved
+INV-77120,Harbour Seals,2026-01-05,2026-02-04,125300,0,Approved
+INV-77121,Clearwater Seals,2026-03-28,2026-05-12,97310,0,Approved
+INV-77122,Brightline Fasteners,2026-06-24,2026-08-08,128560,54,Approved
+INV-77123,Granite Logistics,2026-09-25,2026-11-24,125030,0,Paid
+INV-77124,Keystone Cables,2026-01-18,2026-03-19,273320,0,Approved
+INV-77125,Meridian Logistics,2026-03-17,2026-04-16,276360,168,Approved
+INV-77126,Granite Steelworks,2026-02-16,2026-04-17,100980,0,Approved
+INV-77127,Polaris Machining,2026-03-12,2026-04-11,21050,173,Paid
+INV-77128,Alpine Fasteners,2026-06-26,2026-07-26,321330,0,Approved
+INV-77129,Silverfjord Logistics,2026-07-14,2026-08-13,113880,0,On hold - price variance
+INV-77130,Meridian Logistics,2026-09-02,2026-10-02,119060,0,Approved
+INV-77131,Baltic Machining,2026-06-22,2026-08-06,76100,0,Approved
+INV-77132,Silverfjord Machining,2026-07-15,2026-08-29,205130,33,On hold - price variance
+INV-77133,Summit Cables,2026-03-20,2026-04-19,35020,165,Paid
+INV-77134,Redstone Logistics,2026-05-05,2026-06-19,320360,104,Approved
+INV-77135,Clearwater Logistics,2026-07-05,2026-08-04,24270,58,On hold - price variance
+INV-77136,Polaris Coatings,2026-08-19,2026-10-18,243120,0,Paid
+INV-77137,Granite Fasteners,2026-07-02,2026-08-16,165560,46,Paid
+INV-77138,Vantage Logistics,2026-02-23,2026-04-24,301820,0,Approved
+INV-77139,Falcon Electronics,2026-05-25,2026-06-24,37080,0,Approved
+INV-77140,Ironpeak Seals,2026-03-19,2026-05-18,69470,0,Paid
+INV-77141,Keystone Electronics,2026-09-12,2026-10-12,134700,0,Paid
+INV-77142,Silverfjord Coatings,2026-01-27,2026-03-13,322280,0,On hold - price variance
+INV-77143,Summit Seals,2026-06-22,2026-07-22,134630,0,Paid
+INV-77144,Evergreen Electronics,2026-04-22,2026-06-06,196530,0,On hold - price variance
+INV-77145,Polaris Bearings,2026-06-02,2026-07-17,266960,76,Paid
+INV-77146,Evergreen Seals,2026-08-16,2026-09-30,173970,0,Approved
+INV-77147,Meridian Motors,2026-01-14,2026-02-13,111890,230,Approved
+INV-77148,Nordwave Steelworks,2026-05-12,2026-06-26,161160,0,Paid
+INV-77149,Danube Steelworks,2026-08-18,2026-09-17,255750,0,Paid
+INV-77150,Baltic Coatings,2026-09-18,2026-11-02,260180,0,Paid
+INV-77151,Danube Machining,2026-07-13,2026-09-11,78000,0,Approved
+INV-77152,Clearwater Machining,2026-07-21,2026-09-19,334290,0,Paid
+INV-77153,Clearwater Steelworks,2026-06-13,2026-07-13,81210,80,Paid
+INV-77154,Redstone Bearings,2026-06-16,2026-07-16,60600,77,Approved
+INV-77155,Nordwave Seals,2026-08-27,2026-10-26,76310,0,On hold - price variance
+INV-77156,Keystone Bearings,2026-02-01,2026-03-18,190230,0,Paid
+INV-77157,Alpine Fasteners,2026-08-28,2026-10-27,160470,0,Paid
+INV-77158,Meridian Electronics,2026-02-23,2026-04-24,64590,0,Paid
+INV-77159,Ironpeak Bearings,2026-07-03,2026-08-02,262500,0,Approved
+INV-77160,Bluecrest Seals,2026-05-04,2026-07-03,183020,0,Approved
+INV-77161,Bluecrest Steelworks,2026-03-24,2026-05-08,131660,0,Paid
+INV-77162,Harbour Cables,2026-05-27,2026-06-26,310690,0,On hold - price variance
+INV-77163,Nordwave Steelworks,2026-05-06,2026-06-20,181040,0,Paid
+INV-77164,Baltic Motors,2026-06-13,2026-07-13,315300,0,On hold - price variance
+INV-77165,Coastal Motors,2026-03-02,2026-04-16,225290,0,Paid
+INV-77166,Harbour Machining,2026-03-16,2026-04-15,201740,0,Paid
+INV-77167,Vantage Polymers,2026-09-19,2026-11-03,78090,0,Paid
+INV-77168,Danube Seals,2026-03-16,2026-04-30,319940,0,Paid
+INV-77169,Evergreen Bearings,2026-06-13,2026-07-13,164240,0,Approved
+INV-77170,Meridian Coatings,2026-08-07,2026-10-06,264660,0,Approved
+INV-77171,Baltic Coatings,2026-04-24,2026-06-23,269960,0,Approved
+INV-77172,Meridian Polymers,2026-02-09,2026-04-10,238640,0,Paid
+INV-77173,Bluecrest Logistics,2026-03-19,2026-04-18,266890,0,Approved
+INV-77174,Harbour Coatings,2026-04-25,2026-06-24,22910,99,Approved
+INV-77175,Baltic Electronics,2026-01-31,2026-04-01,37130,0,Paid
+INV-77176,Nordwave Electronics,2026-04-12,2026-05-12,120460,0,Approved
+INV-77177,Granite Polymers,2026-07-24,2026-09-22,68670,0,Paid
+INV-77178,Clearwater Polymers,2026-05-02,2026-06-16,211000,0,Paid
+INV-77179,Redstone Bearings,2026-04-19,2026-06-03,134660,0,Paid
+INV-77180,Meridian Seals,2026-07-14,2026-08-28,171940,0,Approved
+INV-77181,Baltic Coatings,2026-01-07,2026-02-06,170950,237,Approved
+INV-77182,Baltic Electronics,2026-03-19,2026-05-18,113830,136,Paid
+INV-77183,Harbour Seals,2026-03-05,2026-05-04,322820,0,Approved
+INV-77184,Baltic Coatings,2026-04-15,2026-05-30,127620,0,Paid
+INV-77185,Nordwave Electronics,2026-09-26,2026-11-10,334080,0,Paid
+INV-77186,Granite Logistics,2026-06-13,2026-07-28,76360,0,Paid
+INV-77187,Meridian Polymers,2026-01-12,2026-03-13,257480,202,Approved
+INV-77188,Vantage Castings,2026-03-02,2026-05-01,207070,0,Approved
+INV-77189,Polaris Castings,2026-09-05,2026-10-05,231610,0,Approved
+INV-77190,Meridian Seals,2026-01-15,2026-03-01,277820,214,Paid
+INV-77191,Meridian Logistics,2026-06-01,2026-07-01,230780,0,Paid
+INV-77192,Oakridge Logistics,2026-07-22,2026-09-20,240790,0,Paid
+INV-77193,Redstone Polymers,2026-07-12,2026-08-26,120720,0,Paid
+INV-77194,Keystone Bearings,2026-07-20,2026-09-03,207300,0,Paid
+INV-77195,Brightline Electronics,2026-07-23,2026-09-21,46780,10,On hold - price variance
+INV-77196,Meridian Bearings,2026-01-15,2026-03-01,20420,0,Paid
+INV-77197,Redstone Electronics,2026-06-09,2026-07-09,273450,0,On hold - price variance
+INV-77198,Meridian Fasteners,2026-02-13,2026-03-30,270520,0,Paid
+INV-77199,Nordwave Steelworks,2026-01-21,2026-03-22,12640,0,Paid
+INV-77200,Summit Fasteners,2026-02-01,2026-03-03,290970,0,Paid
+INV-77201,Harbour Seals,2026-05-23,2026-06-22,274600,0,Approved
+INV-77202,Danube Cables,2026-03-02,2026-05-01,36940,153,On hold - price variance
+INV-77203,Bluecrest Seals,2026-09-19,2026-10-19,338630,0,Paid
+INV-77204,Ironpeak Coatings,2026-04-01,2026-05-01,291810,0,Paid
+INV-77205,Meridian Castings,2026-05-01,2026-05-31,264210,0,Paid
+INV-77206,Harbour Cables,2026-01-21,2026-02-20,272330,0,On hold - price variance
+INV-77207,Coastal Logistics,2026-05-15,2026-07-14,275450,0,Paid
+INV-77208,Meridian Coatings,2026-06-05,2026-07-05,326380,88,Paid
+INV-77209,Brightline Fasteners,2026-09-06,2026-10-21,56550,0,On hold - price variance
+INV-77210,Meridian Bearings,2026-07-29,2026-09-27,12180,0,Approved
+INV-77211,Brightline Cables,2026-06-28,2026-08-27,309090,35,On hold - price variance
+INV-77212,Danube Electronics,2026-01-31,2026-04-01,210060,183,Approved
+INV-77213,Meridian Coatings,2026-08-18,2026-10-02,30980,0,Paid
+INV-77214,Oakridge Bearings,2026-03-09,2026-04-23,89230,0,Paid
+INV-77215,Oakridge Seals,2026-08-08,2026-09-07,16970,0,On hold - price variance
+INV-77216,Granite Seals,2026-02-11,2026-03-28,83960,0,Paid
+INV-77217,Meridian Castings,2026-03-30,2026-05-29,118010,0,Approved
+INV-77218,Evergreen Bearings,2026-06-27,2026-08-26,305370,36,Paid
+INV-77219,Harbour Machining,2026-01-06,2026-02-05,123930,0,Paid
+INV-77220,Silverfjord Logistics,2026-03-12,2026-05-11,287810,0,Paid
+INV-77221,Baltic Castings,2026-08-17,2026-10-16,146140,0,Paid
+INV-77222,Polaris Fasteners,2026-04-10,2026-06-09,41920,114,Approved
+INV-77223,Baltic Electronics,2026-07-01,2026-08-30,160940,0,Paid
+INV-77224,Bluecrest Cables,2026-05-16,2026-06-30,175960,93,Paid
+INV-77225,Redstone Polymers,2026-04-14,2026-05-14,178180,0,Paid
+INV-77226,Redstone Polymers,2026-07-10,2026-08-24,276660,0,Approved
+INV-77227,Harbour Coatings,2026-08-26,2026-10-25,179750,0,Paid
+INV-77228,Oakridge Bearings,2026-05-04,2026-06-03,79830,0,Paid
+INV-77229,Clearwater Machining,2026-03-28,2026-05-12,135540,0,Paid
+INV-77230,Meridian Logistics,2026-08-09,2026-10-08,334230,0,On hold - price variance
+INV-77231,Harbour Fasteners,2026-07-30,2026-09-28,255470,0,On hold - price variance
+INV-77232,Polaris Coatings,2026-04-10,2026-05-10,205210,0,Paid
+INV-77233,Clearwater Machining,2026-08-14,2026-10-13,12960,0,Paid
+INV-77234,Keystone Cables,2026-04-15,2026-05-30,309570,0,Approved
+INV-77235,Danube Machining,2026-01-18,2026-03-19,163460,0,Paid
+INV-77236,Coastal Motors,2026-09-21,2026-10-21,237010,0,Approved
+INV-77237,Falcon Logistics,2026-08-11,2026-09-25,240430,0,Paid
+INV-77238,Polaris Coatings,2026-08-29,2026-10-28,92350,0,Paid
+INV-77239,Meridian Fasteners,2026-03-10,2026-04-09,153150,0,Paid
+INV-77240,Baltic Electronics,2026-08-25,2026-09-24,258510,0,Paid
+INV-77241,Evergreen Polymers,2026-02-15,2026-03-17,101420,0,Paid
+INV-77242,Vantage Polymers,2026-09-20,2026-11-19,151930,0,Paid
+INV-77243,Oakridge Seals,2026-04-07,2026-05-22,26850,132,Paid
+INV-77244,Nordwave Castings,2026-02-10,2026-03-27,56470,0,On hold - price variance
+INV-77245,Nordwave Seals,2026-05-29,2026-07-13,238460,0,Approved
+INV-77246,Clearwater Polymers,2026-01-02,2026-03-03,40830,0,Approved
+INV-77247,Bluecrest Bearings,2026-04-20,2026-06-04,132030,0,Paid
+INV-77248,Harbour Electronics,2026-01-02,2026-02-16,147040,227,On hold - price variance
+INV-77249,Northgate Motors,2026-01-28,2026-03-29,50440,0,Paid
+INV-77250,Clearwater Seals,2026-02-17,2026-04-03,33390,0,Paid
+INV-77251,Ironpeak Cables,2026-06-05,2026-08-04,245540,0,Paid
+INV-77252,Harbour Seals,2026-06-07,2026-07-07,315000,0,Paid
+INV-77253,Clearwater Steelworks,2026-08-31,2026-10-30,310820,0,On hold - price variance
+INV-77254,Meridian Cables,2026-03-06,2026-04-20,257560,164,On hold - price variance
+INV-77255,Harbour Cables,2026-05-27,2026-07-11,281200,82,Approved
+INV-77256,Bluecrest Logistics,2026-04-07,2026-05-07,195910,0,Paid
+INV-77257,Meridian Logistics,2026-06-15,2026-08-14,294320,0,Paid
+INV-77258,Summit Fasteners,2026-03-16,2026-04-30,281010,154,Approved
+INV-77259,Silverfjord Motors,2026-02-20,2026-04-21,232440,0,Approved
+INV-77260,Nordwave Steelworks,2026-07-15,2026-08-29,234160,33,On hold - price variance
+INV-77261,Ironpeak Coatings,2026-03-29,2026-05-28,80430,0,Paid
+INV-77262,Danube Steelworks,2026-06-03,2026-07-18,270070,0,Approved
+INV-77263,Baltic Fasteners,2026-09-10,2026-10-10,139390,0,Approved
+INV-77264,Summit Fasteners,2026-09-13,2026-11-12,194220,0,Paid
+INV-77265,Evergreen Seals,2026-09-18,2026-11-17,52360,0,On hold - price variance
+INV-77266,Danube Fasteners,2026-03-03,2026-04-17,67080,167,Paid
+INV-77267,Brightline Steelworks,2026-04-12,2026-06-11,54650,0,Approved
+INV-77268,Danube Logistics,2026-02-10,2026-03-12,13270,0,Approved
+INV-77269,Clearwater Steelworks,2026-07-16,2026-08-15,312940,0,Paid
+INV-77270,Clearwater Machining,2026-07-29,2026-08-28,197550,0,Approved
+INV-77271,Meridian Polymers,2026-03-28,2026-05-27,56120,0,Approved
+INV-77272,Vantage Electronics,2026-06-01,2026-07-31,136490,62,Paid
+INV-77273,Harbour Fasteners,2026-05-11,2026-06-10,87130,113,On hold - price variance
+INV-77274,Ironpeak Fasteners,2026-04-09,2026-06-08,213970,0,On hold - price variance
+INV-77275,Polaris Steelworks,2026-07-19,2026-08-18,19210,44,Approved
+INV-77276,Granite Seals,2026-04-05,2026-05-20,48460,0,Approved
+INV-77277,Meridian Electronics,2026-01-28,2026-03-29,43450,0,Paid
+INV-77278,Clearwater Seals,2026-04-29,2026-06-28,197600,0,Paid
+INV-77279,Oakridge Electronics,2026-06-25,2026-08-09,5060,0,Paid
+INV-77280,Evergreen Coatings,2026-09-27,2026-10-27,96570,0,Approved
+INV-77281,Silverfjord Machining,2026-06-12,2026-07-12,134420,0,Paid
+INV-77282,Polaris Castings,2026-05-15,2026-07-14,289830,79,Approved
+INV-77283,Vantage Bearings,2026-06-17,2026-08-16,112450,0,On hold - price variance
+INV-77284,Clearwater Steelworks,2026-08-30,2026-09-29,113630,2,Paid
+INV-77285,Redstone Coatings,2026-07-16,2026-08-15,122880,0,On hold - price variance
+INV-77286,Polaris Coatings,2026-01-23,2026-02-22,302100,0,Paid
+INV-77287,Danube Fasteners,2026-02-24,2026-03-26,298150,189,Paid
+INV-77288,Polaris Steelworks,2026-03-12,2026-04-11,179630,173,Approved
+INV-77289,Ironpeak Fasteners,2026-07-25,2026-09-23,144690,0,On hold - price variance
+INV-77290,Polaris Castings,2026-01-01,2026-03-02,258510,0,Approved
+INV-77291,Evergreen Bearings,2026-03-05,2026-05-04,310680,0,Approved
+INV-77292,Baltic Logistics,2026-08-19,2026-09-18,232950,0,Paid
+INV-77293,Vantage Coatings,2026-05-08,2026-07-07,192420,86,Paid
+INV-77294,Clearwater Logistics,2026-04-14,2026-05-29,29460,0,Paid
+INV-77295,Redstone Polymers,2026-06-06,2026-07-21,276350,72,Paid
+INV-77296,Vantage Bearings,2026-08-30,2026-10-29,193560,0,On hold - price variance
+INV-77297,Oakridge Logistics,2026-05-28,2026-07-12,276270,0,Paid
+INV-77298,Coastal Motors,2026-04-13,2026-05-13,273330,0,Paid
+INV-77299,Harbour Fasteners,2026-09-22,2026-11-21,184300,0,Paid
+INV-77300,Silverfjord Coatings,2026-06-02,2026-07-17,209900,0,On hold - price variance
+INV-77301,Vantage Electronics,2026-02-04,2026-03-21,113460,0,Approved
+INV-77302,Vantage Coatings,2026-06-24,2026-07-24,54180,0,On hold - price variance
+INV-77303,Keystone Polymers,2026-05-24,2026-07-08,263800,85,Paid
+INV-77304,Keystone Logistics,2026-06-20,2026-08-04,310900,0,On hold - price variance
+INV-77305,Bluecrest Logistics,2026-06-19,2026-07-19,123330,74,Paid
+INV-77306,Polaris Castings,2026-08-09,2026-09-08,93940,0,Paid
+INV-77307,Meridian Fasteners,2026-08-01,2026-08-31,196010,31,On hold - price variance
+INV-77308,Clearwater Polymers,2026-07-05,2026-09-03,147210,0,Paid
+INV-77309,Nordwave Motors,2026-06-14,2026-07-14,222400,0,Paid
+INV-77310,Danube Machining,2026-06-07,2026-07-22,241880,0,Paid
+INV-77311,Bluecrest Steelworks,2026-08-19,2026-09-18,122420,0,Approved
+INV-77312,Silverfjord Machining,2026-03-28,2026-05-27,275350,127,On hold - price variance
+INV-77313,Granite Machining,2026-04-23,2026-06-07,165040,0,Paid
+INV-77314,Alpine Castings,2026-02-17,2026-03-19,80390,196,On hold - price variance
+INV-77315,Danube Steelworks,2026-04-12,2026-05-12,51160,142,Paid
+INV-77316,Evergreen Bearings,2026-02-15,2026-04-16,99900,168,Paid
+INV-77317,Granite Cables,2026-02-23,2026-04-09,80060,0,Approved
+INV-77318,Clearwater Logistics,2026-06-16,2026-07-16,230140,0,Paid
+INV-77319,Polaris Coatings,2026-09-26,2026-11-10,245120,0,Paid
+INV-77320,Polaris Machining,2026-06-19,2026-08-18,205020,44,Paid
+INV-77321,Coastal Motors,2026-05-13,2026-06-12,39360,0,Paid
+INV-77322,Baltic Electronics,2026-06-12,2026-07-12,64270,0,Approved
+INV-77323,Granite Steelworks,2026-04-25,2026-05-25,4950,0,Paid
+INV-77324,Vantage Castings,2026-07-13,2026-08-27,25820,35,Paid
+INV-77325,Bluecrest Logistics,2026-01-20,2026-03-21,157540,194,Paid
+INV-77326,Evergreen Bearings,2026-02-13,2026-03-15,19830,0,Approved
+INV-77327,Summit Fasteners,2026-07-27,2026-08-26,337510,36,Paid
+INV-77328,Polaris Bearings,2026-02-25,2026-04-11,230940,173,Approved
+INV-77329,Meridian Electronics,2026-05-08,2026-07-07,233750,0,Paid
+INV-77330,Redstone Coatings,2026-01-25,2026-02-24,280190,219,On hold - price variance
+INV-77331,Evergreen Machining,2026-04-18,2026-05-18,327640,0,On hold - price variance
+INV-77332,Granite Logistics,2026-09-04,2026-10-19,219440,0,Approved
+INV-77333,Summit Seals,2026-08-03,2026-09-02,227530,0,Paid
+INV-77334,Silverfjord Coatings,2026-03-20,2026-04-19,221810,0,Approved
+INV-77335,Bluecrest Seals,2026-03-01,2026-03-31,329770,0,Approved
+INV-77336,Meridian Polymers,2026-02-13,2026-03-15,181270,0,Paid
+INV-77337,Nordwave Motors,2026-05-27,2026-07-11,235580,82,Paid
+INV-77338,Northgate Motors,2026-03-01,2026-04-15,309480,169,Approved
+INV-77339,Falcon Electronics,2026-05-03,2026-07-02,194400,0,On hold - price variance
+INV-77340,Alpine Castings,2026-09-13,2026-10-28,287990,0,Paid
+INV-77341,Vantage Logistics,2026-05-26,2026-07-10,175640,83,Paid
+INV-77342,Evergreen Seals,2026-07-22,2026-08-21,271740,0,Approved
+INV-77343,Evergreen Polymers,2026-07-30,2026-09-13,265120,0,Paid
+INV-77344,Vantage Electronics,2026-02-12,2026-03-14,37350,0,Paid
+INV-77345,Oakridge Seals,2026-04-13,2026-05-28,84550,0,Approved
+INV-77346,Meridian Castings,2026-09-12,2026-10-12,169850,0,On hold - price variance
+INV-77347,Oakridge Polymers,2026-05-08,2026-06-22,7960,101,Approved
+INV-77348,Nordwave Electronics,2026-04-18,2026-06-02,67900,0,Approved
+INV-77349,Coastal Bearings,2026-08-29,2026-10-28,239200,0,On hold - price variance
+INV-77350,Redstone Polymers,2026-06-14,2026-07-14,257200,0,Approved
+INV-77351,Clearwater Logistics,2026-06-16,2026-07-31,202330,0,On hold - price variance
+INV-77352,Redstone Bearings,2026-09-03,2026-10-18,116410,0,Paid
+INV-77353,Silverfjord Coatings,2026-05-11,2026-07-10,120150,0,Approved
+INV-77354,Evergreen Polymers,2026-01-01,2026-03-02,151860,0,Approved
+INV-77355,Alpine Coatings,2026-08-26,2026-09-25,115430,0,Paid
+INV-77356,Bluecrest Seals,2026-05-27,2026-07-26,329000,0,Approved
+INV-77357,Oakridge Bearings,2026-07-09,2026-09-07,172140,0,Approved
+INV-77358,Silverfjord Logistics,2026-07-29,2026-08-28,171280,0,Approved
+INV-77359,Clearwater Steelworks,2026-04-25,2026-05-25,277580,0,Paid
+INV-77360,Ironpeak Bearings,2026-03-16,2026-04-30,248230,154,Paid
+INV-77361,Nordwave Fasteners,2026-05-01,2026-06-30,254140,0,Paid
+INV-77362,Baltic Castings,2026-06-04,2026-07-04,147720,89,On hold - price variance
+INV-77363,Nordwave Fasteners,2026-08-14,2026-09-28,105320,0,Paid
+INV-77364,Danube Cables,2026-06-28,2026-08-27,68000,0,Approved
+INV-77365,Silverfjord Coatings,2026-05-24,2026-07-23,306780,0,Paid
+INV-77366,Vantage Bearings,2026-04-23,2026-06-22,157170,0,Paid
+INV-77367,Meridian Machining,2026-07-08,2026-09-06,223180,25,Approved
+INV-77368,Nordwave Motors,2026-07-25,2026-08-24,303720,0,Paid
+INV-77369,Redstone Polymers,2026-04-16,2026-05-16,204930,0,On hold - price variance
+INV-77370,Granite Machining,2026-02-14,2026-04-15,335700,0,Approved
+INV-77371,Granite Seals,2026-02-03,2026-03-05,194450,0,Paid
+INV-77372,Alpine Coatings,2026-04-10,2026-05-25,163590,0,Approved
+INV-77373,Evergreen Polymers,2026-08-15,2026-10-14,200840,0,Approved
+INV-77374,Oakridge Bearings,2026-03-19,2026-04-18,232670,0,Paid
+INV-77375,Oakridge Electronics,2026-06-21,2026-08-20,207140,0,Approved
+INV-77376,Falcon Logistics,2026-08-08,2026-10-07,237780,0,Paid
+INV-77377,Evergreen Polymers,2026-06-08,2026-08-07,279480,0,Paid
+INV-77378,Harbour Fasteners,2026-01-30,2026-03-16,262720,0,On hold - price variance
+INV-77379,Vantage Coatings,2026-09-04,2026-10-19,277090,0,Approved
+INV-77380,Alpine Bearings,2026-04-01,2026-05-01,189970,0,Paid
+INV-77381,Granite Steelworks,2026-09-25,2026-10-25,1050,0,Paid
+INV-77382,Baltic Machining,2026-03-09,2026-05-08,97900,146,Approved
+INV-77383,Redstone Coatings,2026-09-19,2026-11-03,55390,0,Approved
+INV-77384,Danube Fasteners,2026-02-26,2026-03-28,266150,0,Paid
+INV-77385,Granite Machining,2026-03-20,2026-05-04,207650,0,Approved
+INV-77386,Nordwave Motors,2026-06-24,2026-08-23,245140,39,Paid
+INV-77387,Polaris Coatings,2026-04-18,2026-06-02,294970,0,Approved
+INV-77388,Oakridge Bearings,2026-09-07,2026-11-06,172240,0,Approved
+INV-77389,Falcon Electronics,2026-03-16,2026-04-15,184340,169,On hold - price variance
+INV-77390,Granite Cables,2026-08-06,2026-09-05,36330,26,Approved
+INV-77391,Polaris Castings,2026-02-21,2026-04-07,252330,0,Paid
+INV-77392,Meridian Cables,2026-04-23,2026-06-22,175130,0,Paid
+INV-77393,Bluecrest Cables,2026-07-20,2026-09-18,311300,0,Approved
+INV-77394,Vantage Polymers,2026-03-22,2026-05-06,148700,0,Paid
+INV-77395,Ironpeak Coatings,2026-08-23,2026-10-07,108480,0,Paid
+INV-77396,Granite Fasteners,2026-03-15,2026-05-14,250840,0,Paid
+INV-77397,Keystone Cables,2026-05-11,2026-06-10,317370,0,On hold - price variance
+INV-77398,Danube Machining,2026-06-08,2026-07-08,44420,0,Paid
+INV-77399,Harbour Machining,2026-01-02,2026-02-01,228410,242,Paid
+INV-77400,Redstone Bearings,2026-09-04,2026-11-03,95780,0,On hold - price variance
+INV-77401,Meridian Castings,2026-02-27,2026-04-28,145120,0,Paid
+INV-77402,Evergreen Electronics,2026-08-17,2026-09-16,170230,0,Paid
+INV-77403,Silverfjord Coatings,2026-05-25,2026-07-09,51260,0,Approved
+INV-77404,Meridian Machining,2026-08-26,2026-10-10,22070,0,Paid
+INV-77405,Vantage Electronics,2026-05-20,2026-07-19,49180,74,Paid
+INV-77406,Clearwater Seals,2026-01-12,2026-02-11,115350,232,Paid
+INV-77407,Coastal Motors,2026-09-01,2026-10-16,191350,0,Paid
+INV-77408,Evergreen Machining,2026-03-03,2026-05-02,224360,0,Approved
+INV-77409,Brightline Steelworks,2026-05-28,2026-07-27,68170,0,On hold - price variance
+INV-77410,Danube Fasteners,2026-02-23,2026-04-09,75350,0,Approved
+INV-77411,Baltic Motors,2026-06-06,2026-07-06,290950,87,On hold - price variance
+INV-77412,Falcon Logistics,2026-05-14,2026-07-13,243450,80,Approved
+INV-77413,Nordwave Electronics,2026-03-04,2026-04-03,127420,181,Approved
+INV-77414,Danube Fasteners,2026-06-30,2026-08-29,248370,33,Approved
+INV-77415,Meridian Seals,2026-06-07,2026-07-22,318590,0,Approved
+INV-77416,Clearwater Logistics,2026-09-10,2026-11-09,16150,0,Paid
+INV-77417,Redstone Electronics,2026-09-10,2026-10-10,109200,0,Paid
+INV-77418,Coastal Bearings,2026-02-09,2026-03-26,258790,0,Approved
+INV-77419,Oakridge Electronics,2026-05-01,2026-05-31,322880,123,On hold - price variance

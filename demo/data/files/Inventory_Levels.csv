@@ -1,0 +1,401 @@
+sku,description,site,on_hand_qty,reorder_point,unit_cost_eur,preferred_supplier,lead_time_days
+SKU-40000,Bearing 6309 HX-450,Bilbao Plant,1002,171,274.4,Nordwave Motors,16
+SKU-40001,Motor 15 kW HX-400,Tampere Works,723,62,661.82,Harbour Machining,70
+SKU-40002,Shaft HX-600,Graz Electronics,965,118,864.59,Summit Fasteners,21
+SKU-40003,Pump casing HX-200,Porto Foundry,1817,302,635.08,Meridian Machining,57
+SKU-40004,Shaft HX-250,Brno Machining,671,45,976.57,Baltic Motors,16
+SKU-40005,Pump casing HX-200,Lyon Systems,1553,314,202.48,Nordwave Steelworks,58
+SKU-40006,Bearing 6309 HX-400,Tampere Works,2282,168,1741.03,Silverfjord Machining,42
+SKU-40007,CU-4 main board HX-520,Porto Foundry,1317,80,12.6,Ironpeak Coatings,35
+SKU-40008,Paint (litres) HX-320,Porto Foundry,1213,166,1106.3,Granite Machining,65
+SKU-40009,Cable gland HX-320,Bilbao Plant,355,192,165.28,Harbour Seals,24
+SKU-40010,Pressure sensor HX-200,Porto Foundry,1697,63,776.32,Falcon Electronics,78
+SKU-40011,Pressure sensor HX-250,Lyon Systems,1224,57,994.24,Ironpeak Seals,12
+SKU-40012,Pressure sensor HX-600,Tampere Works,476,110,179.1,Evergreen Coatings,32
+SKU-40013,Shaft HX-320,Lyon Systems,277,316,1796.95,Alpine Coatings,55
+SKU-40014,Bearing 6309 HX-160,Graz Electronics,2144,102,75.87,Vantage Logistics,65
+SKU-40015,Paint (litres) HX-520,Lyon Systems,465,87,1517.27,Oakridge Seals,27
+SKU-40016,Motor 45 kW HX-160,Lyon Systems,255,199,1552.59,Vantage Polymers,9
+SKU-40017,Paint (litres) HX-160,Tampere Works,369,68,1596.79,Meridian Machining,73
+SKU-40018,CU-4 main board HX-250,Porto Foundry,1498,268,549.19,Polaris Fasteners,79
+SKU-40019,Bolt M16 HX-400,Gdansk Assembly,847,357,195.93,Vantage Castings,72
+SKU-40020,Gasket set HX-320,Graz Electronics,372,397,485.67,Keystone Polymers,47
+SKU-40021,Mechanical seal HX-280,Brno Machining,1198,26,1491.76,Ironpeak Coatings,26
+SKU-40022,Shaft HX-450,Porto Foundry,1711,368,113.22,Brightline Electronics,19
+SKU-40023,CU-4 main board HX-160,Bilbao Plant,1,277,1310.94,Harbour Machining,48
+SKU-40024,Impeller HX-140,Graz Electronics,671,44,169.79,Granite Fasteners,88
+SKU-40025,Gasket set HX-450,Aarhus Service Centre,130,289,1244.78,Polaris Castings,6
+SKU-40026,Mechanical seal HX-110,Gdansk Assembly,2319,333,651.94,Danube Machining,36
+SKU-40027,Gasket set HX-250,Graz Electronics,772,42,224.94,Evergreen Coatings,82
+SKU-40028,Paint (litres) HX-520,Gdansk Assembly,423,386,992.54,Polaris Castings,8
+SKU-40029,Bolt M16 HX-200,Porto Foundry,1970,246,1087.9,Baltic Machining,11
+SKU-40030,CU-4 main board HX-600,Lyon Systems,397,21,86.2,Polaris Coatings,37
+SKU-40031,CU-4 main board HX-600,Aarhus Service Centre,2369,238,1722.24,Granite Seals,90
+SKU-40032,Coupling HX-200,Gdansk Assembly,1448,306,1043.51,Baltic Castings,7
+SKU-40033,Pressure sensor HX-320,Gdansk Assembly,2014,287,1795.59,Clearwater Logistics,24
+SKU-40034,Impeller HX-520,Lyon Systems,1880,228,1026.71,Granite Polymers,86
+SKU-40035,Bearing 6309 HX-200,Tampere Works,1979,146,1556.81,Silverfjord Machining,31
+SKU-40036,CU-4 main board HX-600,Tampere Works,1506,341,496.39,Alpine Fasteners,66
+SKU-40037,Pump casing HX-280,Aarhus Service Centre,1146,318,539.87,Evergreen Coatings,18
+SKU-40038,Shaft HX-520,Gdansk Assembly,1671,289,980.05,Keystone Electronics,33
+SKU-40039,Impeller HX-400,Graz Electronics,2211,370,906.63,Polaris Machining,23
+SKU-40040,Gasket set HX-200,Lyon Systems,261,240,378.71,Meridian Polymers,80
+SKU-40041,Mechanical seal HX-520,Aarhus Service Centre,928,114,6.27,Alpine Seals,68
+SKU-40042,Gasket set HX-140,Gdansk Assembly,1837,40,668.14,Redstone Electronics,29
+SKU-40043,Shaft HX-360,Brno Machining,2026,332,392.76,Polaris Bearings,19
+SKU-40044,Cable gland HX-600,Brno Machining,2390,46,1483.36,Nordwave Castings,55
+SKU-40045,Paint (litres) HX-200,Aarhus Service Centre,86,101,1169.25,Nordwave Electronics,76
+SKU-40046,CU-4 main board HX-400,Porto Foundry,1142,395,1678.09,Granite Polymers,47
+SKU-40047,Coupling HX-600,Porto Foundry,855,163,54.65,Evergreen Coatings,85
+SKU-40048,Mechanical seal HX-400,Aarhus Service Centre,121,90,1045.14,Baltic Fasteners,21
+SKU-40049,Pump casing HX-110,Brno Machining,1702,303,436.85,Meridian Cables,72
+SKU-40050,Pump casing HX-160,Aarhus Service Centre,826,180,803.37,Polaris Bearings,24
+SKU-40051,Gasket set HX-200,Bilbao Plant,1401,204,645.65,Alpine Coatings,74
+SKU-40052,Motor 45 kW HX-110,Gdansk Assembly,1872,271,801.07,Northgate Bearings,63
+SKU-40053,Pump casing HX-140,Graz Electronics,986,28,1204.27,Brightline Fasteners,6
+SKU-40054,Cable gland HX-250,Porto Foundry,1804,309,263.17,Keystone Electronics,79
+SKU-40055,Bearing 6309 HX-160,Lyon Systems,1164,319,1068.84,Polaris Fasteners,87
+SKU-40056,Pressure sensor HX-110,Graz Electronics,216,149,1523.05,Harbour Coatings,40
+SKU-40057,Shaft HX-400,Lyon Systems,1364,319,1001.4,Clearwater Polymers,71
+SKU-40058,Mechanical seal HX-280,Porto Foundry,1622,339,155.01,Bluecrest Seals,23
+SKU-40059,Gasket set HX-450,Gdansk Assembly,448,37,1485.84,Nordwave Electronics,38
+SKU-40060,Impeller HX-600,Tampere Works,163,117,1198.8,Danube Steelworks,59
+SKU-40061,Pressure sensor HX-110,Aarhus Service Centre,1442,150,88.47,Granite Polymers,63
+SKU-40062,Motor 45 kW HX-520,Aarhus Service Centre,1881,264,1003.12,Polaris Bearings,35
+SKU-40063,Motor 45 kW HX-280,Porto Foundry,871,287,664.39,Vantage Bearings,87
+SKU-40064,Coupling HX-450,Lyon Systems,320,44,842.89,Falcon Electronics,54
+SKU-40065,CU-4 main board HX-450,Aarhus Service Centre,1365,273,1429.3,Harbour Seals,59
+SKU-40066,Gasket set HX-140,Graz Electronics,354,377,1740.28,Vantage Coatings,67
+SKU-40067,Pump casing HX-450,Gdansk Assembly,100,275,1598.53,Granite Steelworks,30
+SKU-40068,Cable gland HX-360,Graz Electronics,322,359,711.38,Danube Cables,38
+SKU-40069,CU-4 main board HX-280,Gdansk Assembly,380,101,1236.07,Oakridge Polymers,49
+SKU-40070,Cable gland HX-450,Tampere Works,604,86,410.53,Keystone Polymers,21
+SKU-40071,Coupling HX-400,Graz Electronics,2102,306,342.09,Oakridge Logistics,75
+SKU-40072,Mechanical seal HX-320,Tampere Works,641,84,1172.76,Brightline Steelworks,33
+SKU-40073,Bolt M16 HX-520,Aarhus Service Centre,2080,304,648.3,Clearwater Polymers,40
+SKU-40074,Pressure sensor HX-450,Tampere Works,272,186,225.4,Polaris Machining,63
+SKU-40075,Impeller HX-110,Porto Foundry,681,233,1705.81,Alpine Castings,77
+SKU-40076,Paint (litres) HX-600,Tampere Works,1521,26,410.69,Polaris Coatings,57
+SKU-40077,Motor 15 kW HX-280,Bilbao Plant,591,270,1331.8,Silverfjord Motors,65
+SKU-40078,Coupling HX-140,Lyon Systems,1854,356,1312.99,Redstone Bearings,29
+SKU-40079,Mechanical seal HX-280,Bilbao Plant,2010,134,1500.39,Coastal Logistics,82
+SKU-40080,Impeller HX-280,Graz Electronics,2042,263,518.71,Polaris Castings,18
+SKU-40081,CU-4 main board HX-200,Gdansk Assembly,1519,105,1612.01,Danube Cables,73
+SKU-40082,Coupling HX-110,Lyon Systems,2203,278,166.08,Bluecrest Seals,46
+SKU-40083,Cable gland HX-200,Porto Foundry,1512,393,613.29,Oakridge Logistics,57
+SKU-40084,Cable gland HX-140,Aarhus Service Centre,2305,232,1286.78,Granite Fasteners,43
+SKU-40085,Motor 15 kW HX-280,Brno Machining,2148,31,1451.94,Evergreen Seals,67
+SKU-40086,Shaft HX-360,Gdansk Assembly,2378,300,1535.21,Meridian Fasteners,70
+SKU-40087,Paint (litres) HX-600,Lyon Systems,470,25,26.81,Brightline Cables,77
+SKU-40088,Impeller HX-600,Gdansk Assembly,1337,315,864.26,Granite Logistics,77
+SKU-40089,Impeller HX-200,Lyon Systems,1006,57,996.3,Harbour Cables,72
+SKU-40090,Paint (litres) HX-280,Lyon Systems,1326,244,1511.32,Danube Seals,10
+SKU-40091,Coupling HX-200,Gdansk Assembly,576,292,345.52,Ironpeak Coatings,66
+SKU-40092,Mechanical seal HX-200,Porto Foundry,988,322,1396.47,Harbour Coatings,62
+SKU-40093,Pressure sensor HX-140,Bilbao Plant,1811,45,1215.97,Harbour Machining,33
+SKU-40094,Pump casing HX-320,Bilbao Plant,461,210,1668.62,Harbour Machining,30
+SKU-40095,Cable gland HX-280,Porto Foundry,208,370,1091.41,Redstone Electronics,89
+SKU-40096,Bearing 6309 HX-200,Brno Machining,615,128,1618.36,Evergreen Seals,53
+SKU-40097,Motor 15 kW HX-400,Aarhus Service Centre,2213,305,229.71,Danube Cables,5
+SKU-40098,Paint (litres) HX-320,Gdansk Assembly,994,109,40.56,Alpine Coatings,82
+SKU-40099,Motor 15 kW HX-400,Bilbao Plant,745,131,1387.84,Brightline Cables,50
+SKU-40100,Paint (litres) HX-140,Porto Foundry,981,300,980.08,Clearwater Seals,48
+SKU-40101,Cable gland HX-320,Porto Foundry,1457,301,267.22,Ironpeak Seals,79
+SKU-40102,Coupling HX-520,Tampere Works,1632,95,724.44,Harbour Machining,18
+SKU-40103,Coupling HX-160,Tampere Works,942,317,1694.51,Meridian Bearings,13
+SKU-40104,Cable gland HX-450,Graz Electronics,2203,159,206.13,Harbour Coatings,25
+SKU-40105,Shaft HX-400,Graz Electronics,280,373,1555.51,Clearwater Machining,55
+SKU-40106,Pressure sensor HX-450,Graz Electronics,1888,384,92.54,Bluecrest Logistics,81
+SKU-40107,Shaft HX-400,Lyon Systems,1459,59,1769.37,Keystone Polymers,47
+SKU-40108,Coupling HX-140,Brno Machining,390,50,1660.3,Polaris Machining,15
+SKU-40109,Pressure sensor HX-320,Aarhus Service Centre,2104,134,1795.25,Redstone Logistics,65
+SKU-40110,Gasket set HX-320,Tampere Works,30,365,1593.38,Granite Fasteners,16
+SKU-40111,CU-4 main board HX-400,Aarhus Service Centre,1269,161,1735.43,Granite Fasteners,69
+SKU-40112,Cable gland HX-450,Brno Machining,1455,193,145.48,Meridian Motors,29
+SKU-40113,Motor 45 kW HX-400,Porto Foundry,134,210,188.79,Alpine Fasteners,59
+SKU-40114,Coupling HX-160,Tampere Works,206,71,766.21,Summit Fasteners,28
+SKU-40115,Paint (litres) HX-160,Porto Foundry,484,315,1203.12,Redstone Electronics,56
+SKU-40116,Pump casing HX-400,Brno Machining,348,21,101.1,Northgate Bearings,68
+SKU-40117,Motor 45 kW HX-450,Lyon Systems,2153,383,860.56,Bluecrest Steelworks,57
+SKU-40118,Motor 15 kW HX-280,Bilbao Plant,99,151,693.21,Danube Electronics,11
+SKU-40119,Cable gland HX-200,Aarhus Service Centre,1818,98,688.27,Baltic Motors,67
+SKU-40120,Pressure sensor HX-320,Porto Foundry,1902,338,518.29,Clearwater Logistics,83
+SKU-40121,Cable gland HX-450,Brno Machining,391,316,1749.63,Bluecrest Cables,45
+SKU-40122,CU-4 main board HX-400,Porto Foundry,1804,221,691.98,Vantage Polymers,32
+SKU-40123,Cable gland HX-110,Bilbao Plant,1509,181,325.55,Brightline Electronics,25
+SKU-40124,Motor 45 kW HX-160,Brno Machining,820,140,1144.92,Keystone Cables,30
+SKU-40125,Gasket set HX-520,Tampere Works,55,329,1199.13,Silverfjord Steelworks,67
+SKU-40126,Pump casing HX-400,Graz Electronics,792,243,951.29,Polaris Fasteners,22
+SKU-40127,Gasket set HX-110,Brno Machining,207,359,1446.65,Granite Polymers,59
+SKU-40128,Motor 45 kW HX-160,Bilbao Plant,2173,261,1562.88,Summit Seals,51
+SKU-40129,Shaft HX-110,Bilbao Plant,193,283,894.24,Clearwater Polymers,10
+SKU-40130,Bolt M16 HX-320,Brno Machining,283,271,783.5,Keystone Bearings,65
+SKU-40131,Bearing 6309 HX-110,Bilbao Plant,93,306,419.75,Danube Seals,46
+SKU-40132,Paint (litres) HX-400,Porto Foundry,2114,140,1151.27,Redstone Logistics,70
+SKU-40133,Pressure sensor HX-450,Brno Machining,1006,199,30.26,Bluecrest Cables,7
+SKU-40134,Paint (litres) HX-110,Brno Machining,13,27,1698.3,Evergreen Bearings,15
+SKU-40135,CU-4 main board HX-280,Bilbao Plant,1798,305,1238.09,Meridian Electronics,25
+SKU-40136,Pump casing HX-450,Tampere Works,611,356,1401.42,Oakridge Bearings,47
+SKU-40137,Motor 45 kW HX-200,Tampere Works,1513,352,1158.57,Danube Steelworks,57
+SKU-40138,Cable gland HX-400,Aarhus Service Centre,1660,373,356.14,Ironpeak Cables,5
+SKU-40139,Coupling HX-140,Porto Foundry,2024,245,381.61,Meridian Polymers,42
+SKU-40140,Gasket set HX-360,Gdansk Assembly,2035,181,1136.15,Oakridge Polymers,26
+SKU-40141,Coupling HX-360,Lyon Systems,128,246,98.5,Baltic Logistics,56
+SKU-40142,Mechanical seal HX-140,Brno Machining,190,115,1592.69,Danube Fasteners,28
+SKU-40143,Pump casing HX-280,Bilbao Plant,1286,72,1340.14,Evergreen Coatings,11
+SKU-40144,Motor 45 kW HX-140,Lyon Systems,466,377,1697.34,Meridian Electronics,35
+SKU-40145,Shaft HX-280,Gdansk Assembly,2127,393,319.09,Northgate Bearings,84
+SKU-40146,Shaft HX-450,Tampere Works,1478,126,15.65,Clearwater Polymers,89
+SKU-40147,Shaft HX-110,Porto Foundry,2130,102,978.88,Baltic Logistics,54
+SKU-40148,Mechanical seal HX-600,Brno Machining,612,371,1483.7,Brightline Fasteners,55
+SKU-40149,Bolt M16 HX-200,Gdansk Assembly,2052,320,688.81,Oakridge Polymers,67
+SKU-40150,Cable gland HX-520,Bilbao Plant,549,149,1407.64,Harbour Fasteners,72
+SKU-40151,Motor 45 kW HX-250,Bilbao Plant,1774,174,1428.41,Clearwater Machining,54
+SKU-40152,Motor 15 kW HX-600,Aarhus Service Centre,1742,170,421.58,Vantage Coatings,53
+SKU-40153,Cable gland HX-280,Gdansk Assembly,1356,397,1456.14,Nordwave Steelworks,44
+SKU-40154,Pressure sensor HX-250,Brno Machining,2387,267,690.7,Granite Fasteners,7
+SKU-40155,Mechanical seal HX-280,Lyon Systems,746,343,1294.64,Bluecrest Steelworks,72
+SKU-40156,Gasket set HX-600,Bilbao Plant,2073,177,1518.15,Brightline Electronics,32
+SKU-40157,Coupling HX-360,Aarhus Service Centre,2238,366,1058.45,Northgate Motors,28
+SKU-40158,Paint (litres) HX-320,Lyon Systems,2175,122,1500.34,Baltic Castings,16
+SKU-40159,Gasket set HX-400,Graz Electronics,1368,32,522.9,Granite Seals,9
+SKU-40160,CU-4 main board HX-280,Tampere Works,1751,211,678.23,Polaris Steelworks,60
+SKU-40161,Impeller HX-140,Porto Foundry,2385,283,1640.17,Clearwater Polymers,83
+SKU-40162,Pressure sensor HX-280,Gdansk Assembly,2283,112,424.96,Alpine Castings,56
+SKU-40163,Cable gland HX-280,Aarhus Service Centre,1468,235,1230.63,Summit Seals,57
+SKU-40164,Pressure sensor HX-320,Porto Foundry,715,47,1334.15,Silverfjord Steelworks,90
+SKU-40165,Impeller HX-280,Bilbao Plant,573,101,74.54,Danube Fasteners,6
+SKU-40166,Coupling HX-360,Graz Electronics,216,55,23.1,Ironpeak Cables,31
+SKU-40167,Coupling HX-160,Tampere Works,564,325,251.15,Silverfjord Logistics,55
+SKU-40168,Coupling HX-520,Lyon Systems,98,192,103.73,Meridian Castings,15
+SKU-40169,Pressure sensor HX-110,Aarhus Service Centre,1749,381,1288.11,Coastal Motors,90
+SKU-40170,Bolt M16 HX-140,Gdansk Assembly,10,319,1799.62,Harbour Cables,79
+SKU-40171,Cable gland HX-110,Brno Machining,613,386,1672.94,Harbour Machining,88
+SKU-40172,Impeller HX-520,Lyon Systems,1374,386,69.84,Oakridge Seals,53
+SKU-40173,Shaft HX-450,Tampere Works,1965,178,950.8,Ironpeak Cables,63
+SKU-40174,Motor 15 kW HX-280,Graz Electronics,1029,376,1776.27,Vantage Polymers,48
+SKU-40175,Shaft HX-320,Lyon Systems,1899,73,1299.49,Meridian Castings,31
+SKU-40176,Shaft HX-520,Tampere Works,1029,249,1734.75,Evergreen Coatings,81
+SKU-40177,Bearing 6309 HX-160,Brno Machining,996,122,870.06,Danube Steelworks,64
+SKU-40178,Coupling HX-450,Aarhus Service Centre,744,91,1202.93,Nordwave Castings,11
+SKU-40179,Bolt M16 HX-250,Porto Foundry,436,61,207.9,Coastal Bearings,61
+SKU-40180,Shaft HX-140,Graz Electronics,222,266,1105.07,Meridian Logistics,32
+SKU-40181,Gasket set HX-360,Bilbao Plant,1160,305,341.37,Meridian Fasteners,40
+SKU-40182,Bolt M16 HX-110,Graz Electronics,1006,283,1539.1,Baltic Motors,71
+SKU-40183,Coupling HX-400,Tampere Works,286,60,1129.19,Silverfjord Electronics,66
+SKU-40184,Coupling HX-520,Aarhus Service Centre,629,257,1012.25,Falcon Logistics,45
+SKU-40185,Bolt M16 HX-600,Bilbao Plant,1169,147,1680.32,Danube Steelworks,72
+SKU-40186,Pressure sensor HX-280,Aarhus Service Centre,1581,74,623.6,Granite Fasteners,15
+SKU-40187,Mechanical seal HX-520,Bilbao Plant,2249,134,1702.06,Summit Seals,36
+SKU-40188,Bearing 6309 HX-250,Bilbao Plant,526,379,955.61,Clearwater Steelworks,49
+SKU-40189,Bearing 6309 HX-320,Aarhus Service Centre,802,290,1679.35,Ironpeak Bearings,76
+SKU-40190,Pump casing HX-520,Porto Foundry,1443,312,898.38,Redstone Electronics,54
+SKU-40191,CU-4 main board HX-360,Bilbao Plant,1958,81,1037.32,Redstone Bearings,65
+SKU-40192,Pump casing HX-360,Porto Foundry,302,285,1689.82,Alpine Castings,17
+SKU-40193,Shaft HX-320,Brno Machining,155,304,189.91,Nordwave Seals,68
+SKU-40194,CU-4 main board HX-140,Brno Machining,312,187,1052.61,Redstone Polymers,82
+SKU-40195,Shaft HX-140,Graz Electronics,1965,225,265.21,Silverfjord Machining,35
+SKU-40196,Gasket set HX-320,Brno Machining,1727,181,156.9,Bluecrest Bearings,54
+SKU-40197,Mechanical seal HX-450,Porto Foundry,1378,89,1626.09,Nordwave Steelworks,39
+SKU-40198,Pressure sensor HX-520,Tampere Works,836,317,900.24,Coastal Motors,27
+SKU-40199,Gasket set HX-110,Bilbao Plant,249,373,1374.5,Coastal Bearings,27
+SKU-40200,Impeller HX-600,Aarhus Service Centre,735,160,802.29,Keystone Cables,14
+SKU-40201,Pressure sensor HX-140,Brno Machining,2178,122,1054.75,Polaris Machining,88
+SKU-40202,Pressure sensor HX-320,Lyon Systems,1667,34,1762.12,Falcon Logistics,27
+SKU-40203,Cable gland HX-450,Aarhus Service Centre,511,129,69.44,Evergreen Bearings,54
+SKU-40204,Coupling HX-280,Gdansk Assembly,2041,367,1078.6,Oakridge Electronics,40
+SKU-40205,Shaft HX-200,Brno Machining,117,399,107.94,Meridian Machining,32
+SKU-40206,Bolt M16 HX-400,Lyon Systems,2087,381,849.92,Harbour Seals,48
+SKU-40207,Paint (litres) HX-360,Tampere Works,357,149,1501.02,Evergreen Polymers,20
+SKU-40208,Shaft HX-200,Tampere Works,1870,360,117.79,Redstone Coatings,36
+SKU-40209,CU-4 main board HX-320,Porto Foundry,1681,326,864.98,Harbour Machining,84
+SKU-40210,Shaft HX-140,Brno Machining,217,191,171.51,Harbour Fasteners,90
+SKU-40211,Cable gland HX-400,Aarhus Service Centre,511,215,313.31,Oakridge Bearings,57
+SKU-40212,CU-4 main board HX-360,Brno Machining,615,345,1189.73,Meridian Electronics,21
+SKU-40213,Impeller HX-110,Gdansk Assembly,1327,183,456.4,Bluecrest Logistics,20
+SKU-40214,CU-4 main board HX-320,Graz Electronics,363,390,1003.94,Ironpeak Cables,24
+SKU-40215,Motor 15 kW HX-160,Bilbao Plant,1507,282,1165.47,Evergreen Machining,83
+SKU-40216,Motor 45 kW HX-250,Aarhus Service Centre,710,341,482.4,Vantage Castings,44
+SKU-40217,Bearing 6309 HX-110,Porto Foundry,1045,77,1675.68,Harbour Seals,9
+SKU-40218,Mechanical seal HX-250,Porto Foundry,468,314,47.22,Clearwater Polymers,25
+SKU-40219,Pump casing HX-400,Lyon Systems,2060,115,53.15,Ironpeak Cables,62
+SKU-40220,Cable gland HX-110,Brno Machining,441,353,1450.43,Keystone Bearings,14
+SKU-40221,CU-4 main board HX-110,Bilbao Plant,1408,204,1495.88,Clearwater Logistics,56
+SKU-40222,Bearing 6309 HX-360,Lyon Systems,385,328,336.84,Nordwave Castings,58
+SKU-40223,Motor 45 kW HX-110,Bilbao Plant,1595,107,458.02,Coastal Bearings,61
+SKU-40224,Pump casing HX-140,Tampere Works,2367,265,947.62,Harbour Electronics,19
+SKU-40225,Impeller HX-520,Aarhus Service Centre,248,122,1610.44,Clearwater Seals,86
+SKU-40226,Shaft HX-360,Bilbao Plant,1408,236,997.03,Baltic Motors,62
+SKU-40227,Bolt M16 HX-250,Graz Electronics,1474,150,1068.08,Nordwave Castings,51
+SKU-40228,Motor 45 kW HX-280,Tampere Works,1525,349,628.66,Meridian Logistics,13
+SKU-40229,Bolt M16 HX-450,Lyon Systems,724,368,346.6,Silverfjord Electronics,79
+SKU-40230,Pump casing HX-320,Graz Electronics,421,150,207.07,Meridian Seals,7
+SKU-40231,Bearing 6309 HX-280,Brno Machining,668,388,876.1,Meridian Castings,10
+SKU-40232,Paint (litres) HX-200,Gdansk Assembly,1488,276,1534.06,Silverfjord Cables,9
+SKU-40233,Motor 15 kW HX-450,Porto Foundry,1880,34,170.29,Baltic Castings,46
+SKU-40234,Pump casing HX-110,Lyon Systems,503,302,626.3,Nordwave Castings,78
+SKU-40235,Bolt M16 HX-140,Graz Electronics,1328,261,1279.44,Brightline Fasteners,15
+SKU-40236,Shaft HX-250,Aarhus Service Centre,778,295,1285.46,Redstone Coatings,27
+SKU-40237,Bolt M16 HX-280,Gdansk Assembly,1854,89,336.18,Danube Fasteners,6
+SKU-40238,Gasket set HX-160,Graz Electronics,1634,400,1486.95,Redstone Coatings,5
+SKU-40239,Gasket set HX-450,Gdansk Assembly,1168,395,460.12,Coastal Motors,73
+SKU-40240,Mechanical seal HX-400,Aarhus Service Centre,234,184,1785.43,Ironpeak Bearings,38
+SKU-40241,Paint (litres) HX-450,Graz Electronics,310,218,847.25,Granite Logistics,70
+SKU-40242,Pressure sensor HX-200,Aarhus Service Centre,2152,399,1135.19,Baltic Fasteners,60
+SKU-40243,Coupling HX-200,Brno Machining,101,330,1430.32,Meridian Electronics,56
+SKU-40244,Pump casing HX-110,Graz Electronics,1564,279,1476.28,Danube Electronics,49
+SKU-40245,Gasket set HX-360,Brno Machining,1450,246,610.21,Meridian Machining,12
+SKU-40246,Gasket set HX-320,Porto Foundry,1976,211,251.15,Baltic Electronics,7
+SKU-40247,CU-4 main board HX-600,Aarhus Service Centre,636,365,529.11,Meridian Motors,46
+SKU-40248,Bearing 6309 HX-250,Porto Foundry,210,115,946.82,Bluecrest Cables,80
+SKU-40249,Pump casing HX-140,Lyon Systems,385,352,1236.73,Keystone Bearings,69
+SKU-40250,Shaft HX-110,Bilbao Plant,466,77,1294.96,Keystone Electronics,32
+SKU-40251,Pressure sensor HX-250,Gdansk Assembly,2062,243,204.09,Keystone Logistics,61
+SKU-40252,Bolt M16 HX-320,Bilbao Plant,2323,207,1492.67,Evergreen Coatings,35
+SKU-40253,Motor 45 kW HX-200,Gdansk Assembly,178,198,1716.49,Northgate Motors,80
+SKU-40254,Coupling HX-200,Tampere Works,406,340,1573.89,Meridian Cables,7
+SKU-40255,Shaft HX-140,Lyon Systems,1071,338,995.79,Oakridge Bearings,43
+SKU-40256,Impeller HX-600,Gdansk Assembly,705,297,568.41,Oakridge Polymers,50
+SKU-40257,Motor 45 kW HX-110,Aarhus Service Centre,1069,54,1088.55,Alpine Coatings,75
+SKU-40258,Shaft HX-360,Brno Machining,281,45,1758.47,Clearwater Logistics,78
+SKU-40259,Paint (litres) HX-400,Lyon Systems,2353,220,1632.08,Meridian Cables,47
+SKU-40260,Shaft HX-520,Porto Foundry,208,370,1136.31,Evergreen Electronics,90
+SKU-40261,Bolt M16 HX-360,Brno Machining,1348,120,254.23,Danube Steelworks,24
+SKU-40262,Pump casing HX-110,Tampere Works,2071,368,286.59,Oakridge Electronics,63
+SKU-40263,Impeller HX-320,Aarhus Service Centre,13,106,1229.44,Keystone Electronics,52
+SKU-40264,Gasket set HX-600,Porto Foundry,2033,248,1786.31,Evergreen Coatings,48
+SKU-40265,Motor 45 kW HX-110,Bilbao Plant,1754,136,505.73,Vantage Electronics,77
+SKU-40266,Bolt M16 HX-280,Lyon Systems,213,182,1657.11,Granite Polymers,63
+SKU-40267,Motor 15 kW HX-450,Gdansk Assembly,724,306,911.03,Oakridge Bearings,22
+SKU-40268,Impeller HX-450,Graz Electronics,1923,195,1358.3,Redstone Electronics,23
+SKU-40269,Impeller HX-600,Graz Electronics,709,134,1513.92,Granite Seals,9
+SKU-40270,Coupling HX-160,Lyon Systems,2211,239,124.37,Brightline Electronics,50
+SKU-40271,CU-4 main board HX-320,Porto Foundry,2022,114,1184.7,Brightline Fasteners,57
+SKU-40272,Bearing 6309 HX-520,Tampere Works,1782,203,266.63,Polaris Machining,23
+SKU-40273,Impeller HX-360,Bilbao Plant,606,251,85.76,Silverfjord Electronics,35
+SKU-40274,Motor 15 kW HX-200,Aarhus Service Centre,1195,157,1338.23,Northgate Bearings,16
+SKU-40275,Coupling HX-520,Brno Machining,1139,274,1481.19,Granite Fasteners,21
+SKU-40276,Bearing 6309 HX-400,Tampere Works,127,101,1677.96,Vantage Electronics,74
+SKU-40277,Mechanical seal HX-320,Tampere Works,979,230,614.5,Brightline Electronics,43
+SKU-40278,Gasket set HX-400,Porto Foundry,2154,377,1379.87,Silverfjord Machining,18
+SKU-40279,Motor 45 kW HX-250,Tampere Works,1621,308,1123.22,Granite Logistics,10
+SKU-40280,Bearing 6309 HX-200,Porto Foundry,791,44,224.89,Brightline Electronics,90
+SKU-40281,Bolt M16 HX-200,Gdansk Assembly,1610,390,1387.4,Summit Cables,70
+SKU-40282,Pump casing HX-400,Bilbao Plant,1771,304,1339.62,Harbour Seals,8
+SKU-40283,Bolt M16 HX-140,Porto Foundry,1532,380,1152.55,Baltic Logistics,42
+SKU-40284,Impeller HX-450,Graz Electronics,262,349,159.8,Silverfjord Logistics,9
+SKU-40285,Bearing 6309 HX-520,Porto Foundry,1737,317,898.12,Alpine Seals,71
+SKU-40286,Motor 15 kW HX-520,Tampere Works,112,380,1423.57,Alpine Seals,38
+SKU-40287,CU-4 main board HX-140,Aarhus Service Centre,1423,282,713.08,Redstone Motors,81
+SKU-40288,Bolt M16 HX-140,Porto Foundry,1164,326,1427.73,Granite Machining,70
+SKU-40289,Paint (litres) HX-400,Bilbao Plant,2090,309,1473.55,Oakridge Seals,59
+SKU-40290,Shaft HX-200,Lyon Systems,626,291,159.76,Bluecrest Logistics,29
+SKU-40291,Paint (litres) HX-110,Gdansk Assembly,1628,148,1380.62,Redstone Motors,54
+SKU-40292,CU-4 main board HX-110,Bilbao Plant,2334,124,1689.21,Baltic Fasteners,67
+SKU-40293,Pressure sensor HX-360,Bilbao Plant,691,96,75.89,Silverfjord Motors,12
+SKU-40294,Impeller HX-200,Lyon Systems,46,129,1406.71,Keystone Electronics,90
+SKU-40295,Mechanical seal HX-400,Gdansk Assembly,859,145,1159.58,Falcon Steelworks,56
+SKU-40296,Mechanical seal HX-160,Porto Foundry,2165,65,1041.71,Danube Logistics,35
+SKU-40297,Shaft HX-600,Lyon Systems,348,66,1687.01,Baltic Electronics,77
+SKU-40298,Gasket set HX-280,Graz Electronics,903,375,1028.74,Bluecrest Bearings,51
+SKU-40299,Pressure sensor HX-200,Lyon Systems,1031,110,847.89,Danube Electronics,38
+SKU-40300,Coupling HX-200,Gdansk Assembly,1579,311,1529.83,Bluecrest Bearings,11
+SKU-40301,Cable gland HX-520,Brno Machining,1653,117,1236.82,Harbour Seals,8
+SKU-40302,Bolt M16 HX-320,Lyon Systems,488,344,1209.57,Vantage Logistics,38
+SKU-40303,Impeller HX-360,Porto Foundry,1288,43,952.6,Coastal Bearings,31
+SKU-40304,CU-4 main board HX-360,Tampere Works,2,232,1245.19,Keystone Electronics,46
+SKU-40305,Shaft HX-280,Porto Foundry,2354,241,1330.02,Clearwater Steelworks,28
+SKU-40306,Coupling HX-160,Bilbao Plant,233,312,1719.18,Baltic Coatings,35
+SKU-40307,Cable gland HX-360,Brno Machining,91,251,724.51,Clearwater Steelworks,23
+SKU-40308,Mechanical seal HX-600,Gdansk Assembly,1822,148,30.93,Vantage Coatings,18
+SKU-40309,Gasket set HX-250,Porto Foundry,844,395,838.91,Harbour Electronics,74
+SKU-40310,Coupling HX-450,Porto Foundry,1040,40,1116.29,Coastal Motors,16
+SKU-40311,Shaft HX-110,Graz Electronics,561,138,760.84,Summit Seals,57
+SKU-40312,Impeller HX-400,Bilbao Plant,2137,340,1142.56,Meridian Bearings,68
+SKU-40313,Coupling HX-450,Bilbao Plant,1231,73,1357.33,Coastal Motors,34
+SKU-40314,Motor 45 kW HX-280,Brno Machining,1425,352,1197.31,Keystone Polymers,86
+SKU-40315,CU-4 main board HX-450,Bilbao Plant,756,382,819.34,Brightline Fasteners,43
+SKU-40316,Gasket set HX-600,Graz Electronics,1144,369,132.83,Evergreen Machining,7
+SKU-40317,Coupling HX-360,Brno Machining,804,383,680.68,Silverfjord Logistics,11
+SKU-40318,Cable gland HX-160,Bilbao Plant,1461,195,1711.84,Redstone Logistics,15
+SKU-40319,Gasket set HX-280,Porto Foundry,745,374,382.17,Granite Cables,20
+SKU-40320,Pressure sensor HX-280,Brno Machining,1997,321,1343.14,Silverfjord Steelworks,16
+SKU-40321,Bolt M16 HX-450,Tampere Works,1424,89,407.27,Granite Steelworks,42
+SKU-40322,Bolt M16 HX-520,Brno Machining,845,138,727.49,Silverfjord Steelworks,19
+SKU-40323,Gasket set HX-360,Porto Foundry,798,245,369.58,Granite Cables,83
+SKU-40324,Bearing 6309 HX-360,Bilbao Plant,738,232,371.2,Evergreen Polymers,58
+SKU-40325,Pressure sensor HX-280,Gdansk Assembly,2289,170,443.54,Baltic Machining,13
+SKU-40326,Pump casing HX-400,Tampere Works,1173,384,840.9,Redstone Coatings,56
+SKU-40327,Paint (litres) HX-140,Graz Electronics,1055,155,986.28,Meridian Motors,68
+SKU-40328,Shaft HX-520,Lyon Systems,1655,259,1253.77,Oakridge Polymers,5
+SKU-40329,Paint (litres) HX-280,Brno Machining,1080,27,1476.31,Keystone Bearings,22
+SKU-40330,Paint (litres) HX-600,Brno Machining,1407,113,1528.55,Granite Logistics,85
+SKU-40331,Shaft HX-600,Brno Machining,1270,40,1114.69,Keystone Electronics,7
+SKU-40332,CU-4 main board HX-450,Tampere Works,42,58,333.43,Granite Machining,83
+SKU-40333,Bearing 6309 HX-400,Graz Electronics,298,134,717.36,Vantage Coatings,40
+SKU-40334,Shaft HX-320,Brno Machining,1344,281,685.34,Keystone Polymers,51
+SKU-40335,Pressure sensor HX-360,Lyon Systems,1924,92,1603.7,Redstone Coatings,17
+SKU-40336,Bearing 6309 HX-320,Gdansk Assembly,1011,149,1179.7,Polaris Castings,83
+SKU-40337,Motor 45 kW HX-320,Aarhus Service Centre,1232,379,1657.81,Keystone Cables,28
+SKU-40338,Mechanical seal HX-400,Porto Foundry,89,82,298.58,Silverfjord Cables,86
+SKU-40339,Coupling HX-140,Bilbao Plant,1362,164,425.77,Keystone Polymers,55
+SKU-40340,Gasket set HX-400,Gdansk Assembly,1336,22,314.17,Granite Cables,30
+SKU-40341,Coupling HX-250,Lyon Systems,401,106,1137.76,Redstone Logistics,90
+SKU-40342,CU-4 main board HX-200,Porto Foundry,2306,51,835.85,Brightline Steelworks,70
+SKU-40343,Pump casing HX-450,Lyon Systems,419,110,813.25,Keystone Electronics,70
+SKU-40344,Cable gland HX-320,Porto Foundry,428,104,148.29,Meridian Polymers,10
+SKU-40345,Bearing 6309 HX-360,Brno Machining,69,232,817.67,Redstone Electronics,72
+SKU-40346,Pump casing HX-320,Tampere Works,1104,123,1640.53,Alpine Fasteners,90
+SKU-40347,Mechanical seal HX-280,Lyon Systems,260,197,1729.94,Silverfjord Coatings,55
+SKU-40348,Motor 15 kW HX-450,Lyon Systems,564,96,610.03,Coastal Motors,11
+SKU-40349,Cable gland HX-400,Graz Electronics,2126,276,1297.86,Alpine Castings,62
+SKU-40350,Bearing 6309 HX-400,Lyon Systems,660,101,1383.52,Evergreen Seals,23
+SKU-40351,Pump casing HX-520,Porto Foundry,796,314,354.24,Brightline Cables,38
+SKU-40352,Motor 15 kW HX-280,Graz Electronics,928,88,273.29,Danube Seals,85
+SKU-40353,Paint (litres) HX-600,Bilbao Plant,126,48,1678.69,Clearwater Machining,38
+SKU-40354,Paint (litres) HX-400,Aarhus Service Centre,1412,38,1457.1,Ironpeak Coatings,51
+SKU-40355,Bolt M16 HX-160,Aarhus Service Centre,667,139,1661.49,Meridian Bearings,33
+SKU-40356,Bearing 6309 HX-450,Gdansk Assembly,1287,204,927.21,Clearwater Steelworks,58
+SKU-40357,Pressure sensor HX-160,Graz Electronics,373,378,924.26,Polaris Castings,79
+SKU-40358,Bearing 6309 HX-450,Aarhus Service Centre,1377,58,1389.82,Harbour Seals,65
+SKU-40359,Bolt M16 HX-160,Graz Electronics,2228,139,190.9,Oakridge Polymers,14
+SKU-40360,Bolt M16 HX-360,Graz Electronics,299,169,995.52,Clearwater Steelworks,31
+SKU-40361,Motor 45 kW HX-200,Tampere Works,66,188,152.51,Granite Cables,86
+SKU-40362,Coupling HX-200,Tampere Works,2002,39,4.88,Brightline Cables,18
+SKU-40363,Pressure sensor HX-450,Gdansk Assembly,1304,66,1314.74,Baltic Motors,73
+SKU-40364,Coupling HX-140,Aarhus Service Centre,885,82,1104.79,Oakridge Bearings,75
+SKU-40365,Bearing 6309 HX-320,Graz Electronics,1175,227,494.42,Harbour Cables,22
+SKU-40366,Gasket set HX-280,Brno Machining,1680,144,126.93,Alpine Coatings,86
+SKU-40367,Impeller HX-200,Gdansk Assembly,1258,235,844.36,Danube Steelworks,38
+SKU-40368,Mechanical seal HX-400,Brno Machining,2178,246,1030.44,Danube Cables,15
+SKU-40369,Impeller HX-160,Graz Electronics,1556,98,1263.2,Baltic Coatings,11
+SKU-40370,Motor 15 kW HX-450,Lyon Systems,1795,89,429.63,Granite Cables,29
+SKU-40371,Shaft HX-140,Tampere Works,492,342,464.28,Northgate Motors,46
+SKU-40372,Bolt M16 HX-160,Tampere Works,392,258,1746.93,Evergreen Seals,46
+SKU-40373,Coupling HX-250,Brno Machining,1498,383,992.86,Silverfjord Cables,59
+SKU-40374,Gasket set HX-600,Aarhus Service Centre,1339,167,1126.1,Danube Cables,25
+SKU-40375,Impeller HX-110,Brno Machining,606,38,929.95,Silverfjord Motors,47
+SKU-40376,Impeller HX-450,Lyon Systems,2266,259,1081.31,Clearwater Machining,19
+SKU-40377,Bearing 6309 HX-400,Graz Electronics,1653,251,1010.14,Meridian Coatings,80
+SKU-40378,Bearing 6309 HX-280,Bilbao Plant,853,161,1123.52,Coastal Bearings,54
+SKU-40379,Shaft HX-200,Lyon Systems,2191,74,792.74,Harbour Fasteners,47
+SKU-40380,Bolt M16 HX-520,Bilbao Plant,1316,46,203.51,Nordwave Motors,7
+SKU-40381,Pump casing HX-280,Bilbao Plant,152,248,146.82,Coastal Logistics,45
+SKU-40382,Cable gland HX-520,Aarhus Service Centre,751,56,456.65,Oakridge Seals,20
+SKU-40383,Cable gland HX-160,Bilbao Plant,440,86,250.35,Oakridge Logistics,70
+SKU-40384,Bolt M16 HX-140,Graz Electronics,2337,129,1035.52,Clearwater Machining,30
+SKU-40385,Paint (litres) HX-450,Brno Machining,386,293,71.78,Silverfjord Coatings,26
+SKU-40386,Motor 15 kW HX-450,Aarhus Service Centre,763,112,9.91,Summit Seals,13
+SKU-40387,Coupling HX-400,Tampere Works,1761,136,1669.21,Clearwater Polymers,34
+SKU-40388,CU-4 main board HX-360,Brno Machining,284,119,68.42,Redstone Electronics,31
+SKU-40389,Cable gland HX-320,Lyon Systems,1195,236,668.77,Bluecrest Seals,57
+SKU-40390,Cable gland HX-140,Porto Foundry,2043,302,543.82,Bluecrest Logistics,26
+SKU-40391,Motor 45 kW HX-160,Bilbao Plant,84,242,1729.57,Bluecrest Cables,68
+SKU-40392,CU-4 main board HX-280,Lyon Systems,234,383,199.37,Polaris Bearings,58
+SKU-40393,Gasket set HX-110,Gdansk Assembly,1708,112,527.34,Clearwater Machining,53
+SKU-40394,Paint (litres) HX-140,Bilbao Plant,170,150,936.31,Brightline Electronics,26
+SKU-40395,Bearing 6309 HX-250,Porto Foundry,398,190,1052.48,Polaris Fasteners,55
+SKU-40396,Gasket set HX-250,Graz Electronics,1548,391,1157.15,Redstone Electronics,33
+SKU-40397,Motor 15 kW HX-520,Brno Machining,793,268,1656.16,Danube Cables,39
+SKU-40398,Pressure sensor HX-110,Graz Electronics,71,237,1257.12,Meridian Seals,38
+SKU-40399,Motor 15 kW HX-250,Graz Electronics,294,133,232.52,Evergreen Polymers,34

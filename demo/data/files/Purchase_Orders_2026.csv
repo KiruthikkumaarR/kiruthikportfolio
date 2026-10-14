@@ -1,0 +1,901 @@
+po_number,supplier,category,order_date,value_eur,buyer,status,delivery_site
+PO-450000,Meridian Fasteners,IT hardware,2026-06-06,211940,Eino Jussila,Invoiced,Graz Electronics
+PO-450001,Falcon Electronics,Castings,2026-07-21,243080,Maria Mäki,Received,Brno Machining
+PO-450002,Meridian Polymers,IT hardware,2026-02-28,240030,Maria Mäki,Invoiced,Porto Foundry
+PO-450003,Alpine Castings,Castings,2026-03-19,164440,Juhani Koskela,Invoiced,Bilbao Plant
+PO-450004,Meridian Cables,Electronics,2026-03-11,167030,Luciana Lourenço,Open,Gdansk Assembly
+PO-450005,Baltic Fasteners,Logistics,2026-03-29,262540,Juhani Mattila,Received,Graz Electronics
+PO-450006,Northgate Bearings,IT hardware,2026-07-23,240950,Isabela Ribeiro,Received,Gdansk Assembly
+PO-450007,Danube Logistics,Motors,2026-07-15,449610,Kimmo Nieminen,Invoiced,Lyon Systems
+PO-450008,Harbour Coatings,Bearings,2026-03-24,132680,Eino Jussila,Received,Aarhus Service Centre
+PO-450009,Oakridge Electronics,Motors,2026-05-10,338190,Kaarina Pesonen,Invoiced,Lyon Systems
+PO-450010,Falcon Steelworks,IT hardware,2026-07-13,97990,Maria Mäki,Open,Brno Machining
+PO-450011,Alpine Castings,IT hardware,2026-06-28,107480,Konrad Topa,Open,Tampere Works
+PO-450012,Danube Electronics,Electronics,2026-02-05,320280,Luciana Lourenço,Received,Tampere Works
+PO-450013,Oakridge Bearings,MRO,2026-01-11,146670,Sebastian Niemi,Received,Tampere Works
+PO-450014,Granite Fasteners,Seals,2026-06-03,333230,Katriina Kuisma,Cancelled,Porto Foundry
+PO-450015,Ironpeak Seals,Electronics,2026-05-20,397460,Rodrigo Mota,Invoiced,Lyon Systems
+PO-450016,Clearwater Machining,MRO,2026-07-01,41120,Luciana Cruz,Invoiced,Gdansk Assembly
+PO-450017,Granite Seals,Seals,2026-07-20,266670,Katriina Kuisma,Cancelled,Aarhus Service Centre
+PO-450018,Bluecrest Seals,Castings,2026-01-15,262510,Airi Salo,Cancelled,Aarhus Service Centre
+PO-450019,Evergreen Bearings,Consulting,2026-02-07,126240,Eemeli Mäenpää,Open,Aarhus Service Centre
+PO-450020,Vantage Logistics,Motors,2026-05-05,133350,Sebastian Niemi,Received,Brno Machining
+PO-450021,Danube Machining,Motors,2026-06-06,398130,Maciej Mateńko,Cancelled,Porto Foundry
+PO-450022,Alpine Seals,Motors,2026-05-09,145640,Leena Kivelä,Invoiced,Porto Foundry
+PO-450023,Granite Seals,Consulting,2026-07-17,301160,Luciana Cruz,Open,Graz Electronics
+PO-450024,Granite Logistics,IT hardware,2026-03-03,369630,Kristiina Lappalainen,Received,Gdansk Assembly
+PO-450025,Alpine Castings,Seals,2026-05-11,216880,Luciana Lourenço,Invoiced,Porto Foundry
+PO-450026,Danube Machining,Castings,2026-06-18,274800,Kaarina Pesonen,Invoiced,Bilbao Plant
+PO-450027,Harbour Seals,Castings,2026-08-28,273670,Jaime Matos,Received,Gdansk Assembly
+PO-450028,Danube Fasteners,Motors,2026-01-25,441650,Konrad Topa,Invoiced,Brno Machining
+PO-450029,Keystone Logistics,Bearings,2026-07-12,395360,Kaarina Pesonen,Invoiced,Gdansk Assembly
+PO-450030,Baltic Electronics,Electronics,2026-02-02,102540,Juhani Konttinen,Invoiced,Bilbao Plant
+PO-450031,Silverfjord Machining,IT hardware,2026-08-03,154280,Christian Palomäki,Cancelled,Gdansk Assembly
+PO-450032,Oakridge Electronics,Electronics,2026-04-05,407680,Sebastian Niemi,Cancelled,Tampere Works
+PO-450033,Harbour Machining,Bearings,2026-01-02,171070,Kimmo Nieminen,Invoiced,Aarhus Service Centre
+PO-450034,Falcon Logistics,IT hardware,2026-01-05,160000,Hilkka Seppä,Received,Tampere Works
+PO-450035,Ironpeak Fasteners,Bearings,2026-05-28,346620,Hilkka Seppä,Invoiced,Gdansk Assembly
+PO-450036,Redstone Electronics,Electronics,2026-08-31,336940,Eemeli Mäenpää,Open,Bilbao Plant
+PO-450037,Oakridge Seals,Motors,2026-05-07,203970,Fernando Machado,Received,Porto Foundry
+PO-450038,Vantage Bearings,Motors,2026-05-24,181140,Hilkka Seppä,Cancelled,Gdansk Assembly
+PO-450039,Alpine Coatings,Electronics,2026-08-03,254890,Leena Kivelä,Received,Tampere Works
+PO-450040,Oakridge Electronics,IT hardware,2026-05-06,401030,Rafaela Figueiredo,Received,Aarhus Service Centre
+PO-450041,Polaris Machining,MRO,2026-04-02,349010,Matilda Peltonen,Open,Porto Foundry
+PO-450042,Summit Seals,Consulting,2026-01-03,275610,Juhani Konttinen,Invoiced,Gdansk Assembly
+PO-450043,Meridian Machining,Electronics,2026-09-17,355000,Juhani Konttinen,Invoiced,Bilbao Plant
+PO-450044,Baltic Motors,Electronics,2026-06-17,248330,Kaarina Pesonen,Invoiced,Graz Electronics
+PO-450045,Baltic Fasteners,IT hardware,2026-02-14,12120,Juhani Mattila,Open,Bilbao Plant
+PO-450046,Polaris Coatings,MRO,2026-03-20,369040,Petri Karhunen,Received,Graz Electronics
+PO-450047,Bluecrest Bearings,Bearings,2026-03-31,393840,Gabriel Żółtek,Invoiced,Porto Foundry
+PO-450048,Oakridge Electronics,Seals,2026-09-14,369740,Tapio Järvi,Open,Lyon Systems
+PO-450049,Vantage Bearings,MRO,2026-07-01,93770,Trine Søndergaard,Received,Brno Machining
+PO-450050,Vantage Bearings,Consulting,2026-04-03,394930,Rafaela Figueiredo,Cancelled,Brno Machining
+PO-450051,Harbour Machining,Motors,2026-05-17,80470,Airi Salo,Invoiced,Brno Machining
+PO-450052,Nordwave Motors,Motors,2026-09-21,160810,Juhani Mattila,Received,Porto Foundry
+PO-450053,Meridian Electronics,Seals,2026-07-16,394130,Leena Kivelä,Received,Porto Foundry
+PO-450054,Meridian Coatings,MRO,2026-06-24,456730,Sebastian Niemi,Received,Brno Machining
+PO-450055,Ironpeak Seals,Logistics,2026-08-17,455550,Eemeli Mäenpää,Received,Gdansk Assembly
+PO-450056,Vantage Electronics,Consulting,2026-09-25,91650,Juhani Mattila,Received,Graz Electronics
+PO-450057,Ironpeak Fasteners,Motors,2026-02-21,424540,Jaime Matos,Invoiced,Graz Electronics
+PO-450058,Meridian Bearings,Bearings,2026-02-11,26430,Eino Jussila,Cancelled,Graz Electronics
+PO-450059,Redstone Coatings,Logistics,2026-09-05,364620,Juhani Koskela,Cancelled,Porto Foundry
+PO-450060,Summit Seals,Electronics,2026-01-06,147770,Kimmo Nieminen,Open,Gdansk Assembly
+PO-450061,Danube Steelworks,MRO,2026-03-03,71580,Bartek Ofiara,Invoiced,Aarhus Service Centre
+PO-450062,Bluecrest Logistics,Seals,2026-05-17,291880,Gabriela Almeida,Open,Graz Electronics
+PO-450063,Harbour Electronics,Bearings,2026-01-09,287120,Fernando Machado,Cancelled,Tampere Works
+PO-450064,Silverfjord Machining,Consulting,2026-03-07,48650,Kaarina Pesonen,Invoiced,Brno Machining
+PO-450065,Meridian Castings,Motors,2026-04-07,352870,Christian Palomäki,Open,Brno Machining
+PO-450066,Danube Machining,IT hardware,2026-07-30,26360,Fernando Machado,Received,Tampere Works
+PO-450067,Meridian Bearings,Seals,2026-09-02,47830,Gabriela Almeida,Open,Tampere Works
+PO-450068,Polaris Bearings,IT hardware,2026-06-23,208280,Juhani Konttinen,Cancelled,Brno Machining
+PO-450069,Coastal Bearings,Seals,2026-04-04,231220,Sebastian Niemi,Received,Aarhus Service Centre
+PO-450070,Bluecrest Cables,Motors,2026-07-06,436990,Sebastian Niemi,Invoiced,Tampere Works
+PO-450071,Bluecrest Logistics,Bearings,2026-04-18,149070,Matilda Peltonen,Received,Bilbao Plant
+PO-450072,Alpine Castings,Consulting,2026-02-20,32790,Juhani Mattila,Received,Porto Foundry
+PO-450073,Summit Fasteners,Seals,2026-02-13,354570,Luciana Cruz,Invoiced,Graz Electronics
+PO-450074,Falcon Electronics,Electronics,2026-01-13,51840,Matilda Peltonen,Received,Graz Electronics
+PO-450075,Brightline Steelworks,Bearings,2026-09-27,15780,Rodrigo Mota,Received,Lyon Systems
+PO-450076,Alpine Castings,Consulting,2026-07-04,148800,Kristiina Lappalainen,Received,Tampere Works
+PO-450077,Silverfjord Coatings,Consulting,2026-09-10,76810,Rodrigo Mota,Received,Brno Machining
+PO-450078,Clearwater Steelworks,Seals,2026-08-02,426620,Katriina Kuisma,Received,Gdansk Assembly
+PO-450079,Silverfjord Coatings,Bearings,2026-03-06,371940,Luciana Cruz,Received,Tampere Works
+PO-450080,Redstone Bearings,Bearings,2026-08-12,243860,Maria Mäki,Cancelled,Graz Electronics
+PO-450081,Silverfjord Coatings,Logistics,2026-04-14,65190,Matilda Peltonen,Received,Bilbao Plant
+PO-450082,Harbour Seals,Consulting,2026-07-29,277180,Katriina Kuisma,Received,Bilbao Plant
+PO-450083,Vantage Electronics,Seals,2026-08-25,258860,Juhani Konttinen,Open,Bilbao Plant
+PO-450084,Bluecrest Bearings,Consulting,2026-05-21,381310,Eino Jussila,Invoiced,Gdansk Assembly
+PO-450085,Ironpeak Coatings,Motors,2026-05-04,98730,Heikki Anttila,Received,Gdansk Assembly
+PO-450086,Polaris Bearings,Castings,2026-02-18,328910,Konrad Topa,Open,Graz Electronics
+PO-450087,Baltic Logistics,Motors,2026-01-05,43480,Airi Salo,Invoiced,Graz Electronics
+PO-450088,Danube Seals,IT hardware,2026-05-18,44930,Christian Palomäki,Invoiced,Porto Foundry
+PO-450089,Keystone Polymers,Bearings,2026-02-02,389910,Gabriela Almeida,Invoiced,Brno Machining
+PO-450090,Summit Seals,Logistics,2026-01-29,219010,Nina Niemelä,Received,Porto Foundry
+PO-450091,Alpine Coatings,Consulting,2026-06-23,290960,Petri Karhunen,Invoiced,Porto Foundry
+PO-450092,Bluecrest Steelworks,Bearings,2026-05-16,349180,Luciana Cruz,Cancelled,Lyon Systems
+PO-450093,Oakridge Electronics,IT hardware,2026-07-15,156400,Leena Kivelä,Received,Bilbao Plant
+PO-450094,Oakridge Seals,Consulting,2026-03-28,175100,Juhani Koskela,Received,Aarhus Service Centre
+PO-450095,Ironpeak Bearings,Electronics,2026-02-01,442230,Kaarina Pesonen,Invoiced,Aarhus Service Centre
+PO-450096,Alpine Seals,Electronics,2026-08-18,235900,Hilkka Seppä,Received,Tampere Works
+PO-450097,Keystone Cables,Motors,2026-06-16,133550,Anna-Liisa Ikonen,Invoiced,Lyon Systems
+PO-450098,Harbour Seals,Electronics,2026-03-04,170060,Elisabeth Laukkanen,Cancelled,Porto Foundry
+PO-450099,Danube Logistics,Motors,2026-08-15,445440,Gabriel Żółtek,Open,Tampere Works
+PO-450100,Granite Steelworks,Bearings,2026-07-17,340300,Hilkka Seppä,Invoiced,Tampere Works
+PO-450101,Baltic Castings,Castings,2026-03-30,446630,Luciana Lourenço,Open,Graz Electronics
+PO-450102,Alpine Bearings,IT hardware,2026-07-23,269780,Nina Niemelä,Received,Graz Electronics
+PO-450103,Baltic Castings,Motors,2026-09-05,168790,Rodrigo Mota,Open,Porto Foundry
+PO-450104,Polaris Machining,Castings,2026-07-23,349060,Eino Jussila,Received,Porto Foundry
+PO-450105,Evergreen Bearings,Bearings,2026-04-15,21070,Hilkka Seppä,Cancelled,Gdansk Assembly
+PO-450106,Bluecrest Steelworks,Seals,2026-05-07,11400,Konrad Topa,Received,Aarhus Service Centre
+PO-450107,Bluecrest Steelworks,MRO,2026-07-08,229960,Nina Niemelä,Received,Graz Electronics
+PO-450108,Alpine Fasteners,Bearings,2026-07-01,123390,Matilda Peltonen,Cancelled,Lyon Systems
+PO-450109,Keystone Cables,Motors,2026-02-17,61210,Kaarina Pesonen,Received,Porto Foundry
+PO-450110,Vantage Electronics,Consulting,2026-03-17,328220,Luciana Lourenço,Received,Lyon Systems
+PO-450111,Baltic Castings,Castings,2026-07-06,213530,Leena Kivelä,Received,Bilbao Plant
+PO-450112,Clearwater Machining,Logistics,2026-04-23,15530,Maciej Mateńko,Received,Brno Machining
+PO-450113,Redstone Motors,IT hardware,2026-03-05,205760,Sebastian Niemi,Open,Gdansk Assembly
+PO-450114,Summit Cables,MRO,2026-04-18,27610,Eino Jussila,Open,Aarhus Service Centre
+PO-450115,Vantage Logistics,Bearings,2026-01-25,199770,Juhani Koskela,Received,Aarhus Service Centre
+PO-450116,Ironpeak Coatings,Electronics,2026-07-13,120370,Juhani Mattila,Invoiced,Bilbao Plant
+PO-450117,Oakridge Logistics,Logistics,2026-07-26,181440,Kimmo Nieminen,Received,Lyon Systems
+PO-450118,Meridian Castings,Electronics,2026-02-04,376550,Eemeli Mäenpää,Received,Aarhus Service Centre
+PO-450119,Brightline Electronics,Castings,2026-01-23,180780,Anna-Liisa Ikonen,Invoiced,Brno Machining
+PO-450120,Redstone Electronics,Bearings,2026-06-27,368180,Elisabeth Laukkanen,Cancelled,Graz Electronics
+PO-450121,Falcon Logistics,Seals,2026-08-29,182220,Konrad Topa,Invoiced,Tampere Works
+PO-450122,Polaris Coatings,IT hardware,2026-08-07,377510,Christian Palomäki,Cancelled,Graz Electronics
+PO-450123,Keystone Logistics,Consulting,2026-09-09,413800,Kimmo Nieminen,Open,Lyon Systems
+PO-450124,Bluecrest Steelworks,Castings,2026-09-15,134080,Kristiina Lappalainen,Received,Lyon Systems
+PO-450125,Silverfjord Logistics,Electronics,2026-08-20,113430,Petri Rantanen,Cancelled,Graz Electronics
+PO-450126,Alpine Fasteners,Castings,2026-07-11,355410,Anna-Liisa Ikonen,Received,Graz Electronics
+PO-450127,Silverfjord Motors,Electronics,2026-06-03,5250,Petri Karhunen,Invoiced,Gdansk Assembly
+PO-450128,Nordwave Castings,Consulting,2026-08-09,444840,Gabriel Żółtek,Received,Porto Foundry
+PO-450129,Falcon Logistics,Seals,2026-01-09,365720,Konrad Topa,Cancelled,Brno Machining
+PO-450130,Redstone Coatings,Seals,2026-09-01,153320,Maciej Mateńko,Invoiced,Aarhus Service Centre
+PO-450131,Silverfjord Machining,Electronics,2026-09-26,278670,Luciana Cruz,Cancelled,Lyon Systems
+PO-450132,Evergreen Coatings,Seals,2026-05-08,48350,Nina Niemelä,Open,Lyon Systems
+PO-450133,Summit Cables,Logistics,2026-03-05,415420,Eino Jussila,Open,Gdansk Assembly
+PO-450134,Clearwater Polymers,IT hardware,2026-04-18,350960,Jaime Matos,Received,Gdansk Assembly
+PO-450135,Redstone Motors,Logistics,2026-02-22,34860,Trine Søndergaard,Received,Brno Machining
+PO-450136,Granite Logistics,Motors,2026-03-08,412340,Kimmo Nieminen,Received,Lyon Systems
+PO-450137,Evergreen Machining,IT hardware,2026-08-21,286530,Gabriela Almeida,Open,Porto Foundry
+PO-450138,Baltic Castings,MRO,2026-04-22,464190,Juhani Mattila,Received,Aarhus Service Centre
+PO-450139,Summit Cables,Castings,2026-03-27,476230,Juhani Koskela,Open,Brno Machining
+PO-450140,Clearwater Polymers,Logistics,2026-03-26,84540,Trine Søndergaard,Received,Gdansk Assembly
+PO-450141,Meridian Seals,Logistics,2026-04-09,239080,Christian Palomäki,Received,Lyon Systems
+PO-450142,Meridian Bearings,Seals,2026-08-28,443940,Jaime Matos,Invoiced,Bilbao Plant
+PO-450143,Falcon Logistics,Bearings,2026-01-11,304370,Luciana Cruz,Received,Gdansk Assembly
+PO-450144,Evergreen Polymers,Logistics,2026-05-28,368760,Bartek Ofiara,Received,Porto Foundry
+PO-450145,Keystone Cables,IT hardware,2026-09-08,158860,Eemeli Mäenpää,Cancelled,Bilbao Plant
+PO-450146,Vantage Polymers,Seals,2026-08-27,466460,Luciana Cruz,Cancelled,Porto Foundry
+PO-450147,Evergreen Bearings,Consulting,2026-05-28,469070,Luciana Cruz,Invoiced,Bilbao Plant
+PO-450148,Danube Electronics,Castings,2026-03-04,180100,Bartek Ofiara,Received,Brno Machining
+PO-450149,Summit Fasteners,Seals,2026-02-08,418710,Tapio Järvi,Received,Bilbao Plant
+PO-450150,Nordwave Fasteners,Logistics,2026-05-03,423130,Maria Mäki,Open,Brno Machining
+PO-450151,Redstone Polymers,Consulting,2026-01-06,294000,Juhani Konttinen,Invoiced,Tampere Works
+PO-450152,Polaris Castings,Motors,2026-09-03,94210,Airi Salo,Invoiced,Aarhus Service Centre
+PO-450153,Polaris Steelworks,Logistics,2026-07-15,32500,Matilda Peltonen,Received,Brno Machining
+PO-450154,Keystone Electronics,MRO,2026-05-08,166350,Rodrigo Mota,Invoiced,Gdansk Assembly
+PO-450155,Silverfjord Electronics,Seals,2026-08-08,162420,Jaime Matos,Received,Gdansk Assembly
+PO-450156,Ironpeak Bearings,Castings,2026-02-02,33980,Juhani Mattila,Received,Bilbao Plant
+PO-450157,Vantage Bearings,Logistics,2026-02-27,280580,Christian Palomäki,Open,Bilbao Plant
+PO-450158,Alpine Bearings,IT hardware,2026-03-03,260010,Heikki Anttila,Invoiced,Brno Machining
+PO-450159,Evergreen Bearings,MRO,2026-03-22,466820,Hilkka Seppä,Cancelled,Graz Electronics
+PO-450160,Nordwave Steelworks,Motors,2026-08-26,379820,Sebastian Niemi,Cancelled,Porto Foundry
+PO-450161,Redstone Electronics,Electronics,2026-07-03,490,Eemeli Mäenpää,Invoiced,Gdansk Assembly
+PO-450162,Evergreen Polymers,Logistics,2026-06-19,115720,Isabela Ribeiro,Received,Lyon Systems
+PO-450163,Harbour Cables,Bearings,2026-04-04,145790,Petri Rantanen,Received,Graz Electronics
+PO-450164,Bluecrest Logistics,Logistics,2026-03-29,145250,Juhani Konttinen,Invoiced,Aarhus Service Centre
+PO-450165,Danube Steelworks,Seals,2026-02-22,108100,Fernando Machado,Received,Graz Electronics
+PO-450166,Harbour Electronics,Bearings,2026-07-16,328250,Petri Rantanen,Cancelled,Tampere Works
+PO-450167,Meridian Castings,Bearings,2026-01-18,340300,Juhani Mattila,Received,Porto Foundry
+PO-450168,Baltic Motors,IT hardware,2026-01-05,95420,Juhani Konttinen,Received,Porto Foundry
+PO-450169,Granite Fasteners,Seals,2026-02-23,59220,Gabriela Almeida,Invoiced,Porto Foundry
+PO-450170,Silverfjord Steelworks,Castings,2026-08-26,458350,Sebastian Niemi,Invoiced,Gdansk Assembly
+PO-450171,Danube Seals,Logistics,2026-08-08,280710,Gabriel Żółtek,Received,Porto Foundry
+PO-450172,Nordwave Fasteners,Consulting,2026-01-02,24790,Fernando Machado,Invoiced,Porto Foundry
+PO-450173,Harbour Seals,Electronics,2026-02-06,443610,Juhani Konttinen,Open,Lyon Systems
+PO-450174,Danube Fasteners,Consulting,2026-03-28,365080,Jaime Matos,Received,Brno Machining
+PO-450175,Coastal Logistics,Electronics,2026-03-06,444100,Anna-Liisa Ikonen,Received,Bilbao Plant
+PO-450176,Harbour Coatings,Seals,2026-06-15,392020,Luciana Lourenço,Invoiced,Porto Foundry
+PO-450177,Vantage Coatings,Bearings,2026-03-27,75040,Luciana Lourenço,Cancelled,Lyon Systems
+PO-450178,Baltic Coatings,Motors,2026-03-04,164570,Maria Mäki,Received,Tampere Works
+PO-450179,Meridian Castings,Logistics,2026-02-05,195210,Juhani Konttinen,Received,Aarhus Service Centre
+PO-450180,Danube Seals,Electronics,2026-06-18,348520,Luciana Cruz,Invoiced,Tampere Works
+PO-450181,Coastal Bearings,Motors,2026-02-14,263180,Juhani Mattila,Received,Bilbao Plant
+PO-450182,Redstone Motors,Consulting,2026-03-23,325980,Elisabeth Laukkanen,Received,Lyon Systems
+PO-450183,Clearwater Polymers,Logistics,2026-07-22,203250,Isabela Ribeiro,Invoiced,Brno Machining
+PO-450184,Danube Machining,Consulting,2026-06-11,403990,Luciana Lourenço,Received,Brno Machining
+PO-450185,Baltic Coatings,Castings,2026-03-09,408880,Nina Niemelä,Invoiced,Tampere Works
+PO-450186,Granite Fasteners,MRO,2026-07-07,312520,Airi Salo,Cancelled,Aarhus Service Centre
+PO-450187,Bluecrest Cables,Consulting,2026-02-23,367670,Fernando Machado,Cancelled,Graz Electronics
+PO-450188,Silverfjord Logistics,Motors,2026-04-24,114720,Tapio Järvi,Cancelled,Gdansk Assembly
+PO-450189,Falcon Electronics,Castings,2026-07-22,79230,Bartek Ofiara,Invoiced,Lyon Systems
+PO-450190,Baltic Fasteners,Seals,2026-09-04,49710,Eemeli Mäenpää,Received,Aarhus Service Centre
+PO-450191,Harbour Coatings,Motors,2026-08-04,157990,Luciana Cruz,Received,Graz Electronics
+PO-450192,Vantage Logistics,Electronics,2026-08-16,29970,Bartek Ofiara,Received,Porto Foundry
+PO-450193,Baltic Motors,Castings,2026-06-04,266700,Kimmo Nieminen,Invoiced,Bilbao Plant
+PO-450194,Oakridge Electronics,Electronics,2026-06-03,269270,Christian Palomäki,Cancelled,Gdansk Assembly
+PO-450195,Redstone Logistics,Motors,2026-03-15,310300,Konrad Topa,Received,Graz Electronics
+PO-450196,Granite Logistics,Bearings,2026-07-08,160660,Rafaela Figueiredo,Cancelled,Porto Foundry
+PO-450197,Redstone Polymers,IT hardware,2026-01-22,274630,Luciana Lourenço,Open,Graz Electronics
+PO-450198,Baltic Fasteners,Seals,2026-04-08,472170,Luciana Lourenço,Invoiced,Gdansk Assembly
+PO-450199,Polaris Fasteners,Seals,2026-06-03,30810,Kristiina Lappalainen,Received,Porto Foundry
+PO-450200,Clearwater Seals,Logistics,2026-07-15,395720,Kimmo Nieminen,Open,Brno Machining
+PO-450201,Harbour Seals,Consulting,2026-02-23,426880,Luciana Lourenço,Received,Bilbao Plant
+PO-450202,Silverfjord Steelworks,Logistics,2026-06-20,123950,Isabela Ribeiro,Invoiced,Graz Electronics
+PO-450203,Harbour Seals,Seals,2026-01-31,190330,Maria Mäki,Open,Lyon Systems
+PO-450204,Redstone Polymers,Castings,2026-06-08,95690,Airi Salo,Invoiced,Porto Foundry
+PO-450205,Bluecrest Cables,Electronics,2026-05-28,308400,Gabriela Almeida,Cancelled,Aarhus Service Centre
+PO-450206,Vantage Polymers,IT hardware,2026-06-29,260250,Maciej Mateńko,Cancelled,Bilbao Plant
+PO-450207,Baltic Electronics,IT hardware,2026-02-16,96870,Juhani Konttinen,Cancelled,Bilbao Plant
+PO-450208,Clearwater Seals,Logistics,2026-06-26,349150,Tapio Järvi,Received,Lyon Systems
+PO-450209,Brightline Electronics,Castings,2026-06-13,156590,Leena Kivelä,Open,Gdansk Assembly
+PO-450210,Brightline Electronics,IT hardware,2026-03-31,455670,Leena Kivelä,Invoiced,Gdansk Assembly
+PO-450211,Meridian Bearings,Seals,2026-01-15,355140,Luciana Cruz,Open,Porto Foundry
+PO-450212,Polaris Steelworks,Electronics,2026-08-21,324220,Juhani Konttinen,Cancelled,Gdansk Assembly
+PO-450213,Danube Seals,Logistics,2026-05-17,452680,Petri Karhunen,Invoiced,Graz Electronics
+PO-450214,Bluecrest Cables,IT hardware,2026-06-27,51270,Maria Mäki,Cancelled,Porto Foundry
+PO-450215,Meridian Logistics,Bearings,2026-06-01,475840,Gabriel Żółtek,Received,Graz Electronics
+PO-450216,Bluecrest Logistics,Consulting,2026-05-27,53390,Petri Karhunen,Received,Aarhus Service Centre
+PO-450217,Oakridge Seals,Consulting,2026-06-07,4480,Matilda Peltonen,Invoiced,Porto Foundry
+PO-450218,Polaris Castings,Electronics,2026-03-25,35190,Kristiina Lappalainen,Invoiced,Bilbao Plant
+PO-450219,Redstone Bearings,MRO,2026-08-04,37800,Kristiina Lappalainen,Invoiced,Lyon Systems
+PO-450220,Meridian Motors,Consulting,2026-07-08,19500,Leena Kivelä,Open,Graz Electronics
+PO-450221,Keystone Cables,Seals,2026-04-21,434580,Eino Jussila,Cancelled,Brno Machining
+PO-450222,Danube Logistics,Seals,2026-01-13,102690,Gabriela Almeida,Received,Porto Foundry
+PO-450223,Nordwave Steelworks,Seals,2026-01-14,303070,Trine Søndergaard,Invoiced,Porto Foundry
+PO-450224,Granite Polymers,IT hardware,2026-01-02,136050,Katriina Kuisma,Open,Gdansk Assembly
+PO-450225,Polaris Bearings,Consulting,2026-03-20,389130,Luciana Cruz,Received,Aarhus Service Centre
+PO-450226,Summit Cables,Castings,2026-08-06,188560,Anna-Liisa Ikonen,Received,Lyon Systems
+PO-450227,Keystone Electronics,Seals,2026-06-10,21330,Rodrigo Mota,Open,Gdansk Assembly
+PO-450228,Polaris Fasteners,Consulting,2026-06-16,253280,Petri Rantanen,Open,Lyon Systems
+PO-450229,Danube Electronics,Motors,2026-09-10,343440,Isabela Ribeiro,Invoiced,Aarhus Service Centre
+PO-450230,Oakridge Bearings,Motors,2026-05-31,344120,Petri Karhunen,Open,Brno Machining
+PO-450231,Evergreen Bearings,Motors,2026-08-13,228980,Isabela Ribeiro,Invoiced,Gdansk Assembly
+PO-450232,Clearwater Steelworks,Bearings,2026-09-17,417940,Konrad Topa,Open,Lyon Systems
+PO-450233,Evergreen Polymers,Electronics,2026-01-23,183250,Konrad Topa,Received,Gdansk Assembly
+PO-450234,Northgate Motors,Seals,2026-07-10,255720,Heikki Anttila,Cancelled,Lyon Systems
+PO-450235,Bluecrest Seals,Motors,2026-04-07,104640,Heikki Anttila,Received,Gdansk Assembly
+PO-450236,Summit Cables,Logistics,2026-03-26,135560,Juhani Konttinen,Received,Gdansk Assembly
+PO-450237,Ironpeak Seals,MRO,2026-06-03,410020,Sebastian Niemi,Invoiced,Gdansk Assembly
+PO-450238,Bluecrest Bearings,Logistics,2026-09-26,300010,Rafaela Figueiredo,Invoiced,Aarhus Service Centre
+PO-450239,Meridian Machining,Logistics,2026-09-05,394170,Bartek Ofiara,Received,Bilbao Plant
+PO-450240,Alpine Fasteners,IT hardware,2026-04-26,306090,Maria Mäki,Received,Porto Foundry
+PO-450241,Northgate Bearings,Motors,2026-07-30,131710,Gabriela Almeida,Cancelled,Porto Foundry
+PO-450242,Ironpeak Coatings,Seals,2026-08-01,299690,Leena Kivelä,Received,Bilbao Plant
+PO-450243,Silverfjord Machining,Electronics,2026-06-13,65370,Sebastian Niemi,Open,Graz Electronics
+PO-450244,Redstone Coatings,Castings,2026-06-14,275530,Petri Karhunen,Received,Gdansk Assembly
+PO-450245,Falcon Electronics,Seals,2026-08-04,206470,Elisabeth Laukkanen,Open,Porto Foundry
+PO-450246,Meridian Bearings,Castings,2026-03-21,77230,Rodrigo Mota,Received,Lyon Systems
+PO-450247,Harbour Coatings,Logistics,2026-08-06,25610,Juhani Mattila,Received,Brno Machining
+PO-450248,Evergreen Coatings,Motors,2026-03-13,436300,Isabela Ribeiro,Received,Graz Electronics
+PO-450249,Baltic Coatings,Seals,2026-07-15,110990,Juhani Mattila,Invoiced,Bilbao Plant
+PO-450250,Falcon Electronics,Consulting,2026-06-08,182650,Eino Jussila,Invoiced,Tampere Works
+PO-450251,Alpine Fasteners,Castings,2026-03-24,440000,Katriina Kuisma,Cancelled,Aarhus Service Centre
+PO-450252,Danube Fasteners,MRO,2026-07-29,155560,Nina Niemelä,Received,Lyon Systems
+PO-450253,Granite Fasteners,IT hardware,2026-08-02,336150,Kristiina Lappalainen,Cancelled,Gdansk Assembly
+PO-450254,Baltic Machining,Logistics,2026-08-13,145660,Matilda Peltonen,Received,Tampere Works
+PO-450255,Oakridge Polymers,IT hardware,2026-05-27,167620,Maria Mäki,Cancelled,Lyon Systems
+PO-450256,Harbour Cables,Motors,2026-01-11,159240,Luciana Lourenço,Cancelled,Graz Electronics
+PO-450257,Redstone Motors,Motors,2026-08-10,202050,Leena Kivelä,Open,Bilbao Plant
+PO-450258,Evergreen Coatings,IT hardware,2026-01-14,332510,Eino Jussila,Received,Porto Foundry
+PO-450259,Granite Machining,Motors,2026-09-01,84410,Trine Søndergaard,Invoiced,Lyon Systems
+PO-450260,Keystone Polymers,Bearings,2026-03-11,425800,Trine Søndergaard,Cancelled,Brno Machining
+PO-450261,Nordwave Castings,Seals,2026-05-20,451220,Eino Jussila,Open,Gdansk Assembly
+PO-450262,Nordwave Steelworks,Bearings,2026-08-24,474670,Isabela Ribeiro,Invoiced,Gdansk Assembly
+PO-450263,Meridian Polymers,Seals,2026-05-04,227370,Nina Niemelä,Received,Porto Foundry
+PO-450264,Silverfjord Logistics,IT hardware,2026-03-11,67600,Sebastian Niemi,Cancelled,Brno Machining
+PO-450265,Alpine Castings,Motors,2026-03-21,395260,Rafaela Figueiredo,Invoiced,Tampere Works
+PO-450266,Baltic Fasteners,Castings,2026-09-03,420740,Rafaela Figueiredo,Received,Bilbao Plant
+PO-450267,Nordwave Steelworks,Electronics,2026-09-06,229240,Eemeli Mäenpää,Open,Bilbao Plant
+PO-450268,Meridian Castings,Castings,2026-05-26,262550,Rodrigo Mota,Open,Bilbao Plant
+PO-450269,Silverfjord Electronics,Consulting,2026-04-26,46540,Trine Søndergaard,Cancelled,Lyon Systems
+PO-450270,Coastal Bearings,MRO,2026-07-14,413710,Jaime Matos,Invoiced,Gdansk Assembly
+PO-450271,Alpine Fasteners,Logistics,2026-02-22,138370,Bartek Ofiara,Cancelled,Brno Machining
+PO-450272,Oakridge Polymers,Consulting,2026-04-14,422660,Christian Palomäki,Received,Graz Electronics
+PO-450273,Baltic Electronics,Electronics,2026-01-02,119720,Isabela Ribeiro,Cancelled,Gdansk Assembly
+PO-450274,Meridian Machining,Motors,2026-05-04,230130,Isabela Ribeiro,Open,Graz Electronics
+PO-450275,Redstone Polymers,Seals,2026-07-17,141670,Kimmo Nieminen,Received,Brno Machining
+PO-450276,Vantage Electronics,Electronics,2026-04-14,357580,Eino Jussila,Received,Graz Electronics
+PO-450277,Meridian Bearings,MRO,2026-03-10,404630,Luciana Cruz,Received,Gdansk Assembly
+PO-450278,Baltic Logistics,Bearings,2026-08-01,120260,Juhani Koskela,Received,Graz Electronics
+PO-450279,Granite Machining,Castings,2026-02-01,63860,Petri Rantanen,Received,Aarhus Service Centre
+PO-450280,Nordwave Electronics,Castings,2026-09-03,101320,Rafaela Figueiredo,Invoiced,Aarhus Service Centre
+PO-450281,Coastal Logistics,Bearings,2026-07-13,356210,Heikki Anttila,Open,Graz Electronics
+PO-450282,Vantage Coatings,MRO,2026-04-16,156130,Rodrigo Mota,Cancelled,Bilbao Plant
+PO-450283,Baltic Logistics,Consulting,2026-01-07,437970,Tapio Järvi,Received,Lyon Systems
+PO-450284,Clearwater Logistics,Consulting,2026-06-05,272150,Maciej Mateńko,Open,Porto Foundry
+PO-450285,Danube Seals,Bearings,2026-01-19,148200,Eemeli Mäenpää,Received,Graz Electronics
+PO-450286,Danube Cables,Consulting,2026-05-19,15210,Katriina Kuisma,Cancelled,Lyon Systems
+PO-450287,Summit Fasteners,IT hardware,2026-01-27,446000,Jaime Matos,Cancelled,Lyon Systems
+PO-450288,Ironpeak Cables,Bearings,2026-03-17,168980,Luciana Lourenço,Open,Lyon Systems
+PO-450289,Meridian Logistics,Castings,2026-06-26,412940,Christian Palomäki,Cancelled,Lyon Systems
+PO-450290,Vantage Electronics,MRO,2026-05-08,224410,Trine Søndergaard,Open,Porto Foundry
+PO-450291,Alpine Bearings,Logistics,2026-04-03,403660,Kaarina Pesonen,Received,Aarhus Service Centre
+PO-450292,Meridian Electronics,Seals,2026-05-10,134620,Anna-Liisa Ikonen,Invoiced,Graz Electronics
+PO-450293,Clearwater Machining,Electronics,2026-07-18,460620,Rafaela Figueiredo,Received,Gdansk Assembly
+PO-450294,Granite Machining,Logistics,2026-06-20,241340,Luciana Lourenço,Received,Aarhus Service Centre
+PO-450295,Northgate Motors,Motors,2026-09-22,264790,Eemeli Mäenpää,Open,Tampere Works
+PO-450296,Granite Cables,Bearings,2026-01-07,121420,Jaime Matos,Open,Tampere Works
+PO-450297,Baltic Coatings,Seals,2026-01-29,283570,Gabriel Żółtek,Received,Tampere Works
+PO-450298,Northgate Motors,Consulting,2026-02-09,5400,Elisabeth Laukkanen,Open,Brno Machining
+PO-450299,Ironpeak Coatings,Electronics,2026-05-16,297620,Trine Søndergaard,Received,Gdansk Assembly
+PO-450300,Oakridge Electronics,IT hardware,2026-01-11,374850,Airi Salo,Received,Bilbao Plant
+PO-450301,Ironpeak Bearings,Motors,2026-02-05,421560,Petri Karhunen,Received,Porto Foundry
+PO-450302,Coastal Bearings,Castings,2026-05-16,479720,Petri Rantanen,Cancelled,Lyon Systems
+PO-450303,Danube Logistics,Motors,2026-04-10,404450,Bartek Ofiara,Received,Bilbao Plant
+PO-450304,Nordwave Electronics,Electronics,2026-06-13,264660,Airi Salo,Cancelled,Lyon Systems
+PO-450305,Silverfjord Coatings,Electronics,2026-09-27,219370,Rodrigo Mota,Received,Porto Foundry
+PO-450306,Polaris Machining,Castings,2026-05-20,255160,Anna-Liisa Ikonen,Received,Lyon Systems
+PO-450307,Harbour Electronics,Consulting,2026-02-21,259200,Christian Palomäki,Open,Graz Electronics
+PO-450308,Oakridge Logistics,Electronics,2026-08-22,384800,Christian Palomäki,Invoiced,Brno Machining
+PO-450309,Granite Logistics,Seals,2026-04-28,375250,Elisabeth Laukkanen,Invoiced,Graz Electronics
+PO-450310,Oakridge Electronics,Seals,2026-05-22,251090,Gabriel Żółtek,Invoiced,Lyon Systems
+PO-450311,Vantage Bearings,Logistics,2026-04-08,370320,Petri Rantanen,Invoiced,Porto Foundry
+PO-450312,Meridian Motors,Seals,2026-05-31,84750,Juhani Konttinen,Invoiced,Tampere Works
+PO-450313,Clearwater Polymers,Motors,2026-04-12,87720,Luciana Lourenço,Cancelled,Lyon Systems
+PO-450314,Meridian Logistics,Logistics,2026-07-18,76940,Elisabeth Laukkanen,Received,Porto Foundry
+PO-450315,Vantage Electronics,Consulting,2026-04-03,453680,Hilkka Seppä,Received,Graz Electronics
+PO-450316,Meridian Cables,Castings,2026-05-05,377750,Trine Søndergaard,Invoiced,Tampere Works
+PO-450317,Granite Fasteners,IT hardware,2026-09-15,9640,Gabriel Żółtek,Open,Gdansk Assembly
+PO-450318,Summit Fasteners,Consulting,2026-03-07,367150,Elisabeth Laukkanen,Cancelled,Gdansk Assembly
+PO-450319,Meridian Castings,MRO,2026-08-19,7060,Luciana Cruz,Invoiced,Aarhus Service Centre
+PO-450320,Baltic Motors,IT hardware,2026-08-07,338210,Katriina Kuisma,Invoiced,Graz Electronics
+PO-450321,Granite Machining,Electronics,2026-08-21,335100,Eino Jussila,Received,Aarhus Service Centre
+PO-450322,Meridian Fasteners,Seals,2026-07-31,393390,Maria Mäki,Open,Aarhus Service Centre
+PO-450323,Coastal Logistics,Electronics,2026-05-26,442180,Rodrigo Mota,Open,Bilbao Plant
+PO-450324,Evergreen Machining,Logistics,2026-05-29,890,Rafaela Figueiredo,Received,Gdansk Assembly
+PO-450325,Polaris Steelworks,Consulting,2026-06-21,163080,Petri Rantanen,Invoiced,Aarhus Service Centre
+PO-450326,Vantage Logistics,Castings,2026-07-06,406450,Petri Karhunen,Open,Brno Machining
+PO-450327,Oakridge Bearings,Electronics,2026-08-14,134300,Hilkka Seppä,Received,Lyon Systems
+PO-450328,Alpine Fasteners,Bearings,2026-07-06,143940,Airi Salo,Invoiced,Graz Electronics
+PO-450329,Brightline Electronics,Consulting,2026-05-27,449100,Airi Salo,Invoiced,Porto Foundry
+PO-450330,Danube Steelworks,IT hardware,2026-06-12,324020,Juhani Konttinen,Received,Tampere Works
+PO-450331,Meridian Electronics,Logistics,2026-09-08,177830,Katriina Kuisma,Cancelled,Brno Machining
+PO-450332,Coastal Logistics,IT hardware,2026-09-21,411120,Isabela Ribeiro,Received,Tampere Works
+PO-450333,Evergreen Polymers,Motors,2026-07-24,92060,Elisabeth Laukkanen,Received,Lyon Systems
+PO-450334,Bluecrest Steelworks,Bearings,2026-05-12,273190,Kaarina Pesonen,Received,Lyon Systems
+PO-450335,Silverfjord Machining,Seals,2026-01-29,405840,Anna-Liisa Ikonen,Invoiced,Lyon Systems
+PO-450336,Clearwater Polymers,Motors,2026-01-30,376020,Eino Jussila,Received,Brno Machining
+PO-450337,Coastal Logistics,Bearings,2026-07-09,442510,Fernando Machado,Cancelled,Gdansk Assembly
+PO-450338,Oakridge Electronics,Electronics,2026-01-12,63220,Trine Søndergaard,Invoiced,Lyon Systems
+PO-450339,Coastal Motors,Seals,2026-02-21,48000,Kimmo Nieminen,Open,Aarhus Service Centre
+PO-450340,Ironpeak Seals,IT hardware,2026-06-20,433350,Kristiina Lappalainen,Received,Gdansk Assembly
+PO-450341,Brightline Cables,Motors,2026-08-18,276350,Nina Niemelä,Cancelled,Gdansk Assembly
+PO-450342,Clearwater Polymers,Seals,2026-06-30,452290,Matilda Peltonen,Cancelled,Lyon Systems
+PO-450343,Evergreen Seals,Electronics,2026-08-12,97840,Heikki Anttila,Received,Bilbao Plant
+PO-450344,Granite Steelworks,IT hardware,2026-09-18,47230,Rodrigo Mota,Invoiced,Gdansk Assembly
+PO-450345,Baltic Castings,IT hardware,2026-06-12,2340,Rafaela Figueiredo,Received,Graz Electronics
+PO-450346,Silverfjord Electronics,Seals,2026-04-06,426380,Sebastian Niemi,Invoiced,Tampere Works
+PO-450347,Granite Fasteners,Electronics,2026-03-11,418850,Rafaela Figueiredo,Received,Graz Electronics
+PO-450348,Silverfjord Cables,IT hardware,2026-07-08,203320,Jaime Matos,Received,Aarhus Service Centre
+PO-450349,Bluecrest Logistics,Castings,2026-04-28,363270,Kristiina Lappalainen,Received,Graz Electronics
+PO-450350,Falcon Electronics,Castings,2026-01-31,16030,Airi Salo,Open,Lyon Systems
+PO-450351,Falcon Electronics,Motors,2026-03-01,177460,Juhani Mattila,Received,Tampere Works
+PO-450352,Oakridge Polymers,Consulting,2026-01-25,296960,Nina Niemelä,Invoiced,Porto Foundry
+PO-450353,Keystone Electronics,MRO,2026-01-05,443420,Isabela Ribeiro,Invoiced,Lyon Systems
+PO-450354,Redstone Logistics,Bearings,2026-06-08,306150,Petri Karhunen,Cancelled,Porto Foundry
+PO-450355,Redstone Bearings,Bearings,2026-06-20,286720,Tapio Järvi,Received,Brno Machining
+PO-450356,Redstone Coatings,Electronics,2026-03-11,167430,Bartek Ofiara,Cancelled,Aarhus Service Centre
+PO-450357,Redstone Logistics,Consulting,2026-07-05,458530,Christian Palomäki,Open,Tampere Works
+PO-450358,Polaris Machining,Logistics,2026-09-10,65380,Jaime Matos,Received,Tampere Works
+PO-450359,Meridian Cables,Bearings,2026-05-16,303740,Bartek Ofiara,Received,Gdansk Assembly
+PO-450360,Keystone Bearings,MRO,2026-07-29,90690,Maciej Mateńko,Received,Aarhus Service Centre
+PO-450361,Danube Electronics,Bearings,2026-03-24,231330,Christian Palomäki,Cancelled,Lyon Systems
+PO-450362,Meridian Logistics,Logistics,2026-01-11,341870,Isabela Ribeiro,Open,Graz Electronics
+PO-450363,Silverfjord Cables,Seals,2026-09-10,210430,Airi Salo,Received,Aarhus Service Centre
+PO-450364,Clearwater Machining,Electronics,2026-08-12,225890,Eemeli Mäenpää,Received,Brno Machining
+PO-450365,Redstone Logistics,Bearings,2026-07-03,16510,Rodrigo Mota,Invoiced,Gdansk Assembly
+PO-450366,Granite Machining,IT hardware,2026-04-24,338660,Petri Rantanen,Invoiced,Lyon Systems
+PO-450367,Silverfjord Logistics,Logistics,2026-03-12,327680,Hilkka Seppä,Received,Lyon Systems
+PO-450368,Polaris Steelworks,Castings,2026-07-19,358040,Kristiina Lappalainen,Received,Aarhus Service Centre
+PO-450369,Bluecrest Logistics,Seals,2026-06-10,33900,Fernando Machado,Cancelled,Graz Electronics
+PO-450370,Vantage Logistics,Electronics,2026-09-13,29970,Konrad Topa,Open,Aarhus Service Centre
+PO-450371,Redstone Motors,Logistics,2026-09-18,292160,Maria Mäki,Received,Aarhus Service Centre
+PO-450372,Baltic Electronics,MRO,2026-02-16,361670,Tapio Järvi,Open,Porto Foundry
+PO-450373,Alpine Coatings,MRO,2026-01-16,38030,Heikki Anttila,Open,Porto Foundry
+PO-450374,Falcon Logistics,IT hardware,2026-04-19,416050,Anna-Liisa Ikonen,Invoiced,Gdansk Assembly
+PO-450375,Brightline Fasteners,Consulting,2026-02-05,234280,Gabriel Żółtek,Invoiced,Gdansk Assembly
+PO-450376,Vantage Bearings,Consulting,2026-03-23,317940,Anna-Liisa Ikonen,Received,Gdansk Assembly
+PO-450377,Granite Machining,Castings,2026-09-23,364710,Juhani Konttinen,Received,Brno Machining
+PO-450378,Polaris Steelworks,Castings,2026-01-19,141250,Eino Jussila,Open,Lyon Systems
+PO-450379,Falcon Steelworks,Electronics,2026-03-04,316280,Heikki Anttila,Cancelled,Gdansk Assembly
+PO-450380,Polaris Steelworks,MRO,2026-03-21,388480,Trine Søndergaard,Cancelled,Lyon Systems
+PO-450381,Polaris Castings,Consulting,2026-07-25,414370,Maciej Mateńko,Open,Porto Foundry
+PO-450382,Baltic Motors,Electronics,2026-03-12,134310,Heikki Anttila,Open,Gdansk Assembly
+PO-450383,Evergreen Electronics,Logistics,2026-03-03,415490,Kristiina Lappalainen,Invoiced,Porto Foundry
+PO-450384,Granite Machining,Castings,2026-06-17,27800,Jaime Matos,Open,Gdansk Assembly
+PO-450385,Silverfjord Steelworks,Bearings,2026-04-02,167780,Eemeli Mäenpää,Received,Brno Machining
+PO-450386,Meridian Motors,Seals,2026-07-25,211570,Kristiina Lappalainen,Received,Porto Foundry
+PO-450387,Silverfjord Electronics,Seals,2026-09-25,304820,Petri Rantanen,Received,Aarhus Service Centre
+PO-450388,Ironpeak Fasteners,MRO,2026-02-13,129310,Juhani Koskela,Received,Bilbao Plant
+PO-450389,Brightline Electronics,Castings,2026-07-25,204660,Juhani Koskela,Invoiced,Gdansk Assembly
+PO-450390,Polaris Machining,IT hardware,2026-06-19,369410,Kaarina Pesonen,Cancelled,Lyon Systems
+PO-450391,Evergreen Polymers,MRO,2026-05-02,103450,Isabela Ribeiro,Cancelled,Brno Machining
+PO-450392,Danube Fasteners,Bearings,2026-06-10,194340,Airi Salo,Received,Lyon Systems
+PO-450393,Evergreen Bearings,Motors,2026-07-02,145790,Kimmo Nieminen,Received,Porto Foundry
+PO-450394,Vantage Polymers,Consulting,2026-01-04,221010,Eino Jussila,Open,Gdansk Assembly
+PO-450395,Granite Fasteners,Electronics,2026-06-06,363420,Petri Karhunen,Open,Aarhus Service Centre
+PO-450396,Nordwave Castings,Motors,2026-08-13,49210,Kimmo Nieminen,Open,Aarhus Service Centre
+PO-450397,Danube Logistics,Logistics,2026-06-05,246790,Christian Palomäki,Open,Brno Machining
+PO-450398,Polaris Coatings,Consulting,2026-06-21,140360,Rafaela Figueiredo,Received,Bilbao Plant
+PO-450399,Vantage Polymers,MRO,2026-01-08,224580,Trine Søndergaard,Invoiced,Porto Foundry
+PO-450400,Meridian Polymers,Castings,2026-01-07,35450,Gabriel Żółtek,Open,Graz Electronics
+PO-450401,Ironpeak Coatings,Consulting,2026-04-24,53020,Eemeli Mäenpää,Received,Tampere Works
+PO-450402,Silverfjord Motors,Electronics,2026-07-07,330610,Kaarina Pesonen,Received,Gdansk Assembly
+PO-450403,Nordwave Electronics,Electronics,2026-05-09,473820,Anna-Liisa Ikonen,Received,Graz Electronics
+PO-450404,Bluecrest Cables,Castings,2026-03-12,256290,Eino Jussila,Received,Graz Electronics
+PO-450405,Summit Cables,MRO,2026-04-11,84840,Kristiina Lappalainen,Cancelled,Bilbao Plant
+PO-450406,Keystone Logistics,Castings,2026-05-06,281750,Kaarina Pesonen,Received,Brno Machining
+PO-450407,Keystone Electronics,Electronics,2026-02-14,434090,Jaime Matos,Received,Porto Foundry
+PO-450408,Northgate Motors,Seals,2026-04-15,331250,Airi Salo,Cancelled,Gdansk Assembly
+PO-450409,Danube Machining,Motors,2026-05-13,8800,Maria Mäki,Received,Brno Machining
+PO-450410,Redstone Electronics,Motors,2026-09-11,387140,Eemeli Mäenpää,Cancelled,Graz Electronics
+PO-450411,Redstone Electronics,Motors,2026-04-22,458220,Juhani Koskela,Invoiced,Tampere Works
+PO-450412,Bluecrest Steelworks,Logistics,2026-09-20,332390,Hilkka Seppä,Open,Aarhus Service Centre
+PO-450413,Granite Machining,Logistics,2026-06-26,177850,Kaarina Pesonen,Received,Lyon Systems
+PO-450414,Vantage Coatings,Castings,2026-04-06,293680,Isabela Ribeiro,Invoiced,Gdansk Assembly
+PO-450415,Redstone Electronics,Electronics,2026-02-26,365450,Rafaela Figueiredo,Received,Porto Foundry
+PO-450416,Alpine Seals,MRO,2026-03-05,392080,Kaarina Pesonen,Received,Porto Foundry
+PO-450417,Brightline Fasteners,Castings,2026-09-01,136420,Kaarina Pesonen,Invoiced,Bilbao Plant
+PO-450418,Alpine Fasteners,Seals,2026-01-06,65780,Eino Jussila,Cancelled,Porto Foundry
+PO-450419,Danube Steelworks,Bearings,2026-05-15,76170,Heikki Anttila,Cancelled,Tampere Works
+PO-450420,Redstone Electronics,IT hardware,2026-02-21,161290,Eemeli Mäenpää,Cancelled,Graz Electronics
+PO-450421,Ironpeak Fasteners,Consulting,2026-08-06,386110,Christian Palomäki,Open,Tampere Works
+PO-450422,Coastal Logistics,MRO,2026-01-28,182240,Rafaela Figueiredo,Cancelled,Graz Electronics
+PO-450423,Polaris Fasteners,MRO,2026-07-08,192100,Isabela Ribeiro,Received,Lyon Systems
+PO-450424,Clearwater Seals,Electronics,2026-03-11,303320,Kristiina Lappalainen,Received,Porto Foundry
+PO-450425,Alpine Coatings,IT hardware,2026-04-02,108010,Jaime Matos,Invoiced,Lyon Systems
+PO-450426,Alpine Fasteners,MRO,2026-01-03,227290,Konrad Topa,Cancelled,Gdansk Assembly
+PO-450427,Polaris Steelworks,Castings,2026-06-28,375680,Eemeli Mäenpää,Received,Brno Machining
+PO-450428,Polaris Bearings,Electronics,2026-09-10,305320,Elisabeth Laukkanen,Invoiced,Aarhus Service Centre
+PO-450429,Polaris Machining,Electronics,2026-07-24,132360,Airi Salo,Open,Aarhus Service Centre
+PO-450430,Vantage Polymers,Seals,2026-09-14,356390,Konrad Topa,Open,Bilbao Plant
+PO-450431,Harbour Seals,Motors,2026-03-26,418810,Bartek Ofiara,Cancelled,Porto Foundry
+PO-450432,Polaris Machining,MRO,2026-04-06,111630,Konrad Topa,Received,Graz Electronics
+PO-450433,Polaris Machining,IT hardware,2026-09-05,246620,Jaime Matos,Cancelled,Porto Foundry
+PO-450434,Redstone Logistics,Castings,2026-08-09,9390,Rodrigo Mota,Received,Porto Foundry
+PO-450435,Nordwave Seals,MRO,2026-06-07,33410,Bartek Ofiara,Invoiced,Tampere Works
+PO-450436,Harbour Fasteners,Castings,2026-05-06,339600,Maciej Mateńko,Cancelled,Porto Foundry
+PO-450437,Meridian Logistics,Electronics,2026-05-01,347030,Katriina Kuisma,Open,Tampere Works
+PO-450438,Danube Logistics,IT hardware,2026-07-27,233800,Juhani Konttinen,Cancelled,Gdansk Assembly
+PO-450439,Clearwater Polymers,MRO,2026-01-11,418420,Sebastian Niemi,Invoiced,Aarhus Service Centre
+PO-450440,Evergreen Seals,IT hardware,2026-04-09,275000,Juhani Koskela,Received,Aarhus Service Centre
+PO-450441,Bluecrest Seals,MRO,2026-02-18,145710,Kristiina Lappalainen,Received,Gdansk Assembly
+PO-450442,Summit Fasteners,MRO,2026-01-21,414820,Eemeli Mäenpää,Received,Graz Electronics
+PO-450443,Harbour Electronics,Logistics,2026-05-15,130700,Airi Salo,Received,Gdansk Assembly
+PO-450444,Granite Steelworks,Castings,2026-01-28,108400,Nina Niemelä,Invoiced,Tampere Works
+PO-450445,Danube Cables,Consulting,2026-02-05,445880,Nina Niemelä,Open,Bilbao Plant
+PO-450446,Bluecrest Logistics,Motors,2026-09-27,428650,Eemeli Mäenpää,Received,Bilbao Plant
+PO-450447,Summit Fasteners,Motors,2026-03-30,290900,Leena Kivelä,Received,Lyon Systems
+PO-450448,Nordwave Fasteners,Castings,2026-01-25,124090,Luciana Cruz,Invoiced,Aarhus Service Centre
+PO-450449,Granite Steelworks,Seals,2026-05-04,11400,Anna-Liisa Ikonen,Cancelled,Porto Foundry
+PO-450450,Danube Electronics,IT hardware,2026-02-18,399670,Christian Palomäki,Received,Graz Electronics
+PO-450451,Clearwater Logistics,Bearings,2026-08-30,261190,Heikki Anttila,Invoiced,Bilbao Plant
+PO-450452,Bluecrest Seals,Castings,2026-08-22,14810,Katriina Kuisma,Received,Aarhus Service Centre
+PO-450453,Alpine Castings,IT hardware,2026-04-10,158800,Christian Palomäki,Received,Gdansk Assembly
+PO-450454,Baltic Fasteners,Logistics,2026-03-30,82670,Gabriel Żółtek,Cancelled,Tampere Works
+PO-450455,Northgate Motors,MRO,2026-06-23,168220,Maria Mäki,Cancelled,Gdansk Assembly
+PO-450456,Redstone Electronics,Consulting,2026-02-09,273600,Matilda Peltonen,Received,Gdansk Assembly
+PO-450457,Nordwave Fasteners,MRO,2026-03-20,134750,Maria Mäki,Cancelled,Tampere Works
+PO-450458,Danube Logistics,Electronics,2026-04-25,370800,Konrad Topa,Received,Brno Machining
+PO-450459,Granite Steelworks,IT hardware,2026-03-06,164800,Isabela Ribeiro,Received,Aarhus Service Centre
+PO-450460,Redstone Bearings,MRO,2026-05-11,445070,Matilda Peltonen,Open,Bilbao Plant
+PO-450461,Granite Machining,Logistics,2026-03-19,311610,Leena Kivelä,Invoiced,Porto Foundry
+PO-450462,Danube Steelworks,Motors,2026-04-23,1320,Sebastian Niemi,Open,Aarhus Service Centre
+PO-450463,Oakridge Seals,MRO,2026-06-14,51370,Konrad Topa,Invoiced,Gdansk Assembly
+PO-450464,Evergreen Seals,Motors,2026-05-03,308520,Kristiina Lappalainen,Open,Bilbao Plant
+PO-450465,Ironpeak Fasteners,Logistics,2026-03-21,182790,Kimmo Nieminen,Received,Gdansk Assembly
+PO-450466,Granite Seals,Consulting,2026-04-05,406610,Luciana Lourenço,Open,Graz Electronics
+PO-450467,Keystone Bearings,Seals,2026-01-28,153660,Eemeli Mäenpää,Received,Bilbao Plant
+PO-450468,Northgate Bearings,IT hardware,2026-08-14,248950,Tapio Järvi,Invoiced,Tampere Works
+PO-450469,Oakridge Polymers,Bearings,2026-02-26,276270,Leena Kivelä,Received,Brno Machining
+PO-450470,Clearwater Polymers,Motors,2026-03-24,145420,Rodrigo Mota,Open,Lyon Systems
+PO-450471,Evergreen Seals,Logistics,2026-08-21,79640,Matilda Peltonen,Open,Brno Machining
+PO-450472,Evergreen Electronics,IT hardware,2026-02-07,50960,Rafaela Figueiredo,Received,Gdansk Assembly
+PO-450473,Granite Steelworks,Consulting,2026-05-13,166350,Eino Jussila,Cancelled,Brno Machining
+PO-450474,Evergreen Polymers,MRO,2026-06-22,371550,Konrad Topa,Invoiced,Porto Foundry
+PO-450475,Silverfjord Machining,Castings,2026-03-29,303250,Petri Rantanen,Cancelled,Porto Foundry
+PO-450476,Granite Steelworks,Motors,2026-04-07,462660,Fernando Machado,Received,Lyon Systems
+PO-450477,Polaris Fasteners,Castings,2026-03-20,264260,Fernando Machado,Invoiced,Gdansk Assembly
+PO-450478,Silverfjord Cables,Logistics,2026-05-01,322450,Leena Kivelä,Received,Tampere Works
+PO-450479,Alpine Seals,MRO,2026-01-18,271660,Konrad Topa,Received,Graz Electronics
+PO-450480,Meridian Coatings,Bearings,2026-05-10,196220,Katriina Kuisma,Invoiced,Graz Electronics
+PO-450481,Bluecrest Seals,Seals,2026-06-25,48060,Rodrigo Mota,Received,Bilbao Plant
+PO-450482,Meridian Motors,Bearings,2026-01-26,341980,Nina Niemelä,Invoiced,Tampere Works
+PO-450483,Coastal Motors,Consulting,2026-02-04,474060,Fernando Machado,Cancelled,Brno Machining
+PO-450484,Meridian Machining,IT hardware,2026-01-15,375590,Juhani Konttinen,Open,Bilbao Plant
+PO-450485,Redstone Electronics,Castings,2026-09-17,172930,Kaarina Pesonen,Received,Lyon Systems
+PO-450486,Danube Steelworks,MRO,2026-09-24,352250,Juhani Koskela,Invoiced,Porto Foundry
+PO-450487,Keystone Polymers,Electronics,2026-02-10,199220,Isabela Ribeiro,Cancelled,Graz Electronics
+PO-450488,Nordwave Fasteners,Motors,2026-08-05,68160,Maria Mäki,Received,Lyon Systems
+PO-450489,Coastal Bearings,Consulting,2026-02-20,168040,Christian Palomäki,Invoiced,Porto Foundry
+PO-450490,Baltic Castings,Castings,2026-09-12,374850,Jaime Matos,Cancelled,Bilbao Plant
+PO-450491,Oakridge Seals,Consulting,2026-08-27,129130,Airi Salo,Cancelled,Porto Foundry
+PO-450492,Meridian Castings,Bearings,2026-09-28,143260,Luciana Cruz,Invoiced,Brno Machining
+PO-450493,Nordwave Steelworks,Bearings,2026-05-26,150110,Maciej Mateńko,Received,Brno Machining
+PO-450494,Meridian Machining,Bearings,2026-08-04,87490,Leena Kivelä,Received,Bilbao Plant
+PO-450495,Silverfjord Coatings,Bearings,2026-03-25,137080,Fernando Machado,Received,Lyon Systems
+PO-450496,Granite Seals,Electronics,2026-08-01,458710,Heikki Anttila,Received,Brno Machining
+PO-450497,Redstone Motors,Bearings,2026-05-16,187420,Katriina Kuisma,Received,Porto Foundry
+PO-450498,Oakridge Bearings,Consulting,2026-09-28,468100,Elisabeth Laukkanen,Received,Bilbao Plant
+PO-450499,Granite Machining,Electronics,2026-01-16,197960,Jaime Matos,Received,Graz Electronics
+PO-450500,Meridian Coatings,Seals,2026-07-24,216590,Eemeli Mäenpää,Received,Aarhus Service Centre
+PO-450501,Brightline Steelworks,MRO,2026-06-30,436030,Nina Niemelä,Received,Tampere Works
+PO-450502,Granite Machining,Castings,2026-01-20,415900,Matilda Peltonen,Cancelled,Brno Machining
+PO-450503,Clearwater Polymers,IT hardware,2026-07-13,346310,Hilkka Seppä,Cancelled,Gdansk Assembly
+PO-450504,Alpine Fasteners,MRO,2026-05-17,38080,Matilda Peltonen,Open,Graz Electronics
+PO-450505,Nordwave Castings,IT hardware,2026-01-19,244140,Matilda Peltonen,Open,Brno Machining
+PO-450506,Brightline Steelworks,IT hardware,2026-07-08,109040,Bartek Ofiara,Cancelled,Bilbao Plant
+PO-450507,Evergreen Seals,Seals,2026-01-13,458200,Juhani Mattila,Received,Bilbao Plant
+PO-450508,Summit Cables,Electronics,2026-07-16,158900,Elisabeth Laukkanen,Invoiced,Porto Foundry
+PO-450509,Granite Polymers,Motors,2026-01-25,247920,Luciana Lourenço,Received,Tampere Works
+PO-450510,Polaris Fasteners,Logistics,2026-06-06,49500,Kaarina Pesonen,Received,Lyon Systems
+PO-450511,Clearwater Logistics,Motors,2026-02-18,35560,Konrad Topa,Open,Tampere Works
+PO-450512,Meridian Fasteners,Motors,2026-02-21,93120,Katriina Kuisma,Invoiced,Bilbao Plant
+PO-450513,Oakridge Logistics,Castings,2026-09-08,384670,Fernando Machado,Received,Brno Machining
+PO-450514,Coastal Logistics,Castings,2026-09-08,364380,Sebastian Niemi,Received,Aarhus Service Centre
+PO-450515,Summit Cables,Consulting,2026-08-02,62540,Matilda Peltonen,Received,Tampere Works
+PO-450516,Vantage Electronics,Seals,2026-02-22,182450,Trine Søndergaard,Invoiced,Gdansk Assembly
+PO-450517,Granite Machining,Electronics,2026-02-13,94470,Christian Palomäki,Invoiced,Porto Foundry
+PO-450518,Meridian Polymers,IT hardware,2026-05-24,231040,Konrad Topa,Invoiced,Porto Foundry
+PO-450519,Granite Seals,MRO,2026-01-05,141600,Rafaela Figueiredo,Cancelled,Gdansk Assembly
+PO-450520,Bluecrest Seals,Logistics,2026-03-02,317420,Hilkka Seppä,Received,Lyon Systems
+PO-450521,Baltic Fasteners,MRO,2026-06-10,257960,Kristiina Lappalainen,Received,Bilbao Plant
+PO-450522,Ironpeak Bearings,IT hardware,2026-02-26,451660,Airi Salo,Cancelled,Porto Foundry
+PO-450523,Meridian Logistics,Castings,2026-07-05,339110,Kristiina Lappalainen,Cancelled,Lyon Systems
+PO-450524,Meridian Electronics,IT hardware,2026-03-29,10510,Sebastian Niemi,Open,Porto Foundry
+PO-450525,Oakridge Bearings,Consulting,2026-01-22,271080,Sebastian Niemi,Open,Aarhus Service Centre
+PO-450526,Danube Fasteners,Motors,2026-09-19,4330,Trine Søndergaard,Open,Brno Machining
+PO-450527,Redstone Coatings,IT hardware,2026-03-21,367620,Petri Rantanen,Cancelled,Bilbao Plant
+PO-450528,Falcon Electronics,Consulting,2026-01-10,191820,Heikki Anttila,Cancelled,Gdansk Assembly
+PO-450529,Nordwave Seals,Logistics,2026-06-09,206060,Christian Palomäki,Received,Brno Machining
+PO-450530,Danube Logistics,MRO,2026-04-01,466650,Eino Jussila,Received,Aarhus Service Centre
+PO-450531,Meridian Coatings,Consulting,2026-09-28,432590,Kimmo Nieminen,Received,Brno Machining
+PO-450532,Evergreen Seals,Seals,2026-07-27,196540,Leena Kivelä,Cancelled,Tampere Works
+PO-450533,Meridian Electronics,Castings,2026-05-10,86560,Tapio Järvi,Invoiced,Lyon Systems
+PO-450534,Harbour Fasteners,Consulting,2026-04-21,117360,Matilda Peltonen,Cancelled,Lyon Systems
+PO-450535,Evergreen Seals,Motors,2026-09-22,354270,Matilda Peltonen,Open,Aarhus Service Centre
+PO-450536,Nordwave Steelworks,Bearings,2026-07-18,417280,Leena Kivelä,Cancelled,Porto Foundry
+PO-450537,Vantage Electronics,Electronics,2026-06-14,161960,Sebastian Niemi,Open,Graz Electronics
+PO-450538,Brightline Steelworks,IT hardware,2026-03-29,83440,Juhani Konttinen,Received,Bilbao Plant
+PO-450539,Granite Seals,Castings,2026-07-11,301780,Maciej Mateńko,Received,Aarhus Service Centre
+PO-450540,Danube Steelworks,Castings,2026-03-20,365260,Juhani Koskela,Open,Gdansk Assembly
+PO-450541,Coastal Bearings,Motors,2026-09-20,403280,Bartek Ofiara,Received,Tampere Works
+PO-450542,Vantage Polymers,Motors,2026-03-24,98820,Fernando Machado,Open,Porto Foundry
+PO-450543,Keystone Electronics,Electronics,2026-07-15,292630,Bartek Ofiara,Cancelled,Porto Foundry
+PO-450544,Nordwave Steelworks,Logistics,2026-02-11,45700,Elisabeth Laukkanen,Open,Tampere Works
+PO-450545,Alpine Coatings,Seals,2026-06-19,363680,Kristiina Lappalainen,Received,Lyon Systems
+PO-450546,Redstone Bearings,Bearings,2026-07-22,351430,Petri Rantanen,Received,Porto Foundry
+PO-450547,Keystone Logistics,Electronics,2026-05-15,52330,Juhani Koskela,Received,Gdansk Assembly
+PO-450548,Falcon Logistics,Seals,2026-04-06,207860,Maciej Mateńko,Open,Aarhus Service Centre
+PO-450549,Polaris Bearings,Castings,2026-07-22,142670,Eemeli Mäenpää,Open,Lyon Systems
+PO-450550,Harbour Fasteners,Electronics,2026-05-29,113690,Maria Mäki,Invoiced,Brno Machining
+PO-450551,Bluecrest Cables,MRO,2026-09-14,239410,Matilda Peltonen,Open,Lyon Systems
+PO-450552,Meridian Motors,Bearings,2026-09-28,78320,Gabriel Żółtek,Cancelled,Bilbao Plant
+PO-450553,Evergreen Seals,Consulting,2026-08-03,351140,Konrad Topa,Received,Bilbao Plant
+PO-450554,Silverfjord Motors,Seals,2026-08-29,176650,Anna-Liisa Ikonen,Open,Aarhus Service Centre
+PO-450555,Nordwave Castings,MRO,2026-05-21,448600,Sebastian Niemi,Received,Bilbao Plant
+PO-450556,Alpine Fasteners,Logistics,2026-09-26,325670,Hilkka Seppä,Invoiced,Gdansk Assembly
+PO-450557,Coastal Logistics,Logistics,2026-08-08,65840,Luciana Lourenço,Received,Aarhus Service Centre
+PO-450558,Silverfjord Motors,Electronics,2026-07-07,324360,Kimmo Nieminen,Received,Gdansk Assembly
+PO-450559,Polaris Castings,Motors,2026-04-28,50220,Rodrigo Mota,Invoiced,Tampere Works
+PO-450560,Polaris Fasteners,Logistics,2026-09-27,42190,Kristiina Lappalainen,Received,Porto Foundry
+PO-450561,Harbour Seals,Seals,2026-03-13,217320,Matilda Peltonen,Invoiced,Bilbao Plant
+PO-450562,Polaris Castings,IT hardware,2026-05-14,370500,Juhani Koskela,Cancelled,Brno Machining
+PO-450563,Baltic Electronics,IT hardware,2026-08-23,380600,Maciej Mateńko,Cancelled,Porto Foundry
+PO-450564,Ironpeak Fasteners,Logistics,2026-05-24,8960,Rafaela Figueiredo,Received,Brno Machining
+PO-450565,Alpine Castings,Motors,2026-03-25,344300,Petri Rantanen,Invoiced,Lyon Systems
+PO-450566,Summit Cables,IT hardware,2026-03-22,130520,Isabela Ribeiro,Received,Gdansk Assembly
+PO-450567,Vantage Polymers,IT hardware,2026-05-24,64020,Rafaela Figueiredo,Received,Lyon Systems
+PO-450568,Polaris Steelworks,Bearings,2026-08-06,382630,Fernando Machado,Received,Gdansk Assembly
+PO-450569,Bluecrest Seals,MRO,2026-08-01,298970,Kimmo Nieminen,Invoiced,Graz Electronics
+PO-450570,Ironpeak Bearings,Consulting,2026-06-01,222080,Leena Kivelä,Open,Gdansk Assembly
+PO-450571,Danube Seals,Electronics,2026-07-16,53610,Luciana Cruz,Received,Bilbao Plant
+PO-450572,Harbour Seals,Electronics,2026-04-29,9850,Kristiina Lappalainen,Received,Tampere Works
+PO-450573,Meridian Electronics,IT hardware,2026-01-04,59660,Juhani Konttinen,Cancelled,Tampere Works
+PO-450574,Bluecrest Seals,Electronics,2026-01-30,333400,Maria Mäki,Invoiced,Graz Electronics
+PO-450575,Baltic Castings,Castings,2026-02-13,7060,Juhani Konttinen,Cancelled,Brno Machining
+PO-450576,Polaris Machining,IT hardware,2026-05-31,273650,Maria Mäki,Cancelled,Porto Foundry
+PO-450577,Evergreen Seals,MRO,2026-05-04,103910,Eemeli Mäenpää,Invoiced,Tampere Works
+PO-450578,Meridian Electronics,Motors,2026-02-02,124780,Rafaela Figueiredo,Cancelled,Bilbao Plant
+PO-450579,Nordwave Electronics,MRO,2026-04-04,103160,Maria Mäki,Cancelled,Graz Electronics
+PO-450580,Alpine Seals,Consulting,2026-04-29,422680,Rodrigo Mota,Invoiced,Graz Electronics
+PO-450581,Silverfjord Motors,IT hardware,2026-02-20,158990,Eemeli Mäenpää,Open,Bilbao Plant
+PO-450582,Keystone Polymers,MRO,2026-05-29,52130,Juhani Mattila,Received,Graz Electronics
+PO-450583,Oakridge Logistics,Electronics,2026-09-23,230870,Maria Mäki,Open,Aarhus Service Centre
+PO-450584,Granite Seals,Motors,2026-08-09,359080,Bartek Ofiara,Received,Lyon Systems
+PO-450585,Vantage Polymers,MRO,2026-08-15,280020,Juhani Koskela,Received,Porto Foundry
+PO-450586,Redstone Polymers,Electronics,2026-03-09,441850,Matilda Peltonen,Cancelled,Brno Machining
+PO-450587,Nordwave Fasteners,Consulting,2026-01-28,319320,Rafaela Figueiredo,Received,Graz Electronics
+PO-450588,Silverfjord Cables,Electronics,2026-03-20,94040,Jaime Matos,Received,Porto Foundry
+PO-450589,Danube Seals,Electronics,2026-06-10,297190,Juhani Koskela,Invoiced,Bilbao Plant
+PO-450590,Redstone Polymers,Logistics,2026-05-13,9560,Petri Rantanen,Open,Aarhus Service Centre
+PO-450591,Bluecrest Bearings,Seals,2026-09-08,422190,Gabriela Almeida,Invoiced,Bilbao Plant
+PO-450592,Vantage Castings,Consulting,2026-02-01,347050,Luciana Lourenço,Invoiced,Bilbao Plant
+PO-450593,Northgate Bearings,Seals,2026-05-10,421680,Kaarina Pesonen,Open,Tampere Works
+PO-450594,Bluecrest Bearings,IT hardware,2026-08-12,257960,Christian Palomäki,Cancelled,Graz Electronics
+PO-450595,Oakridge Bearings,Seals,2026-02-20,173340,Jaime Matos,Invoiced,Porto Foundry
+PO-450596,Vantage Castings,MRO,2026-04-27,324870,Maciej Mateńko,Open,Porto Foundry
+PO-450597,Clearwater Seals,Logistics,2026-07-22,12340,Konrad Topa,Open,Brno Machining
+PO-450598,Redstone Motors,MRO,2026-02-12,129220,Trine Søndergaard,Invoiced,Gdansk Assembly
+PO-450599,Bluecrest Logistics,Seals,2026-05-14,368290,Luciana Cruz,Open,Porto Foundry
+PO-450600,Silverfjord Cables,Castings,2026-05-21,140810,Petri Karhunen,Invoiced,Tampere Works
+PO-450601,Coastal Motors,Logistics,2026-07-05,306360,Tapio Järvi,Received,Bilbao Plant
+PO-450602,Keystone Polymers,Logistics,2026-05-14,291760,Maciej Mateńko,Cancelled,Aarhus Service Centre
+PO-450603,Vantage Castings,Bearings,2026-03-17,397360,Elisabeth Laukkanen,Cancelled,Aarhus Service Centre
+PO-450604,Vantage Electronics,IT hardware,2026-02-20,461010,Juhani Konttinen,Received,Gdansk Assembly
+PO-450605,Alpine Coatings,Motors,2026-02-17,222190,Rodrigo Mota,Cancelled,Lyon Systems
+PO-450606,Clearwater Seals,Bearings,2026-01-27,366060,Maria Mäki,Invoiced,Lyon Systems
+PO-450607,Silverfjord Motors,MRO,2026-03-07,279770,Rafaela Figueiredo,Open,Gdansk Assembly
+PO-450608,Redstone Electronics,Motors,2026-08-14,129350,Jaime Matos,Received,Bilbao Plant
+PO-450609,Silverfjord Machining,IT hardware,2026-04-04,73320,Elisabeth Laukkanen,Received,Gdansk Assembly
+PO-450610,Coastal Logistics,MRO,2026-04-16,29740,Petri Karhunen,Received,Tampere Works
+PO-450611,Baltic Machining,Bearings,2026-01-25,219600,Kimmo Nieminen,Received,Brno Machining
+PO-450612,Oakridge Polymers,MRO,2026-09-15,118920,Tapio Järvi,Invoiced,Graz Electronics
+PO-450613,Evergreen Coatings,Consulting,2026-08-15,64870,Gabriela Almeida,Received,Lyon Systems
+PO-450614,Granite Machining,Seals,2026-05-16,407090,Petri Rantanen,Open,Tampere Works
+PO-450615,Alpine Fasteners,Logistics,2026-09-06,81820,Jaime Matos,Cancelled,Graz Electronics
+PO-450616,Silverfjord Steelworks,Seals,2026-05-19,249440,Eino Jussila,Invoiced,Porto Foundry
+PO-450617,Meridian Fasteners,Motors,2026-09-08,100380,Juhani Konttinen,Received,Bilbao Plant
+PO-450618,Harbour Cables,Seals,2026-07-26,34180,Heikki Anttila,Invoiced,Gdansk Assembly
+PO-450619,Harbour Fasteners,Castings,2026-01-13,162500,Isabela Ribeiro,Received,Tampere Works
+PO-450620,Northgate Bearings,Electronics,2026-07-28,437510,Elisabeth Laukkanen,Received,Aarhus Service Centre
+PO-450621,Baltic Fasteners,Electronics,2026-07-26,357840,Bartek Ofiara,Open,Brno Machining
+PO-450622,Meridian Motors,Electronics,2026-06-24,211380,Eemeli Mäenpää,Invoiced,Porto Foundry
+PO-450623,Nordwave Castings,Seals,2026-03-30,330720,Gabriel Żółtek,Invoiced,Lyon Systems
+PO-450624,Baltic Logistics,Motors,2026-01-08,265220,Eemeli Mäenpää,Open,Aarhus Service Centre
+PO-450625,Danube Cables,Motors,2026-02-13,159710,Petri Karhunen,Received,Tampere Works
+PO-450626,Ironpeak Bearings,Consulting,2026-08-27,451100,Fernando Machado,Cancelled,Porto Foundry
+PO-450627,Alpine Coatings,Motors,2026-01-06,234700,Juhani Koskela,Open,Aarhus Service Centre
+PO-450628,Harbour Seals,MRO,2026-08-20,410610,Luciana Lourenço,Received,Gdansk Assembly
+PO-450629,Clearwater Seals,Seals,2026-02-02,340890,Rafaela Figueiredo,Invoiced,Porto Foundry
+PO-450630,Nordwave Fasteners,Logistics,2026-01-05,5500,Kaarina Pesonen,Cancelled,Graz Electronics
+PO-450631,Danube Electronics,Seals,2026-07-27,222460,Trine Søndergaard,Open,Aarhus Service Centre
+PO-450632,Meridian Fasteners,Seals,2026-06-20,313770,Kimmo Nieminen,Cancelled,Lyon Systems
+PO-450633,Redstone Bearings,Logistics,2026-09-17,294170,Sebastian Niemi,Received,Graz Electronics
+PO-450634,Keystone Cables,Castings,2026-08-27,364020,Eino Jussila,Received,Porto Foundry
+PO-450635,Harbour Coatings,Seals,2026-02-12,263630,Gabriela Almeida,Received,Lyon Systems
+PO-450636,Baltic Logistics,MRO,2026-02-02,360490,Gabriel Żółtek,Open,Lyon Systems
+PO-450637,Silverfjord Machining,Electronics,2026-07-06,11880,Kaarina Pesonen,Cancelled,Tampere Works
+PO-450638,Evergreen Machining,Consulting,2026-02-23,72770,Elisabeth Laukkanen,Cancelled,Aarhus Service Centre
+PO-450639,Evergreen Bearings,Castings,2026-02-15,129210,Matilda Peltonen,Open,Porto Foundry
+PO-450640,Meridian Logistics,MRO,2026-08-03,347180,Leena Kivelä,Cancelled,Tampere Works
+PO-450641,Polaris Bearings,IT hardware,2026-09-16,433170,Juhani Konttinen,Received,Lyon Systems
+PO-450642,Baltic Castings,Bearings,2026-06-09,282410,Gabriel Żółtek,Open,Aarhus Service Centre
+PO-450643,Keystone Bearings,Bearings,2026-09-14,192590,Hilkka Seppä,Open,Lyon Systems
+PO-450644,Oakridge Seals,Castings,2026-04-02,263590,Juhani Koskela,Received,Tampere Works
+PO-450645,Danube Fasteners,IT hardware,2026-08-13,239330,Bartek Ofiara,Open,Graz Electronics
+PO-450646,Vantage Castings,Bearings,2026-07-29,190530,Christian Palomäki,Cancelled,Aarhus Service Centre
+PO-450647,Evergreen Seals,Castings,2026-06-15,109800,Hilkka Seppä,Cancelled,Bilbao Plant
+PO-450648,Clearwater Polymers,Bearings,2026-08-14,208190,Juhani Konttinen,Open,Porto Foundry
+PO-450649,Oakridge Logistics,IT hardware,2026-05-26,297310,Luciana Cruz,Received,Gdansk Assembly
+PO-450650,Brightline Fasteners,IT hardware,2026-06-08,18450,Juhani Koskela,Cancelled,Tampere Works
+PO-450651,Coastal Bearings,Consulting,2026-07-06,184600,Kaarina Pesonen,Invoiced,Bilbao Plant
+PO-450652,Bluecrest Seals,Castings,2026-01-26,168280,Trine Søndergaard,Received,Lyon Systems
+PO-450653,Meridian Cables,MRO,2026-02-18,204560,Juhani Koskela,Invoiced,Bilbao Plant
+PO-450654,Bluecrest Logistics,Castings,2026-01-26,262020,Fernando Machado,Invoiced,Graz Electronics
+PO-450655,Polaris Castings,Bearings,2026-06-01,27950,Elisabeth Laukkanen,Invoiced,Tampere Works
+PO-450656,Baltic Logistics,Seals,2026-05-14,33710,Petri Rantanen,Received,Bilbao Plant
+PO-450657,Vantage Polymers,Motors,2026-04-14,396860,Elisabeth Laukkanen,Received,Porto Foundry
+PO-450658,Nordwave Motors,IT hardware,2026-08-21,427310,Luciana Lourenço,Received,Gdansk Assembly
+PO-450659,Granite Machining,Electronics,2026-08-31,151620,Leena Kivelä,Open,Lyon Systems
+PO-450660,Bluecrest Seals,MRO,2026-05-20,72210,Elisabeth Laukkanen,Invoiced,Lyon Systems
+PO-450661,Summit Fasteners,Consulting,2026-02-23,72070,Eino Jussila,Invoiced,Tampere Works
+PO-450662,Harbour Cables,Consulting,2026-07-26,83960,Elisabeth Laukkanen,Received,Graz Electronics
+PO-450663,Redstone Logistics,Electronics,2026-08-30,469870,Juhani Koskela,Received,Graz Electronics
+PO-450664,Northgate Bearings,Logistics,2026-01-19,70550,Christian Palomäki,Received,Graz Electronics
+PO-450665,Coastal Bearings,Seals,2026-06-29,56250,Juhani Konttinen,Cancelled,Graz Electronics
+PO-450666,Meridian Logistics,Bearings,2026-07-09,467520,Konrad Topa,Invoiced,Porto Foundry
+PO-450667,Baltic Electronics,Seals,2026-03-02,377470,Tapio Järvi,Invoiced,Tampere Works
+PO-450668,Ironpeak Seals,Seals,2026-09-20,150330,Fernando Machado,Open,Gdansk Assembly
+PO-450669,Keystone Bearings,Logistics,2026-07-04,376890,Fernando Machado,Received,Gdansk Assembly
+PO-450670,Baltic Fasteners,Castings,2026-08-10,384200,Hilkka Seppä,Received,Graz Electronics
+PO-450671,Ironpeak Cables,Bearings,2026-06-09,164830,Kaarina Pesonen,Received,Bilbao Plant
+PO-450672,Evergreen Machining,Motors,2026-05-01,449050,Petri Rantanen,Cancelled,Graz Electronics
+PO-450673,Silverfjord Motors,Castings,2026-01-27,181510,Kimmo Nieminen,Invoiced,Gdansk Assembly
+PO-450674,Danube Steelworks,Consulting,2026-03-07,317070,Juhani Konttinen,Received,Aarhus Service Centre
+PO-450675,Evergreen Seals,MRO,2026-08-29,417790,Juhani Koskela,Invoiced,Gdansk Assembly
+PO-450676,Meridian Motors,Consulting,2026-03-12,252820,Trine Søndergaard,Invoiced,Gdansk Assembly
+PO-450677,Harbour Fasteners,Seals,2026-05-09,195770,Maciej Mateńko,Open,Porto Foundry
+PO-450678,Danube Steelworks,Seals,2026-08-12,42560,Nina Niemelä,Cancelled,Tampere Works
+PO-450679,Clearwater Logistics,Bearings,2026-01-05,418060,Matilda Peltonen,Cancelled,Gdansk Assembly
+PO-450680,Polaris Bearings,Motors,2026-05-22,82540,Juhani Koskela,Received,Tampere Works
+PO-450681,Silverfjord Cables,IT hardware,2026-03-02,25820,Kaarina Pesonen,Open,Tampere Works
+PO-450682,Keystone Logistics,MRO,2026-03-09,127790,Petri Rantanen,Received,Porto Foundry
+PO-450683,Oakridge Electronics,Logistics,2026-01-21,233050,Isabela Ribeiro,Cancelled,Gdansk Assembly
+PO-450684,Coastal Bearings,Bearings,2026-01-26,86020,Trine Søndergaard,Received,Brno Machining
+PO-450685,Silverfjord Cables,IT hardware,2026-02-07,92210,Luciana Cruz,Invoiced,Graz Electronics
+PO-450686,Alpine Bearings,MRO,2026-06-30,294170,Leena Kivelä,Cancelled,Bilbao Plant
+PO-450687,Meridian Machining,MRO,2026-06-21,219680,Maria Mäki,Received,Tampere Works
+PO-450688,Oakridge Electronics,Logistics,2026-06-10,391050,Heikki Anttila,Cancelled,Bilbao Plant
+PO-450689,Evergreen Machining,Consulting,2026-08-23,151020,Maria Mäki,Open,Tampere Works
+PO-450690,Brightline Electronics,Logistics,2026-03-21,284540,Kaarina Pesonen,Received,Gdansk Assembly
+PO-450691,Bluecrest Logistics,Castings,2026-01-21,334700,Juhani Mattila,Cancelled,Porto Foundry
+PO-450692,Bluecrest Seals,Motors,2026-01-06,337050,Maciej Mateńko,Invoiced,Porto Foundry
+PO-450693,Redstone Logistics,Seals,2026-04-03,378620,Petri Rantanen,Cancelled,Porto Foundry
+PO-450694,Ironpeak Cables,Castings,2026-05-02,242710,Gabriel Żółtek,Received,Lyon Systems
+PO-450695,Redstone Electronics,Bearings,2026-08-02,131270,Kristiina Lappalainen,Received,Lyon Systems
+PO-450696,Silverfjord Motors,Bearings,2026-08-10,421850,Gabriela Almeida,Received,Brno Machining
+PO-450697,Bluecrest Bearings,Logistics,2026-09-25,395970,Rafaela Figueiredo,Open,Brno Machining
+PO-450698,Evergreen Polymers,Castings,2026-04-07,437930,Eemeli Mäenpää,Received,Brno Machining
+PO-450699,Redstone Polymers,Electronics,2026-09-12,325560,Petri Karhunen,Received,Porto Foundry
+PO-450700,Redstone Bearings,Seals,2026-07-02,283850,Juhani Konttinen,Open,Tampere Works
+PO-450701,Polaris Coatings,Electronics,2026-04-10,188690,Maciej Mateńko,Received,Brno Machining
+PO-450702,Northgate Bearings,Seals,2026-03-15,110500,Maciej Mateńko,Received,Bilbao Plant
+PO-450703,Redstone Bearings,IT hardware,2026-05-01,409670,Jaime Matos,Received,Graz Electronics
+PO-450704,Redstone Motors,Motors,2026-08-10,310400,Juhani Koskela,Cancelled,Lyon Systems
+PO-450705,Silverfjord Motors,IT hardware,2026-05-24,438940,Eemeli Mäenpää,Cancelled,Tampere Works
+PO-450706,Clearwater Seals,Bearings,2026-09-08,156220,Juhani Koskela,Cancelled,Tampere Works
+PO-450707,Vantage Polymers,Electronics,2026-05-09,158770,Gabriela Almeida,Cancelled,Tampere Works
+PO-450708,Brightline Fasteners,Motors,2026-04-06,312690,Rodrigo Mota,Cancelled,Tampere Works
+PO-450709,Bluecrest Logistics,Logistics,2026-04-29,96580,Isabela Ribeiro,Received,Graz Electronics
+PO-450710,Baltic Motors,Motors,2026-01-12,271840,Kristiina Lappalainen,Open,Aarhus Service Centre
+PO-450711,Baltic Coatings,IT hardware,2026-06-16,182370,Kristiina Lappalainen,Invoiced,Graz Electronics
+PO-450712,Keystone Cables,Castings,2026-04-04,162370,Luciana Cruz,Received,Aarhus Service Centre
+PO-450713,Clearwater Polymers,Motors,2026-08-05,283390,Rodrigo Mota,Invoiced,Lyon Systems
+PO-450714,Evergreen Seals,Motors,2026-04-14,408240,Eino Jussila,Invoiced,Porto Foundry
+PO-450715,Granite Polymers,Electronics,2026-03-26,820,Sebastian Niemi,Invoiced,Brno Machining
+PO-450716,Vantage Logistics,Seals,2026-09-02,223120,Bartek Ofiara,Cancelled,Porto Foundry
+PO-450717,Polaris Machining,IT hardware,2026-01-22,36890,Christian Palomäki,Invoiced,Bilbao Plant
+PO-450718,Bluecrest Steelworks,MRO,2026-05-02,389960,Hilkka Seppä,Invoiced,Lyon Systems
+PO-450719,Redstone Motors,Motors,2026-09-28,322430,Luciana Lourenço,Open,Bilbao Plant
+PO-450720,Meridian Cables,MRO,2026-07-22,234170,Jaime Matos,Cancelled,Tampere Works
+PO-450721,Vantage Polymers,Bearings,2026-01-31,418120,Christian Palomäki,Received,Brno Machining
+PO-450722,Redstone Polymers,MRO,2026-05-08,50800,Hilkka Seppä,Invoiced,Tampere Works
+PO-450723,Redstone Electronics,Castings,2026-05-15,437450,Gabriel Żółtek,Cancelled,Tampere Works
+PO-450724,Danube Machining,Motors,2026-06-15,426680,Sebastian Niemi,Received,Brno Machining
+PO-450725,Baltic Motors,Electronics,2026-05-10,435460,Eemeli Mäenpää,Open,Aarhus Service Centre
+PO-450726,Nordwave Seals,Seals,2026-02-01,385160,Kimmo Nieminen,Received,Aarhus Service Centre
+PO-450727,Falcon Electronics,MRO,2026-01-26,201990,Kimmo Nieminen,Received,Bilbao Plant
+PO-450728,Falcon Steelworks,Electronics,2026-04-16,204510,Maciej Mateńko,Invoiced,Porto Foundry
+PO-450729,Danube Machining,Logistics,2026-03-04,365620,Jaime Matos,Invoiced,Tampere Works
+PO-450730,Falcon Electronics,Logistics,2026-05-04,420230,Luciana Lourenço,Received,Graz Electronics
+PO-450731,Keystone Bearings,Motors,2026-04-10,136870,Heikki Anttila,Received,Lyon Systems
+PO-450732,Meridian Fasteners,Seals,2026-06-05,24050,Isabela Ribeiro,Received,Aarhus Service Centre
+PO-450733,Nordwave Castings,Consulting,2026-07-29,264720,Rafaela Figueiredo,Cancelled,Gdansk Assembly
+PO-450734,Oakridge Bearings,Bearings,2026-04-11,57470,Luciana Cruz,Invoiced,Gdansk Assembly
+PO-450735,Silverfjord Steelworks,Seals,2026-05-09,207790,Petri Rantanen,Cancelled,Gdansk Assembly
+PO-450736,Redstone Polymers,IT hardware,2026-03-03,456040,Rodrigo Mota,Open,Bilbao Plant
+PO-450737,Keystone Logistics,IT hardware,2026-07-05,11850,Isabela Ribeiro,Received,Aarhus Service Centre
+PO-450738,Alpine Bearings,Bearings,2026-09-18,415390,Maria Mäki,Open,Brno Machining
+PO-450739,Brightline Fasteners,Electronics,2026-06-17,394960,Rafaela Figueiredo,Received,Tampere Works
+PO-450740,Clearwater Logistics,Bearings,2026-08-18,158600,Tapio Järvi,Invoiced,Porto Foundry
+PO-450741,Danube Seals,Logistics,2026-08-03,325990,Luciana Lourenço,Received,Bilbao Plant
+PO-450742,Clearwater Polymers,Electronics,2026-03-22,197920,Nina Niemelä,Open,Graz Electronics
+PO-450743,Baltic Coatings,IT hardware,2026-08-18,174950,Nina Niemelä,Cancelled,Graz Electronics
+PO-450744,Granite Polymers,Motors,2026-02-25,64020,Christian Palomäki,Received,Lyon Systems
+PO-450745,Granite Polymers,Bearings,2026-05-07,166920,Jaime Matos,Open,Lyon Systems
+PO-450746,Meridian Fasteners,Seals,2026-07-19,149850,Heikki Anttila,Invoiced,Brno Machining
+PO-450747,Brightline Cables,Motors,2026-07-04,277860,Heikki Anttila,Received,Aarhus Service Centre
+PO-450748,Redstone Coatings,Seals,2026-06-13,323910,Rodrigo Mota,Open,Bilbao Plant
+PO-450749,Danube Steelworks,Castings,2026-03-02,208730,Elisabeth Laukkanen,Received,Aarhus Service Centre
+PO-450750,Silverfjord Electronics,Castings,2026-08-03,459430,Gabriel Żółtek,Received,Graz Electronics
+PO-450751,Nordwave Seals,Motors,2026-05-10,211210,Isabela Ribeiro,Open,Porto Foundry
+PO-450752,Harbour Cables,MRO,2026-01-05,108910,Christian Palomäki,Open,Bilbao Plant
+PO-450753,Nordwave Motors,Seals,2026-05-21,328580,Leena Kivelä,Received,Brno Machining
+PO-450754,Nordwave Castings,Motors,2026-02-04,382710,Bartek Ofiara,Cancelled,Tampere Works
+PO-450755,Silverfjord Machining,Motors,2026-04-30,19170,Gabriela Almeida,Invoiced,Gdansk Assembly
+PO-450756,Granite Seals,Castings,2026-09-17,375130,Petri Rantanen,Open,Brno Machining
+PO-450757,Baltic Coatings,Castings,2026-04-13,173390,Jaime Matos,Received,Porto Foundry
+PO-450758,Redstone Bearings,Electronics,2026-07-29,257090,Tapio Järvi,Received,Bilbao Plant
+PO-450759,Keystone Electronics,IT hardware,2026-07-15,95770,Rodrigo Mota,Received,Tampere Works
+PO-450760,Evergreen Seals,Seals,2026-07-03,123270,Christian Palomäki,Invoiced,Gdansk Assembly
+PO-450761,Bluecrest Seals,Consulting,2026-07-04,442470,Kristiina Lappalainen,Invoiced,Aarhus Service Centre
+PO-450762,Meridian Fasteners,Logistics,2026-07-07,24180,Katriina Kuisma,Received,Aarhus Service Centre
+PO-450763,Meridian Polymers,Bearings,2026-05-19,237320,Juhani Mattila,Cancelled,Aarhus Service Centre
+PO-450764,Harbour Electronics,Electronics,2026-08-07,334260,Hilkka Seppä,Received,Bilbao Plant
+PO-450765,Summit Cables,Electronics,2026-02-24,18430,Tapio Järvi,Invoiced,Aarhus Service Centre
+PO-450766,Polaris Castings,Motors,2026-06-19,17470,Luciana Lourenço,Invoiced,Gdansk Assembly
+PO-450767,Oakridge Polymers,IT hardware,2026-06-14,242040,Airi Salo,Cancelled,Graz Electronics
+PO-450768,Vantage Castings,MRO,2026-09-23,114870,Heikki Anttila,Cancelled,Porto Foundry
+PO-450769,Polaris Steelworks,Consulting,2026-09-05,315830,Petri Rantanen,Received,Lyon Systems
+PO-450770,Ironpeak Bearings,Bearings,2026-05-13,232880,Tapio Järvi,Cancelled,Tampere Works
+PO-450771,Bluecrest Steelworks,Consulting,2026-09-24,154280,Airi Salo,Received,Lyon Systems
+PO-450772,Bluecrest Steelworks,Logistics,2026-07-08,64100,Gabriel Żółtek,Invoiced,Porto Foundry
+PO-450773,Vantage Electronics,Electronics,2026-02-11,135690,Juhani Konttinen,Received,Bilbao Plant
+PO-450774,Silverfjord Coatings,Seals,2026-07-11,462580,Trine Søndergaard,Received,Lyon Systems
+PO-450775,Harbour Cables,Seals,2026-02-18,259070,Kaarina Pesonen,Received,Tampere Works
+PO-450776,Summit Fasteners,Castings,2026-04-04,452140,Christian Palomäki,Cancelled,Lyon Systems
+PO-450777,Brightline Steelworks,Electronics,2026-08-14,433440,Luciana Cruz,Invoiced,Brno Machining
+PO-450778,Polaris Machining,MRO,2026-05-19,47570,Kaarina Pesonen,Open,Tampere Works
+PO-450779,Baltic Fasteners,Consulting,2026-04-20,359010,Airi Salo,Received,Porto Foundry
+PO-450780,Alpine Bearings,IT hardware,2026-07-03,273530,Luciana Cruz,Received,Tampere Works
+PO-450781,Silverfjord Machining,Motors,2026-06-30,342870,Tapio Järvi,Received,Lyon Systems
+PO-450782,Bluecrest Bearings,Logistics,2026-05-21,227070,Sebastian Niemi,Invoiced,Aarhus Service Centre
+PO-450783,Coastal Motors,Castings,2026-05-19,222470,Fernando Machado,Invoiced,Graz Electronics
+PO-450784,Meridian Polymers,Motors,2026-02-27,408020,Petri Karhunen,Cancelled,Porto Foundry
+PO-450785,Ironpeak Bearings,IT hardware,2026-09-17,452950,Juhani Konttinen,Open,Gdansk Assembly
+PO-450786,Bluecrest Seals,Castings,2026-03-05,438480,Matilda Peltonen,Received,Aarhus Service Centre
+PO-450787,Vantage Bearings,Seals,2026-01-06,227950,Eemeli Mäenpää,Open,Lyon Systems
+PO-450788,Alpine Castings,Castings,2026-05-16,351720,Sebastian Niemi,Open,Tampere Works
+PO-450789,Bluecrest Logistics,Seals,2026-05-16,444170,Gabriela Almeida,Invoiced,Bilbao Plant
+PO-450790,Granite Cables,Motors,2026-05-30,85200,Anna-Liisa Ikonen,Cancelled,Tampere Works
+PO-450791,Danube Electronics,IT hardware,2026-01-09,472280,Fernando Machado,Open,Lyon Systems
+PO-450792,Nordwave Fasteners,Bearings,2026-08-23,21490,Isabela Ribeiro,Open,Graz Electronics
+PO-450793,Danube Steelworks,Motors,2026-07-30,61450,Bartek Ofiara,Received,Porto Foundry
+PO-450794,Redstone Electronics,Motors,2026-03-20,205190,Luciana Lourenço,Open,Lyon Systems
+PO-450795,Nordwave Electronics,Electronics,2026-08-19,405780,Maciej Mateńko,Received,Porto Foundry
+PO-450796,Vantage Logistics,MRO,2026-08-14,357610,Trine Søndergaard,Received,Gdansk Assembly
+PO-450797,Baltic Fasteners,Logistics,2026-02-19,10210,Eino Jussila,Invoiced,Graz Electronics
+PO-450798,Keystone Logistics,Motors,2026-05-15,167480,Juhani Mattila,Invoiced,Graz Electronics
+PO-450799,Ironpeak Bearings,Motors,2026-06-22,303180,Christian Palomäki,Cancelled,Graz Electronics
+PO-450800,Coastal Logistics,Consulting,2026-06-03,66960,Hilkka Seppä,Open,Porto Foundry
+PO-450801,Polaris Fasteners,Seals,2026-01-12,145940,Leena Kivelä,Invoiced,Graz Electronics
+PO-450802,Falcon Logistics,Castings,2026-07-09,419670,Heikki Anttila,Cancelled,Graz Electronics
+PO-450803,Baltic Logistics,Logistics,2026-08-09,316820,Anna-Liisa Ikonen,Open,Gdansk Assembly
+PO-450804,Evergreen Electronics,IT hardware,2026-09-17,399200,Airi Salo,Invoiced,Gdansk Assembly
+PO-450805,Meridian Fasteners,IT hardware,2026-06-23,402320,Petri Rantanen,Open,Lyon Systems
+PO-450806,Vantage Logistics,Electronics,2026-08-18,145970,Gabriel Żółtek,Received,Tampere Works
+PO-450807,Harbour Machining,Logistics,2026-08-27,185030,Petri Rantanen,Invoiced,Brno Machining
+PO-450808,Baltic Motors,Bearings,2026-06-06,414460,Luciana Cruz,Received,Lyon Systems
+PO-450809,Granite Polymers,Electronics,2026-04-02,200100,Gabriela Almeida,Received,Lyon Systems
+PO-450810,Coastal Logistics,Consulting,2026-09-03,231440,Rafaela Figueiredo,Received,Tampere Works
+PO-450811,Danube Machining,Bearings,2026-09-10,406680,Maciej Mateńko,Received,Porto Foundry
+PO-450812,Coastal Logistics,MRO,2026-02-14,24880,Maciej Mateńko,Received,Bilbao Plant
+PO-450813,Vantage Polymers,Electronics,2026-07-15,164470,Heikki Anttila,Cancelled,Tampere Works
+PO-450814,Bluecrest Steelworks,Logistics,2026-07-14,164280,Juhani Koskela,Cancelled,Aarhus Service Centre
+PO-450815,Ironpeak Cables,Electronics,2026-06-02,471850,Trine Søndergaard,Invoiced,Lyon Systems
+PO-450816,Danube Machining,IT hardware,2026-08-04,378320,Petri Karhunen,Received,Lyon Systems
+PO-450817,Evergreen Bearings,Electronics,2026-02-14,188550,Rafaela Figueiredo,Invoiced,Tampere Works
+PO-450818,Clearwater Steelworks,Logistics,2026-03-27,435360,Juhani Mattila,Open,Brno Machining
+PO-450819,Baltic Fasteners,Electronics,2026-04-30,86910,Eino Jussila,Invoiced,Gdansk Assembly
+PO-450820,Silverfjord Coatings,IT hardware,2026-01-24,242510,Nina Niemelä,Received,Aarhus Service Centre
+PO-450821,Meridian Coatings,Electronics,2026-01-12,408740,Kristiina Lappalainen,Received,Brno Machining
+PO-450822,Ironpeak Cables,Castings,2026-08-12,397640,Rafaela Figueiredo,Received,Bilbao Plant
+PO-450823,Nordwave Castings,Logistics,2026-07-06,73900,Katriina Kuisma,Received,Porto Foundry
+PO-450824,Harbour Fasteners,MRO,2026-05-03,30150,Heikki Anttila,Invoiced,Tampere Works
+PO-450825,Meridian Machining,MRO,2026-09-20,110120,Leena Kivelä,Invoiced,Gdansk Assembly
+PO-450826,Keystone Cables,Logistics,2026-01-15,352830,Petri Rantanen,Received,Tampere Works
+PO-450827,Summit Seals,MRO,2026-08-14,127270,Maciej Mateńko,Invoiced,Graz Electronics
+PO-450828,Polaris Castings,Seals,2026-05-08,449070,Kimmo Nieminen,Open,Gdansk Assembly
+PO-450829,Nordwave Electronics,IT hardware,2026-03-07,222950,Anna-Liisa Ikonen,Received,Aarhus Service Centre
+PO-450830,Nordwave Fasteners,Seals,2026-07-22,172800,Konrad Topa,Invoiced,Gdansk Assembly
+PO-450831,Silverfjord Electronics,Logistics,2026-07-29,414460,Jaime Matos,Received,Lyon Systems
+PO-450832,Evergreen Bearings,Consulting,2026-05-05,63520,Maciej Mateńko,Cancelled,Gdansk Assembly
+PO-450833,Bluecrest Bearings,Motors,2026-07-26,459740,Rodrigo Mota,Invoiced,Brno Machining
+PO-450834,Ironpeak Cables,MRO,2026-01-07,40000,Tapio Järvi,Cancelled,Aarhus Service Centre
+PO-450835,Baltic Castings,Seals,2026-02-01,288600,Sebastian Niemi,Received,Tampere Works
+PO-450836,Polaris Fasteners,Seals,2026-01-09,142330,Bartek Ofiara,Invoiced,Aarhus Service Centre
+PO-450837,Granite Fasteners,MRO,2026-05-10,33000,Sebastian Niemi,Open,Bilbao Plant
+PO-450838,Coastal Bearings,Seals,2026-03-15,423660,Juhani Koskela,Open,Graz Electronics
+PO-450839,Keystone Electronics,MRO,2026-08-13,204470,Eino Jussila,Cancelled,Gdansk Assembly
+PO-450840,Danube Steelworks,Castings,2026-03-04,464250,Jaime Matos,Cancelled,Graz Electronics
+PO-450841,Nordwave Electronics,Castings,2026-02-16,343480,Juhani Konttinen,Received,Gdansk Assembly
+PO-450842,Evergreen Coatings,Logistics,2026-02-01,189920,Petri Rantanen,Cancelled,Gdansk Assembly
+PO-450843,Nordwave Motors,Bearings,2026-04-09,379880,Tapio Järvi,Invoiced,Tampere Works
+PO-450844,Harbour Cables,Electronics,2026-09-09,413520,Eemeli Mäenpää,Received,Lyon Systems
+PO-450845,Danube Cables,IT hardware,2026-03-16,273750,Konrad Topa,Invoiced,Brno Machining
+PO-450846,Bluecrest Steelworks,Seals,2026-02-14,29960,Eemeli Mäenpää,Cancelled,Gdansk Assembly
+PO-450847,Alpine Castings,Consulting,2026-07-06,122300,Eemeli Mäenpää,Received,Brno Machining
+PO-450848,Oakridge Logistics,Consulting,2026-01-18,258110,Kaarina Pesonen,Received,Tampere Works
+PO-450849,Alpine Castings,IT hardware,2026-02-25,158240,Eemeli Mäenpää,Invoiced,Graz Electronics
+PO-450850,Silverfjord Electronics,IT hardware,2026-07-11,432570,Rodrigo Mota,Received,Tampere Works
+PO-450851,Brightline Steelworks,Castings,2026-06-28,140330,Isabela Ribeiro,Open,Tampere Works
+PO-450852,Oakridge Seals,Seals,2026-02-27,411680,Bartek Ofiara,Received,Lyon Systems
+PO-450853,Silverfjord Electronics,Motors,2026-01-20,301370,Juhani Mattila,Cancelled,Porto Foundry
+PO-450854,Meridian Polymers,Logistics,2026-06-23,32990,Kimmo Nieminen,Cancelled,Porto Foundry
+PO-450855,Bluecrest Bearings,Logistics,2026-03-28,10420,Rafaela Figueiredo,Invoiced,Gdansk Assembly
+PO-450856,Meridian Fasteners,Seals,2026-02-24,460030,Nina Niemelä,Received,Lyon Systems
+PO-450857,Oakridge Logistics,Logistics,2026-05-15,476100,Eemeli Mäenpää,Received,Lyon Systems
+PO-450858,Ironpeak Seals,Electronics,2026-02-17,59160,Gabriel Żółtek,Open,Aarhus Service Centre
+PO-450859,Evergreen Electronics,Consulting,2026-04-24,398860,Gabriela Almeida,Received,Bilbao Plant
+PO-450860,Granite Polymers,Motors,2026-05-27,70670,Christian Palomäki,Received,Tampere Works
+PO-450861,Evergreen Seals,Consulting,2026-05-13,431080,Gabriela Almeida,Cancelled,Porto Foundry
+PO-450862,Granite Steelworks,IT hardware,2026-06-13,282570,Hilkka Seppä,Received,Brno Machining
+PO-450863,Vantage Logistics,MRO,2026-06-23,314270,Heikki Anttila,Invoiced,Brno Machining
+PO-450864,Vantage Polymers,MRO,2026-08-31,441400,Anna-Liisa Ikonen,Open,Porto Foundry
+PO-450865,Granite Polymers,Castings,2026-02-05,435760,Juhani Mattila,Received,Bilbao Plant
+PO-450866,Evergreen Polymers,IT hardware,2026-05-23,4930,Matilda Peltonen,Invoiced,Lyon Systems
+PO-450867,Oakridge Polymers,IT hardware,2026-09-13,386730,Bartek Ofiara,Open,Porto Foundry
+PO-450868,Alpine Coatings,Logistics,2026-01-18,478060,Juhani Mattila,Received,Porto Foundry
+PO-450869,Clearwater Machining,Electronics,2026-08-20,161190,Christian Palomäki,Received,Porto Foundry
+PO-450870,Brightline Steelworks,IT hardware,2026-04-23,416630,Isabela Ribeiro,Invoiced,Gdansk Assembly
+PO-450871,Brightline Steelworks,Motors,2026-06-29,360890,Jaime Matos,Received,Brno Machining
+PO-450872,Vantage Electronics,IT hardware,2026-01-27,101470,Petri Karhunen,Invoiced,Aarhus Service Centre
+PO-450873,Baltic Motors,IT hardware,2026-07-06,413950,Bartek Ofiara,Received,Lyon Systems
+PO-450874,Polaris Castings,Castings,2026-04-09,111530,Sebastian Niemi,Cancelled,Porto Foundry
+PO-450875,Vantage Polymers,IT hardware,2026-02-18,256280,Kristiina Lappalainen,Received,Tampere Works
+PO-450876,Granite Steelworks,Motors,2026-07-02,467630,Eino Jussila,Cancelled,Gdansk Assembly
+PO-450877,Vantage Logistics,MRO,2026-09-24,67980,Jaime Matos,Received,Brno Machining
+PO-450878,Granite Seals,Consulting,2026-07-23,216120,Petri Karhunen,Received,Gdansk Assembly
+PO-450879,Harbour Coatings,Bearings,2026-04-26,90300,Gabriel Żółtek,Received,Brno Machining
+PO-450880,Bluecrest Steelworks,Castings,2026-03-28,95240,Sebastian Niemi,Invoiced,Gdansk Assembly
+PO-450881,Danube Logistics,Logistics,2026-07-13,279350,Petri Karhunen,Invoiced,Tampere Works
+PO-450882,Oakridge Bearings,Electronics,2026-07-16,153800,Leena Kivelä,Open,Bilbao Plant
+PO-450883,Redstone Electronics,Electronics,2026-02-12,218910,Juhani Koskela,Received,Bilbao Plant
+PO-450884,Redstone Electronics,Castings,2026-05-19,233580,Leena Kivelä,Invoiced,Brno Machining
+PO-450885,Harbour Fasteners,Bearings,2026-08-18,110490,Heikki Anttila,Received,Aarhus Service Centre
+PO-450886,Vantage Coatings,Consulting,2026-05-06,211890,Gabriel Żółtek,Received,Graz Electronics
+PO-450887,Vantage Logistics,Electronics,2026-07-16,410700,Luciana Cruz,Invoiced,Tampere Works
+PO-450888,Granite Steelworks,MRO,2026-02-15,150810,Konrad Topa,Invoiced,Gdansk Assembly
+PO-450889,Clearwater Logistics,Logistics,2026-04-23,108600,Isabela Ribeiro,Received,Brno Machining
+PO-450890,Alpine Coatings,MRO,2026-01-02,166070,Eemeli Mäenpää,Received,Gdansk Assembly
+PO-450891,Silverfjord Motors,Castings,2026-05-28,260340,Kristiina Lappalainen,Invoiced,Brno Machining
+PO-450892,Oakridge Electronics,IT hardware,2026-02-03,418990,Matilda Peltonen,Received,Graz Electronics
+PO-450893,Meridian Castings,Electronics,2026-03-28,428980,Gabriel Żółtek,Open,Brno Machining
+PO-450894,Polaris Fasteners,Electronics,2026-01-13,163800,Trine Søndergaard,Invoiced,Brno Machining
+PO-450895,Granite Seals,Logistics,2026-01-26,386820,Jaime Matos,Cancelled,Aarhus Service Centre
+PO-450896,Keystone Polymers,Electronics,2026-04-24,455590,Kimmo Nieminen,Received,Bilbao Plant
+PO-450897,Redstone Coatings,Castings,2026-05-24,406550,Juhani Konttinen,Invoiced,Aarhus Service Centre
+PO-450898,Baltic Electronics,IT hardware,2026-09-15,319190,Eemeli Mäenpää,Received,Porto Foundry
+PO-450899,Clearwater Polymers,IT hardware,2026-02-08,395510,Eino Jussila,Received,Gdansk Assembly

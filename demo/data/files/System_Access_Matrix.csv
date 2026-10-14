@@ -1,0 +1,111 @@
+system,department,access_level,approver
+SAP S/4HANA,Executive Office,None,Hannele Turunen
+SAP S/4HANA,Finance,Read,Anna Kuisma
+SAP S/4HANA,Human Resources,Read,Aage Kristiansen
+SAP S/4HANA,Engineering,None,Jenni Kauppinen
+SAP S/4HANA,Operations,Admin,Vito Draxler
+SAP S/4HANA,Sales,Read,Tymoteusz Lizoń
+SAP S/4HANA,Marketing,Read,Gabriel Eisner
+SAP S/4HANA,Legal & Compliance,Admin,Oskari Martikainen
+SAP S/4HANA,IT,Admin,Emmi Rantanen
+SAP S/4HANA,Quality,Admin,Cyprian Piguła
+SAP S/4HANA,Procurement,None,Trine Søndergaard
+Workday,Executive Office,None,Hannele Turunen
+Workday,Finance,Read,Anna Kuisma
+Workday,Human Resources,Admin,Aage Kristiansen
+Workday,Engineering,Read,Jenni Kauppinen
+Workday,Operations,None,Vito Draxler
+Workday,Sales,Read/Write,Tymoteusz Lizoń
+Workday,Marketing,Admin,Gabriel Eisner
+Workday,Legal & Compliance,Admin,Oskari Martikainen
+Workday,IT,Admin,Emmi Rantanen
+Workday,Quality,Read,Cyprian Piguła
+Workday,Procurement,Read,Trine Søndergaard
+Salesforce,Executive Office,Read,Hannele Turunen
+Salesforce,Finance,Read,Anna Kuisma
+Salesforce,Human Resources,Read,Aage Kristiansen
+Salesforce,Engineering,Read/Write,Jenni Kauppinen
+Salesforce,Operations,None,Vito Draxler
+Salesforce,Sales,None,Tymoteusz Lizoń
+Salesforce,Marketing,Read,Gabriel Eisner
+Salesforce,Legal & Compliance,Read,Oskari Martikainen
+Salesforce,IT,Admin,Emmi Rantanen
+Salesforce,Quality,None,Cyprian Piguła
+Salesforce,Procurement,Read,Trine Søndergaard
+SmartFlow admin,Executive Office,Admin,Hannele Turunen
+SmartFlow admin,Finance,Read,Anna Kuisma
+SmartFlow admin,Human Resources,Admin,Aage Kristiansen
+SmartFlow admin,Engineering,Read,Jenni Kauppinen
+SmartFlow admin,Operations,Admin,Vito Draxler
+SmartFlow admin,Sales,Read,Tymoteusz Lizoń
+SmartFlow admin,Marketing,Admin,Gabriel Eisner
+SmartFlow admin,Legal & Compliance,Read,Oskari Martikainen
+SmartFlow admin,IT,Admin,Emmi Rantanen
+SmartFlow admin,Quality,Admin,Cyprian Piguła
+SmartFlow admin,Procurement,Read,Trine Søndergaard
+Teamcenter PLM,Executive Office,Read,Hannele Turunen
+Teamcenter PLM,Finance,Read,Anna Kuisma
+Teamcenter PLM,Human Resources,Read/Write,Aage Kristiansen
+Teamcenter PLM,Engineering,Read,Jenni Kauppinen
+Teamcenter PLM,Operations,None,Vito Draxler
+Teamcenter PLM,Sales,Read/Write,Tymoteusz Lizoń
+Teamcenter PLM,Marketing,Read,Gabriel Eisner
+Teamcenter PLM,Legal & Compliance,None,Oskari Martikainen
+Teamcenter PLM,IT,Admin,Emmi Rantanen
+Teamcenter PLM,Quality,Read,Cyprian Piguła
+Teamcenter PLM,Procurement,None,Trine Søndergaard
+Jira,Executive Office,Read/Write,Hannele Turunen
+Jira,Finance,Read/Write,Anna Kuisma
+Jira,Human Resources,None,Aage Kristiansen
+Jira,Engineering,None,Jenni Kauppinen
+Jira,Operations,Read,Vito Draxler
+Jira,Sales,Read,Tymoteusz Lizoń
+Jira,Marketing,None,Gabriel Eisner
+Jira,Legal & Compliance,Admin,Oskari Martikainen
+Jira,IT,Admin,Emmi Rantanen
+Jira,Quality,Read/Write,Cyprian Piguła
+Jira,Procurement,None,Trine Søndergaard
+Power BI,Executive Office,Admin,Hannele Turunen
+Power BI,Finance,None,Anna Kuisma
+Power BI,Human Resources,Read/Write,Aage Kristiansen
+Power BI,Engineering,Read/Write,Jenni Kauppinen
+Power BI,Operations,Read,Vito Draxler
+Power BI,Sales,Read/Write,Tymoteusz Lizoń
+Power BI,Marketing,Read,Gabriel Eisner
+Power BI,Legal & Compliance,Read,Oskari Martikainen
+Power BI,IT,Admin,Emmi Rantanen
+Power BI,Quality,Read,Cyprian Piguła
+Power BI,Procurement,Read,Trine Søndergaard
+Treasury (Kyriba),Executive Office,Admin,Hannele Turunen
+Treasury (Kyriba),Finance,None,Anna Kuisma
+Treasury (Kyriba),Human Resources,None,Aage Kristiansen
+Treasury (Kyriba),Engineering,Read,Jenni Kauppinen
+Treasury (Kyriba),Operations,Read/Write,Vito Draxler
+Treasury (Kyriba),Sales,Read,Tymoteusz Lizoń
+Treasury (Kyriba),Marketing,Admin,Gabriel Eisner
+Treasury (Kyriba),Legal & Compliance,Admin,Oskari Martikainen
+Treasury (Kyriba),IT,Admin,Emmi Rantanen
+Treasury (Kyriba),Quality,Read/Write,Cyprian Piguła
+Treasury (Kyriba),Procurement,Read,Trine Søndergaard
+Payroll,Executive Office,None,Hannele Turunen
+Payroll,Finance,Read,Anna Kuisma
+Payroll,Human Resources,Admin,Aage Kristiansen
+Payroll,Engineering,None,Jenni Kauppinen
+Payroll,Operations,Read,Vito Draxler
+Payroll,Sales,Read,Tymoteusz Lizoń
+Payroll,Marketing,Read/Write,Gabriel Eisner
+Payroll,Legal & Compliance,Read,Oskari Martikainen
+Payroll,IT,Admin,Emmi Rantanen
+Payroll,Quality,Read,Cyprian Piguła
+Payroll,Procurement,None,Trine Søndergaard
+MES,Executive Office,Read/Write,Hannele Turunen
+MES,Finance,None,Anna Kuisma
+MES,Human Resources,None,Aage Kristiansen
+MES,Engineering,None,Jenni Kauppinen
+MES,Operations,None,Vito Draxler
+MES,Sales,Admin,Tymoteusz Lizoń
+MES,Marketing,Read,Gabriel Eisner
+MES,Legal & Compliance,Read,Oskari Martikainen
+MES,IT,Admin,Emmi Rantanen
+MES,Quality,None,Cyprian Piguła
+MES,Procurement,Admin,Trine Søndergaard

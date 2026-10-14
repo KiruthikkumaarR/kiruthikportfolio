@@ -1,0 +1,801 @@
+claim_id,employee,department,category,date,amount_eur,status,approver
+EXP-50000,Martirio Llorente,Engineering,Meals,2026-06-29,512.17,Approved,Jenni Kauppinen
+EXP-50001,Johanna Keskinen,IT,Mileage,2026-03-27,562.5,Rejected,Emmi Rantanen
+EXP-50002,Clémence Pasquier,Operations,Hotel,2026-06-04,403.61,Rejected,Vito Draxler
+EXP-50003,Augustin Deschamps,Operations,Hotel,2026-08-09,227.82,Paid,Vito Draxler
+EXP-50004,Naděžda Kopecký,Quality,Hotel,2026-06-03,526.61,Rejected,Cyprian Piguła
+EXP-50005,Bartek Tomaszczyk,Engineering,Client entertainment,2026-03-11,45.94,Rejected,Jenni Kauppinen
+EXP-50006,Alexandre Pinheiro,Quality,Conference fee,2026-05-17,1461.37,Paid,Cyprian Piguła
+EXP-50007,Susanna Kuronen,Operations,Taxi,2026-08-21,473.7,Approved,Vito Draxler
+EXP-50008,Borys Skomra,Operations,Hotel,2026-03-05,187.86,Paid,Vito Draxler
+EXP-50009,Elisabet Valverde,Operations,Conference fee,2026-01-06,1931.94,Pending,Vito Draxler
+EXP-50010,Patryk Gregorczuk,Operations,Meals,2026-07-17,579.0,Pending,Vito Draxler
+EXP-50011,Blanka Sado,Quality,Mileage,2026-01-19,385.12,Approved,Cyprian Piguła
+EXP-50012,Susanne Da Costa,Sales,Meals,2026-04-05,508.46,Approved,Tymoteusz Lizoń
+EXP-50013,Maks Świerad,Finance,Flight,2026-05-17,1448.95,Pending,Anna Kuisma
+EXP-50014,Joakim Jepsen,Engineering,Meals,2026-03-31,574.99,Paid,Jenni Kauppinen
+EXP-50015,Bernardo Amaral,Operations,Conference fee,2026-05-01,1861.62,Approved,Vito Draxler
+EXP-50016,Juhani Mattila,Procurement,Client entertainment,2026-03-06,403.0,Paid,Trine Søndergaard
+EXP-50017,Aitor Vara,Quality,Mileage,2026-05-18,38.78,Approved,Cyprian Piguła
+EXP-50018,Johannes Häkkinen,Engineering,Flight,2026-03-13,791.0,Approved,Jenni Kauppinen
+EXP-50019,Xavier Santos,Marketing,Flight,2026-07-12,757.46,Approved,Gabriel Eisner
+EXP-50020,Virgilio Villanueva,Engineering,Client entertainment,2026-04-23,400.43,Pending,Jenni Kauppinen
+EXP-50021,Šárka Němec,Operations,Conference fee,2026-07-02,425.5,Rejected,Vito Draxler
+EXP-50022,Anneli Hokkanen,Legal & Compliance,Conference fee,2026-01-11,994.24,Rejected,Oskari Martikainen
+EXP-50023,Renata Pereira,Operations,Conference fee,2026-07-18,1697.29,Rejected,Vito Draxler
+EXP-50024,Marcial Ferrándiz,Operations,Client entertainment,2026-02-23,573.52,Rejected,Vito Draxler
+EXP-50025,Marja Nurmi,IT,Taxi,2026-04-21,191.59,Paid,Emmi Rantanen
+EXP-50026,Niko Steinbacher,Operations,Flight,2026-02-17,2245.57,Pending,Vito Draxler
+EXP-50027,Niklas Nieminen,Legal & Compliance,Meals,2026-01-17,149.26,Rejected,Oskari Martikainen
+EXP-50028,Taina Huotari,Operations,Flight,2026-08-19,340.6,Approved,Vito Draxler
+EXP-50029,Maciej Mateńko,Procurement,Mileage,2026-02-17,465.99,Rejected,Trine Søndergaard
+EXP-50030,Dagmara Bogumił,Executive Office,Client entertainment,2026-08-26,155.52,Approved,Hannele Turunen
+EXP-50031,Jarmila Musilová,Operations,Taxi,2026-02-01,322.63,Approved,Vito Draxler
+EXP-50032,Marita Huttunen,Sales,Meals,2026-04-30,210.3,Approved,Tymoteusz Lizoń
+EXP-50033,Nicole Wyrostek,Legal & Compliance,Taxi,2026-05-29,193.4,Rejected,Oskari Martikainen
+EXP-50034,Miriam Marques,Finance,Meals,2026-07-04,514.56,Paid,Anna Kuisma
+EXP-50035,Rikke Mathiesen,Operations,Mileage,2026-06-27,417.94,Paid,Vito Draxler
+EXP-50036,Bartek Jeżyna,IT,Flight,2026-01-07,2280.2,Approved,Emmi Rantanen
+EXP-50037,Rafał Ciesielka,Operations,Client entertainment,2026-09-14,207.91,Approved,Vito Draxler
+EXP-50038,Gabriel Eisner,Marketing,Client entertainment,2026-09-09,103.17,Approved,Gabriel Eisner
+EXP-50039,Antero Partanen,Operations,Meals,2026-08-11,439.52,Pending,Vito Draxler
+EXP-50040,Paulino Buendía,Operations,Mileage,2026-06-25,419.94,Approved,Vito Draxler
+EXP-50041,Krystian Kluj,Operations,Conference fee,2026-02-17,2199.33,Approved,Vito Draxler
+EXP-50042,Aatos Niemi,Human Resources,Client entertainment,2026-06-08,110.77,Approved,Aage Kristiansen
+EXP-50043,Tapio Järvi,Procurement,Hotel,2026-08-09,484.29,Approved,Trine Søndergaard
+EXP-50044,Kelly Barros,Finance,Meals,2026-07-22,61.36,Paid,Anna Kuisma
+EXP-50045,Joona Järvinen,Legal & Compliance,Flight,2026-02-18,774.31,Approved,Oskari Martikainen
+EXP-50046,Rafael Tavares,Human Resources,Mileage,2026-02-09,533.95,Pending,Aage Kristiansen
+EXP-50047,Alexandra Mareš,Operations,Flight,2026-01-26,936.63,Pending,Vito Draxler
+EXP-50048,Eemeli Mäenpää,Procurement,Flight,2026-04-02,605.35,Rejected,Trine Søndergaard
+EXP-50049,Suvi Kovanen,Marketing,Hotel,2026-07-26,235.55,Pending,Gabriel Eisner
+EXP-50050,Karolína Matoušková,Sales,Hotel,2026-06-29,337.66,Rejected,Tymoteusz Lizoń
+EXP-50051,Marcial Pardo,Engineering,Meals,2026-08-20,299.6,Paid,Jenni Kauppinen
+EXP-50052,Nair Vieira,Marketing,Taxi,2026-02-21,438.73,Paid,Gabriel Eisner
+EXP-50053,Frederico Moreira,Marketing,Meals,2026-06-19,133.63,Approved,Gabriel Eisner
+EXP-50054,Olavi Kortelainen,IT,Taxi,2026-05-27,129.19,Approved,Emmi Rantanen
+EXP-50055,Julianna Chwalisz,Operations,Client entertainment,2026-08-01,402.75,Rejected,Vito Draxler
+EXP-50056,Francisco Jose Millán,Engineering,Hotel,2026-09-09,132.0,Pending,Jenni Kauppinen
+EXP-50057,Janina Galuba,Operations,Taxi,2026-01-08,157.81,Approved,Vito Draxler
+EXP-50058,Linnea Rauhala,Operations,Meals,2026-04-13,48.84,Approved,Vito Draxler
+EXP-50059,Marco Anjos,Sales,Taxi,2026-05-10,592.43,Approved,Tymoteusz Lizoń
+EXP-50060,Yasmina Feigl,Operations,Hotel,2026-04-01,421.91,Rejected,Vito Draxler
+EXP-50061,Iveta Beranová,Operations,Flight,2026-04-30,1135.46,Pending,Vito Draxler
+EXP-50062,Anaïs Alves,Quality,Flight,2026-03-31,2309.81,Pending,Cyprian Piguła
+EXP-50063,Alice Magalhães,Finance,Taxi,2026-08-29,280.3,Approved,Anna Kuisma
+EXP-50064,Timo Mattila,Marketing,Flight,2026-01-19,2397.15,Approved,Gabriel Eisner
+EXP-50065,Sylwia Jagiełka,Finance,Mileage,2026-07-12,371.06,Approved,Anna Kuisma
+EXP-50066,Vasco Brito,Human Resources,Taxi,2026-01-31,190.03,Approved,Aage Kristiansen
+EXP-50067,Johannes Häkkinen,Engineering,Conference fee,2026-01-20,1256.99,Pending,Jenni Kauppinen
+EXP-50068,Sirkka Makkonen,Operations,Taxi,2026-03-26,284.21,Approved,Vito Draxler
+EXP-50069,Marcial Ferrándiz,Operations,Hotel,2026-01-07,372.17,Paid,Vito Draxler
+EXP-50070,Maria Rauhala,Engineering,Mileage,2026-01-23,487.67,Paid,Jenni Kauppinen
+EXP-50071,Karina Kruszona,Engineering,Taxi,2026-03-18,58.14,Rejected,Jenni Kauppinen
+EXP-50072,Francisco Jose Millán,Engineering,Flight,2026-04-14,864.36,Paid,Jenni Kauppinen
+EXP-50073,Jacinta Agustín,Sales,Hotel,2026-07-12,558.26,Approved,Tymoteusz Lizoń
+EXP-50074,Elisabeth Laukkanen,Procurement,Conference fee,2026-02-23,818.02,Paid,Trine Søndergaard
+EXP-50075,Jasmina Steurer,Engineering,Conference fee,2026-02-04,1069.49,Rejected,Jenni Kauppinen
+EXP-50076,Ragnhild Jeppesen,Operations,Client entertainment,2026-04-26,510.24,Approved,Vito Draxler
+EXP-50077,Tarja Eklund,Quality,Taxi,2026-04-12,94.93,Rejected,Cyprian Piguła
+EXP-50078,Nikol Urban,Operations,Conference fee,2026-07-24,803.71,Paid,Vito Draxler
+EXP-50079,Tapio Järvi,Procurement,Meals,2026-09-12,207.19,Approved,Trine Søndergaard
+EXP-50080,Elisabeth Laukkanen,Procurement,Flight,2026-08-04,1608.15,Rejected,Trine Søndergaard
+EXP-50081,Jaromír Šmídová,Operations,Hotel,2026-08-16,311.3,Rejected,Vito Draxler
+EXP-50082,Steven Kain,Operations,Flight,2026-09-06,1232.59,Approved,Vito Draxler
+EXP-50083,Maria Niskanen,IT,Mileage,2026-05-18,555.64,Approved,Emmi Rantanen
+EXP-50084,Patrick Frank,Operations,Conference fee,2026-05-16,1571.67,Paid,Vito Draxler
+EXP-50085,Henrikki Varis,Operations,Flight,2026-09-10,1329.72,Pending,Vito Draxler
+EXP-50086,Jacek Nestorowicz,Engineering,Taxi,2026-06-05,555.02,Approved,Jenni Kauppinen
+EXP-50087,Przemysław Nowotny,Operations,Taxi,2026-02-13,75.69,Rejected,Vito Draxler
+EXP-50088,Mikko Kallio,Finance,Flight,2026-05-12,788.34,Approved,Anna Kuisma
+EXP-50089,Elisabet Valverde,Operations,Client entertainment,2026-04-08,310.2,Rejected,Vito Draxler
+EXP-50090,Sebastian Niemi,Procurement,Flight,2026-08-14,1675.29,Approved,Trine Søndergaard
+EXP-50091,Diogo Domingues,Engineering,Taxi,2026-06-01,521.78,Approved,Jenni Kauppinen
+EXP-50092,Marek Misior,Legal & Compliance,Hotel,2026-03-22,48.24,Approved,Oskari Martikainen
+EXP-50093,Pentti Palomäki,Marketing,Mileage,2026-09-17,130.89,Rejected,Gabriel Eisner
+EXP-50094,Jacqueline Marion,Engineering,Hotel,2026-07-14,585.24,Approved,Jenni Kauppinen
+EXP-50095,Pentti Palomäki,Marketing,Taxi,2026-08-03,118.03,Approved,Gabriel Eisner
+EXP-50096,Kristina Leino,Executive Office,Flight,2026-04-10,1868.37,Approved,Hannele Turunen
+EXP-50097,Carlota Barros,Operations,Conference fee,2026-01-06,1545.26,Rejected,Vito Draxler
+EXP-50098,Miguela Moraleda,Sales,Flight,2026-07-05,368.44,Paid,Tymoteusz Lizoń
+EXP-50099,Aleksi Asikainen,Engineering,Client entertainment,2026-01-30,420.91,Pending,Jenni Kauppinen
+EXP-50100,Virgilio Villanueva,Engineering,Conference fee,2026-09-04,1394.39,Approved,Jenni Kauppinen
+EXP-50101,Rémy Masse,Operations,Client entertainment,2026-09-04,89.17,Approved,Vito Draxler
+EXP-50102,Mikuláš Černá,Operations,Mileage,2026-03-04,267.27,Paid,Vito Draxler
+EXP-50103,Ella Mäkelä,Marketing,Flight,2026-07-17,71.36,Pending,Gabriel Eisner
+EXP-50104,Anna-Liisa Ikonen,Procurement,Mileage,2026-02-19,330.63,Approved,Trine Søndergaard
+EXP-50105,Margaret Bonnet,Sales,Meals,2026-01-26,170.06,Rejected,Tymoteusz Lizoń
+EXP-50106,Kalervo Niemi,Finance,Hotel,2026-06-14,34.68,Paid,Anna Kuisma
+EXP-50107,Tapani Mäkelä,Quality,Taxi,2026-07-22,272.81,Rejected,Cyprian Piguła
+EXP-50108,Marianne Heikkilä,IT,Taxi,2026-08-05,56.17,Approved,Emmi Rantanen
+EXP-50109,Kornelia Misiuk,Engineering,Flight,2026-08-03,2286.32,Pending,Jenni Kauppinen
+EXP-50110,Lauri Kokko,Finance,Hotel,2026-05-09,17.51,Rejected,Anna Kuisma
+EXP-50111,Iveta Beranová,Operations,Taxi,2026-01-16,256.13,Pending,Vito Draxler
+EXP-50112,Jarmo Pesonen,Sales,Hotel,2026-03-04,394.57,Rejected,Tymoteusz Lizoń
+EXP-50113,Augustin Deschamps,Operations,Hotel,2026-06-24,543.57,Paid,Vito Draxler
+EXP-50114,Benoît Roux,Sales,Hotel,2026-07-25,228.75,Paid,Tymoteusz Lizoń
+EXP-50115,Jorma Hakala,Engineering,Flight,2026-01-19,769.15,Paid,Jenni Kauppinen
+EXP-50116,Tomasz Hass,Human Resources,Flight,2026-04-05,728.96,Rejected,Aage Kristiansen
+EXP-50117,Albert Zeman,Engineering,Client entertainment,2026-08-15,354.98,Approved,Jenni Kauppinen
+EXP-50118,Tola Łokietek,IT,Hotel,2026-09-18,323.42,Approved,Emmi Rantanen
+EXP-50119,Filipa Oliveira,Quality,Conference fee,2026-06-16,1856.99,Pending,Cyprian Piguła
+EXP-50120,Šárka Němec,Operations,Conference fee,2026-05-08,1412.94,Rejected,Vito Draxler
+EXP-50121,Isidro Correa,Operations,Taxi,2026-04-24,111.89,Rejected,Vito Draxler
+EXP-50122,Christiane Lebreton,Engineering,Meals,2026-02-11,130.3,Approved,Jenni Kauppinen
+EXP-50123,Luna Neto,Human Resources,Hotel,2026-07-23,180.15,Rejected,Aage Kristiansen
+EXP-50124,Konstanty Sypuła,Operations,Conference fee,2026-01-25,1707.41,Paid,Vito Draxler
+EXP-50125,Christine Sanchez,Operations,Mileage,2026-08-29,82.65,Approved,Vito Draxler
+EXP-50126,Sarah Christiansen,Quality,Meals,2026-08-26,489.9,Rejected,Cyprian Piguła
+EXP-50127,Cezary Grzelec,Engineering,Conference fee,2026-03-22,766.16,Approved,Jenni Kauppinen
+EXP-50128,Vasco Brito,Human Resources,Flight,2026-04-28,938.97,Paid,Aage Kristiansen
+EXP-50129,Borys Skomra,Operations,Taxi,2026-02-03,267.18,Approved,Vito Draxler
+EXP-50130,Marja Lehtonen,Quality,Client entertainment,2026-02-09,370.03,Approved,Cyprian Piguła
+EXP-50131,Juan Francisco Marti,Operations,Mileage,2026-04-30,291.77,Rejected,Vito Draxler
+EXP-50132,Inês Ribeiro,Operations,Client entertainment,2026-01-15,322.1,Approved,Vito Draxler
+EXP-50133,Jasmina Steurer,Engineering,Hotel,2026-04-21,550.75,Paid,Jenni Kauppinen
+EXP-50134,Bartek Jeżyna,IT,Taxi,2026-02-13,424.21,Paid,Emmi Rantanen
+EXP-50135,Benedicte Svendsen,Operations,Hotel,2026-04-23,128.16,Rejected,Vito Draxler
+EXP-50136,Ana Puerta,Quality,Flight,2026-01-09,514.63,Approved,Cyprian Piguła
+EXP-50137,Kurt Andresen,Operations,Mileage,2026-03-02,524.5,Rejected,Vito Draxler
+EXP-50138,Inkeri Karjalainen,Human Resources,Conference fee,2026-02-11,1944.47,Approved,Aage Kristiansen
+EXP-50139,Niko Steinbacher,Operations,Taxi,2026-07-03,102.29,Pending,Vito Draxler
+EXP-50140,Radoslav Bláhová,Quality,Taxi,2026-09-06,227.65,Pending,Cyprian Piguła
+EXP-50141,Maarit Silvennoinen,Finance,Hotel,2026-01-25,329.92,Paid,Anna Kuisma
+EXP-50142,Ensio Valtonen,Finance,Hotel,2026-09-09,363.27,Rejected,Anna Kuisma
+EXP-50143,Konrad Topa,Procurement,Hotel,2026-06-03,448.81,Paid,Trine Søndergaard
+EXP-50144,Kristina Leino,Executive Office,Meals,2026-01-19,548.05,Rejected,Hannele Turunen
+EXP-50145,Alice Domingues,Operations,Taxi,2026-05-07,357.82,Pending,Vito Draxler
+EXP-50146,Hilkka Seppä,Procurement,Mileage,2026-08-07,222.11,Pending,Trine Søndergaard
+EXP-50147,Guilherme Ribeiro,IT,Flight,2026-07-07,1224.45,Paid,Emmi Rantanen
+EXP-50148,Elisabeth Steffensen,Engineering,Hotel,2026-03-01,51.61,Pending,Jenni Kauppinen
+EXP-50149,Anna Kuisma,Finance,Flight,2026-08-27,610.61,Pending,Anna Kuisma
+EXP-50150,Kalevi Sirén,Operations,Conference fee,2026-07-17,1804.23,Approved,Vito Draxler
+EXP-50151,Albert Zeman,Engineering,Flight,2026-04-08,1070.62,Approved,Jenni Kauppinen
+EXP-50152,Virgilio Villanueva,Engineering,Meals,2026-03-16,517.08,Approved,Jenni Kauppinen
+EXP-50153,Francisco Borges,Marketing,Taxi,2026-02-05,198.76,Approved,Gabriel Eisner
+EXP-50154,Taina Huotari,Operations,Meals,2026-08-08,191.68,Approved,Vito Draxler
+EXP-50155,Yasmina Feigl,Operations,Hotel,2026-08-19,214.77,Rejected,Vito Draxler
+EXP-50156,Catherine Roche,Operations,Taxi,2026-06-21,241.46,Approved,Vito Draxler
+EXP-50157,Kelly Barros,Finance,Flight,2026-07-02,1467.3,Rejected,Anna Kuisma
+EXP-50158,Sara Loureiro,Executive Office,Taxi,2026-03-31,373.45,Approved,Hannele Turunen
+EXP-50159,Édouard Ollivier,Operations,Flight,2026-02-16,1646.67,Rejected,Vito Draxler
+EXP-50160,Tapani Hakala,Human Resources,Hotel,2026-05-06,33.88,Approved,Aage Kristiansen
+EXP-50161,Otto Lammi,Engineering,Taxi,2026-08-05,560.64,Pending,Jenni Kauppinen
+EXP-50162,Minna Ojala,IT,Mileage,2026-03-22,474.33,Approved,Emmi Rantanen
+EXP-50163,Colette Riou,Sales,Meals,2026-03-07,512.05,Approved,Tymoteusz Lizoń
+EXP-50164,Mélanie Vaz,IT,Flight,2026-01-21,410.13,Approved,Emmi Rantanen
+EXP-50165,Karina Ogłaza,Finance,Mileage,2026-05-30,189.53,Pending,Anna Kuisma
+EXP-50166,Anaïs Alves,Quality,Mileage,2026-05-07,343.76,Pending,Cyprian Piguła
+EXP-50167,Katriina Kuisma,Procurement,Taxi,2026-03-11,243.61,Rejected,Trine Søndergaard
+EXP-50168,Ossi Ranta,Finance,Conference fee,2026-05-14,1116.45,Paid,Anna Kuisma
+EXP-50169,Goyo Calzada,Engineering,Flight,2026-07-13,1362.39,Paid,Jenni Kauppinen
+EXP-50170,Irmeli Laakso,Operations,Taxi,2026-02-16,300.07,Approved,Vito Draxler
+EXP-50171,Rikke Mathiesen,Operations,Taxi,2026-05-30,177.84,Paid,Vito Draxler
+EXP-50172,Tapio Salmi,Human Resources,Conference fee,2026-03-18,2329.13,Approved,Aage Kristiansen
+EXP-50173,Antoni Hajder,Operations,Taxi,2026-01-14,572.86,Paid,Vito Draxler
+EXP-50174,Rita Alves,Finance,Taxi,2026-04-15,346.36,Paid,Anna Kuisma
+EXP-50175,Ângela Henriques,Quality,Mileage,2026-06-28,255.24,Rejected,Cyprian Piguła
+EXP-50176,Renata Pereira,Operations,Taxi,2026-07-28,92.59,Approved,Vito Draxler
+EXP-50177,Frédéric Bourgeois,Engineering,Mileage,2026-09-10,338.8,Approved,Jenni Kauppinen
+EXP-50178,Elżbieta Oleszczak,IT,Mileage,2026-04-04,278.53,Approved,Emmi Rantanen
+EXP-50179,Samuel Kurki,Quality,Hotel,2026-02-20,462.18,Approved,Cyprian Piguła
+EXP-50180,Ascensión Beltrán,Operations,Taxi,2026-08-31,579.52,Pending,Vito Draxler
+EXP-50181,Tanja Partanen,Finance,Meals,2026-06-02,393.04,Approved,Anna Kuisma
+EXP-50182,Ebbe Bech,Quality,Conference fee,2026-09-06,1888.83,Approved,Cyprian Piguła
+EXP-50183,Tapio Kinnunen,Marketing,Hotel,2026-05-07,466.95,Paid,Gabriel Eisner
+EXP-50184,Patrick Frank,Operations,Taxi,2026-08-20,192.99,Approved,Vito Draxler
+EXP-50185,Bartek Ofiara,Procurement,Mileage,2026-06-14,230.42,Approved,Trine Søndergaard
+EXP-50186,Susanna Nieminen,Operations,Meals,2026-06-11,405.99,Pending,Vito Draxler
+EXP-50187,Johannes Paavilainen,Finance,Client entertainment,2026-04-28,81.33,Approved,Anna Kuisma
+EXP-50188,Juhani Simonen,Marketing,Meals,2026-08-26,469.4,Approved,Gabriel Eisner
+EXP-50189,Mikael Koivisto,Operations,Taxi,2026-03-11,152.31,Paid,Vito Draxler
+EXP-50190,Aitor Vara,Quality,Taxi,2026-06-09,478.52,Paid,Cyprian Piguła
+EXP-50191,Alexandra Mareš,Operations,Flight,2026-01-17,1330.9,Approved,Vito Draxler
+EXP-50192,Jacinta Agustín,Sales,Hotel,2026-07-12,127.03,Approved,Tymoteusz Lizoń
+EXP-50193,Kaisa Lampinen,Finance,Client entertainment,2026-04-28,152.74,Pending,Anna Kuisma
+EXP-50194,Éléonore Camus,Sales,Conference fee,2026-02-09,642.9,Rejected,Tymoteusz Lizoń
+EXP-50195,Leander Heger,Operations,Flight,2026-05-13,1313.43,Pending,Vito Draxler
+EXP-50196,Adélaïde Blot,Operations,Client entertainment,2026-02-25,584.7,Rejected,Vito Draxler
+EXP-50197,Petri Rantanen,Procurement,Conference fee,2026-01-11,1416.34,Approved,Trine Søndergaard
+EXP-50198,Marie Holubová,Operations,Flight,2026-06-27,212.94,Paid,Vito Draxler
+EXP-50199,Ilkka Kangas,Finance,Mileage,2026-05-25,107.86,Pending,Anna Kuisma
+EXP-50200,Zehnia Søndergaard,Sales,Flight,2026-08-06,1553.4,Approved,Tymoteusz Lizoń
+EXP-50201,Kimmo Nieminen,Procurement,Client entertainment,2026-03-11,182.63,Approved,Trine Søndergaard
+EXP-50202,Bohumír Dostál,Operations,Taxi,2026-09-08,248.12,Rejected,Vito Draxler
+EXP-50203,Juhana Pekkala,Marketing,Conference fee,2026-06-19,860.42,Approved,Gabriel Eisner
+EXP-50204,Jacinta Bru,Operations,Flight,2026-02-20,2111.1,Paid,Vito Draxler
+EXP-50205,Igor Sousa,Engineering,Flight,2026-03-12,2049.6,Approved,Jenni Kauppinen
+EXP-50206,Christophe Fontaine,Engineering,Mileage,2026-02-14,391.89,Pending,Jenni Kauppinen
+EXP-50207,Lubomír Novák,Operations,Meals,2026-01-22,435.29,Pending,Vito Draxler
+EXP-50208,Sørine Bruun,Engineering,Taxi,2026-03-10,415.18,Approved,Jenni Kauppinen
+EXP-50209,Aitor Vara,Quality,Meals,2026-01-27,79.46,Approved,Cyprian Piguła
+EXP-50210,Grzegorz Zapaśnik,Operations,Hotel,2026-07-22,148.35,Paid,Vito Draxler
+EXP-50211,Jussi Tiihonen,Marketing,Taxi,2026-03-24,13.87,Pending,Gabriel Eisner
+EXP-50212,Benedicte Svendsen,Operations,Client entertainment,2026-04-24,38.35,Approved,Vito Draxler
+EXP-50213,Tarja Saastamoinen,Legal & Compliance,Client entertainment,2026-06-02,463.69,Approved,Oskari Martikainen
+EXP-50214,Aristides Lucena,Operations,Meals,2026-04-22,61.19,Paid,Vito Draxler
+EXP-50215,Yasmina Feigl,Operations,Taxi,2026-01-26,316.89,Pending,Vito Draxler
+EXP-50216,Niko Steinbacher,Operations,Taxi,2026-06-27,108.81,Approved,Vito Draxler
+EXP-50217,Mélanie Nunes,Finance,Client entertainment,2026-07-31,495.25,Approved,Anna Kuisma
+EXP-50218,Beth Poulsen,Sales,Client entertainment,2026-01-23,376.8,Paid,Tymoteusz Lizoń
+EXP-50219,Elina Elo,Human Resources,Meals,2026-06-01,588.79,Approved,Aage Kristiansen
+EXP-50220,Sarah Christiansen,Quality,Conference fee,2026-08-17,17.9,Rejected,Cyprian Piguła
+EXP-50221,Wojciech Heinrich,Engineering,Conference fee,2026-08-18,509.01,Pending,Jenni Kauppinen
+EXP-50222,Iida Kuisma,Marketing,Meals,2026-01-06,356.6,Rejected,Gabriel Eisner
+EXP-50223,Luce Léger,Engineering,Meals,2026-08-28,52.91,Approved,Jenni Kauppinen
+EXP-50224,Ritva Salo,Finance,Taxi,2026-05-04,409.23,Pending,Anna Kuisma
+EXP-50225,Emilia Saarinen,Finance,Mileage,2026-06-05,412.74,Approved,Anna Kuisma
+EXP-50226,Anja Karppinen,Quality,Meals,2026-07-10,251.41,Paid,Cyprian Piguła
+EXP-50227,Jolana Valentová,Engineering,Taxi,2026-05-23,289.59,Rejected,Jenni Kauppinen
+EXP-50228,Maria Karlsson,Sales,Flight,2026-04-30,1953.33,Approved,Tymoteusz Lizoń
+EXP-50229,Gustaw Leszcz,IT,Mileage,2026-03-19,455.96,Approved,Emmi Rantanen
+EXP-50230,Marja Lehtonen,Quality,Flight,2026-04-03,767.09,Paid,Cyprian Piguła
+EXP-50231,Mariusz Pryszcz,Engineering,Meals,2026-03-23,448.26,Rejected,Jenni Kauppinen
+EXP-50232,Sandra Drążyk,Engineering,Taxi,2026-01-06,142.95,Paid,Jenni Kauppinen
+EXP-50233,Brigitte Diallo,Operations,Taxi,2026-07-15,37.79,Pending,Vito Draxler
+EXP-50234,Kristiina Lappalainen,Procurement,Mileage,2026-09-01,441.59,Approved,Trine Søndergaard
+EXP-50235,Maarit Silvennoinen,Finance,Meals,2026-05-12,504.68,Rejected,Anna Kuisma
+EXP-50236,Ebbe Bech,Quality,Hotel,2026-04-29,180.96,Approved,Cyprian Piguła
+EXP-50237,Rita Alves,Finance,Taxi,2026-02-25,398.34,Approved,Anna Kuisma
+EXP-50238,Marco Anjos,Sales,Taxi,2026-02-08,84.36,Pending,Tymoteusz Lizoń
+EXP-50239,Ari Vainio,Human Resources,Flight,2026-02-22,303.11,Approved,Aage Kristiansen
+EXP-50240,Jacinta Bru,Operations,Flight,2026-06-14,341.7,Rejected,Vito Draxler
+EXP-50241,Darko Fleischmann,Engineering,Meals,2026-01-15,274.91,Approved,Jenni Kauppinen
+EXP-50242,Jean Lemaire,Engineering,Hotel,2026-01-13,558.52,Approved,Jenni Kauppinen
+EXP-50243,Elisabet Tuominen,Human Resources,Flight,2026-02-09,1772.24,Rejected,Aage Kristiansen
+EXP-50244,Mirjami Nurmi,IT,Hotel,2026-01-12,156.29,Rejected,Emmi Rantanen
+EXP-50245,Juhani Simonen,Marketing,Hotel,2026-06-29,267.91,Pending,Gabriel Eisner
+EXP-50246,Cezary Grzelec,Engineering,Conference fee,2026-02-11,1559.27,Paid,Jenni Kauppinen
+EXP-50247,Merja Eklund,Marketing,Meals,2026-01-02,509.73,Approved,Gabriel Eisner
+EXP-50248,Paco Alcántara,Operations,Mileage,2026-09-10,165.28,Pending,Vito Draxler
+EXP-50249,Irene Lindqvist,IT,Flight,2026-03-27,2232.4,Approved,Emmi Rantanen
+EXP-50250,Christine Bonnet,Operations,Taxi,2026-06-13,278.93,Rejected,Vito Draxler
+EXP-50251,Perla Pera,Operations,Flight,2026-02-27,1397.49,Paid,Vito Draxler
+EXP-50252,Sari Moisio,Marketing,Hotel,2026-03-05,229.14,Approved,Gabriel Eisner
+EXP-50253,Taina Huotari,Operations,Conference fee,2026-01-27,210.29,Paid,Vito Draxler
+EXP-50254,Ryszard Przeklasa,Marketing,Meals,2026-09-13,533.77,Rejected,Gabriel Eisner
+EXP-50255,Marek Misior,Legal & Compliance,Hotel,2026-03-09,203.42,Approved,Oskari Martikainen
+EXP-50256,Ângela Henriques,Quality,Taxi,2026-01-12,580.89,Paid,Cyprian Piguła
+EXP-50257,Wojciech Heinrich,Engineering,Taxi,2026-07-12,451.11,Approved,Jenni Kauppinen
+EXP-50258,Tapani Mäkelä,Quality,Hotel,2026-06-26,495.97,Approved,Cyprian Piguła
+EXP-50259,Rodrigo Mota,Procurement,Client entertainment,2026-02-11,598.59,Approved,Trine Søndergaard
+EXP-50260,Minna Laine,Legal & Compliance,Mileage,2026-01-12,534.1,Pending,Oskari Martikainen
+EXP-50261,Augustin Deschamps,Operations,Conference fee,2026-05-12,98.36,Approved,Vito Draxler
+EXP-50262,Libuše Pavlíková,Operations,Taxi,2026-08-07,296.59,Pending,Vito Draxler
+EXP-50263,Aage Kristiansen,Human Resources,Client entertainment,2026-06-20,153.15,Approved,Aage Kristiansen
+EXP-50264,Gabriel Eisner,Marketing,Hotel,2026-06-13,546.23,Rejected,Gabriel Eisner
+EXP-50265,Päivi Lehtonen,Quality,Flight,2026-06-19,1812.02,Pending,Cyprian Piguła
+EXP-50266,Beatrice Strasser,Engineering,Meals,2026-07-30,85.53,Pending,Jenni Kauppinen
+EXP-50267,Johanna Koski,Operations,Client entertainment,2026-04-10,235.38,Paid,Vito Draxler
+EXP-50268,Fernando Machado,Procurement,Flight,2026-04-06,476.42,Paid,Trine Søndergaard
+EXP-50269,Axel Glatz,Operations,Hotel,2026-04-01,416.58,Approved,Vito Draxler
+EXP-50270,Elena Garcés,Operations,Flight,2026-04-01,2157.38,Paid,Vito Draxler
+EXP-50271,Aleksi Asikainen,Engineering,Mileage,2026-08-14,487.23,Paid,Jenni Kauppinen
+EXP-50272,Hannele Turunen,Executive Office,Mileage,2026-02-02,149.72,Approved,Hannele Turunen
+EXP-50273,Magdaléna Stejskal,Engineering,Client entertainment,2026-09-09,532.23,Paid,Jenni Kauppinen
+EXP-50274,Maciej Mateńko,Procurement,Conference fee,2026-09-03,1613.98,Pending,Trine Søndergaard
+EXP-50275,Johanna Pietilä,Operations,Client entertainment,2026-05-15,346.77,Approved,Vito Draxler
+EXP-50276,Nádia Correia,Operations,Flight,2026-05-19,969.5,Paid,Vito Draxler
+EXP-50277,Emilia Anttila,Sales,Meals,2026-07-13,595.44,Pending,Tymoteusz Lizoń
+EXP-50278,Connie Frederiksen,Operations,Taxi,2026-03-25,247.83,Rejected,Vito Draxler
+EXP-50279,Katriina Harju,Operations,Meals,2026-02-25,346.71,Approved,Vito Draxler
+EXP-50280,Irmeli Laakso,Operations,Hotel,2026-09-07,93.06,Rejected,Vito Draxler
+EXP-50281,Denise Fabre,Engineering,Client entertainment,2026-06-15,400.5,Rejected,Jenni Kauppinen
+EXP-50282,Tola Kurtyka,Engineering,Conference fee,2026-06-25,1046.13,Approved,Jenni Kauppinen
+EXP-50283,Radovan Havel,Operations,Taxi,2026-04-28,408.53,Pending,Vito Draxler
+EXP-50284,Marius Mandl,Sales,Conference fee,2026-07-25,991.85,Approved,Tymoteusz Lizoń
+EXP-50285,Kamila Čechová,Engineering,Flight,2026-07-22,669.98,Paid,Jenni Kauppinen
+EXP-50286,Maya Steffensen,Quality,Meals,2026-07-26,475.53,Pending,Cyprian Piguła
+EXP-50287,Lúcia Nunes,Engineering,Client entertainment,2026-04-20,171.2,Paid,Jenni Kauppinen
+EXP-50288,Kalevi Tarvainen,Operations,Taxi,2026-05-05,420.42,Approved,Vito Draxler
+EXP-50289,Vasyl Pešková,Engineering,Meals,2026-01-18,483.85,Rejected,Jenni Kauppinen
+EXP-50290,Gabriela Almeida,Procurement,Flight,2026-01-07,1535.02,Approved,Trine Søndergaard
+EXP-50291,Francisco Borges,Marketing,Meals,2026-06-03,252.06,Pending,Gabriel Eisner
+EXP-50292,Jacinta Bru,Operations,Conference fee,2026-06-19,63.41,Approved,Vito Draxler
+EXP-50293,Xavier Santos,Marketing,Meals,2026-02-14,235.51,Pending,Gabriel Eisner
+EXP-50294,Darko Fleischmann,Engineering,Hotel,2026-08-20,465.79,Approved,Jenni Kauppinen
+EXP-50295,Verneri Martikainen,Human Resources,Mileage,2026-07-03,317.94,Rejected,Aage Kristiansen
+EXP-50296,Sophia Hofstätter,Operations,Meals,2026-04-05,20.38,Approved,Vito Draxler
+EXP-50297,Suzanne Perez,Quality,Hotel,2026-07-14,329.39,Paid,Cyprian Piguła
+EXP-50298,Mia Guerreiro,Operations,Flight,2026-07-22,2217.51,Pending,Vito Draxler
+EXP-50299,Laurenz Kappel,Operations,Hotel,2026-08-31,454.9,Approved,Vito Draxler
+EXP-50300,Cezary Grzelec,Engineering,Hotel,2026-08-19,305.62,Pending,Jenni Kauppinen
+EXP-50301,Johannes Häkkinen,Engineering,Hotel,2026-03-23,493.76,Rejected,Jenni Kauppinen
+EXP-50302,Luděk Němečková,Operations,Conference fee,2026-07-12,858.92,Paid,Vito Draxler
+EXP-50303,Doris Bech,Sales,Conference fee,2026-05-15,2338.52,Rejected,Tymoteusz Lizoń
+EXP-50304,Antti Jokinen,Sales,Meals,2026-08-04,565.97,Approved,Tymoteusz Lizoń
+EXP-50305,Maricela Buendía,Engineering,Meals,2026-06-30,110.8,Approved,Jenni Kauppinen
+EXP-50306,Marjaana Tiainen,IT,Meals,2026-02-05,248.86,Approved,Emmi Rantanen
+EXP-50307,Lauri Kokko,Finance,Hotel,2026-01-17,230.86,Rejected,Anna Kuisma
+EXP-50308,Mira Piirainen,Sales,Conference fee,2026-02-17,668.34,Approved,Tymoteusz Lizoń
+EXP-50309,Samuel Kurki,Quality,Conference fee,2026-01-08,1327.17,Approved,Cyprian Piguła
+EXP-50310,Leoš Vaněk,Operations,Client entertainment,2026-06-26,248.38,Paid,Vito Draxler
+EXP-50311,Luna Simões,Legal & Compliance,Taxi,2026-02-28,414.53,Rejected,Oskari Martikainen
+EXP-50312,Cezary Grzelec,Engineering,Flight,2026-07-05,490.2,Approved,Jenni Kauppinen
+EXP-50313,Nina Niemelä,Procurement,Mileage,2026-07-27,448.93,Approved,Trine Søndergaard
+EXP-50314,Aurora Heikkilä,IT,Conference fee,2026-02-10,908.16,Approved,Emmi Rantanen
+EXP-50315,Nádia Brito,Executive Office,Taxi,2026-03-01,371.56,Rejected,Hannele Turunen
+EXP-50316,Irene Lindqvist,IT,Meals,2026-07-27,474.12,Pending,Emmi Rantanen
+EXP-50317,Jose Manuel Ibarra,Operations,Hotel,2026-01-10,431.28,Paid,Vito Draxler
+EXP-50318,Jozef Horáček,Operations,Mileage,2026-03-08,158.57,Rejected,Vito Draxler
+EXP-50319,Aitana Aguilera,Quality,Mileage,2026-07-10,131.54,Approved,Cyprian Piguła
+EXP-50320,Tapio Kinnunen,Marketing,Conference fee,2026-04-24,422.38,Paid,Gabriel Eisner
+EXP-50321,Jouko Lehtimäki,Quality,Meals,2026-02-27,168.25,Rejected,Cyprian Piguła
+EXP-50322,Freja Gregersen,Sales,Taxi,2026-03-02,292.95,Approved,Tymoteusz Lizoń
+EXP-50323,Heikki Anttila,Procurement,Conference fee,2026-03-14,287.67,Paid,Trine Søndergaard
+EXP-50324,Olavi Tuominen,Legal & Compliance,Client entertainment,2026-02-21,292.02,Paid,Oskari Martikainen
+EXP-50325,Carlota Barros,Operations,Conference fee,2026-01-31,2072.55,Approved,Vito Draxler
+EXP-50326,Georges Albert,Operations,Mileage,2026-05-08,21.7,Rejected,Vito Draxler
+EXP-50327,Tola Łokietek,IT,Meals,2026-06-21,495.88,Paid,Emmi Rantanen
+EXP-50328,Kaija Lehtinen,Human Resources,Flight,2026-03-31,142.61,Paid,Aage Kristiansen
+EXP-50329,Marvin Neumayer,Operations,Mileage,2026-03-23,21.92,Paid,Vito Draxler
+EXP-50330,Gabriela Almeida,Procurement,Conference fee,2026-06-15,1801.34,Approved,Trine Søndergaard
+EXP-50331,Christoph Leibetseder,Operations,Conference fee,2026-09-04,306.78,Rejected,Vito Draxler
+EXP-50332,Wilson Magalhães,Human Resources,Hotel,2026-01-11,452.0,Paid,Aage Kristiansen
+EXP-50333,Zora Krejčová,Sales,Mileage,2026-08-05,159.51,Paid,Tymoteusz Lizoń
+EXP-50334,Elisabeth Hänninen,Finance,Taxi,2026-07-17,472.25,Paid,Anna Kuisma
+EXP-50335,Petri Karhunen,Procurement,Mileage,2026-03-14,43.92,Paid,Trine Søndergaard
+EXP-50336,Zuzana Navrátilová,Sales,Flight,2026-02-06,1745.21,Rejected,Tymoteusz Lizoń
+EXP-50337,Clímaco Sandoval,Quality,Hotel,2026-09-18,56.93,Approved,Cyprian Piguła
+EXP-50338,Kimmo Nieminen,Procurement,Meals,2026-01-13,498.97,Approved,Trine Søndergaard
+EXP-50339,Susan Lucas,Engineering,Taxi,2026-02-03,102.41,Pending,Jenni Kauppinen
+EXP-50340,Iida Kangas,Finance,Taxi,2026-01-09,360.25,Approved,Anna Kuisma
+EXP-50341,Laurent Fouquet,Operations,Meals,2026-06-25,113.57,Paid,Vito Draxler
+EXP-50342,Elisabeth Laukkanen,Procurement,Conference fee,2026-06-05,1004.41,Paid,Trine Søndergaard
+EXP-50343,Ina Schlögl,Operations,Hotel,2026-03-06,522.96,Approved,Vito Draxler
+EXP-50344,Wojciech Heinrich,Engineering,Taxi,2026-04-17,394.42,Approved,Jenni Kauppinen
+EXP-50345,Riikka Mäenpää,Marketing,Flight,2026-01-16,576.19,Pending,Gabriel Eisner
+EXP-50346,Natan Eisner,Operations,Meals,2026-05-06,481.71,Approved,Vito Draxler
+EXP-50347,Bartek Tomaszczyk,Engineering,Taxi,2026-01-31,145.75,Rejected,Jenni Kauppinen
+EXP-50348,Tommy Friis,Quality,Client entertainment,2026-04-15,205.62,Approved,Cyprian Piguła
+EXP-50349,Clémence Pasquier,Operations,Flight,2026-05-19,1885.98,Approved,Vito Draxler
+EXP-50350,Olavi Tuominen,Legal & Compliance,Meals,2026-04-06,310.91,Rejected,Oskari Martikainen
+EXP-50351,Lubomír Novák,Operations,Taxi,2026-02-21,370.11,Approved,Vito Draxler
+EXP-50352,Hannele Oksanen,Engineering,Mileage,2026-05-14,480.9,Paid,Jenni Kauppinen
+EXP-50353,Antero Holmström,IT,Hotel,2026-08-04,68.44,Approved,Emmi Rantanen
+EXP-50354,Nádia Brito,Executive Office,Client entertainment,2026-07-10,198.57,Paid,Hannele Turunen
+EXP-50355,Adélaïde Pierre,Operations,Conference fee,2026-07-01,1101.43,Paid,Vito Draxler
+EXP-50356,Maire Turunen,Operations,Taxi,2026-07-09,162.93,Approved,Vito Draxler
+EXP-50357,Louis Boyer,Engineering,Flight,2026-08-24,824.08,Approved,Jenni Kauppinen
+EXP-50358,Tarja Saastamoinen,Legal & Compliance,Meals,2026-09-16,84.14,Approved,Oskari Martikainen
+EXP-50359,Taina Huotari,Operations,Client entertainment,2026-06-16,113.28,Approved,Vito Draxler
+EXP-50360,Axel Glatz,Operations,Hotel,2026-03-16,20.38,Paid,Vito Draxler
+EXP-50361,Madalena Teixeira,Finance,Meals,2026-09-12,410.95,Approved,Anna Kuisma
+EXP-50362,Alena Růžičková,Operations,Meals,2026-08-24,194.41,Pending,Vito Draxler
+EXP-50363,Jasmina Steurer,Engineering,Meals,2026-02-22,113.94,Approved,Jenni Kauppinen
+EXP-50364,Adèle Duhamel,Engineering,Meals,2026-02-24,277.21,Approved,Jenni Kauppinen
+EXP-50365,Tapani Lipponen,Executive Office,Client entertainment,2026-07-14,76.01,Paid,Hannele Turunen
+EXP-50366,Charles Renault,Operations,Taxi,2026-06-28,89.38,Paid,Vito Draxler
+EXP-50367,Johanna Halonen,IT,Client entertainment,2026-06-12,127.87,Pending,Emmi Rantanen
+EXP-50368,Hannu Puustinen,Operations,Flight,2026-01-02,1425.53,Rejected,Vito Draxler
+EXP-50369,Hannele Haataja,Human Resources,Meals,2026-06-11,247.77,Approved,Aage Kristiansen
+EXP-50370,Vasyl Pešková,Engineering,Taxi,2026-08-09,101.49,Approved,Jenni Kauppinen
+EXP-50371,Jaime Matos,Procurement,Meals,2026-01-17,128.1,Paid,Trine Søndergaard
+EXP-50372,Martim Pinho,IT,Conference fee,2026-07-20,290.73,Paid,Emmi Rantanen
+EXP-50373,Steven Kain,Operations,Client entertainment,2026-08-10,383.13,Paid,Vito Draxler
+EXP-50374,Tapio Kinnunen,Marketing,Conference fee,2026-04-20,470.64,Pending,Gabriel Eisner
+EXP-50375,Jacqueline Marion,Engineering,Conference fee,2026-04-04,504.46,Approved,Jenni Kauppinen
+EXP-50376,Beth Poulsen,Sales,Taxi,2026-08-01,230.29,Approved,Tymoteusz Lizoń
+EXP-50377,Jukka Ketola,Marketing,Conference fee,2026-05-24,393.4,Paid,Gabriel Eisner
+EXP-50378,Heidi Penttilä,Legal & Compliance,Client entertainment,2026-02-22,184.63,Rejected,Oskari Martikainen
+EXP-50379,Luciana Cruz,Procurement,Taxi,2026-08-30,376.99,Pending,Trine Søndergaard
+EXP-50380,Joona Järvinen,Legal & Compliance,Taxi,2026-04-26,151.59,Approved,Oskari Martikainen
+EXP-50381,Alina Vainio,Legal & Compliance,Taxi,2026-03-30,589.53,Approved,Oskari Martikainen
+EXP-50382,Monika Parkitny,Operations,Mileage,2026-06-18,464.71,Approved,Vito Draxler
+EXP-50383,Cláudio Cruz,Operations,Meals,2026-05-18,366.32,Rejected,Vito Draxler
+EXP-50384,Isidro Correa,Operations,Mileage,2026-04-15,312.78,Approved,Vito Draxler
+EXP-50385,Renata Pereira,Operations,Client entertainment,2026-07-31,68.08,Approved,Vito Draxler
+EXP-50386,Mia Guerreiro,Operations,Flight,2026-04-16,1974.62,Pending,Vito Draxler
+EXP-50387,Diogo Domingues,Engineering,Meals,2026-03-28,163.79,Paid,Jenni Kauppinen
+EXP-50388,Noa Figueiredo,Operations,Flight,2026-02-09,673.96,Approved,Vito Draxler
+EXP-50389,Sebastian Szyda,Marketing,Flight,2026-05-18,940.53,Rejected,Gabriel Eisner
+EXP-50390,Kaarina Pesonen,Procurement,Client entertainment,2026-06-27,83.21,Approved,Trine Søndergaard
+EXP-50391,Lidia Ragus,Operations,Mileage,2026-03-16,542.34,Approved,Vito Draxler
+EXP-50392,Olivia Aramburu,Operations,Flight,2026-08-25,1536.46,Rejected,Vito Draxler
+EXP-50393,Hannele Haataja,Human Resources,Conference fee,2026-08-17,961.76,Pending,Aage Kristiansen
+EXP-50394,Minna Ylitalo,Marketing,Flight,2026-01-03,2142.01,Rejected,Gabriel Eisner
+EXP-50395,Madalena Teixeira,Finance,Meals,2026-07-26,428.28,Paid,Anna Kuisma
+EXP-50396,Katriina Markkanen,Executive Office,Taxi,2026-06-07,27.0,Approved,Hannele Turunen
+EXP-50397,Christine Sanchez,Operations,Conference fee,2026-07-27,1166.15,Rejected,Vito Draxler
+EXP-50398,Borys Skomra,Operations,Flight,2026-07-13,838.01,Approved,Vito Draxler
+EXP-50399,Jose Angel Cerro,Engineering,Hotel,2026-04-08,330.71,Paid,Jenni Kauppinen
+EXP-50400,Tanja Rasmussen,Quality,Hotel,2026-09-06,591.79,Pending,Cyprian Piguła
+EXP-50401,Lúcia Nunes,Engineering,Hotel,2026-07-01,108.22,Approved,Jenni Kauppinen
+EXP-50402,Arkadiusz Sądej,Operations,Flight,2026-03-13,1494.15,Rejected,Vito Draxler
+EXP-50403,Maciej Mateńko,Procurement,Taxi,2026-05-28,238.85,Rejected,Trine Søndergaard
+EXP-50404,Olavi Ikonen,Human Resources,Conference fee,2026-03-22,2133.53,Rejected,Aage Kristiansen
+EXP-50405,Aino Nieminen,Finance,Hotel,2026-01-04,180.1,Approved,Anna Kuisma
+EXP-50406,Susan Lucas,Engineering,Flight,2026-02-15,2289.36,Approved,Jenni Kauppinen
+EXP-50407,Luis Bayer,Quality,Flight,2026-02-27,1997.84,Rejected,Cyprian Piguła
+EXP-50408,Inkeri Järvenpää,Operations,Taxi,2026-04-17,239.09,Rejected,Vito Draxler
+EXP-50409,Magdaléna Stejskal,Engineering,Flight,2026-04-21,1502.56,Approved,Jenni Kauppinen
+EXP-50410,Maria Karlsson,Sales,Taxi,2026-08-26,208.04,Approved,Tymoteusz Lizoń
+EXP-50411,Alfred Philippe,Operations,Conference fee,2026-03-16,1282.72,Rejected,Vito Draxler
+EXP-50412,Bartek Uroda,Quality,Conference fee,2026-03-02,371.36,Rejected,Cyprian Piguła
+EXP-50413,Seppo Saarinen,Legal & Compliance,Meals,2026-02-12,152.6,Approved,Oskari Martikainen
+EXP-50414,Sara Margas,Engineering,Client entertainment,2026-08-13,158.17,Approved,Jenni Kauppinen
+EXP-50415,Emilia Saarinen,Finance,Taxi,2026-05-08,262.14,Approved,Anna Kuisma
+EXP-50416,Rémy Masse,Operations,Meals,2026-07-20,445.67,Approved,Vito Draxler
+EXP-50417,Leoncio Castell,Engineering,Taxi,2026-03-07,187.16,Approved,Jenni Kauppinen
+EXP-50418,Beatrice Strasser,Engineering,Mileage,2026-03-29,588.49,Rejected,Jenni Kauppinen
+EXP-50419,Kristian Schramm,Quality,Conference fee,2026-09-01,2084.3,Approved,Cyprian Piguła
+EXP-50420,Olga Duszczak,Marketing,Flight,2026-01-22,1286.67,Rejected,Gabriel Eisner
+EXP-50421,Elżbieta Kaczka,Human Resources,Hotel,2026-08-22,162.61,Pending,Aage Kristiansen
+EXP-50422,Timo Mattila,Marketing,Meals,2026-08-27,534.02,Approved,Gabriel Eisner
+EXP-50423,Jovana Meier,Engineering,Flight,2026-04-24,1799.12,Approved,Jenni Kauppinen
+EXP-50424,Ritva Soininen,Engineering,Flight,2026-05-14,1197.95,Rejected,Jenni Kauppinen
+EXP-50425,Christian Palomäki,Procurement,Flight,2026-05-15,2391.87,Paid,Trine Søndergaard
+EXP-50426,Leo Korhonen,Sales,Hotel,2026-06-27,404.06,Paid,Tymoteusz Lizoń
+EXP-50427,Ana Sofía Miralles,Operations,Hotel,2026-04-24,247.72,Approved,Vito Draxler
+EXP-50428,Ângela Henriques,Quality,Hotel,2026-04-24,294.34,Pending,Cyprian Piguła
+EXP-50429,Diego Alves,Sales,Mileage,2026-01-12,397.13,Rejected,Tymoteusz Lizoń
+EXP-50430,Ville Eriksson,Human Resources,Conference fee,2026-02-04,898.76,Rejected,Aage Kristiansen
+EXP-50431,Leoncio Castell,Engineering,Flight,2026-07-04,333.22,Approved,Jenni Kauppinen
+EXP-50432,Guilherme Ribeiro,IT,Mileage,2026-04-12,365.8,Pending,Emmi Rantanen
+EXP-50433,Mojmír Král,Operations,Meals,2026-04-27,576.86,Pending,Vito Draxler
+EXP-50434,Laurenz Kappel,Operations,Conference fee,2026-09-07,901.18,Approved,Vito Draxler
+EXP-50435,Jannie Kristensen,Sales,Mileage,2026-02-14,289.48,Rejected,Tymoteusz Lizoń
+EXP-50436,Ina Schlögl,Operations,Flight,2026-01-13,807.66,Rejected,Vito Draxler
+EXP-50437,Jędrzej Kulis,Marketing,Client entertainment,2026-06-26,255.0,Paid,Gabriel Eisner
+EXP-50438,Olgierd Skalik,Operations,Taxi,2026-07-29,200.32,Approved,Vito Draxler
+EXP-50439,Tonny Petersen,Operations,Meals,2026-05-16,200.64,Approved,Vito Draxler
+EXP-50440,Kalervo Niemi,Finance,Hotel,2026-03-22,580.15,Approved,Anna Kuisma
+EXP-50441,Sanna Silvennoinen,IT,Flight,2026-01-20,879.03,Paid,Emmi Rantanen
+EXP-50442,Carlota Barros,Operations,Flight,2026-07-12,1709.31,Approved,Vito Draxler
+EXP-50443,Nadja Holzmann,Operations,Meals,2026-07-09,176.69,Approved,Vito Draxler
+EXP-50444,Bartek Jeżyna,IT,Taxi,2026-05-03,329.16,Approved,Emmi Rantanen
+EXP-50445,Päivi Lehtonen,Quality,Flight,2026-08-29,487.79,Pending,Cyprian Piguła
+EXP-50446,Angelita Llanos,Engineering,Client entertainment,2026-09-11,547.96,Approved,Jenni Kauppinen
+EXP-50447,Kimmo Nieminen,Procurement,Hotel,2026-08-22,400.53,Rejected,Trine Søndergaard
+EXP-50448,Leoncio Castell,Engineering,Hotel,2026-05-22,549.14,Approved,Jenni Kauppinen
+EXP-50449,Gabriel Pacheco,Engineering,Taxi,2026-07-21,169.14,Approved,Jenni Kauppinen
+EXP-50450,Juhani Simonen,Marketing,Conference fee,2026-03-14,102.52,Rejected,Gabriel Eisner
+EXP-50451,Laetitia Leroux,Sales,Taxi,2026-03-13,344.94,Pending,Tymoteusz Lizoń
+EXP-50452,Kristina Leino,Executive Office,Flight,2026-04-27,1890.1,Rejected,Hannele Turunen
+EXP-50453,Charles Renault,Operations,Client entertainment,2026-03-02,28.42,Rejected,Vito Draxler
+EXP-50454,Taina Auvinen,Human Resources,Meals,2026-01-13,356.08,Approved,Aage Kristiansen
+EXP-50455,Blahoslav Petrová,Sales,Client entertainment,2026-08-19,222.16,Approved,Tymoteusz Lizoń
+EXP-50456,Christelle Renault,Engineering,Client entertainment,2026-07-05,283.99,Rejected,Jenni Kauppinen
+EXP-50457,Miguela Moraleda,Sales,Client entertainment,2026-05-27,356.27,Approved,Tymoteusz Lizoń
+EXP-50458,Katriina Kuisma,Procurement,Client entertainment,2026-08-03,17.13,Approved,Trine Søndergaard
+EXP-50459,Jonathan Simonsen,Operations,Client entertainment,2026-06-05,398.41,Rejected,Vito Draxler
+EXP-50460,Marthe Andre,Operations,Hotel,2026-09-11,283.73,Paid,Vito Draxler
+EXP-50461,Lubomír Novák,Operations,Mileage,2026-05-23,358.94,Approved,Vito Draxler
+EXP-50462,Seppo Saarinen,Legal & Compliance,Conference fee,2026-06-02,1504.3,Pending,Oskari Martikainen
+EXP-50463,Laura Branco,Human Resources,Meals,2026-06-19,267.42,Approved,Aage Kristiansen
+EXP-50464,Tomasz Hass,Human Resources,Mileage,2026-04-12,136.21,Approved,Aage Kristiansen
+EXP-50465,Tatiana Maia,Engineering,Conference fee,2026-04-24,111.0,Pending,Jenni Kauppinen
+EXP-50466,Vasco Valente,Operations,Hotel,2026-02-14,378.39,Approved,Vito Draxler
+EXP-50467,Kaarina Pesonen,Procurement,Taxi,2026-07-14,51.96,Pending,Trine Søndergaard
+EXP-50468,Isabela Ribeiro,Procurement,Taxi,2026-09-11,507.24,Pending,Trine Søndergaard
+EXP-50469,Margaret Bonnet,Sales,Mileage,2026-08-09,534.72,Pending,Tymoteusz Lizoń
+EXP-50470,Veera Sutinen,Engineering,Client entertainment,2026-03-04,510.7,Rejected,Jenni Kauppinen
+EXP-50471,Grzegorz Zapaśnik,Operations,Meals,2026-05-29,550.99,Approved,Vito Draxler
+EXP-50472,Julianna Chwalisz,Operations,Client entertainment,2026-05-13,496.18,Pending,Vito Draxler
+EXP-50473,Heidi Penttilä,Legal & Compliance,Client entertainment,2026-06-06,221.24,Approved,Oskari Martikainen
+EXP-50474,Virgilio Villanueva,Engineering,Meals,2026-08-30,242.75,Paid,Jenni Kauppinen
+EXP-50475,Marco Anjos,Sales,Mileage,2026-04-04,555.43,Pending,Tymoteusz Lizoń
+EXP-50476,Kyllikki Valkonen,Executive Office,Meals,2026-01-11,64.31,Pending,Hannele Turunen
+EXP-50477,Kristiina Martikainen,Operations,Conference fee,2026-06-23,699.33,Paid,Vito Draxler
+EXP-50478,Adèle Duhamel,Engineering,Flight,2026-08-28,517.06,Rejected,Jenni Kauppinen
+EXP-50479,Ascensión Beltrán,Operations,Conference fee,2026-02-03,1913.8,Rejected,Vito Draxler
+EXP-50480,Aurelia Toczko,Operations,Mileage,2026-04-22,494.95,Approved,Vito Draxler
+EXP-50481,Alice Domingues,Operations,Client entertainment,2026-08-29,239.24,Rejected,Vito Draxler
+EXP-50482,Jannie Kristensen,Sales,Client entertainment,2026-04-30,522.01,Approved,Tymoteusz Lizoń
+EXP-50483,Antoni Hajder,Operations,Client entertainment,2026-05-10,142.91,Rejected,Vito Draxler
+EXP-50484,Bartek Tomaszczyk,Engineering,Client entertainment,2026-04-06,71.67,Rejected,Jenni Kauppinen
+EXP-50485,Paulo Morais,IT,Conference fee,2026-05-30,1336.7,Rejected,Emmi Rantanen
+EXP-50486,Victoria Arjona,Operations,Flight,2026-04-04,835.2,Approved,Vito Draxler
+EXP-50487,Francisco Borges,Marketing,Taxi,2026-06-15,174.28,Approved,Gabriel Eisner
+EXP-50488,Piotr Noszczyk,Operations,Taxi,2026-03-11,96.23,Approved,Vito Draxler
+EXP-50489,Tapio Järvi,Procurement,Client entertainment,2026-06-22,144.4,Paid,Trine Søndergaard
+EXP-50490,Olgierd Parkitna,Operations,Meals,2026-04-02,93.4,Pending,Vito Draxler
+EXP-50491,Nina Niemelä,Procurement,Taxi,2026-07-24,372.06,Pending,Trine Søndergaard
+EXP-50492,Ari Vainio,Human Resources,Taxi,2026-03-08,110.06,Paid,Aage Kristiansen
+EXP-50493,Clémence Pasquier,Operations,Hotel,2026-05-01,35.12,Rejected,Vito Draxler
+EXP-50494,Annabelle Santner,Operations,Mileage,2026-01-09,467.84,Pending,Vito Draxler
+EXP-50495,Francisco Borges,Marketing,Mileage,2026-03-02,406.01,Approved,Gabriel Eisner
+EXP-50496,Radovan Havel,Operations,Client entertainment,2026-02-05,68.31,Rejected,Vito Draxler
+EXP-50497,Bartek Ofiara,Procurement,Flight,2026-04-07,234.85,Pending,Trine Søndergaard
+EXP-50498,Bartek Jeżyna,IT,Flight,2026-03-20,603.49,Paid,Emmi Rantanen
+EXP-50499,Bartek Ofiara,Procurement,Meals,2026-02-14,157.76,Approved,Trine Søndergaard
+EXP-50500,Jiřina Tůma,Sales,Meals,2026-01-20,548.92,Paid,Tymoteusz Lizoń
+EXP-50501,Paco Alcántara,Operations,Conference fee,2026-04-12,2086.19,Paid,Vito Draxler
+EXP-50502,Karina Ogłaza,Finance,Mileage,2026-03-28,328.0,Paid,Anna Kuisma
+EXP-50503,Zehnia Søndergaard,Sales,Mileage,2026-01-20,430.6,Approved,Tymoteusz Lizoń
+EXP-50504,Charles Renault,Operations,Mileage,2026-05-31,206.83,Rejected,Vito Draxler
+EXP-50505,Chus Leon,Quality,Meals,2026-05-19,339.33,Approved,Cyprian Piguła
+EXP-50506,Fernando Freitas,Sales,Hotel,2026-03-16,435.6,Paid,Tymoteusz Lizoń
+EXP-50507,Felix Kopecký,Operations,Hotel,2026-01-21,61.26,Approved,Vito Draxler
+EXP-50508,Pastor Salmerón,Operations,Meals,2026-03-10,275.11,Approved,Vito Draxler
+EXP-50509,Gabriel Żółtek,Procurement,Client entertainment,2026-05-10,254.71,Paid,Trine Søndergaard
+EXP-50510,Laura Branco,Human Resources,Hotel,2026-04-14,159.7,Approved,Aage Kristiansen
+EXP-50511,Dafne Zurita,Operations,Mileage,2026-04-22,392.5,Pending,Vito Draxler
+EXP-50512,Kaisa Lampinen,Finance,Client entertainment,2026-09-05,378.14,Approved,Anna Kuisma
+EXP-50513,Elias Kainz,Operations,Conference fee,2026-02-13,1355.14,Approved,Vito Draxler
+EXP-50514,Zuzana Navrátilová,Sales,Conference fee,2026-07-01,554.0,Rejected,Tymoteusz Lizoń
+EXP-50515,Carolina Almeida,Operations,Conference fee,2026-07-11,842.88,Rejected,Vito Draxler
+EXP-50516,Marco Anjos,Sales,Hotel,2026-05-24,409.4,Approved,Tymoteusz Lizoń
+EXP-50517,Mia Guerreiro,Operations,Hotel,2026-07-16,421.12,Approved,Vito Draxler
+EXP-50518,Jannie Christoffersen,Operations,Taxi,2026-03-26,12.27,Pending,Vito Draxler
+EXP-50519,Susanne Da Costa,Sales,Meals,2026-04-22,333.38,Pending,Tymoteusz Lizoń
+EXP-50520,Juan Francisco Marti,Operations,Meals,2026-05-14,266.39,Rejected,Vito Draxler
+EXP-50521,Poul Rasmussen,Operations,Hotel,2026-08-14,48.78,Rejected,Vito Draxler
+EXP-50522,Beth Poulsen,Sales,Meals,2026-09-10,378.14,Paid,Tymoteusz Lizoń
+EXP-50523,Vito Draxler,Operations,Client entertainment,2026-03-16,344.73,Paid,Vito Draxler
+EXP-50524,Carl Gregersen,Operations,Flight,2026-03-28,1708.23,Approved,Vito Draxler
+EXP-50525,Kimmo Nieminen,Procurement,Hotel,2026-08-04,482.85,Rejected,Trine Søndergaard
+EXP-50526,Leo Korhonen,Sales,Conference fee,2026-08-29,244.69,Rejected,Tymoteusz Lizoń
+EXP-50527,Perla Pera,Operations,Flight,2026-03-13,1943.7,Approved,Vito Draxler
+EXP-50528,Freja Gregersen,Sales,Mileage,2026-01-11,90.51,Rejected,Tymoteusz Lizoń
+EXP-50529,Elżbieta Oleszczak,IT,Taxi,2026-01-24,312.46,Pending,Emmi Rantanen
+EXP-50530,Ilmari Kuisma,Legal & Compliance,Hotel,2026-01-30,320.93,Paid,Oskari Martikainen
+EXP-50531,Heikki Koskinen,Operations,Hotel,2026-08-24,522.07,Paid,Vito Draxler
+EXP-50532,Rita Valente,Operations,Taxi,2026-07-11,244.09,Paid,Vito Draxler
+EXP-50533,Laurent Fouquet,Operations,Flight,2026-04-29,934.0,Rejected,Vito Draxler
+EXP-50534,Roosa Virtanen,Human Resources,Mileage,2026-01-21,400.33,Approved,Aage Kristiansen
+EXP-50535,Rafaela Figueiredo,Procurement,Hotel,2026-04-01,387.37,Paid,Trine Søndergaard
+EXP-50536,Isabela Ribeiro,Procurement,Flight,2026-05-25,310.16,Pending,Trine Søndergaard
+EXP-50537,Yasmina Feigl,Operations,Taxi,2026-05-19,58.68,Pending,Vito Draxler
+EXP-50538,Jussi Karppinen,IT,Meals,2026-03-01,67.91,Pending,Emmi Rantanen
+EXP-50539,Ari Vainio,Human Resources,Taxi,2026-01-11,482.61,Rejected,Aage Kristiansen
+EXP-50540,Adélaïde Pierre,Operations,Flight,2026-01-09,1974.94,Approved,Vito Draxler
+EXP-50541,Lidia Ragus,Operations,Meals,2026-09-09,148.85,Pending,Vito Draxler
+EXP-50542,Raimo Mäkinen,Engineering,Meals,2026-08-18,23.97,Paid,Jenni Kauppinen
+EXP-50543,Seija Sirviö,Operations,Mileage,2026-07-31,559.61,Rejected,Vito Draxler
+EXP-50544,Emilia Anttila,Sales,Flight,2026-01-07,30.88,Rejected,Tymoteusz Lizoń
+EXP-50545,Jannie Christoffersen,Operations,Conference fee,2026-08-22,544.51,Paid,Vito Draxler
+EXP-50546,Minna Ojala,IT,Hotel,2026-04-14,512.04,Paid,Emmi Rantanen
+EXP-50547,Mari Keränen,Finance,Hotel,2026-03-09,504.86,Approved,Anna Kuisma
+EXP-50548,Mojmír Král,Operations,Conference fee,2026-06-14,1315.67,Approved,Vito Draxler
+EXP-50549,Vasyl Pešková,Engineering,Taxi,2026-05-20,399.82,Paid,Jenni Kauppinen
+EXP-50550,Ruy Gutiérrez,Operations,Client entertainment,2026-07-06,566.08,Paid,Vito Draxler
+EXP-50551,Adalberto Peral,Engineering,Mileage,2026-07-01,45.53,Approved,Jenni Kauppinen
+EXP-50552,Jarmo Pesonen,Sales,Meals,2026-06-16,168.38,Paid,Tymoteusz Lizoń
+EXP-50553,Raimo Mäkinen,Engineering,Mileage,2026-02-15,362.83,Rejected,Jenni Kauppinen
+EXP-50554,Lucie Matějková,Sales,Meals,2026-09-06,191.08,Approved,Tymoteusz Lizoń
+EXP-50555,Heidi Schultz,Operations,Meals,2026-06-22,474.73,Approved,Vito Draxler
+EXP-50556,Minna Laine,Legal & Compliance,Mileage,2026-09-04,353.88,Pending,Oskari Martikainen
+EXP-50557,Ignác Ježková,Engineering,Client entertainment,2026-07-27,471.37,Approved,Jenni Kauppinen
+EXP-50558,Joona Järvinen,Legal & Compliance,Client entertainment,2026-08-01,589.54,Paid,Oskari Martikainen
+EXP-50559,Adélaïde Pierre,Operations,Taxi,2026-08-17,323.6,Rejected,Vito Draxler
+EXP-50560,Luis Bayer,Quality,Hotel,2026-02-03,83.28,Rejected,Cyprian Piguła
+EXP-50561,Elisabeth Hänninen,Finance,Conference fee,2026-04-14,2363.8,Approved,Anna Kuisma
+EXP-50562,Gustaw Leszcz,IT,Mileage,2026-03-18,244.25,Approved,Emmi Rantanen
+EXP-50563,Alexandre Pinheiro,Quality,Mileage,2026-03-31,288.73,Approved,Cyprian Piguła
+EXP-50564,Konrad Topa,Procurement,Client entertainment,2026-04-10,341.57,Pending,Trine Søndergaard
+EXP-50565,Ensio Valtonen,Finance,Client entertainment,2026-09-03,158.34,Pending,Anna Kuisma
+EXP-50566,Iida Kuisma,Marketing,Taxi,2026-01-10,212.77,Paid,Gabriel Eisner
+EXP-50567,Sofia Erlacher,Engineering,Flight,2026-04-30,1767.65,Pending,Jenni Kauppinen
+EXP-50568,Vasco Valente,Operations,Taxi,2026-08-28,51.25,Rejected,Vito Draxler
+EXP-50569,Ragnar Pedersen,Engineering,Mileage,2026-07-16,238.71,Approved,Jenni Kauppinen
+EXP-50570,Benoît Roux,Sales,Client entertainment,2026-03-28,354.93,Paid,Tymoteusz Lizoń
+EXP-50571,Mirjami Nurmi,IT,Taxi,2026-01-18,83.57,Approved,Emmi Rantanen
+EXP-50572,Sten Krogh,Engineering,Client entertainment,2026-07-28,247.72,Paid,Jenni Kauppinen
+EXP-50573,Marthe Andre,Operations,Mileage,2026-02-11,255.16,Rejected,Vito Draxler
+EXP-50574,Janina Galuba,Operations,Mileage,2026-03-28,235.98,Approved,Vito Draxler
+EXP-50575,Borys Skomra,Operations,Conference fee,2026-01-02,2295.11,Approved,Vito Draxler
+EXP-50576,Christian Jenewein,Engineering,Hotel,2026-05-29,418.71,Rejected,Jenni Kauppinen
+EXP-50577,Aimé Leroux,Sales,Conference fee,2026-05-26,2268.27,Approved,Tymoteusz Lizoń
+EXP-50578,Filipa Miranda,Legal & Compliance,Hotel,2026-03-04,545.17,Approved,Oskari Martikainen
+EXP-50579,Antoine Lagarde,Operations,Conference fee,2026-09-14,591.06,Approved,Vito Draxler
+EXP-50580,Raimo Mäkinen,Engineering,Taxi,2026-01-27,460.94,Approved,Jenni Kauppinen
+EXP-50581,Maurice Jank,Operations,Meals,2026-03-11,118.48,Paid,Vito Draxler
+EXP-50582,Joakim Jepsen,Engineering,Meals,2026-09-16,45.29,Rejected,Jenni Kauppinen
+EXP-50583,Dafne Zurita,Operations,Meals,2026-02-28,474.06,Approved,Vito Draxler
+EXP-50584,Mélanie Nunes,Finance,Taxi,2026-02-16,338.8,Paid,Anna Kuisma
+EXP-50585,Lubomír Novák,Operations,Mileage,2026-03-28,166.16,Rejected,Vito Draxler
+EXP-50586,Robin Strnad,Operations,Conference fee,2026-08-27,1279.48,Approved,Vito Draxler
+EXP-50587,Esther Pröll,Operations,Taxi,2026-07-27,126.7,Paid,Vito Draxler
+EXP-50588,Perla Pera,Operations,Client entertainment,2026-08-14,155.1,Approved,Vito Draxler
+EXP-50589,Fernando Machado,Procurement,Conference fee,2026-09-02,95.73,Rejected,Trine Søndergaard
+EXP-50590,Seppo Saarinen,Legal & Compliance,Client entertainment,2026-02-10,179.79,Approved,Oskari Martikainen
+EXP-50591,Olavi Ikonen,Human Resources,Hotel,2026-08-07,232.63,Approved,Aage Kristiansen
+EXP-50592,Alexandra Heikkilä,Finance,Hotel,2026-04-09,53.8,Rejected,Anna Kuisma
+EXP-50593,Janina Galuba,Operations,Mileage,2026-01-15,330.87,Pending,Vito Draxler
+EXP-50594,Roosa Virtanen,Human Resources,Mileage,2026-06-26,275.64,Pending,Aage Kristiansen
+EXP-50595,Niklas Nieminen,Legal & Compliance,Meals,2026-01-26,196.83,Paid,Oskari Martikainen
+EXP-50596,Maria Rauhala,Engineering,Hotel,2026-06-20,137.15,Approved,Jenni Kauppinen
+EXP-50597,Mira Piirainen,Sales,Client entertainment,2026-02-06,557.2,Rejected,Tymoteusz Lizoń
+EXP-50598,Hellevi Koski,Human Resources,Flight,2026-09-04,1230.08,Paid,Aage Kristiansen
+EXP-50599,Laetitia Leroux,Sales,Flight,2026-04-11,1473.5,Approved,Tymoteusz Lizoń
+EXP-50600,Tapio Järvi,Procurement,Mileage,2026-07-03,349.22,Rejected,Trine Søndergaard
+EXP-50601,Virgilio Villanueva,Engineering,Meals,2026-06-16,535.38,Pending,Jenni Kauppinen
+EXP-50602,Sebastian Szyda,Marketing,Meals,2026-04-06,353.85,Paid,Gabriel Eisner
+EXP-50603,Heidi Penttilä,Legal & Compliance,Mileage,2026-06-20,131.62,Pending,Oskari Martikainen
+EXP-50604,Rafał Ciesielka,Operations,Flight,2026-03-03,129.94,Approved,Vito Draxler
+EXP-50605,Tapio Järvi,Procurement,Hotel,2026-01-25,565.23,Paid,Trine Søndergaard
+EXP-50606,Freja Gregersen,Sales,Mileage,2026-05-11,228.17,Rejected,Tymoteusz Lizoń
+EXP-50607,Alexandra Heikkilä,Finance,Meals,2026-08-22,234.51,Approved,Anna Kuisma
+EXP-50608,Jacinta Bru,Operations,Hotel,2026-08-04,107.9,Approved,Vito Draxler
+EXP-50609,Laurenz Kappel,Operations,Hotel,2026-05-08,415.29,Pending,Vito Draxler
+EXP-50610,Jovana Meier,Engineering,Flight,2026-02-23,1835.34,Approved,Jenni Kauppinen
+EXP-50611,André Clerc,Operations,Meals,2026-05-31,112.85,Paid,Vito Draxler
+EXP-50612,James Iversen,Engineering,Mileage,2026-02-25,528.03,Pending,Jenni Kauppinen
+EXP-50613,Adèle Duhamel,Engineering,Flight,2026-06-26,1272.27,Approved,Jenni Kauppinen
+EXP-50614,Karolína Matoušková,Sales,Hotel,2026-03-27,22.6,Rejected,Tymoteusz Lizoń
+EXP-50615,Nicole Pereira,Operations,Meals,2026-02-27,28.56,Rejected,Vito Draxler
+EXP-50616,Taina Huotari,Operations,Taxi,2026-09-10,93.81,Rejected,Vito Draxler
+EXP-50617,Tarja Saastamoinen,Legal & Compliance,Taxi,2026-05-24,521.75,Approved,Oskari Martikainen
+EXP-50618,Rafał Ciesielka,Operations,Mileage,2026-03-10,477.82,Rejected,Vito Draxler
+EXP-50619,Javi Hervás,Operations,Client entertainment,2026-05-05,149.95,Approved,Vito Draxler
+EXP-50620,Martim Pacheco,Quality,Hotel,2026-07-31,79.81,Approved,Cyprian Piguła
+EXP-50621,Tanja Partanen,Finance,Taxi,2026-02-27,440.02,Paid,Anna Kuisma
+EXP-50622,Alma Overgaard,Operations,Hotel,2026-01-19,261.68,Approved,Vito Draxler
+EXP-50623,Patrick Frank,Operations,Flight,2026-01-18,247.09,Approved,Vito Draxler
+EXP-50624,Lidia Ragus,Operations,Meals,2026-05-07,30.73,Approved,Vito Draxler
+EXP-50625,Maria Mikkola,Engineering,Meals,2026-07-02,93.34,Rejected,Jenni Kauppinen
+EXP-50626,Íris Marques,Sales,Conference fee,2026-04-03,152.83,Paid,Tymoteusz Lizoń
+EXP-50627,Pekka Kärkkäinen,Marketing,Taxi,2026-07-21,274.93,Approved,Gabriel Eisner
+EXP-50628,Iveta Beranová,Operations,Client entertainment,2026-03-09,341.3,Approved,Vito Draxler
+EXP-50629,Róża Miękina,Operations,Taxi,2026-05-16,169.94,Approved,Vito Draxler
+EXP-50630,Hubert Svoboda,Engineering,Meals,2026-02-13,447.45,Approved,Jenni Kauppinen
+EXP-50631,Jacinta Bru,Operations,Flight,2026-01-16,1418.63,Approved,Vito Draxler
+EXP-50632,Jorma Hakala,Engineering,Mileage,2026-06-03,379.99,Rejected,Jenni Kauppinen
+EXP-50633,Sanna Kosonen,Marketing,Flight,2026-04-12,670.92,Approved,Gabriel Eisner
+EXP-50634,Rodrigo Mota,Procurement,Hotel,2026-01-23,179.63,Pending,Trine Søndergaard
+EXP-50635,Maria Jokinen,Human Resources,Conference fee,2026-07-16,2132.87,Approved,Aage Kristiansen
+EXP-50636,Marcelina Proć,Engineering,Hotel,2026-03-26,36.76,Approved,Jenni Kauppinen
+EXP-50637,Ritva Soininen,Engineering,Meals,2026-04-12,317.74,Rejected,Jenni Kauppinen
+EXP-50638,Jannie Christoffersen,Operations,Conference fee,2026-05-27,32.55,Approved,Vito Draxler
+EXP-50639,Aitor Vara,Quality,Conference fee,2026-03-03,488.0,Approved,Cyprian Piguła
+EXP-50640,Albert Zeman,Engineering,Client entertainment,2026-02-23,556.53,Rejected,Jenni Kauppinen
+EXP-50641,Brigitte Diallo,Operations,Hotel,2026-06-12,283.03,Pending,Vito Draxler
+EXP-50642,Jacek Nestorowicz,Engineering,Flight,2026-03-25,1743.12,Approved,Jenni Kauppinen
+EXP-50643,Mojmír Král,Operations,Conference fee,2026-07-17,1481.33,Paid,Vito Draxler
+EXP-50644,Linda Koponen,Finance,Conference fee,2026-07-14,351.61,Approved,Anna Kuisma
+EXP-50645,Lilja Berg,Marketing,Hotel,2026-05-28,142.4,Approved,Gabriel Eisner
+EXP-50646,Evelyn Froschauer,Engineering,Client entertainment,2026-01-17,441.85,Pending,Jenni Kauppinen
+EXP-50647,Pirjo Nissinen,Sales,Meals,2026-03-28,36.37,Rejected,Tymoteusz Lizoń
+EXP-50648,Berta Johansen,Operations,Conference fee,2026-01-06,1304.82,Approved,Vito Draxler
+EXP-50649,Marianne Heikkilä,IT,Conference fee,2026-08-05,1143.51,Approved,Emmi Rantanen
+EXP-50650,Alexandre Pinheiro,Quality,Hotel,2026-08-06,405.25,Pending,Cyprian Piguła
+EXP-50651,Hannele Turunen,Executive Office,Taxi,2026-06-25,267.45,Approved,Hannele Turunen
+EXP-50652,Anton Andreasen,Quality,Flight,2026-04-09,317.14,Approved,Cyprian Piguła
+EXP-50653,Nora Stoiber,Engineering,Hotel,2026-04-28,28.07,Pending,Jenni Kauppinen
+EXP-50654,Pernille Laursen,Operations,Mileage,2026-09-03,434.18,Approved,Vito Draxler
+EXP-50655,Seija Sirviö,Operations,Meals,2026-07-26,68.59,Approved,Vito Draxler
+EXP-50656,Mia Guerreiro,Operations,Hotel,2026-08-14,457.62,Approved,Vito Draxler
+EXP-50657,Suzanne Perez,Quality,Flight,2026-01-09,214.96,Paid,Cyprian Piguła
+EXP-50658,Aatos Niemi,Human Resources,Taxi,2026-06-30,298.82,Approved,Aage Kristiansen
+EXP-50659,Marie Holubová,Operations,Taxi,2026-03-06,239.11,Paid,Vito Draxler
+EXP-50660,Susanna Kuronen,Operations,Mileage,2026-07-04,133.93,Rejected,Vito Draxler
+EXP-50661,Ester Kříž,Operations,Hotel,2026-03-09,128.28,Paid,Vito Draxler
+EXP-50662,Dagmara Bogumił,Executive Office,Hotel,2026-08-22,48.72,Pending,Hannele Turunen
+EXP-50663,Oscar Poulsen,Engineering,Conference fee,2026-08-29,1600.0,Paid,Jenni Kauppinen
+EXP-50664,Marika Kołak,Marketing,Mileage,2026-03-25,207.15,Paid,Gabriel Eisner
+EXP-50665,Rodrigo Mota,Procurement,Mileage,2026-09-15,300.87,Rejected,Trine Søndergaard
+EXP-50666,Cezary Grzelec,Engineering,Taxi,2026-08-25,198.78,Pending,Jenni Kauppinen
+EXP-50667,Iveta Beranová,Operations,Client entertainment,2026-01-20,314.44,Approved,Vito Draxler
+EXP-50668,Pastor Salmerón,Operations,Conference fee,2026-03-31,416.23,Paid,Vito Draxler
+EXP-50669,Konstanty Sypuła,Operations,Conference fee,2026-09-16,784.52,Rejected,Vito Draxler
+EXP-50670,Aimée Da Silva,Quality,Meals,2026-07-25,259.89,Pending,Cyprian Piguła
+EXP-50671,Ignác Vítková,Quality,Flight,2026-04-22,1474.84,Pending,Cyprian Piguła
+EXP-50672,Vasco Valente,Operations,Hotel,2026-05-15,196.76,Approved,Vito Draxler
+EXP-50673,Timo Mattila,Marketing,Flight,2026-03-10,350.73,Paid,Gabriel Eisner
+EXP-50674,Salvador Paiva,Engineering,Flight,2026-03-08,1855.78,Approved,Jenni Kauppinen
+EXP-50675,Aitana Aguilera,Quality,Flight,2026-03-19,793.12,Pending,Cyprian Piguła
+EXP-50676,Alena Růžičková,Operations,Mileage,2026-03-28,192.58,Approved,Vito Draxler
+EXP-50677,Bernard Da Silva,Operations,Hotel,2026-03-08,124.6,Pending,Vito Draxler
+EXP-50678,Verneri Martikainen,Human Resources,Client entertainment,2026-07-18,45.02,Pending,Aage Kristiansen
+EXP-50679,Elżbieta Oleszczak,IT,Taxi,2026-04-24,19.77,Pending,Emmi Rantanen
+EXP-50680,Jasmina Steurer,Engineering,Mileage,2026-03-03,349.27,Pending,Jenni Kauppinen
+EXP-50681,Samuel Kurki,Quality,Meals,2026-07-17,519.66,Pending,Cyprian Piguła
+EXP-50682,Maire Turunen,Operations,Conference fee,2026-03-17,516.47,Rejected,Vito Draxler
+EXP-50683,Tapani Hakala,Human Resources,Flight,2026-01-29,1170.1,Approved,Aage Kristiansen
+EXP-50684,Emilia Kettunen,Marketing,Meals,2026-01-23,68.38,Approved,Gabriel Eisner
+EXP-50685,Laurent Fouquet,Operations,Conference fee,2026-05-26,1828.99,Paid,Vito Draxler
+EXP-50686,Inês Ribeiro,Operations,Mileage,2026-05-27,486.29,Rejected,Vito Draxler
+EXP-50687,Sebastian Niemi,Procurement,Flight,2026-09-05,175.96,Paid,Trine Søndergaard
+EXP-50688,Katriina Harju,Operations,Flight,2026-03-16,770.7,Approved,Vito Draxler
+EXP-50689,Joona Järvinen,Legal & Compliance,Hotel,2026-05-16,440.52,Approved,Oskari Martikainen
+EXP-50690,Olivia Aramburu,Operations,Meals,2026-06-03,314.97,Rejected,Vito Draxler
+EXP-50691,Andreia Martins,IT,Hotel,2026-05-09,534.72,Approved,Emmi Rantanen
+EXP-50692,Nikol Urban,Operations,Client entertainment,2026-05-09,45.6,Pending,Vito Draxler
+EXP-50693,Wilson Magalhães,Human Resources,Conference fee,2026-09-11,479.01,Pending,Aage Kristiansen
+EXP-50694,Denise Fabre,Engineering,Flight,2026-01-08,2068.58,Pending,Jenni Kauppinen
+EXP-50695,Aatos Niemi,Human Resources,Mileage,2026-03-05,288.6,Pending,Aage Kristiansen
+EXP-50696,Kaija Lehtinen,Human Resources,Flight,2026-04-24,921.44,Approved,Aage Kristiansen
+EXP-50697,Arvo Kuusisto,Finance,Hotel,2026-04-20,364.24,Pending,Anna Kuisma
+EXP-50698,Maria Mäki,Procurement,Taxi,2026-01-26,565.38,Paid,Trine Søndergaard
+EXP-50699,Petteri Juntunen,IT,Client entertainment,2026-07-24,15.7,Paid,Emmi Rantanen
+EXP-50700,Mara Andrade,Finance,Client entertainment,2026-07-10,16.89,Approved,Anna Kuisma
+EXP-50701,Heikki Anttila,Procurement,Client entertainment,2026-02-28,473.07,Pending,Trine Søndergaard
+EXP-50702,Katriina Markkanen,Executive Office,Client entertainment,2026-01-15,335.62,Paid,Hannele Turunen
+EXP-50703,Bartek Ofiara,Procurement,Conference fee,2026-01-25,1051.88,Approved,Trine Søndergaard
+EXP-50704,André Rodrigues,Operations,Mileage,2026-07-15,570.81,Rejected,Vito Draxler
+EXP-50705,Sebastian Niemi,Procurement,Client entertainment,2026-01-26,369.29,Approved,Trine Søndergaard
+EXP-50706,Anne Laakkonen,Legal & Compliance,Hotel,2026-03-30,423.59,Approved,Oskari Martikainen
+EXP-50707,Marianne Hiltunen,Finance,Client entertainment,2026-04-02,516.7,Paid,Anna Kuisma
+EXP-50708,Pernille Laursen,Operations,Mileage,2026-08-28,52.45,Approved,Vito Draxler
+EXP-50709,André Rodrigues,Operations,Taxi,2026-05-26,520.65,Approved,Vito Draxler
+EXP-50710,Christophe Fontaine,Engineering,Mileage,2026-09-18,310.33,Paid,Jenni Kauppinen
+EXP-50711,Leoš Vaněk,Operations,Client entertainment,2026-07-16,509.19,Approved,Vito Draxler
+EXP-50712,Aitana Aguilera,Quality,Flight,2026-05-28,2142.26,Paid,Cyprian Piguła
+EXP-50713,Vladislav Kolář,Operations,Mileage,2026-01-11,356.96,Approved,Vito Draxler
+EXP-50714,Emmi Rantanen,IT,Flight,2026-03-09,1319.32,Paid,Emmi Rantanen
+EXP-50715,Leoncio Castell,Engineering,Client entertainment,2026-07-21,50.63,Approved,Jenni Kauppinen
+EXP-50716,Ina Schlögl,Operations,Hotel,2026-07-24,346.96,Paid,Vito Draxler
+EXP-50717,Tomasz Hass,Human Resources,Client entertainment,2026-07-16,220.35,Paid,Aage Kristiansen
+EXP-50718,Maria Grönroos,Human Resources,Flight,2026-06-26,2120.55,Paid,Aage Kristiansen
+EXP-50719,Emilija Schober,Operations,Client entertainment,2026-04-02,141.42,Approved,Vito Draxler
+EXP-50720,Johanna Keskinen,IT,Conference fee,2026-02-11,720.83,Pending,Emmi Rantanen
+EXP-50721,Adélaïde Pierre,Operations,Hotel,2026-08-29,552.27,Approved,Vito Draxler
+EXP-50722,Laurent Fouquet,Operations,Flight,2026-08-31,258.48,Paid,Vito Draxler
+EXP-50723,Anna Kuisma,Finance,Mileage,2026-08-13,555.48,Rejected,Anna Kuisma
+EXP-50724,Tanja Partanen,Finance,Conference fee,2026-01-24,1395.75,Paid,Anna Kuisma
+EXP-50725,Maya Steffensen,Quality,Mileage,2026-03-21,448.58,Pending,Cyprian Piguła
+EXP-50726,Ruy Gutiérrez,Operations,Meals,2026-02-18,594.31,Paid,Vito Draxler
+EXP-50727,Vítor Leal,Sales,Client entertainment,2026-05-08,43.91,Approved,Tymoteusz Lizoń
+EXP-50728,Olga Salvador,Quality,Hotel,2026-01-08,46.03,Rejected,Cyprian Piguła
+EXP-50729,Cyprian Piguła,Quality,Meals,2026-04-24,315.97,Approved,Cyprian Piguła
+EXP-50730,Nina Kronsteiner,Operations,Taxi,2026-03-31,98.98,Approved,Vito Draxler
+EXP-50731,Inkeri Järvenpää,Operations,Flight,2026-09-07,783.91,Approved,Vito Draxler
+EXP-50732,Luciana Cruz,Procurement,Flight,2026-08-16,1215.49,Approved,Trine Søndergaard
+EXP-50733,Emilia Kettunen,Marketing,Meals,2026-04-10,149.3,Paid,Gabriel Eisner
+EXP-50734,Minna Ojala,IT,Taxi,2026-05-28,285.96,Rejected,Emmi Rantanen
+EXP-50735,Elisabet Tuominen,Human Resources,Flight,2026-04-23,1875.57,Pending,Aage Kristiansen
+EXP-50736,Gilles Perrin,Sales,Flight,2026-02-03,2221.37,Pending,Tymoteusz Lizoń
+EXP-50737,Nadja Holzmann,Operations,Hotel,2026-04-30,84.04,Approved,Vito Draxler
+EXP-50738,Linda Koponen,Finance,Hotel,2026-07-26,167.82,Pending,Anna Kuisma
+EXP-50739,Anaïs Alves,Quality,Meals,2026-08-06,236.25,Paid,Cyprian Piguła
+EXP-50740,Maria Mikkola,Engineering,Taxi,2026-03-16,220.29,Rejected,Jenni Kauppinen
+EXP-50741,Karoline Toft,Operations,Conference fee,2026-08-24,1975.67,Approved,Vito Draxler
+EXP-50742,Miroslav Janečková,Operations,Mileage,2026-06-17,61.47,Paid,Vito Draxler
+EXP-50743,Nina Niemelä,Procurement,Client entertainment,2026-02-27,116.77,Approved,Trine Søndergaard
+EXP-50744,Alan Hoffmann,Operations,Mileage,2026-05-18,463.63,Approved,Vito Draxler
+EXP-50745,Rodrigo Mota,Procurement,Flight,2026-07-04,1765.94,Pending,Trine Søndergaard
+EXP-50746,Bohumír Dostál,Operations,Flight,2026-03-16,1225.33,Paid,Vito Draxler
+EXP-50747,Ella Mäkelä,Marketing,Meals,2026-04-01,176.46,Approved,Gabriel Eisner
+EXP-50748,Sinikka Myllymäki,Finance,Meals,2026-01-16,320.88,Pending,Anna Kuisma
+EXP-50749,Patricie Havlíčková,Operations,Flight,2026-01-06,661.71,Paid,Vito Draxler
+EXP-50750,Cláudio Cruz,Operations,Mileage,2026-05-08,420.2,Paid,Vito Draxler
+EXP-50751,Sine Lund,Operations,Conference fee,2026-06-16,790.14,Approved,Vito Draxler
+EXP-50752,Lucie Matějková,Sales,Flight,2026-09-05,2077.58,Pending,Tymoteusz Lizoń
+EXP-50753,Beth Poulsen,Sales,Hotel,2026-06-22,27.72,Pending,Tymoteusz Lizoń
+EXP-50754,Kelly Barros,Finance,Taxi,2026-03-12,287.48,Paid,Anna Kuisma
+EXP-50755,Mikko Kallio,Finance,Flight,2026-04-20,1811.42,Approved,Anna Kuisma
+EXP-50756,Christophe Fontaine,Engineering,Meals,2026-05-19,115.84,Paid,Jenni Kauppinen
+EXP-50757,Sara Margas,Engineering,Mileage,2026-02-11,162.11,Approved,Jenni Kauppinen
+EXP-50758,Krystian Kluj,Operations,Flight,2026-08-26,145.4,Pending,Vito Draxler
+EXP-50759,Adélaïde Pierre,Operations,Mileage,2026-09-07,195.64,Approved,Vito Draxler
+EXP-50760,Karoline Toft,Operations,Client entertainment,2026-06-09,92.27,Approved,Vito Draxler
+EXP-50761,Samuel Kurki,Quality,Meals,2026-06-14,138.47,Approved,Cyprian Piguła
+EXP-50762,Heidi Schultz,Operations,Hotel,2026-01-12,22.89,Rejected,Vito Draxler
+EXP-50763,Yasmina Feigl,Operations,Flight,2026-03-02,968.29,Paid,Vito Draxler
+EXP-50764,Petteri Juntunen,IT,Mileage,2026-09-14,250.72,Approved,Emmi Rantanen
+EXP-50765,Anja Karppinen,Quality,Client entertainment,2026-01-21,337.16,Approved,Cyprian Piguła
+EXP-50766,Markku Hokkanen,IT,Client entertainment,2026-05-22,573.78,Approved,Emmi Rantanen
+EXP-50767,Hannu Puustinen,Operations,Meals,2026-07-12,250.56,Pending,Vito Draxler
+EXP-50768,Dagmara Bogumił,Executive Office,Flight,2026-05-06,1443.71,Approved,Hannele Turunen
+EXP-50769,Henrik Leskinen,Marketing,Conference fee,2026-07-06,1534.93,Paid,Gabriel Eisner
+EXP-50770,Mari Keränen,Finance,Conference fee,2026-01-23,2369.85,Approved,Anna Kuisma
+EXP-50771,Antoni Hajder,Operations,Meals,2026-02-04,109.03,Approved,Vito Draxler
+EXP-50772,Juan Francisco Marti,Operations,Taxi,2026-08-06,294.5,Pending,Vito Draxler
+EXP-50773,Maks Świerad,Finance,Meals,2026-05-13,318.36,Approved,Anna Kuisma
+EXP-50774,Lubomír Novák,Operations,Hotel,2026-09-11,20.27,Pending,Vito Draxler
+EXP-50775,Rikke Mathiesen,Operations,Flight,2026-03-24,319.4,Approved,Vito Draxler
+EXP-50776,Jędrzej Kulis,Marketing,Conference fee,2026-03-20,1649.25,Pending,Gabriel Eisner
+EXP-50777,Tapio Järvi,Procurement,Taxi,2026-07-08,103.74,Rejected,Trine Søndergaard
+EXP-50778,Marius Mandl,Sales,Hotel,2026-01-20,101.65,Pending,Tymoteusz Lizoń
+EXP-50779,Tarja Eklund,Quality,Hotel,2026-06-21,85.38,Approved,Cyprian Piguła
+EXP-50780,Šimon Pospíšilová,Engineering,Client entertainment,2026-01-17,508.71,Rejected,Jenni Kauppinen
+EXP-50781,Marianne Heikkilä,IT,Mileage,2026-08-07,134.88,Approved,Emmi Rantanen
+EXP-50782,Kristiina Lappalainen,Procurement,Mileage,2026-04-16,286.86,Rejected,Trine Søndergaard
+EXP-50783,Sinikka Myllymäki,Finance,Meals,2026-06-16,188.88,Paid,Anna Kuisma
+EXP-50784,Luis Bayer,Quality,Mileage,2026-07-30,263.93,Approved,Cyprian Piguła
+EXP-50785,Markku Hokkanen,IT,Hotel,2026-02-16,322.84,Approved,Emmi Rantanen
+EXP-50786,Elisabet Tuominen,Human Resources,Flight,2026-03-25,1946.96,Approved,Aage Kristiansen
+EXP-50787,Aurelia Toczko,Operations,Taxi,2026-07-28,270.57,Rejected,Vito Draxler
+EXP-50788,Heikki Anttila,Procurement,Hotel,2026-01-30,216.18,Approved,Trine Søndergaard
+EXP-50789,Robin Strnad,Operations,Hotel,2026-01-25,498.83,Approved,Vito Draxler
+EXP-50790,Milla Jokela,Marketing,Meals,2026-04-25,446.29,Approved,Gabriel Eisner
+EXP-50791,Antoni Hajder,Operations,Flight,2026-03-03,445.22,Approved,Vito Draxler
+EXP-50792,Victor Normand,Operations,Client entertainment,2026-06-24,475.44,Paid,Vito Draxler
+EXP-50793,Susanne Da Costa,Sales,Meals,2026-09-08,283.8,Paid,Tymoteusz Lizoń
+EXP-50794,Susanna Nieminen,Operations,Hotel,2026-07-31,332.39,Approved,Vito Draxler
+EXP-50795,Jarmila Musilová,Operations,Conference fee,2026-03-04,1478.38,Pending,Vito Draxler
+EXP-50796,Nicole Klemczak,Sales,Client entertainment,2026-04-25,64.53,Paid,Tymoteusz Lizoń
+EXP-50797,Maria Mikkola,Engineering,Meals,2026-02-23,574.61,Approved,Jenni Kauppinen
+EXP-50798,Irene Lindqvist,IT,Hotel,2026-07-08,319.58,Paid,Emmi Rantanen
+EXP-50799,Jozef Horáček,Operations,Meals,2026-04-26,21.91,Approved,Vito Draxler

@@ -1,0 +1,47 @@
+requisition_id,job_title,department,site,hiring_manager,posted_date,status,contract
+REQ-3100,Contract Manager,Legal & Compliance,Aarhus Service Centre,Oskari Martikainen,2026-08-04,Open,Fixed-term 12 months
+REQ-3101,Service Desk Analyst,IT,Brno Machining,Emmi Rantanen,2026-09-25,Interviewing,Permanent
+REQ-3102,Quality Inspector,Quality,Lyon Systems,Cyprian Piguła,2026-09-26,Open,Permanent
+REQ-3103,Shift Lead,Operations,Porto Foundry,Vito Draxler,2026-08-21,Interviewing,Permanent
+REQ-3104,Quality Engineer,Quality,Tampere Works,Cyprian Piguła,2026-07-10,Offer extended,Permanent
+REQ-3105,Product Marketing Specialist,Marketing,Lyon Systems,Gabriel Eisner,2026-08-03,Open,Permanent
+REQ-3106,Product Marketing Specialist,Marketing,Bilbao Plant,Gabriel Eisner,2026-08-11,Open,Permanent
+REQ-3107,Compensation Analyst,Human Resources,Graz Electronics,Aage Kristiansen,2026-09-15,Offer extended,Fixed-term 12 months
+REQ-3108,Digital Marketing Specialist,Marketing,Aarhus Service Centre,Gabriel Eisner,2026-09-14,Open,Permanent
+REQ-3109,Production Supervisor,Operations,Porto Foundry,Vito Draxler,2026-06-05,Offer extended,Permanent
+REQ-3110,HR Generalist,Human Resources,Porto Foundry,Aage Kristiansen,2026-06-06,Open,Permanent
+REQ-3111,Senior Legal Counsel,Legal & Compliance,Brno Machining,Oskari Martikainen,2026-07-13,Open,Fixed-term 12 months
+REQ-3112,Compensation Analyst,Human Resources,Porto Foundry,Aage Kristiansen,2026-07-05,Open,Permanent
+REQ-3113,Marketing Manager,Marketing,Bilbao Plant,Gabriel Eisner,2026-08-08,Open,Permanent
+REQ-3114,Treasury Analyst,Finance,Graz Electronics,Anna Kuisma,2026-08-06,Open,Permanent
+REQ-3115,Category Buyer,Procurement,Porto Foundry,Trine Søndergaard,2026-08-31,Interviewing,Permanent
+REQ-3116,Financial Controller,Finance,Tampere Works,Anna Kuisma,2026-08-26,Interviewing,Fixed-term 12 months
+REQ-3117,Process Engineer,Operations,Bilbao Plant,Vito Draxler,2026-06-15,Interviewing,Permanent
+REQ-3118,FP&A Analyst,Finance,Graz Electronics,Anna Kuisma,2026-09-27,Open,Fixed-term 12 months
+REQ-3119,Senior Legal Counsel,Legal & Compliance,Bilbao Plant,Oskari Martikainen,2026-06-19,Open,Fixed-term 12 months
+REQ-3120,Quality Engineer,Quality,Bilbao Plant,Cyprian Piguła,2026-08-13,Open,Fixed-term 12 months
+REQ-3121,Senior Mechanical Engineer,Engineering,Graz Electronics,Jenni Kauppinen,2026-08-13,Open,Permanent
+REQ-3122,Reliability Engineer,Engineering,Porto Foundry,Jenni Kauppinen,2026-06-03,Interviewing,Permanent
+REQ-3123,Quality Engineer,Quality,Lyon Systems,Cyprian Piguła,2026-08-08,Open,Fixed-term 12 months
+REQ-3124,EHS Specialist,Operations,Lyon Systems,Vito Draxler,2026-07-30,Interviewing,Permanent
+REQ-3125,Content Writer,Marketing,Graz Electronics,Gabriel Eisner,2026-09-04,Open,Fixed-term 12 months
+REQ-3126,Purchasing Assistant,Procurement,Graz Electronics,Trine Søndergaard,2026-08-07,Open,Fixed-term 12 months
+REQ-3127,Category Buyer,Procurement,Brno Machining,Trine Søndergaard,2026-08-20,Open,Fixed-term 12 months
+REQ-3128,Service Desk Analyst,IT,Porto Foundry,Emmi Rantanen,2026-09-18,Open,Permanent
+REQ-3129,Quality Inspector,Quality,Bilbao Plant,Cyprian Piguła,2026-09-05,Offer extended,Permanent
+REQ-3130,Inside Sales Representative,Sales,Lyon Systems,Tymoteusz Lizoń,2026-08-21,Open,Fixed-term 12 months
+REQ-3131,Inside Sales Representative,Sales,Tampere Works,Tymoteusz Lizoń,2026-07-08,Open,Permanent
+REQ-3132,Supplier Quality Engineer,Quality,Gdansk Assembly,Cyprian Piguła,2026-07-17,Open,Permanent
+REQ-3133,Purchasing Assistant,Procurement,Lyon Systems,Trine Søndergaard,2026-09-09,Open,Permanent
+REQ-3134,Purchasing Assistant,Procurement,Lyon Systems,Trine Søndergaard,2026-07-01,Open,Permanent
+REQ-3135,Supplier Quality Engineer,Quality,Graz Electronics,Cyprian Piguła,2026-07-06,Offer extended,Permanent
+REQ-3136,Category Buyer,Procurement,Brno Machining,Trine Søndergaard,2026-09-07,Open,Fixed-term 12 months
+REQ-3137,Production Supervisor,Operations,Bilbao Plant,Vito Draxler,2026-07-24,Interviewing,Permanent
+REQ-3138,Senior Accountant,Finance,Gdansk Assembly,Anna Kuisma,2026-06-25,Interviewing,Permanent
+REQ-3139,FP&A Analyst,Finance,Graz Electronics,Anna Kuisma,2026-06-16,Open,Permanent
+REQ-3140,Compensation Analyst,Human Resources,Graz Electronics,Aage Kristiansen,2026-09-04,Open,Permanent
+REQ-3141,Service Desk Analyst,IT,Bilbao Plant,Emmi Rantanen,2026-07-24,Offer extended,Fixed-term 12 months
+REQ-3142,Senior Legal Counsel,Legal & Compliance,Graz Electronics,Oskari Martikainen,2026-08-02,Open,Fixed-term 12 months
+REQ-3143,Category Buyer,Procurement,Lyon Systems,Trine Søndergaard,2026-09-02,Interviewing,Permanent
+REQ-3144,Financial Controller,Finance,Brno Machining,Anna Kuisma,2026-07-01,Interviewing,Permanent
+REQ-3145,Sales Engineer,Sales,Tampere Works,Tymoteusz Lizoń,2026-06-20,Open,Permanent

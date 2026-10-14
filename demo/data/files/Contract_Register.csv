@@ -1,0 +1,151 @@
+contract_id,counterparty,type,start_date,end_date,value_eur,auto_renewal,contract_owner
+CON-8000,Granite Steelworks,NDA,2024-02-24,2025-02-23,1867000,No,Olgierd Molga
+CON-8001,Poznań Pulp & Board S.A.,NDA,2024-01-28,2029-01-26,2188000,No,Pauliina Heikkilä
+CON-8002,Larsson Foods AB,Framework supply agreement,2024-06-04,2025-06-04,3852000,No,Anne Laakkonen
+CON-8003,Oakridge Seals,NDA,2023-09-30,2026-09-29,3910000,No,Olavi Tuominen
+CON-8004,Nordwave Fasteners,Service agreement,2023-05-23,2024-05-22,1898000,Yes,Oskari Martikainen
+CON-8005,Evergreen Seals,Service agreement,2025-04-01,2027-04-01,3960000,Yes,Anne Laakkonen
+CON-8006,Uppsala District Heating AB,Lease,2022-11-22,2023-11-22,3609000,No,Seppo Saarinen
+CON-8007,Haiden Paper Mills GmbH,Distribution agreement,2023-09-14,2028-09-12,900000,No,Oskari Martikainen
+CON-8008,Uppsala Building Services AB,Framework supply agreement,2024-12-25,2027-12-25,3152000,No,Olavi Tuominen
+CON-8009,Brno Foods a.s.,Service agreement,2025-09-23,2027-09-23,3245000,Yes,Johanna Juntunen
+CON-8010,Bluecrest Logistics,NDA,2024-04-25,2027-04-25,2325000,Yes,Nicole Wyrostek
+CON-8011,Mäki Building Services Oy,Framework supply agreement,2024-03-25,2029-03-24,2705000,No,Alícia Vieira
+CON-8012,Poznań Dairy S.A.,Distribution agreement,2024-12-27,2029-12-26,2675000,Yes,Luna Simões
+CON-8013,Ostrava Water Services s.r.o.,Framework supply agreement,2024-06-01,2026-06-01,1157000,Yes,Pirkko Kujala
+CON-8014,Poznań Pulp & Board S.A.,Lease,2022-02-10,2023-02-10,1209000,No,Olgierd Molga
+CON-8015,Lyon Chemicals SA,Distribution agreement,2025-10-01,2028-09-30,1670000,No,Marek Misior
+CON-8016,Polaris Machining,Software licence,2025-07-28,2030-07-27,3317000,No,Nicole Wyrostek
+CON-8017,Gdańsk Chemicals Sp. z o.o.,Service agreement,2024-06-27,2025-06-27,2582000,No,Pirkko Kujala
+CON-8018,Sancho Packaging S.L.,Distribution agreement,2022-12-24,2023-12-24,1849000,No,Nicole Wyrostek
+CON-8019,Tartu Packaging AS,Software licence,2024-08-01,2026-08-01,766000,No,Joona Järvinen
+CON-8020,Poznań Minerals Sp. z o.o.,NDA,2022-10-15,2023-10-15,1162000,No,Seppo Saarinen
+CON-8021,Gdańsk Resources S.A.,Distribution agreement,2024-02-08,2029-02-06,1239000,No,Anneli Hokkanen
+CON-8022,Evergreen Polymers,Distribution agreement,2022-07-10,2023-07-10,2476000,Yes,Minna Laine
+CON-8023,Cegła Foods Sp. z o.o.,Framework supply agreement,2023-05-02,2026-05-01,2424000,No,Alina Vainio
+CON-8024,Moroz Power & Heat AS,Software licence,2022-03-12,2025-03-11,3082000,Yes,Julia Viitala
+CON-8025,Larsson Foods AB,Lease,2023-05-28,2024-05-27,712000,No,Luna Simões
+CON-8026,Porto Minerals S.A.,Framework supply agreement,2022-01-25,2024-01-25,3336000,Yes,Toni Hämäläinen
+CON-8027,Meridian Castings,NDA,2025-07-14,2026-07-14,837000,Yes,Oskari Martikainen
+CON-8028,Clearwater Steelworks,Framework supply agreement,2025-04-22,2028-04-21,3606000,Yes,Seppo Saarinen
+CON-8029,Jourdan Process Chemicals SA,NDA,2022-03-22,2023-03-22,1225000,Yes,Olavi Tuominen
+CON-8030,Tartu Brewery OÜ,Lease,2025-04-02,2030-04-01,1443000,Yes,Minna Laine
+CON-8031,Odense Pulp & Board ApS,Framework supply agreement,2022-11-03,2025-11-02,82000,No,Marek Misior
+CON-8032,Juncken Resources AG,Service agreement,2024-11-24,2029-11-23,3245000,Yes,Minna Laine
+CON-8033,Bremen Packaging AG,Software licence,2025-03-26,2027-03-26,2022000,Yes,Anne Laakkonen
+CON-8034,Heredia Building Services S.L.,Lease,2022-02-28,2024-02-28,392000,No,Alícia Vieira
+CON-8035,Porto Beverages S.A.,Lease,2024-06-30,2027-06-30,74000,Yes,Luna Simões
+CON-8036,Němcová Pulp & Board s.r.o.,Distribution agreement,2022-03-16,2024-03-15,2317000,Yes,Joona Järvinen
+CON-8037,Graz Pulp & Board AG,Service agreement,2023-05-22,2025-05-21,3002000,No,Joona Järvinen
+CON-8038,Němcová Pulp & Board s.r.o.,Lease,2025-10-01,2030-09-30,106000,No,Anne Laakkonen
+CON-8039,Aarhus Minerals A/S,Distribution agreement,2022-04-21,2025-04-20,3256000,Yes,Ilmari Kuisma
+CON-8040,Turku Climate Systems Oy,Software licence,2022-07-23,2023-07-23,793000,Yes,Nicole Wyrostek
+CON-8041,Rohrer Process Chemicals GmbH,Service agreement,2022-04-19,2024-04-18,2724000,Yes,Johanna Juntunen
+CON-8042,Gdańsk Water Services S.A.,Distribution agreement,2025-01-28,2027-01-28,3957000,Yes,Heidi Penttilä
+CON-8043,Brightline Steelworks,Service agreement,2025-08-19,2026-08-19,2513000,Yes,Heidi Penttilä
+CON-8044,Olsson Brewery AB,Service agreement,2025-03-26,2030-03-25,1753000,No,Olavi Tuominen
+CON-8045,Uppsala Water AB,Lease,2025-02-05,2027-02-05,3294000,Yes,Ilmari Kuisma
+CON-8046,Aarhus Paper Mills ApS,Software licence,2025-04-04,2026-04-04,3394000,Yes,Nicole Wyrostek
+CON-8047,Alpine Bearings,Service agreement,2023-12-18,2024-12-17,2590000,Yes,Alina Vainio
+CON-8048,Jourdan Process Chemicals SA,Framework supply agreement,2022-04-29,2027-04-28,2919000,Yes,Toni Hämäläinen
+CON-8049,Moreira Specialty Chemicals S.A.,Distribution agreement,2022-07-14,2027-07-13,1973000,Yes,Pauliina Heikkilä
+CON-8050,Ericsson Mining AB,Distribution agreement,2024-09-14,2029-09-13,347000,Yes,Pauliina Heikkilä
+CON-8051,Harbour Fasteners,NDA,2023-09-12,2025-09-11,3723000,No,Minna Laine
+CON-8052,Vantage Electronics,Distribution agreement,2022-03-24,2025-03-23,2746000,No,Anneli Hokkanen
+CON-8053,Uppsala Chemicals AB,Distribution agreement,2023-11-22,2025-11-21,2133000,No,Pasi Hannula
+CON-8054,Pesendorfer Mining AG,NDA,2022-06-22,2025-06-21,510000,No,Heidi Penttilä
+CON-8055,Ironpeak Seals,Framework supply agreement,2024-08-10,2029-08-09,3256000,Yes,Filipa Miranda
+CON-8056,Valencia Resources S.L.,Service agreement,2024-06-13,2026-06-13,2157000,Yes,Anne Laakkonen
+CON-8057,Meridian Polymers,Framework supply agreement,2024-10-16,2027-10-16,1969000,No,Luna Simões
+CON-8058,Linz Pulp & Board AG,Distribution agreement,2024-09-22,2027-09-22,1783000,Yes,Alícia Vieira
+CON-8059,Ironpeak Seals,Distribution agreement,2024-05-20,2025-05-20,2359000,Yes,Pirkko Kujala
+CON-8060,Jalonen District Heating Oy,NDA,2022-11-12,2023-11-12,3716000,Yes,Alina Vainio
+CON-8061,Clearwater Steelworks,Distribution agreement,2023-10-26,2025-10-25,2054000,No,Pauliina Heikkilä
+CON-8062,Pinto Foods S.A.,Lease,2023-07-21,2028-07-19,837000,Yes,Tarja Saastamoinen
+CON-8063,Montenegro Packaging S.A.,Framework supply agreement,2024-03-17,2027-03-17,3462000,No,Tarja Saastamoinen
+CON-8064,Valencia Packaging S.L.,Service agreement,2024-01-10,2029-01-08,1766000,No,Ilmari Kuisma
+CON-8065,Uppsala Water AB,Software licence,2023-07-28,2026-07-27,2298000,Yes,Olgierd Molga
+CON-8066,Karlsson Climate Systems AB,Lease,2023-09-19,2028-09-17,1287000,No,Seppo Saarinen
+CON-8067,Lahti Process Chemicals Oy,Framework supply agreement,2022-09-13,2027-09-12,2984000,No,Niklas Nieminen
+CON-8068,Silverfjord Electronics,Software licence,2022-06-02,2027-06-01,2175000,Yes,Filipa Miranda
+CON-8069,Scholtz Minerals AG,NDA,2024-06-17,2029-06-16,2722000,Yes,Johanna Juntunen
+CON-8070,Northgate Motors,Service agreement,2023-12-16,2028-12-14,969000,No,Ilmari Kuisma
+CON-8071,Redstone Logistics,Software licence,2022-09-20,2025-09-19,3669000,No,Anne Laakkonen
+CON-8072,Meridian Logistics,Software licence,2024-09-07,2029-09-06,229000,Yes,Anneli Hokkanen
+CON-8073,Trujillo Chemicals S.A.,Framework supply agreement,2025-05-17,2026-05-17,2698000,Yes,Pirkko Kujala
+CON-8074,Rogge District Heating GmbH,NDA,2023-07-14,2028-07-12,502000,No,Anneli Hokkanen
+CON-8075,Olsen Building Services ApS,Software licence,2025-09-02,2028-09-01,3092000,Yes,Olavi Tuominen
+CON-8076,Graz Paper Mills AG,Lease,2025-09-01,2030-08-31,375000,Yes,Johanna Juntunen
+CON-8077,Pääkkönen Building Services Oyj,NDA,2023-03-06,2025-03-05,3491000,No,Joona Järvinen
+CON-8078,Valencia Climate Systems S.L.,Distribution agreement,2022-08-03,2027-08-02,883000,Yes,Julia Viitala
+CON-8079,Oulu Resources Oyj,Framework supply agreement,2024-01-11,2026-01-10,2851000,Yes,Anneli Hokkanen
+CON-8080,Bilbao Water S.A.,Lease,2023-07-27,2024-07-26,910000,Yes,Joona Järvinen
+CON-8081,Uppsala Paper Mills AB,Lease,2024-08-31,2025-08-31,388000,Yes,Luna Simões
+CON-8082,Lahti Climate Systems Oyj,Lease,2023-04-19,2028-04-17,1153000,No,Alícia Vieira
+CON-8083,Tartu Chemicals AS,Lease,2022-04-16,2025-04-15,364000,Yes,Johanna Juntunen
+CON-8084,Blanchet Climate Systems SA,NDA,2024-10-13,2025-10-13,1275000,Yes,Heidi Penttilä
+CON-8085,Dobes Power & Heat AG,Distribution agreement,2023-03-13,2025-03-12,807000,Yes,Nicole Wyrostek
+CON-8086,Graz Pulp & Board AG,Framework supply agreement,2022-10-16,2025-10-15,596000,No,Marek Misior
+CON-8087,Trujillo Chemicals S.A.,Software licence,2022-02-27,2023-02-27,1345000,Yes,Seppo Saarinen
+CON-8088,Oulu Climate Systems Oy,NDA,2024-08-01,2026-08-01,2506000,No,Anneli Hokkanen
+CON-8089,Odense Climate Systems ApS,Framework supply agreement,2025-05-30,2026-05-30,2566000,No,Joona Järvinen
+CON-8090,Pinto Foods S.A.,Distribution agreement,2023-06-07,2026-06-06,2144000,Yes,Anne Laakkonen
+CON-8091,Egger Resources AG,Software licence,2025-06-06,2028-06-05,3814000,No,Ilmari Kuisma
+CON-8092,Guerreiro Foods S.A.,Distribution agreement,2025-01-15,2026-01-15,1290000,Yes,Olavi Tuominen
+CON-8093,Oakridge Logistics,Framework supply agreement,2024-09-18,2027-09-18,3137000,Yes,Johanna Juntunen
+CON-8094,Oakridge Polymers,Software licence,2024-11-27,2029-11-26,1628000,No,Pasi Hannula
+CON-8095,Olsson Brewery AB,Software licence,2022-06-17,2023-06-17,3124000,No,Marek Misior
+CON-8096,Porto Minerals S.A.,Software licence,2024-04-21,2026-04-21,729000,Yes,Minna Laine
+CON-8097,Gontšarov Waterworks AS,Framework supply agreement,2024-05-28,2029-05-27,1746000,Yes,Seppo Saarinen
+CON-8098,Uppsala Resources AB,Service agreement,2025-05-04,2028-05-03,2788000,No,Johanna Juntunen
+CON-8099,Poznań Resources Sp. z o.o.,Distribution agreement,2022-10-28,2024-10-27,2473000,No,Tarja Saastamoinen
+CON-8100,Lahti Installations Oy,NDA,2023-07-29,2026-07-28,706000,Yes,Olgierd Molga
+CON-8101,Berg Mining AB,Service agreement,2022-07-24,2023-07-24,464000,No,Joona Järvinen
+CON-8102,Darłak Water Services S.A.,Lease,2025-05-15,2026-05-15,880000,Yes,Niklas Nieminen
+CON-8103,Lahti Foods Oyj,Service agreement,2023-02-23,2026-02-22,3341000,No,Joona Järvinen
+CON-8104,Meridian Fasteners,NDA,2023-10-04,2024-10-03,507000,No,Pasi Hannula
+CON-8105,Ostrava Water Services s.r.o.,Distribution agreement,2022-06-19,2024-06-18,683000,No,Niklas Nieminen
+CON-8106,Zujev Resources AS,Lease,2024-06-18,2029-06-17,2447000,No,Pirkko Kujala
+CON-8107,Madrigal Beverages S.A.,Software licence,2025-10-05,2028-10-04,689000,Yes,Pasi Hannula
+CON-8108,Evergreen Machining,Software licence,2023-06-10,2024-06-09,3000,No,Heidi Penttilä
+CON-8109,Leipzig Chemicals GmbH,Software licence,2024-05-30,2025-05-30,304000,Yes,Nicole Wyrostek
+CON-8110,Tartu Chemicals AS,Distribution agreement,2022-06-30,2025-06-29,474000,No,Alina Vainio
+CON-8111,Steinböck Pulp & Board GmbH,Framework supply agreement,2025-01-30,2026-01-30,778000,No,Julia Viitala
+CON-8112,Ironpeak Fasteners,NDA,2023-03-23,2028-03-21,321000,No,Tarja Saastamoinen
+CON-8113,Falcon Steelworks,Lease,2025-10-22,2026-10-22,3006000,No,Toni Hämäläinen
+CON-8114,Malmö Water AB,NDA,2022-03-12,2027-03-11,843000,Yes,Ilmari Kuisma
+CON-8115,Meridian Motors,Lease,2023-10-14,2024-10-13,2168000,Yes,Pauliina Heikkilä
+CON-8116,Turku Chemicals Oy,Distribution agreement,2024-06-15,2027-06-15,106000,Yes,Pasi Hannula
+CON-8117,Bergsten Specialty Chemicals AB,Software licence,2023-05-11,2024-05-10,2228000,Yes,Joona Järvinen
+CON-8118,Nantes District Heating SAS,NDA,2024-10-29,2029-10-28,1415000,No,Olgierd Molga
+CON-8119,Turku Specialty Chemicals Oy,Framework supply agreement,2025-03-27,2027-03-27,1539000,Yes,Heidi Penttilä
+CON-8120,Ernst Beverages AG,Framework supply agreement,2025-07-08,2028-07-07,231000,Yes,Julia Viitala
+CON-8121,Wojczuk Minerals S.A.,Distribution agreement,2023-09-08,2026-09-07,960000,No,Filipa Miranda
+CON-8122,Danube Cables,NDA,2024-06-15,2027-06-15,1436000,Yes,Seppo Saarinen
+CON-8123,Aarhus Minerals A/S,NDA,2023-06-05,2028-06-03,1556000,No,Alícia Vieira
+CON-8124,Coastal Logistics,Software licence,2024-01-03,2025-01-02,1090000,Yes,Pirkko Kujala
+CON-8125,Wojczuk Minerals S.A.,Lease,2022-07-22,2025-07-21,1235000,No,Seppo Saarinen
+CON-8126,Clearwater Seals,Lease,2024-04-23,2027-04-23,3778000,Yes,Julia Viitala
+CON-8127,Vantage Castings,Service agreement,2025-06-13,2030-06-12,2683000,Yes,Ilmari Kuisma
+CON-8128,Jędrusiak Packaging S.A.,Framework supply agreement,2024-07-21,2026-07-21,1567000,Yes,Filipa Miranda
+CON-8129,Polaris Machining,Service agreement,2024-03-03,2027-03-03,2402000,Yes,Alina Vainio
+CON-8130,Loiseau Packaging SAS,NDA,2024-03-16,2029-03-15,2666000,Yes,Alina Vainio
+CON-8131,Oliveira Waterworks S.A.,NDA,2025-09-05,2026-09-05,202000,Yes,Johanna Juntunen
+CON-8132,Aarhus Waterworks ApS,Service agreement,2025-10-27,2030-10-26,3910000,Yes,Olgierd Molga
+CON-8133,Malmö Resources AB,Software licence,2025-09-22,2026-09-22,3389000,Yes,Tarja Saastamoinen
+CON-8134,Turku Water Oy,Service agreement,2024-04-01,2026-04-01,2095000,No,Filipa Miranda
+CON-8135,Lahti Power & Heat Oy,Framework supply agreement,2022-05-30,2024-05-29,1240000,Yes,Oskari Martikainen
+CON-8136,Nasiadka Beverages S.A.,NDA,2025-08-12,2026-08-12,3591000,Yes,Seppo Saarinen
+CON-8137,Ernst Beverages AG,Distribution agreement,2023-03-24,2028-03-22,1000,No,Olgierd Molga
+CON-8138,Jourdan Process Chemicals SA,NDA,2025-01-11,2030-01-10,2089000,No,Tarja Saastamoinen
+CON-8139,Gdańsk Water Services S.A.,Service agreement,2022-04-11,2023-04-11,1922000,Yes,Toni Hämäläinen
+CON-8140,Vantage Logistics,Distribution agreement,2025-06-26,2030-06-25,1244000,No,Minna Laine
+CON-8141,Ironpeak Bearings,Framework supply agreement,2023-06-12,2028-06-10,3234000,No,Anne Laakkonen
+CON-8142,Ironpeak Bearings,Distribution agreement,2025-09-30,2027-09-30,1539000,No,Marek Misior
+CON-8143,Oakridge Logistics,Lease,2023-04-11,2024-04-10,701000,Yes,Anne Laakkonen
+CON-8144,Coastal Motors,NDA,2023-06-20,2028-06-18,2819000,Yes,Nicole Wyrostek
+CON-8145,Tartu Climate Systems OÜ,Service agreement,2024-02-03,2029-02-01,1936000,Yes,Heidi Penttilä
+CON-8146,Puusepp Specialty Chemicals OÜ,Service agreement,2025-07-28,2030-07-27,796000,No,Ilmari Kuisma
+CON-8147,Heredia Building Services S.L.,NDA,2022-02-24,2023-02-24,422000,No,Marek Misior
+CON-8148,Graz Installations AG,Framework supply agreement,2023-10-05,2024-10-04,411000,Yes,Filipa Miranda
+CON-8149,Oliveira Waterworks S.A.,Service agreement,2024-09-19,2026-09-19,3070000,No,Filipa Miranda

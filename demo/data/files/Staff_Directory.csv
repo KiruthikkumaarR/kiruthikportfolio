@@ -1,0 +1,651 @@
+employee_id,name,job_title,department,site,email,phone,manager,start_date
+E10000,Maria Peltoniemi,Chief Executive Officer,Executive Office,Tampere Works,maria.peltoniemi@halvorsen-is.example,+358 74 624 2681,Board of Directors,2011-03-02
+E10001,Valdemar Peltonen,Chief Financial Officer,Finance,Tampere Works,valdemar.peltonen@halvorsen-is.example,+358 86 736 7891,Maria Peltoniemi,2009-01-03
+E10002,Ilari Pesonen,Chief Operating Officer,Operations,Tampere Works,ilari.pesonen@halvorsen-is.example,+358 80 962 9042,Maria Peltoniemi,2016-11-03
+E10003,Ritva Soininen,Chief Technology Officer,Engineering,Tampere Works,ritva.soininen@halvorsen-is.example,+358 85 551 4931,Maria Peltoniemi,2021-05-04
+E10004,Petteri Hartikainen,Chief Human Resources Officer,Human Resources,Tampere Works,petteri.hartikainen@halvorsen-is.example,+358 20 213 5706,Maria Peltoniemi,2017-10-10
+E10005,Jarmo Pesonen,Chief Commercial Officer,Sales,Tampere Works,jarmo.pesonen@halvorsen-is.example,+358 67 111 9032,Maria Peltoniemi,2006-03-14
+E10006,Pirjo Helin,Chief Information Officer,IT,Tampere Works,pirjo.helin@halvorsen-is.example,+358 36 506 5120,Maria Peltoniemi,2011-01-18
+E10007,Anne Laakkonen,General Counsel,Legal & Compliance,Tampere Works,anne.laakkonen@halvorsen-is.example,+358 55 924 7166,Maria Peltoniemi,2024-11-03
+E10008,Hannele Turunen,Chief of Staff,Executive Office,Tampere Works,hannele.turunen@halvorsen-is.example,+358 91 178 6577,Maria Peltoniemi,2015-07-09
+E10009,Anna Kuisma,Head of Finance,Finance,Tampere Works,anna.kuisma@halvorsen-is.example,+358 78 399 5712,Valdemar Peltonen,2016-07-02
+E10010,Aage Kristiansen,Head of Human Resources,Human Resources,Aarhus Service Centre,aage.kristiansen@halvorsen-is.example,+45 92 820 6062,Petteri Hartikainen,2023-08-29
+E10011,Jenni Kauppinen,Head of Engineering,Engineering,Tampere Works,jenni.kauppinen@halvorsen-is.example,+358 57 472 8554,Ritva Soininen,2019-12-11
+E10012,Vito Draxler,Head of Operations,Operations,Graz Electronics,vito.draxler@halvorsen-is.example,+43 84 667 9166,Ilari Pesonen,2012-12-10
+E10013,Tymoteusz Lizoń,Head of Sales,Sales,Gdansk Assembly,tymoteusz.lizon@halvorsen-is.example,+48 86 996 9045,Jarmo Pesonen,2015-05-11
+E10014,Gabriel Eisner,Head of Marketing,Marketing,Graz Electronics,gabriel.eisner@halvorsen-is.example,+43 43 964 7880,Maria Peltoniemi,2015-10-07
+E10015,Oskari Martikainen,Head of Legal & Compliance,Legal & Compliance,Tampere Works,oskari.martikainen@halvorsen-is.example,+358 71 625 9486,Anne Laakkonen,2024-10-09
+E10016,Emmi Rantanen,Head of IT,IT,Tampere Works,emmi.rantanen@halvorsen-is.example,+358 26 937 1800,Pirjo Helin,2009-01-13
+E10017,Cyprian Piguła,Head of Quality,Quality,Gdansk Assembly,cyprian.pigua@halvorsen-is.example,+48 64 581 3333,Maria Peltoniemi,2017-12-15
+E10018,Trine Søndergaard,Head of Procurement,Procurement,Aarhus Service Centre,trine.sndergaard@halvorsen-is.example,+45 25 741 8484,Maria Peltoniemi,2009-02-18
+E10019,Mara Andrade,Payroll Specialist,Finance,Porto Foundry,mara.andrade@halvorsen-is.example,+351 95 415 9980,Anna Kuisma,2013-01-06
+E10020,Leena Laitinen,ERP Consultant,IT,Tampere Works,leena.laitinen@halvorsen-is.example,+358 47 951 5407,Emmi Rantanen,2008-07-17
+E10021,Gyda Kristiansen,Maintenance Technician,Operations,Aarhus Service Centre,gyda.kristiansen@halvorsen-is.example,+45 72 468 4274,Vito Draxler,2015-09-23
+E10022,Pernille Laursen,EHS Specialist,Operations,Aarhus Service Centre,pernille.laursen@halvorsen-is.example,+45 81 779 1550,Vito Draxler,2013-09-27
+E10023,Kaija Lehtinen,HR Generalist,Human Resources,Tampere Works,kaija.lehtinen@halvorsen-is.example,+358 75 365 8420,Aage Kristiansen,2019-06-18
+E10024,Heikki Lähteenmäki,Product Marketing Specialist,Marketing,Tampere Works,heikki.lahteenmaki@halvorsen-is.example,+358 18 764 5365,Gabriel Eisner,2025-01-31
+E10025,Heikki Anttila,Strategic Sourcing Manager,Procurement,Tampere Works,heikki.anttila@halvorsen-is.example,+358 62 249 8362,Trine Søndergaard,2020-10-06
+E10026,Matias Hakala,Marketing Manager,Marketing,Tampere Works,matias.hakala@halvorsen-is.example,+358 20 724 4257,Gabriel Eisner,2016-04-04
+E10027,André Rodrigues,Production Supervisor,Operations,Lyon Systems,andre.rodrigues@halvorsen-is.example,+33 91 465 3535,Vito Draxler,2020-12-28
+E10028,Ester Kříž,EHS Specialist,Operations,Brno Machining,ester.kriz@halvorsen-is.example,+420 26 712 9269,Vito Draxler,2017-03-09
+E10029,Inês Ribeiro,Machine Operator,Operations,Porto Foundry,ines.ribeiro@halvorsen-is.example,+351 85 413 9318,Vito Draxler,2021-07-19
+E10030,Kamila Čechová,Mechanical Engineer,Engineering,Brno Machining,kamila.cechova@halvorsen-is.example,+420 23 498 2203,Jenni Kauppinen,2004-04-25
+E10031,Eemeli Mäntylä,Logistics Coordinator,Operations,Tampere Works,eemeli.mantyla@halvorsen-is.example,+358 70 435 5975,Vito Draxler,2015-06-13
+E10032,Cathrine Johnsen,Senior Mechanical Engineer,Engineering,Aarhus Service Centre,cathrine.johnsen@halvorsen-is.example,+45 89 924 3797,Jenni Kauppinen,2016-10-26
+E10033,Perla Pera,Planner,Operations,Bilbao Plant,perla.pera@halvorsen-is.example,+34 39 794 2138,Vito Draxler,2017-06-01
+E10034,Karolína Matoušková,Key Account Manager,Sales,Brno Machining,karolina.matouskova@halvorsen-is.example,+420 32 146 9925,Tymoteusz Lizoń,2024-08-31
+E10035,Minna Ylitalo,Marketing Manager,Marketing,Tampere Works,minna.ylitalo@halvorsen-is.example,+358 96 998 1335,Gabriel Eisner,2014-11-07
+E10036,Cláudio Cruz,Planner,Operations,Porto Foundry,claudio.cruz@halvorsen-is.example,+351 33 499 5469,Vito Draxler,2018-10-30
+E10037,Jovana Meier,Product Manager,Engineering,Graz Electronics,jovana.meier@halvorsen-is.example,+43 54 278 5316,Jenni Kauppinen,2008-03-13
+E10038,Sørine Bruun,Product Manager,Engineering,Aarhus Service Centre,srine.bruun@halvorsen-is.example,+45 76 593 8284,Jenni Kauppinen,2011-04-22
+E10039,Libuše Pavlíková,Process Engineer,Operations,Brno Machining,libuse.pavlikova@halvorsen-is.example,+420 21 999 8440,Vito Draxler,2004-02-10
+E10040,Alexandre Pinheiro,Metrology Technician,Quality,Porto Foundry,alexandre.pinheiro@halvorsen-is.example,+351 30 460 9820,Cyprian Piguła,2011-11-23
+E10041,Radovan Havel,Process Engineer,Operations,Brno Machining,radovan.havel@halvorsen-is.example,+420 82 374 3172,Vito Draxler,2010-08-11
+E10042,Fiona Hemetsberger,Process Engineer,Operations,Graz Electronics,fiona.hemetsberger@halvorsen-is.example,+43 97 161 6836,Vito Draxler,2006-05-18
+E10043,Olivia Kuusela,Senior Accountant,Finance,Tampere Works,olivia.kuusela@halvorsen-is.example,+358 74 421 5534,Anna Kuisma,2006-05-20
+E10044,Laurent Lopes,Key Account Manager,Sales,Lyon Systems,laurent.lopes@halvorsen-is.example,+33 43 362 2030,Tymoteusz Lizoń,2007-08-15
+E10045,Mikael Koivisto,Process Engineer,Operations,Tampere Works,mikael.koivisto@halvorsen-is.example,+358 40 123 6077,Vito Draxler,2006-03-01
+E10046,Victoria Dam,Logistics Coordinator,Operations,Aarhus Service Centre,victoria.dam@halvorsen-is.example,+45 93 831 1622,Vito Draxler,2018-01-12
+E10047,Sebastian Szyda,Digital Marketing Specialist,Marketing,Gdansk Assembly,sebastian.szyda@halvorsen-is.example,+48 64 792 2956,Gabriel Eisner,2014-05-18
+E10048,Aino Nieminen,AP Clerk,Finance,Tampere Works,aino.nieminen@halvorsen-is.example,+358 59 398 6837,Anna Kuisma,2009-08-22
+E10049,Marianne Benard,Machine Operator,Operations,Lyon Systems,marianne.benard@halvorsen-is.example,+33 47 844 3004,Vito Draxler,2011-05-31
+E10050,Seija Sirviö,Machine Operator,Operations,Tampere Works,seija.sirvio@halvorsen-is.example,+358 53 302 1919,Vito Draxler,2025-06-17
+E10051,Karina Ogłaza,Financial Controller,Finance,Gdansk Assembly,karina.ogaza@halvorsen-is.example,+48 25 138 3059,Anna Kuisma,2006-10-02
+E10052,Emilia Anttila,Sales Operations Analyst,Sales,Tampere Works,emilia.anttila@halvorsen-is.example,+358 26 464 7804,Tymoteusz Lizoń,2016-12-19
+E10053,Lucie Fiala,Firmware Engineer,Engineering,Brno Machining,lucie.fiala@halvorsen-is.example,+420 33 655 1465,Jenni Kauppinen,2006-10-22
+E10054,Filipa Oliveira,Metrology Technician,Quality,Porto Foundry,filipa.oliveira@halvorsen-is.example,+351 12 383 9866,Cyprian Piguła,2004-07-10
+E10055,Igor Sousa,Test Engineer,Engineering,Porto Foundry,igor.sousa@halvorsen-is.example,+351 21 959 3937,Jenni Kauppinen,2017-04-25
+E10056,Dominga Aguiló,Sales Operations Analyst,Sales,Bilbao Plant,dominga.aguilo@halvorsen-is.example,+34 50 157 1186,Tymoteusz Lizoń,2015-09-03
+E10057,Samuel Kurki,Quality Inspector,Quality,Tampere Works,samuel.kurki@halvorsen-is.example,+358 75 982 3471,Cyprian Piguła,2019-03-26
+E10058,Ryszard Przeklasa,Content Writer,Marketing,Gdansk Assembly,ryszard.przeklasa@halvorsen-is.example,+48 45 451 4292,Gabriel Eisner,2022-08-05
+E10059,Oscar Poulsen,Electrical Engineer,Engineering,Aarhus Service Centre,oscar.poulsen@halvorsen-is.example,+45 96 694 6114,Jenni Kauppinen,2021-09-08
+E10060,Alma Overgaard,Machine Operator,Operations,Aarhus Service Centre,alma.overgaard@halvorsen-is.example,+45 55 933 9572,Vito Draxler,2004-02-13
+E10061,Eemeli Kankaanpää,AP Clerk,Finance,Tampere Works,eemeli.kankaanpaa@halvorsen-is.example,+358 48 481 9957,Anna Kuisma,2005-11-20
+E10062,Johannes Paavilainen,Senior Accountant,Finance,Tampere Works,johannes.paavilainen@halvorsen-is.example,+358 12 646 4557,Anna Kuisma,2006-04-05
+E10063,Taina Auvinen,Compensation Analyst,Human Resources,Tampere Works,taina.auvinen@halvorsen-is.example,+358 60 489 9830,Aage Kristiansen,2025-06-06
+E10064,Niklas Nieminen,Contract Manager,Legal & Compliance,Tampere Works,niklas.nieminen@halvorsen-is.example,+358 59 441 9970,Oskari Martikainen,2007-03-08
+E10065,Sára Němcová,Production Supervisor,Operations,Brno Machining,sara.nemcova@halvorsen-is.example,+420 47 402 9866,Vito Draxler,2024-02-28
+E10066,Dita Kubíček,Maintenance Technician,Operations,Brno Machining,dita.kubicek@halvorsen-is.example,+420 11 967 8864,Vito Draxler,2018-02-15
+E10067,Olga Duszczak,Digital Marketing Specialist,Marketing,Gdansk Assembly,olga.duszczak@halvorsen-is.example,+48 13 283 6155,Gabriel Eisner,2015-07-30
+E10068,Aurelia Chabior,Account Manager,Sales,Gdansk Assembly,aurelia.chabior@halvorsen-is.example,+48 92 885 1032,Tymoteusz Lizoń,2018-12-22
+E10069,Rafael Tavares,HR Business Partner,Human Resources,Porto Foundry,rafael.tavares@halvorsen-is.example,+351 29 713 5065,Aage Kristiansen,2015-12-08
+E10070,Monika Parkitny,Logistics Coordinator,Operations,Gdansk Assembly,monika.parkitny@halvorsen-is.example,+48 19 490 5301,Vito Draxler,2022-10-11
+E10071,Sarah Christiansen,Quality Engineer,Quality,Aarhus Service Centre,sarah.christiansen@halvorsen-is.example,+45 25 668 9502,Cyprian Piguła,2015-03-09
+E10072,Javi Hervás,Logistics Coordinator,Operations,Bilbao Plant,javi.hervas@halvorsen-is.example,+34 21 927 9107,Vito Draxler,2005-07-19
+E10073,Kacper Hewelt,Service Desk Analyst,IT,Gdansk Assembly,kacper.hewelt@halvorsen-is.example,+48 74 675 6434,Emmi Rantanen,2013-09-13
+E10074,Leoncio Castell,Electrical Engineer,Engineering,Bilbao Plant,leoncio.castell@halvorsen-is.example,+34 69 325 6710,Jenni Kauppinen,2008-05-28
+E10075,Susanna Hiltunen,Service Desk Analyst,IT,Tampere Works,susanna.hiltunen@halvorsen-is.example,+358 29 552 3090,Emmi Rantanen,2008-10-09
+E10076,Constanza Palacios,CFD Analyst,Engineering,Bilbao Plant,constanza.palacios@halvorsen-is.example,+34 66 369 3381,Jenni Kauppinen,2022-11-12
+E10077,Paula Carbonell,Sales Engineer,Sales,Bilbao Plant,paula.carbonell@halvorsen-is.example,+34 25 374 5808,Tymoteusz Lizoń,2016-08-03
+E10078,Marita Huttunen,Inside Sales Representative,Sales,Tampere Works,marita.huttunen@halvorsen-is.example,+358 52 790 7711,Tymoteusz Lizoń,2020-01-26
+E10079,Vladimíra Pokorný,Electrical Engineer,Engineering,Brno Machining,vladimira.pokorny@halvorsen-is.example,+420 92 438 1983,Jenni Kauppinen,2011-11-24
+E10080,Francisco Borges,Product Marketing Specialist,Marketing,Porto Foundry,francisco.borges@halvorsen-is.example,+351 42 233 6472,Gabriel Eisner,2019-09-27
+E10081,Doris Bech,Sales Operations Analyst,Sales,Aarhus Service Centre,doris.bech@halvorsen-is.example,+45 71 446 1192,Tymoteusz Lizoń,2023-12-11
+E10082,Adélaïde Blot,Planner,Operations,Lyon Systems,adelaide.blot@halvorsen-is.example,+33 36 909 8489,Vito Draxler,2004-05-25
+E10083,Nicole Klemczak,Sales Operations Analyst,Sales,Gdansk Assembly,nicole.klemczak@halvorsen-is.example,+48 34 651 1186,Tymoteusz Lizoń,2019-07-13
+E10084,Dagmara Bogumił,Executive Assistant,Executive Office,Gdansk Assembly,dagmara.bogumi@halvorsen-is.example,+48 87 789 3798,Hannele Turunen,2008-08-17
+E10085,Mikko Kallio,Financial Controller,Finance,Tampere Works,mikko.kallio@halvorsen-is.example,+358 76 797 3183,Anna Kuisma,2019-12-19
+E10086,Johanna Koski,Process Engineer,Operations,Tampere Works,johanna.koski@halvorsen-is.example,+358 75 336 8713,Vito Draxler,2016-05-04
+E10087,Teodora Puga,Supplier Quality Engineer,Quality,Bilbao Plant,teodora.puga@halvorsen-is.example,+34 71 361 9000,Cyprian Piguła,2017-08-09
+E10088,Hilkka Seppä,Strategic Sourcing Manager,Procurement,Tampere Works,hilkka.seppa@halvorsen-is.example,+358 27 122 8875,Trine Søndergaard,2014-12-28
+E10089,Elżbieta Kaczka,HR Generalist,Human Resources,Gdansk Assembly,elzbieta.kaczka@halvorsen-is.example,+48 75 962 7552,Aage Kristiansen,2010-02-19
+E10090,Przemysław Nowotny,Production Supervisor,Operations,Gdansk Assembly,przemysaw.nowotny@halvorsen-is.example,+48 92 777 9338,Vito Draxler,2020-03-12
+E10091,Ilkka Kangas,AP Clerk,Finance,Tampere Works,ilkka.kangas@halvorsen-is.example,+358 75 634 6326,Anna Kuisma,2006-01-13
+E10092,Diego Alves,Sales Engineer,Sales,Porto Foundry,diego.alves@halvorsen-is.example,+351 32 877 5218,Tymoteusz Lizoń,2016-08-09
+E10093,Pauliina Heikkilä,Paralegal,Legal & Compliance,Tampere Works,pauliina.heikkila@halvorsen-is.example,+358 69 346 4435,Oskari Martikainen,2004-08-24
+E10094,Hubert Svoboda,Reliability Engineer,Engineering,Brno Machining,hubert.svoboda@halvorsen-is.example,+420 44 894 9004,Jenni Kauppinen,2023-04-26
+E10095,Sophia Hofstätter,Logistics Coordinator,Operations,Graz Electronics,sophia.hofstatter@halvorsen-is.example,+43 79 293 3490,Vito Draxler,2017-10-19
+E10096,Mélanie Pinheiro,Quality Inspector,Quality,Porto Foundry,melanie.pinheiro@halvorsen-is.example,+351 94 686 2000,Cyprian Piguła,2022-04-19
+E10097,Vasco Brito,HR Business Partner,Human Resources,Porto Foundry,vasco.brito@halvorsen-is.example,+351 27 373 9852,Aage Kristiansen,2008-01-06
+E10098,Lauri Kokko,Senior Accountant,Finance,Tampere Works,lauri.kokko@halvorsen-is.example,+358 98 154 4041,Anna Kuisma,2008-03-08
+E10099,Marianne Hiltunen,FP&A Analyst,Finance,Tampere Works,marianne.hiltunen@halvorsen-is.example,+358 13 407 4619,Anna Kuisma,2016-03-31
+E10100,Ludvig Steffensen,Sales Operations Analyst,Sales,Aarhus Service Centre,ludvig.steffensen@halvorsen-is.example,+45 62 258 6316,Tymoteusz Lizoń,2020-10-03
+E10101,Hannu Puustinen,Production Supervisor,Operations,Tampere Works,hannu.puustinen@halvorsen-is.example,+358 55 700 5214,Vito Draxler,2006-02-14
+E10102,Gabriel Pacheco,Principal Engineer,Engineering,Porto Foundry,gabriel.pacheco@halvorsen-is.example,+351 21 532 8096,Jenni Kauppinen,2008-04-16
+E10103,Nikol Urban,Maintenance Technician,Operations,Brno Machining,nikol.urban@halvorsen-is.example,+420 37 481 3597,Vito Draxler,2015-02-03
+E10104,Beth Poulsen,Inside Sales Representative,Sales,Aarhus Service Centre,beth.poulsen@halvorsen-is.example,+45 36 416 8216,Tymoteusz Lizoń,2012-02-23
+E10105,Kacper Pryk,Content Writer,Marketing,Gdansk Assembly,kacper.pryk@halvorsen-is.example,+48 24 874 2291,Gabriel Eisner,2008-05-20
+E10106,Pilar Brito,Mechanical Engineer,Engineering,Porto Foundry,pilar.brito@halvorsen-is.example,+351 65 293 8010,Jenni Kauppinen,2018-05-18
+E10107,Christine Bonnet,Maintenance Technician,Operations,Lyon Systems,christine.bonnet@halvorsen-is.example,+33 60 109 8808,Vito Draxler,2012-03-10
+E10108,Natasha Dam,Sales Engineer,Sales,Aarhus Service Centre,natasha.dam@halvorsen-is.example,+45 28 673 4646,Tymoteusz Lizoń,2006-05-30
+E10109,Olavi Tuominen,Paralegal,Legal & Compliance,Tampere Works,olavi.tuominen@halvorsen-is.example,+358 16 814 6345,Oskari Martikainen,2017-04-20
+E10110,Heikki Kanerva,Systems Administrator,IT,Tampere Works,heikki.kanerva@halvorsen-is.example,+358 77 940 9688,Emmi Rantanen,2016-03-31
+E10111,Ella Mäkelä,Digital Marketing Specialist,Marketing,Tampere Works,ella.makela@halvorsen-is.example,+358 15 171 9644,Gabriel Eisner,2017-03-27
+E10112,Riikka Mäenpää,Marketing Manager,Marketing,Tampere Works,riikka.maenpaa@halvorsen-is.example,+358 68 728 8841,Gabriel Eisner,2016-11-23
+E10113,Marco Anjos,Account Manager,Sales,Porto Foundry,marco.anjos@halvorsen-is.example,+351 60 194 3755,Tymoteusz Lizoń,2006-05-11
+E10114,Maria Karlsson,Sales Engineer,Sales,Tampere Works,maria.karlsson@halvorsen-is.example,+358 87 633 2960,Tymoteusz Lizoń,2005-08-05
+E10115,Emilia Saarinen,AP Clerk,Finance,Tampere Works,emilia.saarinen@halvorsen-is.example,+358 70 347 6279,Anna Kuisma,2010-11-20
+E10116,Iida Kangas,FP&A Analyst,Finance,Tampere Works,iida.kangas@halvorsen-is.example,+358 50 528 1676,Anna Kuisma,2015-07-13
+E10117,Jarl Mogensen,Sales Operations Analyst,Sales,Aarhus Service Centre,jarl.mogensen@halvorsen-is.example,+45 24 702 8803,Tymoteusz Lizoń,2021-03-29
+E10118,Päivi Lehtonen,Metrology Technician,Quality,Tampere Works,paivi.lehtonen@halvorsen-is.example,+358 37 493 1557,Cyprian Piguła,2025-03-16
+E10119,Zuzana Navrátilová,Account Manager,Sales,Brno Machining,zuzana.navratilova@halvorsen-is.example,+420 50 373 8073,Tymoteusz Lizoń,2015-09-10
+E10120,Luciana Cruz,Purchasing Assistant,Procurement,Porto Foundry,luciana.cruz@halvorsen-is.example,+351 76 270 9689,Trine Søndergaard,2023-07-03
+E10121,Borys Skomra,Logistics Coordinator,Operations,Gdansk Assembly,borys.skomra@halvorsen-is.example,+48 68 515 2819,Vito Draxler,2007-10-25
+E10122,Ari Vainio,Learning & Development Specialist,Human Resources,Tampere Works,ari.vainio@halvorsen-is.example,+358 16 368 3768,Aage Kristiansen,2008-05-29
+E10123,Colette Riou,Sales Engineer,Sales,Lyon Systems,colette.riou@halvorsen-is.example,+33 14 323 2895,Tymoteusz Lizoń,2025-01-03
+E10124,Isabela Ribeiro,Purchasing Assistant,Procurement,Porto Foundry,isabela.ribeiro@halvorsen-is.example,+351 98 578 9445,Trine Søndergaard,2025-07-25
+E10125,Anton Andreasen,Quality Engineer,Quality,Aarhus Service Centre,anton.andreasen@halvorsen-is.example,+45 21 272 2073,Cyprian Piguła,2010-07-14
+E10126,Taina Huotari,Production Supervisor,Operations,Tampere Works,taina.huotari@halvorsen-is.example,+358 43 173 9954,Vito Draxler,2024-09-27
+E10127,Kalevi Sirén,Planner,Operations,Tampere Works,kalevi.siren@halvorsen-is.example,+358 39 649 7438,Vito Draxler,2011-11-23
+E10128,Veli Lehto,Firmware Engineer,Engineering,Tampere Works,veli.lehto@halvorsen-is.example,+358 81 191 8227,Jenni Kauppinen,2012-08-26
+E10129,Wiktor Jędrys,Senior Accountant,Finance,Gdansk Assembly,wiktor.jedrys@halvorsen-is.example,+48 81 304 9271,Anna Kuisma,2007-09-10
+E10130,Johanna Keskinen,Security Analyst,IT,Tampere Works,johanna.keskinen@halvorsen-is.example,+358 69 194 1310,Emmi Rantanen,2007-10-15
+E10131,Jolana Valentová,Mechanical Engineer,Engineering,Brno Machining,jolana.valentova@halvorsen-is.example,+420 70 991 3440,Jenni Kauppinen,2022-05-07
+E10132,Ritva Salo,Accountant,Finance,Tampere Works,ritva.salo@halvorsen-is.example,+358 27 101 7218,Anna Kuisma,2006-08-03
+E10133,Ruy Gutiérrez,EHS Specialist,Operations,Bilbao Plant,ruy.gutierrez@halvorsen-is.example,+34 55 185 1344,Vito Draxler,2025-02-20
+E10134,Luis Bayer,Quality Inspector,Quality,Graz Electronics,luis.bayer@halvorsen-is.example,+43 48 708 3943,Cyprian Piguła,2009-06-28
+E10135,Paco Alcántara,Production Supervisor,Operations,Bilbao Plant,paco.alcantara@halvorsen-is.example,+34 32 831 8506,Vito Draxler,2020-07-06
+E10136,Martim Pacheco,Quality Inspector,Quality,Porto Foundry,martim.pacheco@halvorsen-is.example,+351 74 778 8833,Cyprian Piguła,2025-05-29
+E10137,Agnès Devaux,Maintenance Technician,Operations,Lyon Systems,agnes.devaux@halvorsen-is.example,+33 42 120 8279,Vito Draxler,2013-02-21
+E10138,Marja Lehtonen,Quality Inspector,Quality,Tampere Works,marja.lehtonen@halvorsen-is.example,+358 25 198 4726,Cyprian Piguła,2017-03-03
+E10139,Ilmari Laurila,Learning & Development Specialist,Human Resources,Tampere Works,ilmari.laurila@halvorsen-is.example,+358 66 845 5872,Aage Kristiansen,2013-11-03
+E10140,Antoine Lagarde,Machine Operator,Operations,Lyon Systems,antoine.lagarde@halvorsen-is.example,+33 31 204 9977,Vito Draxler,2011-01-09
+E10141,Sascha Mühlböck,Planner,Operations,Graz Electronics,sascha.muhlbock@halvorsen-is.example,+43 98 780 6331,Vito Draxler,2023-06-17
+E10142,Natan Eisner,Shift Lead,Operations,Graz Electronics,natan.eisner@halvorsen-is.example,+43 52 760 9789,Vito Draxler,2017-06-28
+E10143,Beatrice Strasser,Reliability Engineer,Engineering,Graz Electronics,beatrice.strasser@halvorsen-is.example,+43 54 986 8408,Jenni Kauppinen,2009-11-29
+E10144,Alexandra Mareš,Process Engineer,Operations,Brno Machining,alexandra.mares@halvorsen-is.example,+420 65 786 3048,Vito Draxler,2007-10-23
+E10145,Aleksi Asikainen,Product Manager,Engineering,Tampere Works,aleksi.asikainen@halvorsen-is.example,+358 14 918 9418,Jenni Kauppinen,2010-11-20
+E10146,Ignác Ježková,Test Engineer,Engineering,Brno Machining,ignac.jezkova@halvorsen-is.example,+420 78 949 9370,Jenni Kauppinen,2018-02-12
+E10147,Valentino Klingler,Logistics Coordinator,Operations,Graz Electronics,valentino.klingler@halvorsen-is.example,+43 11 531 9612,Vito Draxler,2008-12-11
+E10148,Matthias Haid,CFD Analyst,Engineering,Graz Electronics,matthias.haid@halvorsen-is.example,+43 13 209 4868,Jenni Kauppinen,2023-05-15
+E10149,Ina Schlögl,EHS Specialist,Operations,Graz Electronics,ina.schlogl@halvorsen-is.example,+43 30 545 9405,Vito Draxler,2022-04-04
+E10150,Arkadiusz Sądej,Production Supervisor,Operations,Gdansk Assembly,arkadiusz.sadej@halvorsen-is.example,+48 37 507 3017,Vito Draxler,2006-08-15
+E10151,Mariusz Pryszcz,CFD Analyst,Engineering,Gdansk Assembly,mariusz.pryszcz@halvorsen-is.example,+48 51 418 1056,Jenni Kauppinen,2009-04-09
+E10152,Nádia Correia,Shift Lead,Operations,Porto Foundry,nadia.correia@halvorsen-is.example,+351 62 201 2728,Vito Draxler,2018-01-26
+E10153,Olavi Ikonen,Recruiter,Human Resources,Tampere Works,olavi.ikonen@halvorsen-is.example,+358 33 227 2418,Aage Kristiansen,2017-05-01
+E10154,James Iversen,Mechanical Engineer,Engineering,Aarhus Service Centre,james.iversen@halvorsen-is.example,+45 22 663 7940,Jenni Kauppinen,2024-07-16
+E10155,Annikki Kari,Network Engineer,IT,Tampere Works,annikki.kari@halvorsen-is.example,+358 64 997 2027,Emmi Rantanen,2014-05-27
+E10156,Arne Holm,Principal Engineer,Engineering,Aarhus Service Centre,arne.holm@halvorsen-is.example,+45 22 148 7678,Jenni Kauppinen,2011-11-19
+E10157,Leoš Vaněk,Shift Lead,Operations,Brno Machining,leos.vanek@halvorsen-is.example,+420 54 272 1179,Vito Draxler,2006-06-11
+E10158,Gabriela Almeida,Purchasing Assistant,Procurement,Porto Foundry,gabriela.almeida@halvorsen-is.example,+351 65 904 2676,Trine Søndergaard,2021-05-28
+E10159,Tanja Partanen,Accountant,Finance,Tampere Works,tanja.partanen@halvorsen-is.example,+358 20 691 5328,Anna Kuisma,2018-03-19
+E10160,Tatiana Maia,Test Engineer,Engineering,Porto Foundry,tatiana.maia@halvorsen-is.example,+351 42 134 5124,Jenni Kauppinen,2013-05-25
+E10161,Susanne Da Costa,Sales Engineer,Sales,Lyon Systems,susanne.da.costa@halvorsen-is.example,+33 85 552 3670,Tymoteusz Lizoń,2019-11-15
+E10162,Adèle Duhamel,Reliability Engineer,Engineering,Lyon Systems,adele.duhamel@halvorsen-is.example,+33 87 352 1031,Jenni Kauppinen,2006-06-22
+E10163,Milla Jokela,Digital Marketing Specialist,Marketing,Tampere Works,milla.jokela@halvorsen-is.example,+358 91 225 6512,Gabriel Eisner,2025-07-13
+E10164,Ragnar Pedersen,Product Manager,Engineering,Aarhus Service Centre,ragnar.pedersen@halvorsen-is.example,+45 96 209 7105,Jenni Kauppinen,2012-06-09
+E10165,Matilda Peltonen,Strategic Sourcing Manager,Procurement,Tampere Works,matilda.peltonen@halvorsen-is.example,+358 51 683 7183,Trine Søndergaard,2017-02-08
+E10166,Goyo Calzada,CFD Analyst,Engineering,Bilbao Plant,goyo.calzada@halvorsen-is.example,+34 71 110 6901,Jenni Kauppinen,2009-08-18
+E10167,Maria Nieminen,Principal Engineer,Engineering,Tampere Works,maria.nieminen@halvorsen-is.example,+358 47 653 9924,Jenni Kauppinen,2019-11-26
+E10168,Sanna Silvennoinen,Systems Administrator,IT,Tampere Works,sanna.silvennoinen@halvorsen-is.example,+358 48 985 5216,Emmi Rantanen,2012-08-11
+E10169,Róża Miękina,Planner,Operations,Gdansk Assembly,roza.miekina@halvorsen-is.example,+48 16 825 7014,Vito Draxler,2007-12-17
+E10170,Pia Takala,Content Writer,Marketing,Tampere Works,pia.takala@halvorsen-is.example,+358 76 748 1890,Gabriel Eisner,2016-01-13
+E10171,Luděk Němečková,Shift Lead,Operations,Brno Machining,ludek.nemeckova@halvorsen-is.example,+420 18 207 2176,Vito Draxler,2019-08-01
+E10172,Kristina Leino,Chief of Staff,Executive Office,Tampere Works,kristina.leino@halvorsen-is.example,+358 81 853 1392,Hannele Turunen,2013-11-20
+E10173,Paulo Morais,Service Desk Analyst,IT,Porto Foundry,paulo.morais@halvorsen-is.example,+351 66 294 1836,Emmi Rantanen,2019-03-04
+E10174,Lúcia Nunes,Mechanical Engineer,Engineering,Porto Foundry,lucia.nunes@halvorsen-is.example,+351 16 170 8428,Jenni Kauppinen,2012-11-27
+E10175,Minna Laine,Paralegal,Legal & Compliance,Tampere Works,minna.laine@halvorsen-is.example,+358 28 903 1013,Oskari Martikainen,2018-04-06
+E10176,Niko Steinbacher,Shift Lead,Operations,Graz Electronics,niko.steinbacher@halvorsen-is.example,+43 69 636 3469,Vito Draxler,2010-01-18
+E10177,Johanna Pietilä,Maintenance Technician,Operations,Tampere Works,johanna.pietila@halvorsen-is.example,+358 34 577 7326,Vito Draxler,2006-04-24
+E10178,Linnea Rauhala,Machine Operator,Operations,Tampere Works,linnea.rauhala@halvorsen-is.example,+358 95 194 5529,Vito Draxler,2016-12-09
+E10179,Gilles Perrin,Account Manager,Sales,Lyon Systems,gilles.perrin@halvorsen-is.example,+33 78 675 2822,Tymoteusz Lizoń,2010-10-23
+E10180,Sisko Väänänen,HR Business Partner,Human Resources,Tampere Works,sisko.vaananen@halvorsen-is.example,+358 27 274 3452,Aage Kristiansen,2011-10-19
+E10181,Xavier Haidinger,Process Engineer,Operations,Graz Electronics,xavier.haidinger@halvorsen-is.example,+43 92 582 6949,Vito Draxler,2017-03-09
+E10182,Carl Gregersen,Maintenance Technician,Operations,Aarhus Service Centre,carl.gregersen@halvorsen-is.example,+45 91 709 3216,Vito Draxler,2024-05-25
+E10183,Tarja Eklund,Supplier Quality Engineer,Quality,Tampere Works,tarja.eklund@halvorsen-is.example,+358 38 836 5522,Cyprian Piguła,2011-09-28
+E10184,Luce Léger,Principal Engineer,Engineering,Lyon Systems,luce.leger@halvorsen-is.example,+33 68 502 2693,Jenni Kauppinen,2010-01-06
+E10185,Estelle Lercher,Shift Lead,Operations,Graz Electronics,estelle.lercher@halvorsen-is.example,+43 50 390 5892,Vito Draxler,2014-09-27
+E10186,Victor Normand,Production Supervisor,Operations,Lyon Systems,victor.normand@halvorsen-is.example,+33 21 997 4301,Vito Draxler,2013-10-03
+E10187,Olga Salvador,Quality Engineer,Quality,Bilbao Plant,olga.salvador@halvorsen-is.example,+34 90 960 6216,Cyprian Piguła,2004-08-15
+E10188,Leander Heger,EHS Specialist,Operations,Graz Electronics,leander.heger@halvorsen-is.example,+43 79 863 4586,Vito Draxler,2011-07-01
+E10189,Erwin Hausberger,EHS Specialist,Operations,Graz Electronics,erwin.hausberger@halvorsen-is.example,+43 93 450 6948,Vito Draxler,2018-01-09
+E10190,Severiano Espinosa,Process Engineer,Operations,Bilbao Plant,severiano.espinosa@halvorsen-is.example,+34 78 980 2325,Vito Draxler,2013-01-10
+E10191,Ebbe Bech,Quality Engineer,Quality,Aarhus Service Centre,ebbe.bech@halvorsen-is.example,+45 92 712 1647,Cyprian Piguła,2005-03-04
+E10192,Cezary Andrearczyk,Electrical Engineer,Engineering,Gdansk Assembly,cezary.andrearczyk@halvorsen-is.example,+48 92 982 6831,Jenni Kauppinen,2024-07-12
+E10193,Nicole Wyrostek,Compliance Officer,Legal & Compliance,Gdansk Assembly,nicole.wyrostek@halvorsen-is.example,+48 92 312 5559,Oskari Martikainen,2009-01-21
+E10194,Katriina Markkanen,Strategy Analyst,Executive Office,Tampere Works,katriina.markkanen@halvorsen-is.example,+358 77 586 6752,Hannele Turunen,2020-08-06
+E10195,Laurent Fouquet,Maintenance Technician,Operations,Lyon Systems,laurent.fouquet@halvorsen-is.example,+33 65 393 7924,Vito Draxler,2010-11-26
+E10196,Kornel Gozdur,Compensation Analyst,Human Resources,Gdansk Assembly,kornel.gozdur@halvorsen-is.example,+48 58 969 7029,Aage Kristiansen,2012-11-22
+E10197,Eemeli Mäenpää,Purchasing Assistant,Procurement,Tampere Works,eemeli.maenpaa@halvorsen-is.example,+358 72 368 6199,Trine Søndergaard,2016-11-05
+E10198,Alina Vainio,Contract Manager,Legal & Compliance,Tampere Works,alina.vainio@halvorsen-is.example,+358 34 857 5390,Oskari Martikainen,2023-03-12
+E10199,Lubomír Novák,EHS Specialist,Operations,Brno Machining,lubomir.novak@halvorsen-is.example,+420 38 416 7656,Vito Draxler,2021-05-09
+E10200,Christelle Renault,Electrical Engineer,Engineering,Lyon Systems,christelle.renault@halvorsen-is.example,+33 47 810 2503,Jenni Kauppinen,2025-07-22
+E10201,Jose Puig,Supplier Quality Engineer,Quality,Bilbao Plant,jose.puig@halvorsen-is.example,+34 18 879 7350,Cyprian Piguła,2022-02-25
+E10202,Elisabeth Laukkanen,Purchasing Assistant,Procurement,Tampere Works,elisabeth.laukkanen@halvorsen-is.example,+358 21 222 5589,Trine Søndergaard,2013-05-24
+E10203,Bernardo Amaral,Production Supervisor,Operations,Porto Foundry,bernardo.amaral@halvorsen-is.example,+351 51 929 6203,Vito Draxler,2025-04-09
+E10204,Ilmari Kuisma,Compliance Officer,Legal & Compliance,Tampere Works,ilmari.kuisma@halvorsen-is.example,+358 96 390 3788,Oskari Martikainen,2004-04-20
+E10205,Margaret Bonnet,Sales Engineer,Sales,Lyon Systems,margaret.bonnet@halvorsen-is.example,+33 19 885 3111,Tymoteusz Lizoń,2015-08-12
+E10206,Venla Pasanen,Process Engineer,Operations,Tampere Works,venla.pasanen@halvorsen-is.example,+358 21 732 7066,Vito Draxler,2012-10-06
+E10207,Jaakko Berg,Reliability Engineer,Engineering,Tampere Works,jaakko.berg@halvorsen-is.example,+358 12 833 1703,Jenni Kauppinen,2005-03-24
+E10208,Martti Mäkelä,Quality Inspector,Quality,Tampere Works,martti.makela@halvorsen-is.example,+358 12 707 2773,Cyprian Piguła,2005-02-24
+E10209,Albert Zeman,Principal Engineer,Engineering,Brno Machining,albert.zeman@halvorsen-is.example,+420 86 259 9073,Jenni Kauppinen,2022-01-08
+E10210,Ana Sofía Miralles,Planner,Operations,Bilbao Plant,ana.sofia.miralles@halvorsen-is.example,+34 35 137 6108,Vito Draxler,2004-09-26
+E10211,Nils Bach,Sales Operations Analyst,Sales,Aarhus Service Centre,nils.bach@halvorsen-is.example,+45 98 887 2579,Tymoteusz Lizoń,2015-11-13
+E10212,Tapio Järvi,Purchasing Assistant,Procurement,Tampere Works,tapio.jarvi@halvorsen-is.example,+358 49 510 4904,Trine Søndergaard,2006-05-11
+E10213,Maria Mikkola,Senior Mechanical Engineer,Engineering,Tampere Works,maria.mikkola@halvorsen-is.example,+358 41 623 4936,Jenni Kauppinen,2004-08-20
+E10214,Alícia Vieira,Senior Legal Counsel,Legal & Compliance,Porto Foundry,alicia.vieira@halvorsen-is.example,+351 36 103 1114,Oskari Martikainen,2018-02-15
+E10215,Sine Lund,Machine Operator,Operations,Aarhus Service Centre,sine.lund@halvorsen-is.example,+45 65 604 2615,Vito Draxler,2023-08-23
+E10216,Šimon Pospíšilová,CFD Analyst,Engineering,Brno Machining,simon.pospisilova@halvorsen-is.example,+420 20 241 7859,Jenni Kauppinen,2005-01-02
+E10217,Teresa Figueiredo,Reliability Engineer,Engineering,Porto Foundry,teresa.figueiredo@halvorsen-is.example,+351 67 585 1333,Jenni Kauppinen,2017-07-04
+E10218,Kimmo Nieminen,Strategic Sourcing Manager,Procurement,Tampere Works,kimmo.nieminen@halvorsen-is.example,+358 84 827 3777,Trine Søndergaard,2007-11-20
+E10219,Vladislav Kolář,Shift Lead,Operations,Brno Machining,vladislav.kolar@halvorsen-is.example,+420 26 598 2650,Vito Draxler,2005-05-18
+E10220,Pánfilo Lloret,Key Account Manager,Sales,Bilbao Plant,panfilo.lloret@halvorsen-is.example,+34 25 238 2739,Tymoteusz Lizoń,2023-08-12
+E10221,Lilja Berg,Content Writer,Marketing,Tampere Works,lilja.berg@halvorsen-is.example,+358 53 421 5256,Gabriel Eisner,2014-07-23
+E10222,Calvin Stern,Sales Engineer,Sales,Graz Electronics,calvin.stern@halvorsen-is.example,+43 52 198 7466,Tymoteusz Lizoń,2009-02-25
+E10223,Azucena Román,Sales Operations Analyst,Sales,Bilbao Plant,azucena.roman@halvorsen-is.example,+34 35 360 9991,Tymoteusz Lizoń,2014-05-27
+E10224,Beatriz Magalhães,Senior Accountant,Finance,Porto Foundry,beatriz.magalhaes@halvorsen-is.example,+351 97 797 3638,Anna Kuisma,2014-03-17
+E10225,Evelyn Froschauer,Firmware Engineer,Engineering,Graz Electronics,evelyn.froschauer@halvorsen-is.example,+43 76 931 3784,Jenni Kauppinen,2007-05-25
+E10226,Antti Jokinen,Sales Operations Analyst,Sales,Tampere Works,antti.jokinen@halvorsen-is.example,+358 27 821 6081,Tymoteusz Lizoń,2020-05-22
+E10227,Marthe Andre,Maintenance Technician,Operations,Lyon Systems,marthe.andre@halvorsen-is.example,+33 30 634 4664,Vito Draxler,2013-01-18
+E10228,Sanna Kosonen,Marketing Manager,Marketing,Tampere Works,sanna.kosonen@halvorsen-is.example,+358 15 491 1986,Gabriel Eisner,2012-03-07
+E10229,Petri Karhunen,Purchasing Assistant,Procurement,Tampere Works,petri.karhunen@halvorsen-is.example,+358 95 668 8368,Trine Søndergaard,2017-03-09
+E10230,Janina Galuba,Shift Lead,Operations,Gdansk Assembly,janina.galuba@halvorsen-is.example,+48 78 155 2724,Vito Draxler,2024-05-29
+E10231,Rita Valente,Maintenance Technician,Operations,Porto Foundry,rita.valente@halvorsen-is.example,+351 56 862 8161,Vito Draxler,2017-04-07
+E10232,Maarit Silvennoinen,Senior Accountant,Finance,Tampere Works,maarit.silvennoinen@halvorsen-is.example,+358 27 579 7486,Anna Kuisma,2015-10-18
+E10233,Sylwia Jagiełka,Payroll Specialist,Finance,Gdansk Assembly,sylwia.jagieka@halvorsen-is.example,+48 85 512 2789,Anna Kuisma,2019-06-09
+E10234,Pastor Salmerón,Planner,Operations,Bilbao Plant,pastor.salmeron@halvorsen-is.example,+34 68 142 1325,Vito Draxler,2005-05-13
+E10235,Olivia Riedl,Planner,Operations,Graz Electronics,olivia.riedl@halvorsen-is.example,+43 84 502 6478,Vito Draxler,2019-06-20
+E10236,Poul Rasmussen,Planner,Operations,Aarhus Service Centre,poul.rasmussen@halvorsen-is.example,+45 60 991 6218,Vito Draxler,2021-06-01
+E10237,Gabriel Żółtek,Category Buyer,Procurement,Gdansk Assembly,gabriel.zotek@halvorsen-is.example,+48 56 222 1856,Trine Søndergaard,2025-02-25
+E10238,Kalervo Niemi,AP Clerk,Finance,Tampere Works,kalervo.niemi@halvorsen-is.example,+358 72 172 8774,Anna Kuisma,2023-09-08
+E10239,Catherine Roche,Shift Lead,Operations,Lyon Systems,catherine.roche@halvorsen-is.example,+33 90 474 2191,Vito Draxler,2009-04-12
+E10240,Veera Sutinen,Reliability Engineer,Engineering,Tampere Works,veera.sutinen@halvorsen-is.example,+358 81 771 7658,Jenni Kauppinen,2023-05-28
+E10241,Sara Loureiro,Executive Assistant,Executive Office,Porto Foundry,sara.loureiro@halvorsen-is.example,+351 23 496 2249,Hannele Turunen,2008-11-18
+E10242,Alice Domingues,Production Supervisor,Operations,Porto Foundry,alice.domingues@halvorsen-is.example,+351 30 211 6807,Vito Draxler,2004-01-15
+E10243,Roosa Virtanen,HR Business Partner,Human Resources,Tampere Works,roosa.virtanen@halvorsen-is.example,+358 44 644 3247,Aage Kristiansen,2005-11-20
+E10244,Naděžda Kopecký,Supplier Quality Engineer,Quality,Brno Machining,nadezda.kopecky@halvorsen-is.example,+420 82 118 9662,Cyprian Piguła,2006-08-08
+E10245,Denise Röck,Planner,Operations,Graz Electronics,denise.rock@halvorsen-is.example,+43 18 945 4720,Vito Draxler,2018-04-11
+E10246,Bruno Ramos,Mechanical Engineer,Engineering,Porto Foundry,bruno.ramos@halvorsen-is.example,+351 37 818 9554,Jenni Kauppinen,2007-12-04
+E10247,Bartek Ofiara,Purchasing Assistant,Procurement,Gdansk Assembly,bartek.ofiara@halvorsen-is.example,+48 78 575 8954,Trine Søndergaard,2021-10-14
+E10248,Marcial Pardo,Test Engineer,Engineering,Bilbao Plant,marcial.pardo@halvorsen-is.example,+34 31 393 7348,Jenni Kauppinen,2024-05-23
+E10249,Íris Marques,Sales Engineer,Sales,Porto Foundry,iris.marques@halvorsen-is.example,+351 67 540 5406,Tymoteusz Lizoń,2007-02-23
+E10250,Ville Eriksson,HR Business Partner,Human Resources,Tampere Works,ville.eriksson@halvorsen-is.example,+358 90 601 6086,Aage Kristiansen,2024-02-21
+E10251,Maurice Jank,EHS Specialist,Operations,Graz Electronics,maurice.jank@halvorsen-is.example,+43 69 190 4668,Vito Draxler,2010-03-10
+E10252,Aitor Vara,Metrology Technician,Quality,Bilbao Plant,aitor.vara@halvorsen-is.example,+34 46 688 7456,Cyprian Piguła,2004-06-22
+E10253,Sofia Erlacher,Electrical Engineer,Engineering,Graz Electronics,sofia.erlacher@halvorsen-is.example,+43 64 371 4605,Jenni Kauppinen,2011-07-29
+E10254,Noa Figueiredo,EHS Specialist,Operations,Porto Foundry,noa.figueiredo@halvorsen-is.example,+351 71 575 2790,Vito Draxler,2016-03-12
+E10255,Alfred Philippe,Machine Operator,Operations,Lyon Systems,alfred.philippe@halvorsen-is.example,+33 86 412 1734,Vito Draxler,2012-12-16
+E10256,Konrad Topa,Strategic Sourcing Manager,Procurement,Gdansk Assembly,konrad.topa@halvorsen-is.example,+48 63 652 5000,Trine Søndergaard,2011-01-11
+E10257,Tapani Hakala,Recruiter,Human Resources,Tampere Works,tapani.hakala@halvorsen-is.example,+358 10 588 6554,Aage Kristiansen,2024-08-04
+E10258,Karina Żyrek,Product Manager,Engineering,Gdansk Assembly,karina.zyrek@halvorsen-is.example,+48 48 659 1952,Jenni Kauppinen,2020-04-19
+E10259,Mira Piirainen,Sales Operations Analyst,Sales,Tampere Works,mira.piirainen@halvorsen-is.example,+358 41 686 8057,Tymoteusz Lizoń,2025-03-22
+E10260,Ragnhild Jeppesen,Maintenance Technician,Operations,Aarhus Service Centre,ragnhild.jeppesen@halvorsen-is.example,+45 52 354 9155,Vito Draxler,2016-11-12
+E10261,Berta Johansen,Production Supervisor,Operations,Aarhus Service Centre,berta.johansen@halvorsen-is.example,+45 12 130 3884,Vito Draxler,2019-01-03
+E10262,Petri Laine,Network Engineer,IT,Tampere Works,petri.laine@halvorsen-is.example,+358 12 189 7952,Emmi Rantanen,2015-01-23
+E10263,Pasi Hannula,Contract Manager,Legal & Compliance,Tampere Works,pasi.hannula@halvorsen-is.example,+358 33 610 9461,Oskari Martikainen,2011-01-03
+E10264,Brigitte Diallo,Machine Operator,Operations,Lyon Systems,brigitte.diallo@halvorsen-is.example,+33 37 164 8651,Vito Draxler,2009-12-22
+E10265,Marja Nurmi,Service Desk Analyst,IT,Tampere Works,marja.nurmi@halvorsen-is.example,+358 31 743 4402,Emmi Rantanen,2008-09-16
+E10266,Heidi Schultz,EHS Specialist,Operations,Aarhus Service Centre,heidi.schultz@halvorsen-is.example,+45 20 393 2502,Vito Draxler,2007-07-20
+E10267,Mélanie Nunes,AP Clerk,Finance,Porto Foundry,melanie.nunes@halvorsen-is.example,+351 92 908 7457,Anna Kuisma,2013-11-30
+E10268,Sara Margas,CFD Analyst,Engineering,Gdansk Assembly,sara.margas@halvorsen-is.example,+48 85 689 1579,Jenni Kauppinen,2024-08-25
+E10269,Markku Hokkanen,Network Engineer,IT,Tampere Works,markku.hokkanen@halvorsen-is.example,+358 65 822 7490,Emmi Rantanen,2020-05-10
+E10270,Vítor Leal,Sales Operations Analyst,Sales,Porto Foundry,vitor.leal@halvorsen-is.example,+351 21 325 9622,Tymoteusz Lizoń,2022-09-25
+E10271,Bernard Da Silva,Shift Lead,Operations,Lyon Systems,bernard.da.silva@halvorsen-is.example,+33 72 192 7085,Vito Draxler,2024-11-01
+E10272,Ana Puerta,Quality Inspector,Quality,Bilbao Plant,ana.puerta@halvorsen-is.example,+34 33 157 9043,Cyprian Piguła,2017-10-23
+E10273,Ascensión Beltrán,Logistics Coordinator,Operations,Bilbao Plant,ascension.beltran@halvorsen-is.example,+34 74 293 8693,Vito Draxler,2016-10-05
+E10274,Édouard Ollivier,Machine Operator,Operations,Lyon Systems,edouard.ollivier@halvorsen-is.example,+33 65 980 1566,Vito Draxler,2007-05-17
+E10275,Caetana Rodrigues,Payroll Specialist,Finance,Porto Foundry,caetana.rodrigues@halvorsen-is.example,+351 19 179 5797,Anna Kuisma,2023-03-30
+E10276,Otto Lammi,Test Engineer,Engineering,Tampere Works,otto.lammi@halvorsen-is.example,+358 83 540 6911,Jenni Kauppinen,2024-04-12
+E10277,Emília Nascimento,Compensation Analyst,Human Resources,Porto Foundry,emilia.nascimento@halvorsen-is.example,+351 15 128 8509,Aage Kristiansen,2021-02-05
+E10278,Martine Charrier,Supplier Quality Engineer,Quality,Lyon Systems,martine.charrier@halvorsen-is.example,+33 10 214 4392,Cyprian Piguła,2006-08-16
+E10279,Elina Elo,HR Business Partner,Human Resources,Tampere Works,elina.elo@halvorsen-is.example,+358 97 129 4247,Aage Kristiansen,2009-10-13
+E10280,Kristiina Lappalainen,Purchasing Assistant,Procurement,Tampere Works,kristiina.lappalainen@halvorsen-is.example,+358 92 897 7896,Trine Søndergaard,2022-08-03
+E10281,Heikki Koskinen,Production Supervisor,Operations,Tampere Works,heikki.koskinen@halvorsen-is.example,+358 53 829 5681,Vito Draxler,2016-11-27
+E10282,Merja Eklund,Digital Marketing Specialist,Marketing,Tampere Works,merja.eklund@halvorsen-is.example,+358 55 599 6710,Gabriel Eisner,2006-04-15
+E10283,Irene Lindqvist,Network Engineer,IT,Tampere Works,irene.lindqvist@halvorsen-is.example,+358 18 150 3814,Emmi Rantanen,2007-01-02
+E10284,Diogo Domingues,Principal Engineer,Engineering,Porto Foundry,diogo.domingues@halvorsen-is.example,+351 18 663 9258,Jenni Kauppinen,2022-11-18
+E10285,Aitana Aguilera,Quality Engineer,Quality,Bilbao Plant,aitana.aguilera@halvorsen-is.example,+34 19 908 5896,Cyprian Piguła,2023-10-06
+E10286,Mikuláš Černá,EHS Specialist,Operations,Brno Machining,mikulas.cerna@halvorsen-is.example,+420 92 679 8285,Vito Draxler,2012-07-29
+E10287,Marius Mandl,Key Account Manager,Sales,Graz Electronics,marius.mandl@halvorsen-is.example,+43 46 244 5401,Tymoteusz Lizoń,2011-04-28
+E10288,Hannele Oksanen,Test Engineer,Engineering,Tampere Works,hannele.oksanen@halvorsen-is.example,+358 44 720 9215,Jenni Kauppinen,2017-01-21
+E10289,Aristides Lucena,Machine Operator,Operations,Bilbao Plant,aristides.lucena@halvorsen-is.example,+34 55 547 3256,Vito Draxler,2023-01-25
+E10290,Nair Paiva,Network Engineer,IT,Porto Foundry,nair.paiva@halvorsen-is.example,+351 65 177 9532,Emmi Rantanen,2021-04-29
+E10291,Luna Neto,Learning & Development Specialist,Human Resources,Porto Foundry,luna.neto@halvorsen-is.example,+351 54 508 2333,Aage Kristiansen,2018-06-19
+E10292,Henrikki Varis,EHS Specialist,Operations,Tampere Works,henrikki.varis@halvorsen-is.example,+358 99 393 3583,Vito Draxler,2017-02-18
+E10293,Bartek Tomaszczyk,Product Manager,Engineering,Gdansk Assembly,bartek.tomaszczyk@halvorsen-is.example,+48 94 314 5032,Jenni Kauppinen,2010-11-20
+E10294,Jarmila Musilová,Shift Lead,Operations,Brno Machining,jarmila.musilova@halvorsen-is.example,+420 72 380 8540,Vito Draxler,2004-08-19
+E10295,Christian Jenewein,Product Manager,Engineering,Graz Electronics,christian.jenewein@halvorsen-is.example,+43 19 650 1181,Jenni Kauppinen,2016-09-19
+E10296,Sam Tiefenbacher,Process Engineer,Operations,Graz Electronics,sam.tiefenbacher@halvorsen-is.example,+43 39 766 5142,Vito Draxler,2005-07-07
+E10297,Marcial Ferrándiz,Machine Operator,Operations,Bilbao Plant,marcial.ferrandiz@halvorsen-is.example,+34 39 207 5431,Vito Draxler,2025-03-01
+E10298,Christoph Leibetseder,Logistics Coordinator,Operations,Graz Electronics,christoph.leibetseder@halvorsen-is.example,+43 75 161 8314,Vito Draxler,2006-06-25
+E10299,Iida Kuisma,Digital Marketing Specialist,Marketing,Tampere Works,iida.kuisma@halvorsen-is.example,+358 73 248 5576,Gabriel Eisner,2006-07-14
+E10300,Sinikka Myllymäki,FP&A Analyst,Finance,Tampere Works,sinikka.myllymaki@halvorsen-is.example,+358 28 113 4038,Anna Kuisma,2023-06-09
+E10301,Miguela Moraleda,Sales Engineer,Sales,Bilbao Plant,miguela.moraleda@halvorsen-is.example,+34 52 941 1362,Tymoteusz Lizoń,2019-01-03
+E10302,Maria Grönroos,HR Generalist,Human Resources,Tampere Works,maria.gronroos@halvorsen-is.example,+358 66 647 2041,Aage Kristiansen,2019-03-06
+E10303,Kristina Saari,Learning & Development Specialist,Human Resources,Tampere Works,kristina.saari@halvorsen-is.example,+358 42 685 7596,Aage Kristiansen,2015-06-23
+E10304,Jussi Karppinen,Systems Administrator,IT,Tampere Works,jussi.karppinen@halvorsen-is.example,+358 92 453 6185,Emmi Rantanen,2016-02-18
+E10305,Marjatta Miettinen,Inside Sales Representative,Sales,Tampere Works,marjatta.miettinen@halvorsen-is.example,+358 56 880 5776,Tymoteusz Lizoń,2012-05-06
+E10306,Maya Steffensen,Quality Inspector,Quality,Aarhus Service Centre,maya.steffensen@halvorsen-is.example,+45 79 840 9092,Cyprian Piguła,2016-02-16
+E10307,Isabell Steinlechner,Account Manager,Sales,Graz Electronics,isabell.steinlechner@halvorsen-is.example,+43 43 895 5981,Tymoteusz Lizoń,2008-03-14
+E10308,Juhani Konttinen,Strategic Sourcing Manager,Procurement,Tampere Works,juhani.konttinen@halvorsen-is.example,+358 43 633 4264,Trine Søndergaard,2014-02-25
+E10309,Růžena Beranová,Test Engineer,Engineering,Brno Machining,ruzena.beranova@halvorsen-is.example,+420 19 680 2411,Jenni Kauppinen,2004-04-17
+E10310,Mirjam Parkkinen,Mechanical Engineer,Engineering,Tampere Works,mirjam.parkkinen@halvorsen-is.example,+358 51 567 6582,Jenni Kauppinen,2021-03-14
+E10311,Jonathan Simonsen,Production Supervisor,Operations,Aarhus Service Centre,jonathan.simonsen@halvorsen-is.example,+45 53 810 5948,Vito Draxler,2015-05-13
+E10312,Maaria Saastamoinen,Senior Mechanical Engineer,Engineering,Tampere Works,maaria.saastamoinen@halvorsen-is.example,+358 59 696 3934,Jenni Kauppinen,2025-01-29
+E10313,Jędrzej Kulis,Product Marketing Specialist,Marketing,Gdansk Assembly,jedrzej.kulis@halvorsen-is.example,+48 21 593 5596,Gabriel Eisner,2014-01-01
+E10314,Veronika Šimek,Shift Lead,Operations,Brno Machining,veronika.simek@halvorsen-is.example,+420 25 221 6313,Vito Draxler,2023-04-13
+E10315,Zehnia Søndergaard,Inside Sales Representative,Sales,Aarhus Service Centre,zehnia.sndergaard@halvorsen-is.example,+45 61 592 6014,Tymoteusz Lizoń,2013-01-23
+E10316,Vasyl Pešková,Test Engineer,Engineering,Brno Machining,vasyl.peskova@halvorsen-is.example,+420 21 269 5430,Jenni Kauppinen,2009-01-09
+E10317,Ingrid Østergaard,Reliability Engineer,Engineering,Aarhus Service Centre,ingrid.stergaard@halvorsen-is.example,+45 32 845 8334,Jenni Kauppinen,2009-01-28
+E10318,Bohumír Štěpánková,Production Supervisor,Operations,Brno Machining,bohumir.stepankova@halvorsen-is.example,+420 83 897 7813,Vito Draxler,2004-11-20
+E10319,Mojmír Král,Maintenance Technician,Operations,Brno Machining,mojmir.kral@halvorsen-is.example,+420 48 949 4468,Vito Draxler,2006-09-27
+E10320,Marie Holubová,Shift Lead,Operations,Brno Machining,marie.holubova@halvorsen-is.example,+420 22 752 5750,Vito Draxler,2015-06-06
+E10321,Miriam Marques,Accountant,Finance,Porto Foundry,miriam.marques@halvorsen-is.example,+351 47 175 6345,Anna Kuisma,2020-11-25
+E10322,Marika Kołak,Content Writer,Marketing,Gdansk Assembly,marika.koak@halvorsen-is.example,+48 70 176 3232,Gabriel Eisner,2018-08-03
+E10323,Louis Boyer,Mechanical Engineer,Engineering,Lyon Systems,louis.boyer@halvorsen-is.example,+33 60 477 2136,Jenni Kauppinen,2007-03-15
+E10324,Esther Pröll,Machine Operator,Operations,Graz Electronics,esther.proll@halvorsen-is.example,+43 89 447 9866,Vito Draxler,2022-05-18
+E10325,Connie Frederiksen,Production Supervisor,Operations,Aarhus Service Centre,connie.frederiksen@halvorsen-is.example,+45 16 829 6912,Vito Draxler,2005-09-02
+E10326,Adélaïde Pierre,Machine Operator,Operations,Lyon Systems,adelaide.pierre@halvorsen-is.example,+33 51 454 2528,Vito Draxler,2004-06-10
+E10327,Heidi Penttilä,Contract Manager,Legal & Compliance,Tampere Works,heidi.penttila@halvorsen-is.example,+358 14 563 2118,Oskari Martikainen,2018-01-30
+E10328,Juan Francisco Marti,Machine Operator,Operations,Bilbao Plant,juan.francisco.marti@halvorsen-is.example,+34 32 818 3777,Vito Draxler,2014-01-30
+E10329,Bohumír Dostál,Process Engineer,Operations,Brno Machining,bohumir.dostal@halvorsen-is.example,+420 31 252 7553,Vito Draxler,2024-12-23
+E10330,Linda Koponen,Accountant,Finance,Tampere Works,linda.koponen@halvorsen-is.example,+358 76 275 4602,Anna Kuisma,2017-03-13
+E10331,Irmeli Laakso,Process Engineer,Operations,Tampere Works,irmeli.laakso@halvorsen-is.example,+358 85 835 1048,Vito Draxler,2011-08-21
+E10332,Ensio Valtonen,Financial Controller,Finance,Tampere Works,ensio.valtonen@halvorsen-is.example,+358 66 478 6325,Anna Kuisma,2007-03-16
+E10333,Eva Ševčíková,Logistics Coordinator,Operations,Brno Machining,eva.sevcikova@halvorsen-is.example,+420 46 610 5404,Vito Draxler,2009-11-28
+E10334,Isidro Correa,Logistics Coordinator,Operations,Bilbao Plant,isidro.correa@halvorsen-is.example,+34 56 735 4116,Vito Draxler,2024-12-27
+E10335,Arvo Kuusisto,AP Clerk,Finance,Tampere Works,arvo.kuusisto@halvorsen-is.example,+358 79 188 8601,Anna Kuisma,2025-03-21
+E10336,Krystian Kluj,Planner,Operations,Gdansk Assembly,krystian.kluj@halvorsen-is.example,+48 98 669 8260,Vito Draxler,2008-04-10
+E10337,Jacinta Bru,Planner,Operations,Bilbao Plant,jacinta.bru@halvorsen-is.example,+34 62 622 1117,Vito Draxler,2023-04-23
+E10338,Maria Rauhala,Reliability Engineer,Engineering,Tampere Works,maria.rauhala@halvorsen-is.example,+358 24 798 4567,Jenni Kauppinen,2020-06-18
+E10339,Marjaana Tiainen,Security Analyst,IT,Tampere Works,marjaana.tiainen@halvorsen-is.example,+358 40 695 4025,Emmi Rantanen,2011-08-30
+E10340,Johanna Halonen,Security Analyst,IT,Tampere Works,johanna.halonen@halvorsen-is.example,+358 14 844 8712,Emmi Rantanen,2014-03-09
+E10341,Marja Soininen,Production Supervisor,Operations,Tampere Works,marja.soininen@halvorsen-is.example,+358 30 557 8652,Vito Draxler,2012-08-12
+E10342,Augustin Deschamps,Machine Operator,Operations,Lyon Systems,augustin.deschamps@halvorsen-is.example,+33 73 401 4710,Vito Draxler,2007-07-25
+E10343,Frédéric Bourgeois,Reliability Engineer,Engineering,Lyon Systems,frederic.bourgeois@halvorsen-is.example,+33 15 396 2679,Jenni Kauppinen,2006-09-05
+E10344,Laetitia Leroux,Inside Sales Representative,Sales,Lyon Systems,laetitia.leroux@halvorsen-is.example,+33 27 272 6498,Tymoteusz Lizoń,2019-03-31
+E10345,Filipa Miranda,Senior Legal Counsel,Legal & Compliance,Porto Foundry,filipa.miranda@halvorsen-is.example,+351 19 505 6545,Oskari Martikainen,2024-01-26
+E10346,Samuel Cruz,Inside Sales Representative,Sales,Porto Foundry,samuel.cruz@halvorsen-is.example,+351 56 675 2438,Tymoteusz Lizoń,2004-06-21
+E10347,Zora Krejčová,Sales Operations Analyst,Sales,Brno Machining,zora.krejcova@halvorsen-is.example,+420 30 701 1479,Tymoteusz Lizoń,2008-12-01
+E10348,Anneli Hokkanen,Paralegal,Legal & Compliance,Tampere Works,anneli.hokkanen@halvorsen-is.example,+358 38 188 8344,Oskari Martikainen,2006-02-22
+E10349,Tina Moritz,Principal Engineer,Engineering,Graz Electronics,tina.moritz@halvorsen-is.example,+43 60 709 7198,Jenni Kauppinen,2006-09-03
+E10350,Rafaela Figueiredo,Strategic Sourcing Manager,Procurement,Porto Foundry,rafaela.figueiredo@halvorsen-is.example,+351 67 708 8423,Trine Søndergaard,2010-01-05
+E10351,Timo Mattila,Product Marketing Specialist,Marketing,Tampere Works,timo.mattila@halvorsen-is.example,+358 95 891 2948,Gabriel Eisner,2017-01-10
+E10352,Johannes Häkkinen,Electrical Engineer,Engineering,Tampere Works,johannes.hakkinen@halvorsen-is.example,+358 47 228 4132,Jenni Kauppinen,2024-05-14
+E10353,Erika Makkonen,Product Manager,Engineering,Tampere Works,erika.makkonen@halvorsen-is.example,+358 96 661 5054,Jenni Kauppinen,2013-10-10
+E10354,Pekka Kärkkäinen,Digital Marketing Specialist,Marketing,Tampere Works,pekka.karkkainen@halvorsen-is.example,+358 22 437 5622,Gabriel Eisner,2010-03-26
+E10355,Miroslava Sedláčková,Account Manager,Sales,Brno Machining,miroslava.sedlackova@halvorsen-is.example,+420 95 875 4819,Tymoteusz Lizoń,2010-05-08
+E10356,Jorma Hakala,Product Manager,Engineering,Tampere Works,jorma.hakala@halvorsen-is.example,+358 49 363 7462,Jenni Kauppinen,2021-07-11
+E10357,Sára Kučera,Shift Lead,Operations,Brno Machining,sara.kucera@halvorsen-is.example,+420 70 648 4011,Vito Draxler,2006-03-17
+E10358,Rodrigo Mota,Strategic Sourcing Manager,Procurement,Porto Foundry,rodrigo.mota@halvorsen-is.example,+351 91 417 2834,Trine Søndergaard,2018-12-18
+E10359,Nora Stoiber,Mechanical Engineer,Engineering,Graz Electronics,nora.stoiber@halvorsen-is.example,+43 71 121 8652,Jenni Kauppinen,2015-04-21
+E10360,Lucie Matějková,Sales Engineer,Sales,Brno Machining,lucie.matejkova@halvorsen-is.example,+420 20 565 4782,Tymoteusz Lizoń,2018-06-24
+E10361,Jacek Nestorowicz,Electrical Engineer,Engineering,Gdansk Assembly,jacek.nestorowicz@halvorsen-is.example,+48 73 801 3604,Jenni Kauppinen,2008-03-12
+E10362,Roldán Miralles,CFD Analyst,Engineering,Bilbao Plant,roldan.miralles@halvorsen-is.example,+34 49 870 9166,Jenni Kauppinen,2013-11-11
+E10363,Kalevi Tarvainen,Machine Operator,Operations,Tampere Works,kalevi.tarvainen@halvorsen-is.example,+358 17 772 3878,Vito Draxler,2007-02-16
+E10364,Paul Eriksen,Mechanical Engineer,Engineering,Aarhus Service Centre,paul.eriksen@halvorsen-is.example,+45 67 772 7993,Jenni Kauppinen,2013-05-21
+E10365,Sten Krogh,Product Manager,Engineering,Aarhus Service Centre,sten.krogh@halvorsen-is.example,+45 58 707 8920,Jenni Kauppinen,2025-04-05
+E10366,Guilherme Ribeiro,Systems Administrator,IT,Porto Foundry,guilherme.ribeiro@halvorsen-is.example,+351 22 680 9390,Emmi Rantanen,2016-09-23
+E10367,Radoslav Bláhová,Quality Engineer,Quality,Brno Machining,radoslav.blahova@halvorsen-is.example,+420 70 679 8669,Cyprian Piguła,2020-09-19
+E10368,André Mendes,Machine Operator,Operations,Porto Foundry,andre.mendes@halvorsen-is.example,+351 92 739 1171,Vito Draxler,2012-01-12
+E10369,Anouk Laroche,EHS Specialist,Operations,Lyon Systems,anouk.laroche@halvorsen-is.example,+33 80 130 9143,Vito Draxler,2023-01-05
+E10370,Elisabet Tuominen,Recruiter,Human Resources,Tampere Works,elisabet.tuominen@halvorsen-is.example,+358 55 136 5975,Aage Kristiansen,2025-02-18
+E10371,Manon Da Costa,EHS Specialist,Operations,Lyon Systems,manon.da.costa@halvorsen-is.example,+33 29 458 3737,Vito Draxler,2025-06-13
+E10372,Jannie Christoffersen,Machine Operator,Operations,Aarhus Service Centre,jannie.christoffersen@halvorsen-is.example,+45 41 647 7929,Vito Draxler,2025-01-14
+E10373,Susanna Nieminen,Logistics Coordinator,Operations,Tampere Works,susanna.nieminen@halvorsen-is.example,+358 16 640 8364,Vito Draxler,2014-07-26
+E10374,Seppo Saarinen,Senior Legal Counsel,Legal & Compliance,Tampere Works,seppo.saarinen@halvorsen-is.example,+358 53 145 5140,Oskari Martikainen,2014-10-13
+E10375,Johanna Juntunen,Paralegal,Legal & Compliance,Tampere Works,johanna.juntunen@halvorsen-is.example,+358 94 237 7380,Oskari Martikainen,2007-10-11
+E10376,Maks Świerad,Accountant,Finance,Gdansk Assembly,maks.swierad@halvorsen-is.example,+48 67 901 1444,Anna Kuisma,2018-11-04
+E10377,Jacqueline Marion,Reliability Engineer,Engineering,Lyon Systems,jacqueline.marion@halvorsen-is.example,+33 43 686 3153,Jenni Kauppinen,2020-08-11
+E10378,Afonso Gaspar,Sales Engineer,Sales,Porto Foundry,afonso.gaspar@halvorsen-is.example,+351 92 450 1415,Tymoteusz Lizoń,2007-09-10
+E10379,Bartek Uroda,Quality Inspector,Quality,Gdansk Assembly,bartek.uroda@halvorsen-is.example,+48 83 548 7925,Cyprian Piguła,2023-11-07
+E10380,Wilson Magalhães,HR Generalist,Human Resources,Porto Foundry,wilson.magalhaes@halvorsen-is.example,+351 21 931 8257,Aage Kristiansen,2016-06-03
+E10381,Robin Strnad,Shift Lead,Operations,Brno Machining,robin.strnad@halvorsen-is.example,+420 53 494 9433,Vito Draxler,2017-12-23
+E10382,Jacek Hetmańczyk,Marketing Manager,Marketing,Gdansk Assembly,jacek.hetmanczyk@halvorsen-is.example,+48 12 367 9298,Gabriel Eisner,2024-06-19
+E10383,Carolina Almeida,Planner,Operations,Porto Foundry,carolina.almeida@halvorsen-is.example,+351 75 561 7001,Vito Draxler,2014-09-24
+E10384,Juhani Järvinen,Production Supervisor,Operations,Tampere Works,juhani.jarvinen@halvorsen-is.example,+358 99 725 9044,Vito Draxler,2023-06-16
+E10385,Tapio Salmi,Learning & Development Specialist,Human Resources,Tampere Works,tapio.salmi@halvorsen-is.example,+358 78 595 9890,Aage Kristiansen,2015-05-13
+E10386,Emil Wydmuch,Shift Lead,Operations,Gdansk Assembly,emil.wydmuch@halvorsen-is.example,+48 35 236 1517,Vito Draxler,2007-01-06
+E10387,Martin Springer,Quality Inspector,Quality,Graz Electronics,martin.springer@halvorsen-is.example,+43 44 611 9181,Cyprian Piguła,2021-10-06
+E10388,Laurenz Kappel,Planner,Operations,Graz Electronics,laurenz.kappel@halvorsen-is.example,+43 78 826 9012,Vito Draxler,2023-09-30
+E10389,Eemeli Soini,Recruiter,Human Resources,Tampere Works,eemeli.soini@halvorsen-is.example,+358 41 306 2105,Aage Kristiansen,2011-11-19
+E10390,Sandra Drążyk,Reliability Engineer,Engineering,Gdansk Assembly,sandra.drazyk@halvorsen-is.example,+48 49 992 4248,Jenni Kauppinen,2021-06-20
+E10391,Tapio Ahola,Machine Operator,Operations,Tampere Works,tapio.ahola@halvorsen-is.example,+358 30 184 3999,Vito Draxler,2024-03-21
+E10392,Toni Hämäläinen,Senior Legal Counsel,Legal & Compliance,Tampere Works,toni.hamalainen@halvorsen-is.example,+358 64 217 3415,Oskari Martikainen,2012-08-07
+E10393,Hellevi Koski,HR Generalist,Human Resources,Tampere Works,hellevi.koski@halvorsen-is.example,+358 39 822 3488,Aage Kristiansen,2021-04-30
+E10394,Ingrid Mikkelsen,Sales Engineer,Sales,Aarhus Service Centre,ingrid.mikkelsen@halvorsen-is.example,+45 16 191 5117,Tymoteusz Lizoń,2020-10-04
+E10395,Marcelina Proć,Electrical Engineer,Engineering,Gdansk Assembly,marcelina.proc@halvorsen-is.example,+48 64 463 3202,Jenni Kauppinen,2025-07-07
+E10396,Patryk Gregorczuk,Shift Lead,Operations,Gdansk Assembly,patryk.gregorczuk@halvorsen-is.example,+48 59 774 3835,Vito Draxler,2010-01-29
+E10397,Miroslav Janečková,Maintenance Technician,Operations,Brno Machining,miroslav.janeckova@halvorsen-is.example,+420 70 200 7144,Vito Draxler,2007-01-23
+E10398,Emil Jonak,Chief of Staff,Executive Office,Gdansk Assembly,emil.jonak@halvorsen-is.example,+48 27 649 6382,Hannele Turunen,2016-12-26
+E10399,Andrée Gaudin,Production Supervisor,Operations,Lyon Systems,andree.gaudin@halvorsen-is.example,+33 33 391 5934,Vito Draxler,2017-09-03
+E10400,Iveta Beranová,Shift Lead,Operations,Brno Machining,iveta.beranova@halvorsen-is.example,+420 39 424 8742,Vito Draxler,2021-10-01
+E10401,Johanna Jussila,Senior Accountant,Finance,Tampere Works,johanna.jussila@halvorsen-is.example,+358 80 938 4994,Anna Kuisma,2025-02-24
+E10402,Petri Rantanen,Strategic Sourcing Manager,Procurement,Tampere Works,petri.rantanen@halvorsen-is.example,+358 82 875 7513,Trine Søndergaard,2020-11-27
+E10403,Kristiina Martikainen,Logistics Coordinator,Operations,Tampere Works,kristiina.martikainen@halvorsen-is.example,+358 53 470 3349,Vito Draxler,2023-04-06
+E10404,Tapani Lipponen,Chief of Staff,Executive Office,Tampere Works,tapani.lipponen@halvorsen-is.example,+358 62 621 8968,Hannele Turunen,2006-07-12
+E10405,Kelly Barros,Treasury Analyst,Finance,Porto Foundry,kelly.barros@halvorsen-is.example,+351 51 519 8553,Anna Kuisma,2006-05-25
+E10406,Piotr Noszczyk,Machine Operator,Operations,Gdansk Assembly,piotr.noszczyk@halvorsen-is.example,+48 96 203 2891,Vito Draxler,2008-02-23
+E10407,Katriina Kuisma,Strategic Sourcing Manager,Procurement,Tampere Works,katriina.kuisma@halvorsen-is.example,+358 54 456 5182,Trine Søndergaard,2010-05-13
+E10408,Aukusti Ollikainen,Supplier Quality Engineer,Quality,Tampere Works,aukusti.ollikainen@halvorsen-is.example,+358 34 380 1474,Cyprian Piguła,2021-06-01
+E10409,Antoinette Perrier,Quality Inspector,Quality,Lyon Systems,antoinette.perrier@halvorsen-is.example,+33 85 415 2051,Cyprian Piguła,2018-04-21
+E10410,Aatos Niemi,HR Business Partner,Human Resources,Tampere Works,aatos.niemi@halvorsen-is.example,+358 18 940 5308,Aage Kristiansen,2004-07-20
+E10411,Sandro Amaral,Test Engineer,Engineering,Porto Foundry,sandro.amaral@halvorsen-is.example,+351 47 968 1503,Jenni Kauppinen,2025-03-10
+E10412,Anton Holappa,Service Desk Analyst,IT,Tampere Works,anton.holappa@halvorsen-is.example,+358 54 791 4813,Emmi Rantanen,2004-07-06
+E10413,Kornelia Misiuk,Principal Engineer,Engineering,Gdansk Assembly,kornelia.misiuk@halvorsen-is.example,+48 84 903 7370,Jenni Kauppinen,2006-05-01
+E10414,Stanislava Staněk,Production Supervisor,Operations,Brno Machining,stanislava.stanek@halvorsen-is.example,+420 61 639 5489,Vito Draxler,2010-08-09
+E10415,Antero Partanen,Planner,Operations,Tampere Works,antero.partanen@halvorsen-is.example,+358 58 392 2628,Vito Draxler,2014-04-27
+E10416,Elisabeth Steffensen,Test Engineer,Engineering,Aarhus Service Centre,elisabeth.steffensen@halvorsen-is.example,+45 12 443 4778,Jenni Kauppinen,2014-03-08
+E10417,Carlota Barros,Logistics Coordinator,Operations,Porto Foundry,carlota.barros@halvorsen-is.example,+351 17 161 2833,Vito Draxler,2021-01-18
+E10418,Kyllikki Valkonen,Executive Assistant,Executive Office,Tampere Works,kyllikki.valkonen@halvorsen-is.example,+358 38 144 9170,Hannele Turunen,2025-07-09
+E10419,Frederico Moreira,Marketing Manager,Marketing,Porto Foundry,frederico.moreira@halvorsen-is.example,+351 73 719 2601,Gabriel Eisner,2008-11-01
+E10420,Tonny Petersen,EHS Specialist,Operations,Aarhus Service Centre,tonny.petersen@halvorsen-is.example,+45 69 272 3156,Vito Draxler,2020-11-06
+E10421,Clémence Pasquier,Logistics Coordinator,Operations,Lyon Systems,clemence.pasquier@halvorsen-is.example,+33 17 384 7129,Vito Draxler,2023-08-03
+E10422,Alois Král,Planner,Operations,Brno Machining,alois.kral@halvorsen-is.example,+420 83 131 1082,Vito Draxler,2008-05-24
+E10423,Elisabeth Hänninen,Payroll Specialist,Finance,Tampere Works,elisabeth.hanninen@halvorsen-is.example,+358 44 138 2897,Anna Kuisma,2020-06-17
+E10424,Blahoslav Petrová,Sales Operations Analyst,Sales,Brno Machining,blahoslav.petrova@halvorsen-is.example,+420 58 979 7436,Tymoteusz Lizoń,2004-10-25
+E10425,Gustaw Leszcz,Systems Administrator,IT,Gdansk Assembly,gustaw.leszcz@halvorsen-is.example,+48 87 841 7220,Emmi Rantanen,2009-12-18
+E10426,Chus Leon,Metrology Technician,Quality,Bilbao Plant,chus.leon@halvorsen-is.example,+34 68 679 5498,Cyprian Piguła,2006-03-22
+E10427,Tola Kurtyka,Firmware Engineer,Engineering,Gdansk Assembly,tola.kurtyka@halvorsen-is.example,+48 73 937 8667,Jenni Kauppinen,2004-11-26
+E10428,Joona Järvinen,Contract Manager,Legal & Compliance,Tampere Works,joona.jarvinen@halvorsen-is.example,+358 56 798 1753,Oskari Martikainen,2021-11-07
+E10429,Ignác Vítková,Quality Engineer,Quality,Brno Machining,ignac.vitkova@halvorsen-is.example,+420 37 396 7044,Cyprian Piguła,2024-11-29
+E10430,Mia Guerreiro,Planner,Operations,Porto Foundry,mia.guerreiro@halvorsen-is.example,+351 67 451 1699,Vito Draxler,2024-02-06
+E10431,Éléonore Camus,Inside Sales Representative,Sales,Lyon Systems,eleonore.camus@halvorsen-is.example,+33 12 468 3013,Tymoteusz Lizoń,2021-11-15
+E10432,Julianna Chwalisz,Planner,Operations,Gdansk Assembly,julianna.chwalisz@halvorsen-is.example,+48 61 378 2232,Vito Draxler,2016-12-17
+E10433,Rikke Mathiesen,Process Engineer,Operations,Aarhus Service Centre,rikke.mathiesen@halvorsen-is.example,+45 31 256 1444,Vito Draxler,2006-03-31
+E10434,Leo Korhonen,Sales Engineer,Sales,Tampere Works,leo.korhonen@halvorsen-is.example,+358 58 982 4893,Tymoteusz Lizoń,2023-04-12
+E10435,Elias Kainz,Logistics Coordinator,Operations,Graz Electronics,elias.kainz@halvorsen-is.example,+43 95 521 9210,Vito Draxler,2007-05-17
+E10436,Olgierd Molga,Compliance Officer,Legal & Compliance,Gdansk Assembly,olgierd.molga@halvorsen-is.example,+48 16 482 2741,Oskari Martikainen,2008-09-05
+E10437,Jasmina Steurer,Senior Mechanical Engineer,Engineering,Graz Electronics,jasmina.steurer@halvorsen-is.example,+43 53 106 6530,Jenni Kauppinen,2012-06-26
+E10438,Raili Niemi,FP&A Analyst,Finance,Tampere Works,raili.niemi@halvorsen-is.example,+358 16 328 4931,Anna Kuisma,2013-11-12
+E10439,Kristian Schramm,Metrology Technician,Quality,Graz Electronics,kristian.schramm@halvorsen-is.example,+43 76 506 6100,Cyprian Piguła,2008-05-03
+E10440,Alexa Schlager,Account Manager,Sales,Graz Electronics,alexa.schlager@halvorsen-is.example,+43 79 857 4524,Tymoteusz Lizoń,2011-06-01
+E10441,Olivia Aramburu,Maintenance Technician,Operations,Bilbao Plant,olivia.aramburu@halvorsen-is.example,+34 56 500 1688,Vito Draxler,2022-10-11
+E10442,Jarkko Hämäläinen,Network Engineer,IT,Tampere Works,jarkko.hamalainen@halvorsen-is.example,+358 99 137 3608,Emmi Rantanen,2023-06-13
+E10443,Clara Krenn,Maintenance Technician,Operations,Graz Electronics,clara.krenn@halvorsen-is.example,+43 19 341 2693,Vito Draxler,2019-03-28
+E10444,Cezary Grzelec,CFD Analyst,Engineering,Gdansk Assembly,cezary.grzelec@halvorsen-is.example,+48 43 272 5220,Jenni Kauppinen,2005-01-11
+E10445,Micaela Vaquero,Supplier Quality Engineer,Quality,Bilbao Plant,micaela.vaquero@halvorsen-is.example,+34 31 923 3243,Cyprian Piguła,2018-06-21
+E10446,Kalervo Järvinen,Service Desk Analyst,IT,Tampere Works,kalervo.jarvinen@halvorsen-is.example,+358 75 732 4212,Emmi Rantanen,2017-02-01
+E10447,Jussi Tiihonen,Product Marketing Specialist,Marketing,Tampere Works,jussi.tiihonen@halvorsen-is.example,+358 37 206 1859,Gabriel Eisner,2020-11-01
+E10448,Beth Danielsen,Quality Engineer,Quality,Aarhus Service Centre,beth.danielsen@halvorsen-is.example,+45 27 565 8958,Cyprian Piguła,2004-04-02
+E10449,Juhani Mattila,Category Buyer,Procurement,Tampere Works,juhani.mattila@halvorsen-is.example,+358 44 368 7882,Trine Søndergaard,2006-01-06
+E10450,Dafne Zurita,Process Engineer,Operations,Bilbao Plant,dafne.zurita@halvorsen-is.example,+34 58 446 5195,Vito Draxler,2016-10-17
+E10451,Marianne Heikkilä,Security Analyst,IT,Tampere Works,marianne.heikkila@halvorsen-is.example,+358 45 663 6298,Emmi Rantanen,2011-04-12
+E10452,Luciana Lourenço,Purchasing Assistant,Procurement,Porto Foundry,luciana.lourenco@halvorsen-is.example,+351 26 324 7360,Trine Søndergaard,2007-03-25
+E10453,Nina Kronsteiner,Maintenance Technician,Operations,Graz Electronics,nina.kronsteiner@halvorsen-is.example,+43 48 846 6158,Vito Draxler,2012-07-22
+E10454,Tola Łokietek,Security Analyst,IT,Gdansk Assembly,tola.okietek@halvorsen-is.example,+48 49 676 5065,Emmi Rantanen,2009-05-27
+E10455,Danuše Polák,Reliability Engineer,Engineering,Brno Machining,danuse.polak@halvorsen-is.example,+420 68 824 9914,Jenni Kauppinen,2020-09-11
+E10456,Fernando Machado,Category Buyer,Procurement,Porto Foundry,fernando.machado@halvorsen-is.example,+351 40 758 6765,Trine Søndergaard,2014-06-03
+E10457,Jacinta Agustín,Sales Engineer,Sales,Bilbao Plant,jacinta.agustin@halvorsen-is.example,+34 77 224 9318,Tymoteusz Lizoń,2012-10-02
+E10458,Fernando Freitas,Key Account Manager,Sales,Porto Foundry,fernando.freitas@halvorsen-is.example,+351 64 777 5390,Tymoteusz Lizoń,2024-12-21
+E10459,Olgierd Skalik,EHS Specialist,Operations,Gdansk Assembly,olgierd.skalik@halvorsen-is.example,+48 51 808 3426,Vito Draxler,2004-04-14
+E10460,Airi Salo,Strategic Sourcing Manager,Procurement,Tampere Works,airi.salo@halvorsen-is.example,+358 69 433 3002,Trine Søndergaard,2004-12-18
+E10461,Jaromír Šmídová,Maintenance Technician,Operations,Brno Machining,jaromir.smidova@halvorsen-is.example,+420 82 283 5669,Vito Draxler,2018-08-29
+E10462,Harri Nurmi,Production Supervisor,Operations,Tampere Works,harri.nurmi@halvorsen-is.example,+358 46 402 5656,Vito Draxler,2014-12-18
+E10463,Tapio Kinnunen,Content Writer,Marketing,Tampere Works,tapio.kinnunen@halvorsen-is.example,+358 84 495 5417,Gabriel Eisner,2005-10-09
+E10464,Wojciech Heinrich,Reliability Engineer,Engineering,Gdansk Assembly,wojciech.heinrich@halvorsen-is.example,+48 45 468 5049,Jenni Kauppinen,2023-09-18
+E10465,Alice Magalhães,Payroll Specialist,Finance,Porto Foundry,alice.magalhaes@halvorsen-is.example,+351 10 256 6576,Anna Kuisma,2009-02-05
+E10466,Józef Berdzik,Shift Lead,Operations,Gdansk Assembly,jozef.berdzik@halvorsen-is.example,+48 70 751 5617,Vito Draxler,2006-03-10
+E10467,Odalys Amo,Logistics Coordinator,Operations,Bilbao Plant,odalys.amo@halvorsen-is.example,+34 29 924 1136,Vito Draxler,2017-01-03
+E10468,Steven Kain,Production Supervisor,Operations,Graz Electronics,steven.kain@halvorsen-is.example,+43 86 744 1239,Vito Draxler,2014-12-09
+E10469,Victoria Arjona,Shift Lead,Operations,Bilbao Plant,victoria.arjona@halvorsen-is.example,+34 53 589 9737,Vito Draxler,2019-05-31
+E10470,Sascha Platzer,Supplier Quality Engineer,Quality,Graz Electronics,sascha.platzer@halvorsen-is.example,+43 16 280 7551,Cyprian Piguła,2009-10-28
+E10471,Jean Lemaire,Reliability Engineer,Engineering,Lyon Systems,jean.lemaire@halvorsen-is.example,+33 64 630 7120,Jenni Kauppinen,2018-05-06
+E10472,Einari Mäkelä,Quality Engineer,Quality,Tampere Works,einari.makela@halvorsen-is.example,+358 75 739 2398,Cyprian Piguła,2010-04-21
+E10473,Anja Karppinen,Supplier Quality Engineer,Quality,Tampere Works,anja.karppinen@halvorsen-is.example,+358 55 387 7744,Cyprian Piguła,2020-05-09
+E10474,Maricela Buendía,Reliability Engineer,Engineering,Bilbao Plant,maricela.buendia@halvorsen-is.example,+34 96 811 7404,Jenni Kauppinen,2010-11-15
+E10475,Patricie Havlíčková,Logistics Coordinator,Operations,Brno Machining,patricie.havlickova@halvorsen-is.example,+420 76 208 4239,Vito Draxler,2009-08-10
+E10476,Fryderyk Drygas,Logistics Coordinator,Operations,Gdansk Assembly,fryderyk.drygas@halvorsen-is.example,+48 88 515 4945,Vito Draxler,2007-09-26
+E10477,Isabella Gross,Machine Operator,Operations,Graz Electronics,isabella.gross@halvorsen-is.example,+43 17 835 2896,Vito Draxler,2010-02-01
+E10478,Jaana Kähkönen,HR Generalist,Human Resources,Tampere Works,jaana.kahkonen@halvorsen-is.example,+358 97 285 5479,Aage Kristiansen,2005-11-29
+E10479,Hannu Halonen,Systems Administrator,IT,Tampere Works,hannu.halonen@halvorsen-is.example,+358 76 825 1518,Emmi Rantanen,2009-06-17
+E10480,Axel Glatz,EHS Specialist,Operations,Graz Electronics,axel.glatz@halvorsen-is.example,+43 39 372 2863,Vito Draxler,2015-03-26
+E10481,Tommy Friis,Quality Inspector,Quality,Aarhus Service Centre,tommy.friis@halvorsen-is.example,+45 84 249 8781,Cyprian Piguła,2005-11-11
+E10482,Nicole Pereira,Process Engineer,Operations,Porto Foundry,nicole.pereira@halvorsen-is.example,+351 76 805 7432,Vito Draxler,2017-10-06
+E10483,Patrik Hämäläinen,Compensation Analyst,Human Resources,Tampere Works,patrik.hamalainen@halvorsen-is.example,+358 93 911 7348,Aage Kristiansen,2009-04-11
+E10484,Elena Garcés,EHS Specialist,Operations,Bilbao Plant,elena.garces@halvorsen-is.example,+34 50 432 5502,Vito Draxler,2023-03-16
+E10485,Paulino Buendía,Shift Lead,Operations,Bilbao Plant,paulino.buendia@halvorsen-is.example,+34 73 334 3857,Vito Draxler,2004-01-23
+E10486,Paweł Maciejewicz,Account Manager,Sales,Gdansk Assembly,pawe.maciejewicz@halvorsen-is.example,+48 19 611 1650,Tymoteusz Lizoń,2008-07-23
+E10487,Petteri Juntunen,ERP Consultant,IT,Tampere Works,petteri.juntunen@halvorsen-is.example,+358 43 959 8947,Emmi Rantanen,2014-11-13
+E10488,Nina Niemelä,Purchasing Assistant,Procurement,Tampere Works,nina.niemela@halvorsen-is.example,+358 35 221 5378,Trine Søndergaard,2016-04-27
+E10489,Jiří Soukup,Supplier Quality Engineer,Quality,Brno Machining,jiri.soukup@halvorsen-is.example,+420 32 999 4534,Cyprian Piguła,2019-02-26
+E10490,Audrey Léger,Production Supervisor,Operations,Lyon Systems,audrey.leger@halvorsen-is.example,+33 67 789 4709,Vito Draxler,2015-11-20
+E10491,Thierry Blin,Mechanical Engineer,Engineering,Lyon Systems,thierry.blin@halvorsen-is.example,+33 20 273 2172,Jenni Kauppinen,2008-09-13
+E10492,Antero Holmström,Security Analyst,IT,Tampere Works,antero.holmstrom@halvorsen-is.example,+358 32 594 1768,Emmi Rantanen,2013-07-19
+E10493,Charles Renault,EHS Specialist,Operations,Lyon Systems,charles.renault@halvorsen-is.example,+33 57 204 3773,Vito Draxler,2013-07-11
+E10494,Rita Alves,Treasury Analyst,Finance,Porto Foundry,rita.alves@halvorsen-is.example,+351 89 159 9615,Anna Kuisma,2014-12-25
+E10495,Vasco Valente,Planner,Operations,Porto Foundry,vasco.valente@halvorsen-is.example,+351 43 959 2628,Vito Draxler,2015-03-24
+E10496,Vítor Carvalho,Digital Marketing Specialist,Marketing,Porto Foundry,vitor.carvalho@halvorsen-is.example,+351 64 126 9774,Gabriel Eisner,2019-07-08
+E10497,Flor Correia,Maintenance Technician,Operations,Porto Foundry,flor.correia@halvorsen-is.example,+351 98 376 6149,Vito Draxler,2008-03-14
+E10498,Kaarina Pesonen,Strategic Sourcing Manager,Procurement,Tampere Works,kaarina.pesonen@halvorsen-is.example,+358 38 853 5302,Trine Søndergaard,2009-10-26
+E10499,Olgierd Parkitna,Logistics Coordinator,Operations,Gdansk Assembly,olgierd.parkitna@halvorsen-is.example,+48 32 107 2874,Vito Draxler,2025-08-15
+E10500,Marek Misior,Compliance Officer,Legal & Compliance,Gdansk Assembly,marek.misior@halvorsen-is.example,+48 37 264 2505,Oskari Martikainen,2010-02-15
+E10501,Aurora Heikkilä,Service Desk Analyst,IT,Tampere Works,aurora.heikkila@halvorsen-is.example,+358 93 292 9697,Emmi Rantanen,2008-04-30
+E10502,Suvi Kovanen,Product Marketing Specialist,Marketing,Tampere Works,suvi.kovanen@halvorsen-is.example,+358 38 600 8797,Gabriel Eisner,2024-10-25
+E10503,Maurycy Zach,Logistics Coordinator,Operations,Gdansk Assembly,maurycy.zach@halvorsen-is.example,+48 74 249 3292,Vito Draxler,2008-01-06
+E10504,Sirkka Makkonen,Process Engineer,Operations,Tampere Works,sirkka.makkonen@halvorsen-is.example,+358 94 316 1300,Vito Draxler,2021-10-28
+E10505,Ricardo Alves,Machine Operator,Operations,Porto Foundry,ricardo.alves@halvorsen-is.example,+351 15 874 4123,Vito Draxler,2017-01-11
+E10506,Jose Angel Cerro,Principal Engineer,Engineering,Bilbao Plant,jose.angel.cerro@halvorsen-is.example,+34 44 552 1731,Jenni Kauppinen,2019-04-09
+E10507,Martim Pinho,Service Desk Analyst,IT,Porto Foundry,martim.pinho@halvorsen-is.example,+351 78 740 4877,Emmi Rantanen,2008-10-14
+E10508,Suzanne Perez,Quality Engineer,Quality,Lyon Systems,suzanne.perez@halvorsen-is.example,+33 65 419 6081,Cyprian Piguła,2025-01-10
+E10509,Susanna Kuronen,Planner,Operations,Tampere Works,susanna.kuronen@halvorsen-is.example,+358 57 755 5063,Vito Draxler,2013-08-12
+E10510,Philippe Foucher,Product Manager,Engineering,Lyon Systems,philippe.foucher@halvorsen-is.example,+33 82 814 7761,Jenni Kauppinen,2015-08-18
+E10511,Leena Kivelä,Category Buyer,Procurement,Tampere Works,leena.kivela@halvorsen-is.example,+358 44 180 5643,Trine Søndergaard,2004-11-08
+E10512,Susan Lucas,Product Manager,Engineering,Lyon Systems,susan.lucas@halvorsen-is.example,+33 74 186 9123,Jenni Kauppinen,2013-05-08
+E10513,Nadja Holzmann,Planner,Operations,Graz Electronics,nadja.holzmann@halvorsen-is.example,+43 66 431 2962,Vito Draxler,2006-02-16
+E10514,Calvin Schalk,Logistics Coordinator,Operations,Graz Electronics,calvin.schalk@halvorsen-is.example,+43 20 324 4465,Vito Draxler,2007-10-13
+E10515,Jose Manuel Ibarra,Shift Lead,Operations,Bilbao Plant,jose.manuel.ibarra@halvorsen-is.example,+34 48 871 6325,Vito Draxler,2017-12-16
+E10516,Mari Keränen,AP Clerk,Finance,Tampere Works,mari.keranen@halvorsen-is.example,+358 78 170 8124,Anna Kuisma,2006-03-24
+E10517,Maire Turunen,Planner,Operations,Tampere Works,maire.turunen@halvorsen-is.example,+358 60 726 5151,Vito Draxler,2016-05-11
+E10518,André Clerc,Process Engineer,Operations,Lyon Systems,andre.clerc@halvorsen-is.example,+33 90 342 8945,Vito Draxler,2011-07-01
+E10519,Patrick Frank,Production Supervisor,Operations,Graz Electronics,patrick.frank@halvorsen-is.example,+43 10 196 4363,Vito Draxler,2023-01-07
+E10520,Benoît Roux,Key Account Manager,Sales,Lyon Systems,benoit.roux@halvorsen-is.example,+33 40 259 6648,Tymoteusz Lizoń,2006-12-13
+E10521,Inkeri Harju,HR Business Partner,Human Resources,Tampere Works,inkeri.harju@halvorsen-is.example,+358 29 493 5092,Aage Kristiansen,2018-09-16
+E10522,Julia Viitala,Paralegal,Legal & Compliance,Tampere Works,julia.viitala@halvorsen-is.example,+358 60 865 6094,Oskari Martikainen,2018-03-28
+E10523,Inkeri Karjalainen,HR Business Partner,Human Resources,Tampere Works,inkeri.karjalainen@halvorsen-is.example,+358 19 352 6057,Aage Kristiansen,2024-03-13
+E10524,Georges Albert,EHS Specialist,Operations,Lyon Systems,georges.albert@halvorsen-is.example,+33 58 458 6251,Vito Draxler,2018-12-08
+E10525,Aimé Leroux,Sales Operations Analyst,Sales,Lyon Systems,aime.leroux@halvorsen-is.example,+33 96 547 9143,Tymoteusz Lizoń,2012-10-27
+E10526,Christophe Fontaine,Firmware Engineer,Engineering,Lyon Systems,christophe.fontaine@halvorsen-is.example,+33 25 127 3783,Jenni Kauppinen,2016-07-20
+E10527,Mélanie Vaz,ERP Consultant,IT,Porto Foundry,melanie.vaz@halvorsen-is.example,+351 19 763 9837,Emmi Rantanen,2019-01-22
+E10528,Clímaco Sandoval,Metrology Technician,Quality,Bilbao Plant,climaco.sandoval@halvorsen-is.example,+34 46 533 5172,Cyprian Piguła,2010-10-23
+E10529,Renata Pereira,Planner,Operations,Porto Foundry,renata.pereira@halvorsen-is.example,+351 38 844 1450,Vito Draxler,2010-08-15
+E10530,Christine Sanchez,Process Engineer,Operations,Lyon Systems,christine.sanchez@halvorsen-is.example,+33 73 348 6795,Vito Draxler,2006-09-11
+E10531,Pentti Palomäki,Product Marketing Specialist,Marketing,Tampere Works,pentti.palomaki@halvorsen-is.example,+358 18 767 4549,Gabriel Eisner,2004-08-18
+E10532,Tuomo Heinonen,Mechanical Engineer,Engineering,Tampere Works,tuomo.heinonen@halvorsen-is.example,+358 14 817 6067,Jenni Kauppinen,2008-07-04
+E10533,Darko Fleischmann,Senior Mechanical Engineer,Engineering,Graz Electronics,darko.fleischmann@halvorsen-is.example,+43 49 185 6130,Jenni Kauppinen,2017-07-10
+E10534,Mikuláš Bartošová,Firmware Engineer,Engineering,Brno Machining,mikulas.bartosova@halvorsen-is.example,+420 85 288 8148,Jenni Kauppinen,2010-12-07
+E10535,Aurelia Toczko,Machine Operator,Operations,Gdansk Assembly,aurelia.toczko@halvorsen-is.example,+48 50 912 5923,Vito Draxler,2024-07-22
+E10536,Salvador Paiva,Electrical Engineer,Engineering,Porto Foundry,salvador.paiva@halvorsen-is.example,+351 96 854 5917,Jenni Kauppinen,2015-02-14
+E10537,Elżbieta Woszczak,Mechanical Engineer,Engineering,Gdansk Assembly,elzbieta.woszczak@halvorsen-is.example,+48 26 887 9399,Jenni Kauppinen,2007-07-28
+E10538,Sebastian Niemi,Purchasing Assistant,Procurement,Tampere Works,sebastian.niemi@halvorsen-is.example,+358 54 189 1389,Trine Søndergaard,2023-06-10
+E10539,Jiřina Tůma,Account Manager,Sales,Brno Machining,jirina.tuma@halvorsen-is.example,+420 50 906 5122,Tymoteusz Lizoń,2024-12-18
+E10540,Christian Palomäki,Purchasing Assistant,Procurement,Tampere Works,christian.palomaki@halvorsen-is.example,+358 50 400 2880,Trine Søndergaard,2019-03-06
+E10541,Virgilio Acosta,Logistics Coordinator,Operations,Bilbao Plant,virgilio.acosta@halvorsen-is.example,+34 32 357 4840,Vito Draxler,2008-07-08
+E10542,Irja Pesonen,Recruiter,Human Resources,Tampere Works,irja.pesonen@halvorsen-is.example,+358 49 869 8746,Aage Kristiansen,2021-07-10
+E10543,Elżbieta Oleszczak,ERP Consultant,IT,Gdansk Assembly,elzbieta.oleszczak@halvorsen-is.example,+48 18 440 9499,Emmi Rantanen,2017-04-13
+E10544,Verneri Martikainen,Compensation Analyst,Human Resources,Tampere Works,verneri.martikainen@halvorsen-is.example,+358 89 105 7511,Aage Kristiansen,2005-06-19
+E10545,Błażej Kierat,EHS Specialist,Operations,Gdansk Assembly,bazej.kierat@halvorsen-is.example,+48 27 737 5979,Vito Draxler,2014-05-28
+E10546,Jozef Horáček,Machine Operator,Operations,Brno Machining,jozef.horacek@halvorsen-is.example,+420 43 454 7068,Vito Draxler,2012-03-19
+E10547,Jouko Lehtimäki,Metrology Technician,Quality,Tampere Works,jouko.lehtimaki@halvorsen-is.example,+358 69 309 4202,Cyprian Piguła,2021-02-06
+E10548,João Barbosa,CFD Analyst,Engineering,Porto Foundry,joao.barbosa@halvorsen-is.example,+351 17 239 4673,Jenni Kauppinen,2013-07-13
+E10549,Tomasz Hass,HR Generalist,Human Resources,Gdansk Assembly,tomasz.hass@halvorsen-is.example,+48 52 218 6262,Aage Kristiansen,2023-01-16
+E10550,Alan Hoffmann,Maintenance Technician,Operations,Graz Electronics,alan.hoffmann@halvorsen-is.example,+43 58 416 3703,Vito Draxler,2019-05-22
+E10551,Emilia Kettunen,Digital Marketing Specialist,Marketing,Tampere Works,emilia.kettunen@halvorsen-is.example,+358 78 982 8864,Gabriel Eisner,2024-12-25
+E10552,Šárka Němec,Planner,Operations,Brno Machining,sarka.nemec@halvorsen-is.example,+420 31 959 1203,Vito Draxler,2013-06-27
+E10553,Maciej Mateńko,Category Buyer,Procurement,Gdansk Assembly,maciej.matenko@halvorsen-is.example,+48 14 801 3523,Trine Søndergaard,2004-10-07
+E10554,Blanka Sado,Metrology Technician,Quality,Gdansk Assembly,blanka.sado@halvorsen-is.example,+48 71 637 7087,Cyprian Piguła,2010-09-18
+E10555,Rafał Ciesielka,Process Engineer,Operations,Gdansk Assembly,rafa.ciesielka@halvorsen-is.example,+48 34 579 8611,Vito Draxler,2004-04-22
+E10556,Marta Němeček,Sales Operations Analyst,Sales,Brno Machining,marta.nemecek@halvorsen-is.example,+420 28 857 8601,Tymoteusz Lizoń,2019-07-08
+E10557,Antoni Hajder,Production Supervisor,Operations,Gdansk Assembly,antoni.hajder@halvorsen-is.example,+48 25 913 6482,Vito Draxler,2014-02-12
+E10558,Anna-Liisa Ikonen,Strategic Sourcing Manager,Procurement,Tampere Works,anna-liisa.ikonen@halvorsen-is.example,+358 62 629 4183,Trine Søndergaard,2022-04-01
+E10559,Sari Moisio,Marketing Manager,Marketing,Tampere Works,sari.moisio@halvorsen-is.example,+358 18 643 8549,Gabriel Eisner,2013-03-12
+E10560,Inkeri Järvenpää,Maintenance Technician,Operations,Tampere Works,inkeri.jarvenpaa@halvorsen-is.example,+358 79 531 4882,Vito Draxler,2019-10-18
+E10561,Ossi Ranta,Senior Accountant,Finance,Tampere Works,ossi.ranta@halvorsen-is.example,+358 79 367 6463,Anna Kuisma,2020-03-13
+E10562,Elisabet Valverde,Shift Lead,Operations,Bilbao Plant,elisabet.valverde@halvorsen-is.example,+34 20 298 5698,Vito Draxler,2015-03-24
+E10563,Konstanty Sypuła,Production Supervisor,Operations,Gdansk Assembly,konstanty.sypua@halvorsen-is.example,+48 28 401 4712,Vito Draxler,2013-05-23
+E10564,Alena Růžičková,Machine Operator,Operations,Brno Machining,alena.ruzickova@halvorsen-is.example,+420 97 851 6776,Vito Draxler,2016-07-24
+E10565,Annemette Hermansen,Firmware Engineer,Engineering,Aarhus Service Centre,annemette.hermansen@halvorsen-is.example,+45 73 652 8766,Jenni Kauppinen,2012-01-25
+E10566,Rémy Masse,Logistics Coordinator,Operations,Lyon Systems,remy.masse@halvorsen-is.example,+33 36 253 5429,Vito Draxler,2005-12-07
+E10567,Jannie Kristensen,Sales Engineer,Sales,Aarhus Service Centre,jannie.kristensen@halvorsen-is.example,+45 34 402 3152,Tymoteusz Lizoń,2024-03-28
+E10568,Emilija Schober,Logistics Coordinator,Operations,Graz Electronics,emilija.schober@halvorsen-is.example,+43 33 552 9267,Vito Draxler,2023-09-30
+E10569,Madalena Teixeira,Accountant,Finance,Porto Foundry,madalena.teixeira@halvorsen-is.example,+351 39 553 4367,Anna Kuisma,2012-05-29
+E10570,Sakari Rantanen,Test Engineer,Engineering,Tampere Works,sakari.rantanen@halvorsen-is.example,+358 14 965 5792,Jenni Kauppinen,2010-10-12
+E10571,Anaïs Alves,Quality Engineer,Quality,Lyon Systems,anais.alves@halvorsen-is.example,+33 35 692 8968,Cyprian Piguła,2006-01-20
+E10572,Henrik Leskinen,Marketing Manager,Marketing,Tampere Works,henrik.leskinen@halvorsen-is.example,+358 11 224 9176,Gabriel Eisner,2011-01-30
+E10573,Tanja Rasmussen,Supplier Quality Engineer,Quality,Aarhus Service Centre,tanja.rasmussen@halvorsen-is.example,+45 95 681 1601,Cyprian Piguła,2011-07-01
+E10574,Laura Nyberg,HR Generalist,Human Resources,Tampere Works,laura.nyberg@halvorsen-is.example,+358 53 465 3380,Aage Kristiansen,2007-09-07
+E10575,Aimée Da Silva,Metrology Technician,Quality,Lyon Systems,aimee.da.silva@halvorsen-is.example,+33 79 320 8576,Cyprian Piguła,2013-05-05
+E10576,Marvin Neumayer,Planner,Operations,Graz Electronics,marvin.neumayer@halvorsen-is.example,+43 90 958 9914,Vito Draxler,2016-06-04
+E10577,Xavier Santos,Product Marketing Specialist,Marketing,Porto Foundry,xavier.santos@halvorsen-is.example,+351 90 916 8204,Gabriel Eisner,2019-09-30
+E10578,Luna Simões,Compliance Officer,Legal & Compliance,Porto Foundry,luna.simoes@halvorsen-is.example,+351 73 795 1922,Oskari Martikainen,2024-01-30
+E10579,Andreia Martins,Security Analyst,IT,Porto Foundry,andreia.martins@halvorsen-is.example,+351 26 367 6454,Emmi Rantanen,2020-07-12
+E10580,Hans Overgaard,Supplier Quality Engineer,Quality,Aarhus Service Centre,hans.overgaard@halvorsen-is.example,+45 45 850 7215,Cyprian Piguła,2005-05-07
+E10581,Karoline Toft,Maintenance Technician,Operations,Aarhus Service Centre,karoline.toft@halvorsen-is.example,+45 54 223 6737,Vito Draxler,2024-10-24
+E10582,Yasmin Poulsen,EHS Specialist,Operations,Aarhus Service Centre,yasmin.poulsen@halvorsen-is.example,+45 68 639 6685,Vito Draxler,2014-08-01
+E10583,Marek Witaszek,AP Clerk,Finance,Gdansk Assembly,marek.witaszek@halvorsen-is.example,+48 63 713 6721,Anna Kuisma,2007-05-22
+E10584,Katriina Harju,Planner,Operations,Tampere Works,katriina.harju@halvorsen-is.example,+358 70 902 3769,Vito Draxler,2010-11-05
+E10585,Juhana Pekkala,Content Writer,Marketing,Tampere Works,juhana.pekkala@halvorsen-is.example,+358 34 963 7045,Gabriel Eisner,2022-06-18
+E10586,Magdaléna Stejskal,Firmware Engineer,Engineering,Brno Machining,magdalena.stejskal@halvorsen-is.example,+420 55 439 1755,Jenni Kauppinen,2006-11-10
+E10587,Lasse Mikkelsen,Maintenance Technician,Operations,Aarhus Service Centre,lasse.mikkelsen@halvorsen-is.example,+45 66 694 8371,Vito Draxler,2018-12-25
+E10588,Luciana Ortega,Product Manager,Engineering,Bilbao Plant,luciana.ortega@halvorsen-is.example,+34 99 275 3665,Jenni Kauppinen,2014-04-09
+E10589,Alexandra Heikkilä,Accountant,Finance,Tampere Works,alexandra.heikkila@halvorsen-is.example,+358 20 632 8290,Anna Kuisma,2006-12-30
+E10590,Adrianna Cegła,Inside Sales Representative,Sales,Gdansk Assembly,adrianna.cega@halvorsen-is.example,+48 57 904 1969,Tymoteusz Lizoń,2006-11-22
+E10591,Nair Vieira,Product Marketing Specialist,Marketing,Porto Foundry,nair.vieira@halvorsen-is.example,+351 71 488 9793,Gabriel Eisner,2013-11-26
+E10592,Basilio Anaya,CFD Analyst,Engineering,Bilbao Plant,basilio.anaya@halvorsen-is.example,+34 13 151 2365,Jenni Kauppinen,2018-03-29
+E10593,Freja Gregersen,Account Manager,Sales,Aarhus Service Centre,freja.gregersen@halvorsen-is.example,+45 87 671 2457,Tymoteusz Lizoń,2017-08-27
+E10594,Kaisa Lampinen,Financial Controller,Finance,Tampere Works,kaisa.lampinen@halvorsen-is.example,+358 18 819 3940,Anna Kuisma,2018-02-26
+E10595,Virgilio Villanueva,Firmware Engineer,Engineering,Bilbao Plant,virgilio.villanueva@halvorsen-is.example,+34 25 319 1657,Jenni Kauppinen,2006-03-02
+E10596,Sarah Ravn,Electrical Engineer,Engineering,Aarhus Service Centre,sarah.ravn@halvorsen-is.example,+45 57 759 7512,Jenni Kauppinen,2013-04-15
+E10597,Yasmina Feigl,Production Supervisor,Operations,Graz Electronics,yasmina.feigl@halvorsen-is.example,+43 35 354 5632,Vito Draxler,2024-07-04
+E10598,Palle Thomsen,Shift Lead,Operations,Aarhus Service Centre,palle.thomsen@halvorsen-is.example,+45 15 296 1433,Vito Draxler,2007-07-12
+E10599,Jaime Matos,Category Buyer,Procurement,Porto Foundry,jaime.matos@halvorsen-is.example,+351 16 630 8379,Trine Søndergaard,2014-09-04
+E10600,Laura Branco,HR Business Partner,Human Resources,Porto Foundry,laura.branco@halvorsen-is.example,+351 80 829 8781,Aage Kristiansen,2013-12-21
+E10601,Guadalupe Fernandez,Maintenance Technician,Operations,Bilbao Plant,guadalupe.fernandez@halvorsen-is.example,+34 28 310 9038,Vito Draxler,2014-02-21
+E10602,Lidia Ragus,Shift Lead,Operations,Gdansk Assembly,lidia.ragus@halvorsen-is.example,+48 12 178 4178,Vito Draxler,2012-11-16
+E10603,Benedicte Svendsen,Process Engineer,Operations,Aarhus Service Centre,benedicte.svendsen@halvorsen-is.example,+45 65 629 9327,Vito Draxler,2012-03-26
+E10604,Eino Jussila,Strategic Sourcing Manager,Procurement,Tampere Works,eino.jussila@halvorsen-is.example,+358 91 491 8932,Trine Søndergaard,2005-04-27
+E10605,Angelita Llanos,Principal Engineer,Engineering,Bilbao Plant,angelita.llanos@halvorsen-is.example,+34 42 214 9727,Jenni Kauppinen,2013-01-01
+E10606,Thibaut Carre,Production Supervisor,Operations,Lyon Systems,thibaut.carre@halvorsen-is.example,+33 83 568 8052,Vito Draxler,2022-04-16
+E10607,Maria Niskanen,Network Engineer,IT,Tampere Works,maria.niskanen@halvorsen-is.example,+358 24 453 2565,Emmi Rantanen,2017-05-22
+E10608,Joakim Jepsen,CFD Analyst,Engineering,Aarhus Service Centre,joakim.jepsen@halvorsen-is.example,+45 32 225 7372,Jenni Kauppinen,2013-12-06
+E10609,Maria Jokinen,HR Generalist,Human Resources,Tampere Works,maria.jokinen@halvorsen-is.example,+358 61 579 5142,Aage Kristiansen,2024-12-06
+E10610,Hugo Oberndorfer,Electrical Engineer,Engineering,Graz Electronics,hugo.oberndorfer@halvorsen-is.example,+43 80 234 1653,Jenni Kauppinen,2007-11-24
+E10611,Grzegorz Zapaśnik,Maintenance Technician,Operations,Gdansk Assembly,grzegorz.zapasnik@halvorsen-is.example,+48 62 817 1202,Vito Draxler,2015-02-08
+E10612,Margot Blanchard,EHS Specialist,Operations,Lyon Systems,margot.blanchard@halvorsen-is.example,+33 35 566 8106,Vito Draxler,2012-07-18
+E10613,Pirkko Kujala,Contract Manager,Legal & Compliance,Tampere Works,pirkko.kujala@halvorsen-is.example,+358 50 320 1333,Oskari Martikainen,2018-05-14
+E10614,Kurt Andresen,Maintenance Technician,Operations,Aarhus Service Centre,kurt.andresen@halvorsen-is.example,+45 84 750 3984,Vito Draxler,2004-12-24
+E10615,Julianna Szczesiak,Machine Operator,Operations,Gdansk Assembly,julianna.szczesiak@halvorsen-is.example,+48 34 793 6400,Vito Draxler,2004-03-12
+E10616,Felix Kopecký,Production Supervisor,Operations,Brno Machining,felix.kopecky@halvorsen-is.example,+420 59 613 4860,Vito Draxler,2011-12-13
+E10617,Artturi Nieminen,Account Manager,Sales,Tampere Works,artturi.nieminen@halvorsen-is.example,+358 20 810 3351,Tymoteusz Lizoń,2018-02-26
+E10618,Raimo Mäkinen,Principal Engineer,Engineering,Tampere Works,raimo.makinen@halvorsen-is.example,+358 55 353 1444,Jenni Kauppinen,2020-09-13
+E10619,Juhani Lindroos,Product Marketing Specialist,Marketing,Tampere Works,juhani.lindroos@halvorsen-is.example,+358 59 402 3213,Gabriel Eisner,2015-04-06
+E10620,Annabelle Santner,Logistics Coordinator,Operations,Graz Electronics,annabelle.santner@halvorsen-is.example,+43 99 836 6133,Vito Draxler,2022-02-03
+E10621,Hannele Haataja,Recruiter,Human Resources,Tampere Works,hannele.haataja@halvorsen-is.example,+358 84 656 5472,Aage Kristiansen,2012-12-20
+E10622,Juhani Simonen,Content Writer,Marketing,Tampere Works,juhani.simonen@halvorsen-is.example,+358 14 506 2553,Gabriel Eisner,2007-02-08
+E10623,Francisco Jose Millán,Product Manager,Engineering,Bilbao Plant,francisco.jose.millan@halvorsen-is.example,+34 98 477 1599,Jenni Kauppinen,2021-10-18
+E10624,Mathilde Daniel,Electrical Engineer,Engineering,Lyon Systems,mathilde.daniel@halvorsen-is.example,+33 21 898 6344,Jenni Kauppinen,2005-08-08
+E10625,Karina Kruszona,Product Manager,Engineering,Gdansk Assembly,karina.kruszona@halvorsen-is.example,+48 56 460 2611,Jenni Kauppinen,2021-09-10
+E10626,Marine Grenier,Machine Operator,Operations,Lyon Systems,marine.grenier@halvorsen-is.example,+33 39 330 9865,Vito Draxler,2011-05-15
+E10627,Ângela Henriques,Supplier Quality Engineer,Quality,Porto Foundry,angela.henriques@halvorsen-is.example,+351 11 583 8277,Cyprian Piguła,2022-06-23
+E10628,Augustin Daniel,Electrical Engineer,Engineering,Lyon Systems,augustin.daniel@halvorsen-is.example,+33 60 273 1631,Jenni Kauppinen,2005-04-16
+E10629,Denise Fabre,Test Engineer,Engineering,Lyon Systems,denise.fabre@halvorsen-is.example,+33 97 177 3012,Jenni Kauppinen,2006-05-28
+E10630,Johanne Frandsen,Quality Inspector,Quality,Aarhus Service Centre,johanne.frandsen@halvorsen-is.example,+45 58 107 8284,Cyprian Piguła,2022-07-17
+E10631,Juliana Valente,AP Clerk,Finance,Porto Foundry,juliana.valente@halvorsen-is.example,+351 21 249 1134,Anna Kuisma,2008-03-09
+E10632,Linda Ševčík,Sales Operations Analyst,Sales,Brno Machining,linda.sevcik@halvorsen-is.example,+420 26 338 2024,Tymoteusz Lizoń,2009-04-15
+E10633,Tapani Mäkelä,Metrology Technician,Quality,Tampere Works,tapani.makela@halvorsen-is.example,+358 45 976 5307,Cyprian Piguła,2018-07-13
+E10634,Olavi Kortelainen,Systems Administrator,IT,Tampere Works,olavi.kortelainen@halvorsen-is.example,+358 85 607 1360,Emmi Rantanen,2011-02-16
+E10635,Juhani Koskela,Purchasing Assistant,Procurement,Tampere Works,juhani.koskela@halvorsen-is.example,+358 16 122 5680,Trine Søndergaard,2010-03-19
+E10636,Kerttu Korhonen,Product Marketing Specialist,Marketing,Tampere Works,kerttu.korhonen@halvorsen-is.example,+358 89 722 9341,Gabriel Eisner,2020-04-16
+E10637,Mirjami Nurmi,Security Analyst,IT,Tampere Works,mirjami.nurmi@halvorsen-is.example,+358 17 542 1452,Emmi Rantanen,2010-06-22
+E10638,Tarja Saastamoinen,Senior Legal Counsel,Legal & Compliance,Tampere Works,tarja.saastamoinen@halvorsen-is.example,+358 69 778 3051,Oskari Martikainen,2016-04-07
+E10639,Pirjo Nissinen,Inside Sales Representative,Sales,Tampere Works,pirjo.nissinen@halvorsen-is.example,+358 87 246 6301,Tymoteusz Lizoń,2012-01-13
+E10640,Martirio Llorente,Electrical Engineer,Engineering,Bilbao Plant,martirio.llorente@halvorsen-is.example,+34 52 932 5962,Jenni Kauppinen,2017-03-19
+E10641,Bartek Jeżyna,Systems Administrator,IT,Gdansk Assembly,bartek.jezyna@halvorsen-is.example,+48 68 368 2097,Emmi Rantanen,2018-07-08
+E10642,Maria Mäki,Purchasing Assistant,Procurement,Tampere Works,maria.maki@halvorsen-is.example,+358 14 285 4994,Trine Søndergaard,2025-07-02
+E10643,Heli Miettinen,Network Engineer,IT,Tampere Works,heli.miettinen@halvorsen-is.example,+358 25 939 2680,Emmi Rantanen,2015-03-03
+E10644,Nádia Brito,Strategy Analyst,Executive Office,Porto Foundry,nadia.brito@halvorsen-is.example,+351 69 279 8028,Hannele Turunen,2009-11-05
+E10645,Constance Normand,Firmware Engineer,Engineering,Lyon Systems,constance.normand@halvorsen-is.example,+33 58 116 9781,Jenni Kauppinen,2004-08-17
+E10646,Jukka Ketola,Digital Marketing Specialist,Marketing,Tampere Works,jukka.ketola@halvorsen-is.example,+358 39 235 6193,Gabriel Eisner,2025-08-13
+E10647,Minna Ojala,ERP Consultant,IT,Tampere Works,minna.ojala@halvorsen-is.example,+358 76 192 5131,Emmi Rantanen,2011-03-27
+E10648,Christiane Lebreton,Reliability Engineer,Engineering,Lyon Systems,christiane.lebreton@halvorsen-is.example,+33 54 968 7239,Jenni Kauppinen,2021-05-15
+E10649,Adalberto Peral,Electrical Engineer,Engineering,Bilbao Plant,adalberto.peral@halvorsen-is.example,+34 96 450 1758,Jenni Kauppinen,2008-10-09

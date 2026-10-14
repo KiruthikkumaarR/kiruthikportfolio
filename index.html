@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kiruthikkumaar Radhakrishnan · AI &amp; ML Engineer</title>
+<meta name="description" content="Portfolio of Kiruthikkumaar Radhakrishnan - AI and full-stack engineer building grounded, verifiable LLM systems. Featured: Enterprise Agentic RAG Engine with an interactive demo.">
+<meta property="og:title" content="Kiruthikkumaar Radhakrishnan · AI &amp; ML Engineer">
+<meta property="og:description" content="Enterprise Agentic RAG Engine - zero-hallucination document intelligence that runs fully on-premise. Try the interactive demo.">
+<meta property="og:image" content="https://kiruthikportfolio.com/assets/img/og.jpg">
+<meta name="theme-color" content="#05080f">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%233fd6c4'/%3E%3Ctext x='32' y='42' font-size='28' font-family='Arial' font-weight='700' text-anchor='middle' fill='%2304111a'%3EK%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<!-- Placeholders still to fill: elements with class="ph" (GitHub links). -->
+<header class="nav" id="nav">
+  <div class="wrap">
+    <a class="logo" href="#top"><i>KR</i><span>Kiruthikkumaar</span></a>
+    <nav id="menu">
+      <a href="#work">Work</a><a href="#case">Case study</a><a href="#demo">Live demo</a><a href="#projects">Projects</a><a href="#about">About</a><a href="#skills">Skills</a><a href="#contact">Contact</a>
+    </nav>
+    <button class="menu-btn" id="menu-btn" aria-label="Menu">☰</button>
+  </div>
+</header>
+
+<main id="top">
+  <!-- ============================== HERO ============================== -->
+  <section class="hero">
+    <canvas id="hero3d" aria-hidden="true"></canvas>
+    <div class="wrap">
+      <span class="eyebrow"><b></b>Master of AI &amp; ML student · Adelaide University · open to AI / ML roles</span>
+      <h1>I build AI that <span class="grad">shows its sources.</span></h1>
+      <p class="lead">I'm Kiruthikkumaar, an AI specialist and full-stack developer focused on retrieval-augmented generation, local LLMs and the evaluation that proves they work. My latest system answers questions over private company documents, cites every claim to the exact page, and runs entirely on one laptop.</p>
+      <div class="cta">
+        <a class="btn primary" href="demo/">Try the interactive demo
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h13M13 6l6 6-6 6"/></svg></a>
+        <a class="btn" href="#case">Read the case study</a>
+      </div>
+    </div>
+    <div class="scroll-cue" aria-hidden="true"></div>
+  </section>
+
+  <!-- ============================== FEATURED WORK ============================== -->
+  <section id="work">
+    <div class="wrap">
+      <div class="kicker reveal">Featured project</div>
+      <h2 class="reveal">Enterprise Agentic RAG Engine</h2>
+      <p class="sub reveal">A zero-hallucination question-answering system for enterprise documents, with a secure company portal, role-based access, live dashboards and one-click PowerPoint reports. 100% on-premise: no data or query ever leaves the machine.</p>
+
+      <div class="feature">
+        <a class="shot reveal" href="demo/" aria-label="Open the interactive demo"><img src="assets/img/portal-assistant.jpg" alt="The AI assistant answering with a verified, cited answer"><span class="glare"></span></a>
+        <div class="card info reveal">
+          <h3>Answers you can audit.</h3>
+          <p>Hybrid search (BGE-M3 dense + sparse in Qdrant, fused with RRF), a cross-encoder reranker I fine-tuned, Phi-4-mini generating cited answers, and an independent NLI guardrail that verifies every sentence before the user sees it.</p>
+          <div class="chips">
+            <span class="chip hl">RAG</span><span class="chip hl">LoRA fine-tuning</span><span class="chip">PyTorch</span><span class="chip">BGE-M3</span><span class="chip">Qdrant</span>
+            <span class="chip">Phi-4-mini · llama.cpp</span><span class="chip">DeBERTa NLI</span><span class="chip">RAGAS</span><span class="chip">FastAPI</span><span class="chip">Three.js</span><span class="chip">Chart.js</span><span class="chip">python-pptx</span>
+          </div>
+          <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:auto">
+            <a class="btn primary" href="demo/">Launch demo</a>
+            <a class="btn" href="#case">How it works</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="metrics">
+        <div class="card metric reveal"><b data-count="99.5" data-suffix="%">0</b><span>answers correct</span><small>200 held-out questions, LoRA-tuned model</small></div>
+        <div class="card metric reveal"><b data-count="100" data-suffix="%">0</b><span>citation accuracy</span><small>answer cites the exact gold page</small></div>
+        <div class="card metric reveal"><b data-count="0.99" data-dec="2">0</b><span>context precision</span><small>target was ≥ 0.90</small></div>
+        <div class="card metric reveal"><b data-count="2.0" data-dec="1" data-suffix=" s">0</b><span>p95 response time</span><small>on a MacBook, target &lt; 3.5 s</small></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================== CASE STUDY ============================== -->
+  <section id="case">
+    <div class="wrap">
+      <div class="kicker reveal">Case study</div>
+      <h2 class="reveal">From question to verified answer</h2>
+      <p class="sub reveal">General LLMs answer fluently even when they are wrong. In compliance, engineering or finance that is unacceptable, so this system retrieves evidence first, constrains the model to it, and refuses rather than guesses.</p>
+
+      <div class="card arch reveal">
+        <svg viewBox="0 0 1100 230" role="img" aria-label="Pipeline: question, hybrid retrieval, reranker, generator, guardrail, cited answer">
+          <defs><linearGradient id="flowgrad" x1="0" x2="1"><stop offset="0" stop-color="#3fd6c4"/><stop offset="1" stop-color="#5b8cff"/></linearGradient></defs>
+          <path class="flow" d="M150 115 H190 M330 115 H370 M510 115 H550 M690 115 H730 M870 115 H910"/>
+          <g class="node"><rect x="10" y="70" width="140" height="90" rx="14"/><text x="80" y="108" text-anchor="middle">Question</text><text class="s" x="80" y="128" text-anchor="middle">role-aware filter</text></g>
+          <g class="node"><rect x="190" y="70" width="140" height="90" rx="14"/><text x="260" y="104" text-anchor="middle">Hybrid search</text><text class="s" x="260" y="124" text-anchor="middle">BGE-M3 dense+sparse</text><text class="s" x="260" y="140" text-anchor="middle">Qdrant · RRF · top-30</text></g>
+          <g class="node ai"><rect x="370" y="70" width="140" height="90" rx="14"/><text x="440" y="104" text-anchor="middle">Reranker</text><text class="s" x="440" y="124" text-anchor="middle">fine-tuned cross-</text><text class="s" x="440" y="140" text-anchor="middle">encoder · top-5</text></g>
+          <g class="node ai"><rect x="550" y="70" width="140" height="90" rx="14"/><text x="620" y="104" text-anchor="middle">Generator</text><text class="s" x="620" y="124" text-anchor="middle">Phi-4-mini + LoRA</text><text class="s" x="620" y="140" text-anchor="middle">cites every sentence</text></g>
+          <g class="node ai"><rect x="730" y="70" width="140" height="90" rx="14"/><text x="800" y="104" text-anchor="middle">Guardrail</text><text class="s" x="800" y="124" text-anchor="middle">NLI entailment +</text><text class="s" x="800" y="140" text-anchor="middle">number check · retry</text></g>
+          <g class="node"><rect x="910" y="70" width="180" height="90" rx="14"/><text x="1000" y="104" text-anchor="middle">Verified answer</text><text class="s" x="1000" y="124" text-anchor="middle">[document, page] per claim</text><text class="s" x="1000" y="140" text-anchor="middle">or "cannot be verified"</text></g>
+          <text x="550" y="210" text-anchor="middle" fill="#74829f" font-size="12">Everything runs locally: llama.cpp · Qdrant · PyTorch (MPS) · FastAPI</text>
+        </svg>
+      </div>
+
+      <div class="steps">
+        <div class="card step reveal"><div class="n">01 · DATA</div><h4>A realistic test bed</h4><p>A synthetic enterprise of 14 documents (PDF, Word, CSV, Markdown) with 1,064 facts, including "hard negative" documents that mention the same entities in different contexts, plus 200 held-out questions labelled to the exact page.</p></div>
+        <div class="card step reveal"><div class="n">02 · RETRIEVAL</div><h4>Hybrid search + fine-tuned reranker</h4><p>Dense and sparse search fused with Reciprocal Rank Fusion, then a cross-encoder I fine-tuned with a pairwise ranking loss on mined hard negatives: top-1 accuracy rose from 0.76 (fusion only) to 0.995.</p></div>
+        <div class="card step reveal"><div class="n">03 · GENERATION</div><h4>Grounded, cited, verified</h4><p>Phi-4-mini (LoRA fine-tuned on cited answers) writes 1-3 sentences, each cited. A DeBERTa NLI guardrail checks every claim and every number; failures trigger a retry or an explicit refusal.</p></div>
+        <div class="card step reveal"><div class="n">04 · EVALUATION</div><h4>Measured, not assumed</h4><p>RAGAS (faithfulness, relevancy, context precision and recall) with an independent judge model, against a naive-RAG baseline, plus a guardrail stress test with corrupted claims.</p></div>
+        <div class="card step reveal"><div class="n">05 · PRODUCT</div><h4>A secure company portal</h4><p>3D web UI with 30 role-based accounts, document-level access control enforced inside the vector search, dashboards, charts on request and one-click PowerPoint/Excel reports.</p></div>
+        <div class="card step reveal"><div class="n">06 · PRIVACY</div><h4>Nothing leaves the machine</h4><p>Every model is served locally; the server binds to localhost, the hub is forced offline, PII is redacted at ingestion, and 25 automated security tests cover auth, CSRF and access control.</p></div>
+      </div>
+
+      <div class="card results reveal">
+        <table>
+          <thead><tr><th>Metric (200 held-out questions)</th><th>Target</th><th>Naive RAG</th><th>This system</th><th>+ LoRA</th></tr></thead>
+          <tbody id="results-body">
+            <tr><td>Context precision</td><td>≥ 0.90</td><td class="num">0.79</td><td class="num"><span class="ok">0.99</span></td><td class="num">0.99</td></tr>
+            <tr><td>Citation accuracy</td><td>≥ 0.95</td><td class="num">0.97</td><td class="num"><span class="ok">0.99</span></td><td class="num"><span class="ok">1.00</span></td></tr>
+            <tr><td>Faithfulness (RAGAS)</td><td>≥ 0.95</td><td class="num" data-k="faith_naive">…</td><td class="num" data-k="faith_full">…</td><td class="num" data-k="faith_lora">…</td></tr>
+            <tr><td>Answers correct</td><td>-</td><td class="num">92.0%</td><td class="num">98.0%</td><td class="num"><span class="ok">99.5%</span></td></tr>
+            <tr><td>Wrong answers delivered</td><td>-</td><td class="num">2.5%</td><td class="num">1.0%</td><td class="num"><span class="ok">0%</span></td></tr>
+            <tr><td>Refuses unanswerable questions</td><td>-</td><td class="num">100%</td><td class="num">100%</td><td class="num">100%</td></tr>
+            <tr><td>Latency p95</td><td>&lt; 3.5 s</td><td class="num">1.2 s</td><td class="num"><span class="ok">2.3 s</span></td><td class="num"><span class="ok">2.0 s</span></td></tr>
+            <tr><td>Answer relevancy (RAGAS)</td><td>-</td><td class="num">0.93</td><td class="num">0.95</td><td class="num">0.87</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="note reveal">Honest notes: the corpus is synthetic (real enterprise documents are messier). Faithfulness is scored with the judge shown exactly what the generator saw (validated on held-out development questions first); with page text only it is 0.89. The LoRA model trades some answer relevancy (shorter answers) for zero wrong answers. Bugs found during test-set error analysis were fixed and the pre-fix results are reported in the notebooks.</p>
+
+      <div class="demo-band reveal" id="demo">
+        <div>
+          <h3>Try it yourself</h3>
+          <p>Sign in as the CEO, a finance manager or a sales employee and see how the same question gets a different answer depending on what you are cleared to read. The demo replays real, recorded outputs of the system in its actual interface, so it works instantly in any browser.</p>
+          <div class="roles"><span class="chip hl">CEO · everything</span><span class="chip">Head of Finance · management data</span><span class="chip">Sales employee · own department</span></div>
+        </div>
+        <a class="btn primary" href="demo/">Open the demo
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h13M13 6l6 6-6 6"/></svg></a>
+      </div>
+
+      <div class="gallery">
+        <figure class="reveal"><img src="assets/img/portal-login.jpg" alt="3D sign-in page with globe of company sites" loading="lazy"><figcaption><b>3D sign-in</b>Animated globe of the company's eight sites, role-based demo accounts.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-citation.jpg" alt="Source drawer showing the cited PDF page" loading="lazy"><figcaption><b>Every claim, traceable</b>Click a citation to see the passage and the rendered PDF page.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-dashboard.jpg" alt="Executive dashboard with KPI tiles and charts" loading="lazy"><figcaption><b>Role-based dashboards</b>KPIs and charts computed from records the user may see.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-chart.jpg" alt="Chart generated in the assistant chat" loading="lazy"><figcaption><b>Charts on request</b>"Top 10 customers by revenue as a chart" - computed, never generated.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-galaxy.jpg" alt="3D knowledge galaxy of documents" loading="lazy"><figcaption><b>Knowledge galaxy</b>Accessible documents in 3D, clustered by department.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-reports.jpg" alt="One-click PowerPoint and Excel reports" loading="lazy"><figcaption><b>One-click reports</b>Board-ready PowerPoint decks with editable charts.</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================== MORE PROJECTS ============================== -->
+  <section id="projects">
+    <div class="wrap">
+      <div class="kicker reveal">More projects</div>
+      <h2 class="reveal">Computer vision, NLP and full-stack AI</h2>
+      <p class="sub reveal">Systems I have built in industry and at university, from face recognition at live events to voice assistants.</p>
+      <div class="steps">
+        <div class="card step reveal"><div class="n">LEANFOLKS · PRODUCTION</div><h4>NOVARACE race platform</h4><p>Full-stack race management platform (ReactJS + Flask) serving thousands of users; optimised databases and APIs cut image retrieval and race-timing processing by 30%+.</p>
+          <div class="chips" style="margin-top:14px"><span class="chip">ReactJS</span><span class="chip">Flask</span><span class="chip">REST APIs</span></div></div>
+        <div class="card step reveal"><div class="n">LEANFOLKS · COMPUTER VISION</div><h4>Face recognition for live events</h4><p>Participant identification with HOG, linear SVM and deep metric learning (ResNet), reaching 98%+ accuracy during live races.</p>
+          <div class="chips" style="margin-top:14px"><span class="chip">HOG</span><span class="chip">SVM</span><span class="chip">ResNet</span><span class="chip">Deep metric learning</span></div></div>
+        <div class="card step reveal"><div class="n">LEANFOLKS · OCR</div><h4>Jersey number recognition</h4><p>K-Means, HOG + ELM and EasyOCR pipeline that processes 10,000+ race photos automatically with minimal manual work.</p>
+          <div class="chips" style="margin-top:14px"><span class="chip">EasyOCR</span><span class="chip">K-Means</span><span class="chip">ELM</span></div></div>
+        <div class="card step reveal"><div class="n">UNIVERSITY · FINANCE</div><h4>Invest With Confidence</h4><p>Next-day stock price forecasting with LSTM and dense networks on decades of market data (YFinance), combined with news sentiment from NLTK VADER.</p>
+          <div class="chips" style="margin-top:14px"><span class="chip">Keras LSTM</span><span class="chip">Time series</span><span class="chip">NLP sentiment</span></div></div>
+        <div class="card step reveal"><div class="n">UNIVERSITY · POSE ESTIMATION</div><h4>AI Fitness Tracker</h4><p>Real-time form checking and rep counting for squats, push-ups and planks with MediaPipe BlazePose and OpenCV, spoken feedback and a SQLite workout log.</p>
+          <div class="chips" style="margin-top:14px"><span class="chip">MediaPipe</span><span class="chip">OpenCV</span><span class="chip">pyttsx3</span></div></div>
+        <div class="card step reveal"><div class="n">UNIVERSITY · NLU</div><h4>Multilingual voice shopping assistant</h4><p>Intent recognition with neural networks, TF-IDF and Naive Bayes, a multilingual speech interface and voice-driven product recommendations.</p>
+          <div class="chips" style="margin-top:14px"><span class="chip">TensorFlow</span><span class="chip">NLU</span><span class="chip">Speech</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================== ABOUT ============================== -->
+  <section id="about">
+    <div class="wrap">
+      <div class="kicker reveal">About</div>
+      <h2 class="reveal">Engineering trust into AI</h2>
+      <div class="about">
+        <div class="portrait reveal" aria-hidden="true">KR</div>
+        <div class="reveal">
+          <p>I'm Kiruthikkumaar Radhakrishnan, an AI specialist and full-stack developer studying for a Master of Artificial Intelligence and Machine Learning at Adelaide University. I build systems that connect neural networks to real products: computer-vision models running at live events, NLP assistants, and now grounded LLM systems that cite their sources.</p>
+          <p>I care about the parts that make AI trustworthy in practice: clean data, honest evaluation, access control, and reporting what works as well as what doesn't.</p>
+          <p>Based in <b>Adelaide, Australia</b>. Bachelor of Information Technology from Coimbatore Institute of Technology, India.</p>
+        </div>
+      </div>
+      <div class="timeline" id="experience">
+        <div class="card tl reveal"><div class="when">Sep 2025 - present</div><div><h4>Master of Artificial Intelligence and Machine Learning · Adelaide University</h4><p>GPA 6.0 / 7. Adelaide, Australia.</p></div></div>
+        <div class="card tl reveal"><div class="when">Nov 2024 - Aug 2025</div><div><h4>Full Stack Web Developer Intern · Leanfolks Technology Solutions</h4><p>Led full-stack development of NOVARACE (ReactJS, Flask), built face recognition (98%+ accuracy) and jersey-number recognition (10,000+ images) for live race events, and cut processing times by 30%+. Erode, India.</p></div></div>
+        <div class="card tl reveal"><div class="when">Aug 2020 - May 2024</div><div><h4>Bachelor of Information Technology · Coimbatore Institute of Technology</h4><p>Grade 76%. Association Treasurer of the IT Department (2023-2024), managing funds for workshops and student events.</p></div></div>
+        <div class="card tl reveal"><div class="when">Nov 2023 - Oct 2024</div><div><h4>Retail Assistant · RG Car Craze</h4><p>Customer support, inventory, and routine system updates, backups and maintenance. Coimbatore, India.</p></div></div>
+        <div class="card tl reveal"><div class="when">Certifications</div><div><h4>Google Project Management · IBM Data Science Methodology · The Complete Python Programming Bootcamp</h4><p>Coursera and Udemy.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================== SKILLS ============================== -->
+  <section id="skills">
+    <div class="wrap">
+      <div class="kicker reveal">Skills</div>
+      <h2 class="reveal">What I work with</h2>
+      <div class="skills">
+        <div class="card skill reveal"><h4><i>◆</i>LLMs, NLP &amp; RAG</h4><div class="chips"><span class="chip">Retrieval-augmented generation</span><span class="chip">NLP · NLU</span><span class="chip">Hybrid search</span><span class="chip">Reranking</span><span class="chip">LoRA / PEFT</span><span class="chip">Prompt design</span><span class="chip">llama.cpp · GGUF</span></div></div>
+        <div class="card skill reveal"><h4><i>◎</i>Deep learning &amp; CV</h4><div class="chips"><span class="chip">PyTorch</span><span class="chip">TensorFlow / Keras</span><span class="chip">CNN · RNN · LSTM</span><span class="chip">Face &amp; object recognition</span><span class="chip">OpenCV · MediaPipe</span><span class="chip">EasyOCR</span><span class="chip">SVM · KNN · K-Means</span><span class="chip">RAGAS evaluation</span></div></div>
+        <div class="card skill reveal"><h4><i>▣</i>Data &amp; backend</h4><div class="chips"><span class="chip">Python</span><span class="chip">Java · C</span><span class="chip">Flask · FastAPI</span><span class="chip">REST APIs</span><span class="chip">Qdrant</span><span class="chip">SQLite</span><span class="chip">pandas · NumPy</span><span class="chip">Security &amp; RBAC</span></div></div>
+        <div class="card skill reveal"><h4><i>✦</i>Frontend &amp; viz</h4><div class="chips"><span class="chip">ReactJS</span><span class="chip">JavaScript</span><span class="chip">Three.js</span><span class="chip">Chart.js</span><span class="chip">HTML / CSS</span><span class="chip">IoT · Arduino</span><span class="chip">Android Studio</span><span class="chip">Jupyter</span></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================== CONTACT ============================== -->
+  <section class="contact" id="contact">
+    <div class="wrap">
+      <div class="kicker reveal">Contact</div>
+      <h2 class="reveal">Let's build something<br>people can trust.</h2>
+      <p class="sub reveal" style="margin:0 auto">Happy to talk about AI / ML roles, collaborations or the details of these projects. kiruthikkumaar2003@gmail.com</p>
+      <div class="links reveal">
+        <a class="btn primary" href="mailto:kiruthikkumaar2003@gmail.com">Email me</a>
+        <a class="btn" href="https://www.linkedin.com/in/kiruthikkumaar-r/" target="_blank" rel="noopener">LinkedIn</a>
+        <a class="btn" href="https://github.com/YOUR-USERNAME" title="Edit: GitHub URL"><span class="ph">GitHub</span></a>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap"><span>© <span id="year"></span> Kiruthikkumaar Radhakrishnan · kiruthikportfolio.com</span><span>Built by hand: HTML, CSS, Three.js. No trackers, no cookies.</span></div></footer>
+<script type="module" src="assets/js/site.js"></script>
+</body>
+</html>

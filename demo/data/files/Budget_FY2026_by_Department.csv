@@ -1,0 +1,89 @@
+department,cost_center,category,budget_fy2026_eur,actual_fy2025_eur,budget_owner
+Executive Office,CC-1000,Personnel,9988000,10658354,Hannele Turunen
+Executive Office,CC-1000,Travel,336000,327816,Hannele Turunen
+Executive Office,CC-1000,IT & Software,2667000,2809083,Hannele Turunen
+Executive Office,CC-1000,Facilities,1385000,1203386,Hannele Turunen
+Executive Office,CC-1000,Training,203000,212711,Hannele Turunen
+Executive Office,CC-1000,Consulting,1665000,1669841,Hannele Turunen
+Executive Office,CC-1000,Marketing programs,1418000,1344963,Hannele Turunen
+Executive Office,CC-1000,Equipment,1866000,1613526,Hannele Turunen
+Finance,CC-1010,Personnel,5160000,4700837,Anna Kuisma
+Finance,CC-1010,Travel,475000,486898,Anna Kuisma
+Finance,CC-1010,IT & Software,1926000,1979107,Anna Kuisma
+Finance,CC-1010,Facilities,772000,714703,Anna Kuisma
+Finance,CC-1010,Training,1696000,1869959,Anna Kuisma
+Finance,CC-1010,Consulting,2797000,2421707,Anna Kuisma
+Finance,CC-1010,Marketing programs,2429000,2565183,Anna Kuisma
+Finance,CC-1010,Equipment,179000,155732,Anna Kuisma
+Human Resources,CC-1020,Personnel,396000,346996,Aage Kristiansen
+Human Resources,CC-1020,Travel,275000,248473,Aage Kristiansen
+Human Resources,CC-1020,IT & Software,719000,738521,Aage Kristiansen
+Human Resources,CC-1020,Facilities,115000,108555,Aage Kristiansen
+Human Resources,CC-1020,Training,1358000,1378676,Aage Kristiansen
+Human Resources,CC-1020,Consulting,2185000,2070483,Aage Kristiansen
+Human Resources,CC-1020,Marketing programs,2799000,3126223,Aage Kristiansen
+Human Resources,CC-1020,Equipment,792000,733983,Aage Kristiansen
+Engineering,CC-1030,Personnel,3576000,3730251,Jenni Kauppinen
+Engineering,CC-1030,Travel,1772000,1555075,Jenni Kauppinen
+Engineering,CC-1030,IT & Software,1752000,1778494,Jenni Kauppinen
+Engineering,CC-1030,Facilities,1050000,914498,Jenni Kauppinen
+Engineering,CC-1030,Training,2412000,2545111,Jenni Kauppinen
+Engineering,CC-1030,Consulting,301000,265113,Jenni Kauppinen
+Engineering,CC-1030,Marketing programs,1021000,1109408,Jenni Kauppinen
+Engineering,CC-1030,Equipment,80000,79274,Jenni Kauppinen
+Operations,CC-1040,Personnel,5060000,5054238,Vito Draxler
+Operations,CC-1040,Travel,572000,573201,Vito Draxler
+Operations,CC-1040,IT & Software,363000,335752,Vito Draxler
+Operations,CC-1040,Facilities,1096000,979952,Vito Draxler
+Operations,CC-1040,Training,1752000,1919329,Vito Draxler
+Operations,CC-1040,Consulting,114000,103217,Vito Draxler
+Operations,CC-1040,Marketing programs,444000,396474,Vito Draxler
+Operations,CC-1040,Equipment,448000,486668,Vito Draxler
+Sales,CC-1050,Personnel,10092000,9574988,Tymoteusz Lizoń
+Sales,CC-1050,Travel,1760000,1837765,Tymoteusz Lizoń
+Sales,CC-1050,IT & Software,809000,719853,Tymoteusz Lizoń
+Sales,CC-1050,Facilities,2678000,2811490,Tymoteusz Lizoń
+Sales,CC-1050,Training,137000,152542,Tymoteusz Lizoń
+Sales,CC-1050,Consulting,1096000,977410,Tymoteusz Lizoń
+Sales,CC-1050,Marketing programs,974000,1051001,Tymoteusz Lizoń
+Sales,CC-1050,Equipment,1396000,1389922,Tymoteusz Lizoń
+Marketing,CC-1060,Personnel,9960000,10528796,Gabriel Eisner
+Marketing,CC-1060,Travel,1993000,1867619,Gabriel Eisner
+Marketing,CC-1060,IT & Software,2379000,2317303,Gabriel Eisner
+Marketing,CC-1060,Facilities,1079000,1056042,Gabriel Eisner
+Marketing,CC-1060,Training,170000,149684,Gabriel Eisner
+Marketing,CC-1060,Consulting,1578000,1468423,Gabriel Eisner
+Marketing,CC-1060,Marketing programs,2239000,2209790,Gabriel Eisner
+Marketing,CC-1060,Equipment,2352000,2600436,Gabriel Eisner
+Legal & Compliance,CC-1070,Personnel,10804000,11803020,Oskari Martikainen
+Legal & Compliance,CC-1070,Travel,1962000,1865993,Oskari Martikainen
+Legal & Compliance,CC-1070,IT & Software,1728000,1837606,Oskari Martikainen
+Legal & Compliance,CC-1070,Facilities,1386000,1347264,Oskari Martikainen
+Legal & Compliance,CC-1070,Training,1680000,1466357,Oskari Martikainen
+Legal & Compliance,CC-1070,Consulting,206000,186379,Oskari Martikainen
+Legal & Compliance,CC-1070,Marketing programs,1864000,1606511,Oskari Martikainen
+Legal & Compliance,CC-1070,Equipment,1893000,1826586,Oskari Martikainen
+IT,CC-1080,Personnel,4576000,4129811,Emmi Rantanen
+IT,CC-1080,Travel,1452000,1272619,Emmi Rantanen
+IT,CC-1080,IT & Software,1438000,1326614,Emmi Rantanen
+IT,CC-1080,Facilities,320000,348950,Emmi Rantanen
+IT,CC-1080,Training,821000,731822,Emmi Rantanen
+IT,CC-1080,Consulting,2535000,2613045,Emmi Rantanen
+IT,CC-1080,Marketing programs,500000,559022,Emmi Rantanen
+IT,CC-1080,Equipment,1454000,1341452,Emmi Rantanen
+Quality,CC-1090,Personnel,1388000,1233178,Cyprian Piguła
+Quality,CC-1090,Travel,987000,1008418,Cyprian Piguła
+Quality,CC-1090,IT & Software,1520000,1510500,Cyprian Piguła
+Quality,CC-1090,Facilities,2746000,2494922,Cyprian Piguła
+Quality,CC-1090,Training,1114000,1038193,Cyprian Piguła
+Quality,CC-1090,Consulting,1913000,1969074,Cyprian Piguła
+Quality,CC-1090,Marketing programs,1219000,1346562,Cyprian Piguła
+Quality,CC-1090,Equipment,1317000,1238177,Cyprian Piguła
+Procurement,CC-1100,Personnel,2832000,2706856,Trine Søndergaard
+Procurement,CC-1100,Travel,2171000,2233100,Trine Søndergaard
+Procurement,CC-1100,IT & Software,456000,457520,Trine Søndergaard
+Procurement,CC-1100,Facilities,396000,370907,Trine Søndergaard
+Procurement,CC-1100,Training,968000,968358,Trine Søndergaard
+Procurement,CC-1100,Consulting,739000,719195,Trine Søndergaard
+Procurement,CC-1100,Marketing programs,541000,465359,Trine Søndergaard
+Procurement,CC-1100,Equipment,1909000,1811066,Trine Søndergaard

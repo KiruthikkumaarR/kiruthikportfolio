@@ -25,7 +25,7 @@ Replace the text, delete `class="ph"`, and optionally add `assets/Kiruthik_CV.pd
    ```bash
    git init && git add . && git commit -m "Portfolio"
    git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/kiruthikportfolio.git
+   git remote add origin https://github.com/KiruthikkumaarR/kiruthikportfolio.git
    git push -u origin main
    ```
 3. In the repository: **Settings → Pages → Build and deployment → Deploy from a branch → `main` / `(root)` → Save**.
@@ -42,7 +42,7 @@ Squarespace default `A`/`CNAME` records for `@` and `www`, then add:
 | `@`  | A     | 185.199.109.153 |
 | `@`  | A     | 185.199.110.153 |
 | `@`  | A     | 185.199.111.153 |
-| `www`| CNAME | `YOUR-USERNAME.github.io` |
+| `www`| CNAME | `kiruthikkumaarr.github.io` |
 
 DNS can take from a few minutes up to 24 hours. Once GitHub shows the domain as verified, tick **Enforce HTTPS**
 in Settings → Pages.

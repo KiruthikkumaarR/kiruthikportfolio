@@ -30,9 +30,9 @@
   <section class="hero">
     <canvas id="hero3d" aria-hidden="true"></canvas>
     <div class="wrap">
-      <span class="eyebrow"><b></b>Master of AI &amp; ML student · Adelaide University · open to AI / ML roles</span>
+      <span class="eyebrow"><b></b>Open to AI / ML engineering internships &amp; graduate roles · Adelaide, Australia</span>
       <h1>I build AI that <span class="grad">shows its sources.</span></h1>
-      <p class="lead">I'm Kiruthikkumaar, an AI specialist and full-stack developer focused on retrieval-augmented generation, local LLMs and the evaluation that proves they work. My latest system answers questions over private company documents, cites every claim to the exact page, and runs entirely on one laptop.</p>
+      <p class="lead">I'm Kiruthikkumaar, an AI engineer and Master of AI &amp; ML student at Adelaide University. I shipped face recognition at 98%+ accuracy for live sports events, and built an on-premise RAG engine that cites every claim to the exact page &mdash; 0.997 faithfulness, 0 wrong answers on 200 held-out questions.</p>
       <div class="cta">
         <a class="btn primary" href="demo/">Try the interactive demo
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h13M13 6l6 6-6 6"/></svg></a>
@@ -50,7 +50,7 @@
       <p class="sub reveal">A zero-hallucination question-answering system for enterprise documents, with a secure company portal, role-based access, live dashboards and one-click PowerPoint reports. 100% on-premise: no data or query ever leaves the machine.</p>
 
       <div class="feature">
-        <a class="shot reveal" href="demo/" aria-label="Open the interactive demo"><img src="assets/img/portal-assistant.jpg" alt="The AI assistant answering with a verified, cited answer"><span class="glare"></span></a>
+        <a class="shot reveal" href="demo/" aria-label="Open the interactive demo"><img src="assets/img/portal-assistant.webp" alt="The AI assistant answering with a verified, cited answer" width="1600" height="1000" decoding="async"><span class="glare"></span></a>
         <div class="card info reveal">
           <h3>Answers you can audit.</h3>
           <p>Hybrid search (BGE-M3 dense + sparse in Qdrant, fused with RRF), a cross-encoder reranker I fine-tuned, Phi-4-mini generating cited answers, and an independent NLI guardrail that verifies every sentence before the user sees it.</p>
@@ -96,12 +96,12 @@
       </div>
 
       <div class="steps">
-        <div class="card step reveal"><div class="n">01 · DATA</div><h4>A realistic test bed</h4><p>A synthetic enterprise of 14 documents (PDF, Word, CSV, Markdown) with 1,064 facts, including "hard negative" documents that mention the same entities in different contexts, plus 200 held-out questions labelled to the exact page.</p></div>
-        <div class="card step reveal"><div class="n">02 · RETRIEVAL</div><h4>Hybrid search + fine-tuned reranker</h4><p>Dense and sparse search fused with Reciprocal Rank Fusion, then a cross-encoder I fine-tuned with a pairwise ranking loss on mined hard negatives: top-1 accuracy rose from 0.76 (fusion only) to 0.995.</p></div>
-        <div class="card step reveal"><div class="n">03 · GENERATION</div><h4>Grounded, cited, verified</h4><p>Phi-4-mini (LoRA fine-tuned on cited answers) writes 1-3 sentences, each cited. A DeBERTa NLI guardrail checks every claim and every number; failures trigger a retry or an explicit refusal.</p></div>
-        <div class="card step reveal"><div class="n">04 · EVALUATION</div><h4>Measured, not assumed</h4><p>RAGAS (faithfulness, relevancy, context precision and recall) with an independent judge model, against a naive-RAG baseline, plus a guardrail stress test with corrupted claims.</p></div>
-        <div class="card step reveal"><div class="n">05 · PRODUCT</div><h4>A secure company portal</h4><p>3D web UI with 30 role-based accounts, document-level access control enforced inside the vector search, dashboards, charts on request and one-click PowerPoint/Excel reports.</p></div>
-        <div class="card step reveal"><div class="n">06 · PRIVACY</div><h4>Nothing leaves the machine</h4><p>Every model is served locally; the server binds to localhost, the hub is forced offline, PII is redacted at ingestion, and 25 automated security tests cover auth, CSRF and access control.</p></div>
+        <div class="card step reveal"><div class="n">01 · DATA</div><h3>A realistic test bed</h3><p>A synthetic enterprise of 14 documents (PDF, Word, CSV, Markdown) with 1,064 facts, including "hard negative" documents that mention the same entities in different contexts, plus 200 held-out questions labelled to the exact page.</p></div>
+        <div class="card step reveal"><div class="n">02 · RETRIEVAL</div><h3>Hybrid search + fine-tuned reranker</h3><p>Dense and sparse search fused with Reciprocal Rank Fusion, then a cross-encoder I fine-tuned with a pairwise ranking loss on mined hard negatives: top-1 accuracy rose from 0.76 (fusion only) to 0.995.</p></div>
+        <div class="card step reveal"><div class="n">03 · GENERATION</div><h3>Grounded, cited, verified</h3><p>Phi-4-mini (LoRA fine-tuned on cited answers) writes 1-3 sentences, each cited. A DeBERTa NLI guardrail checks every claim and every number; failures trigger a retry or an explicit refusal.</p></div>
+        <div class="card step reveal"><div class="n">04 · EVALUATION</div><h3>Measured, not assumed</h3><p>RAGAS (faithfulness, relevancy, context precision and recall) with an independent judge model, against a naive-RAG baseline, plus a guardrail stress test with corrupted claims.</p></div>
+        <div class="card step reveal"><div class="n">05 · PRODUCT</div><h3>A secure company portal</h3><p>3D web UI with 30 role-based accounts, document-level access control enforced inside the vector search, dashboards, charts on request and one-click PowerPoint/Excel reports.</p></div>
+        <div class="card step reveal"><div class="n">06 · PRIVACY</div><h3>Nothing leaves the machine</h3><p>Every model is served locally; the server binds to localhost, the hub is forced offline, PII is redacted at ingestion, and 25 automated security tests cover auth, CSRF and access control.</p></div>
       </div>
 
       <div class="card results reveal">
@@ -132,12 +132,12 @@
       </div>
 
       <div class="gallery">
-        <figure class="reveal"><img src="assets/img/portal-login.jpg" alt="3D sign-in page with globe of company sites" loading="lazy"><figcaption><b>3D sign-in</b>Animated globe of the company's eight sites, role-based demo accounts.</figcaption></figure>
-        <figure class="reveal"><img src="assets/img/portal-citation.jpg" alt="Source drawer showing the cited PDF page" loading="lazy"><figcaption><b>Every claim, traceable</b>Click a citation to see the passage and the rendered PDF page.</figcaption></figure>
-        <figure class="reveal"><img src="assets/img/portal-dashboard.jpg" alt="Executive dashboard with KPI tiles and charts" loading="lazy"><figcaption><b>Role-based dashboards</b>KPIs and charts computed from records the user may see.</figcaption></figure>
-        <figure class="reveal"><img src="assets/img/portal-chart.jpg" alt="Chart generated in the assistant chat" loading="lazy"><figcaption><b>Charts on request</b>"Top 10 customers by revenue as a chart" - computed, never generated.</figcaption></figure>
-        <figure class="reveal"><img src="assets/img/portal-galaxy.jpg" alt="3D knowledge galaxy of documents" loading="lazy"><figcaption><b>Knowledge galaxy</b>Accessible documents in 3D, clustered by department.</figcaption></figure>
-        <figure class="reveal"><img src="assets/img/portal-reports.jpg" alt="One-click PowerPoint and Excel reports" loading="lazy"><figcaption><b>One-click reports</b>Board-ready PowerPoint decks with editable charts.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-login.webp" alt="3D sign-in page with globe of company sites" loading="lazy" width="1600" height="1000" decoding="async"><figcaption><b>3D sign-in</b>Animated globe of the company's eight sites, role-based demo accounts.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-citation.webp" alt="Source drawer showing the cited PDF page" loading="lazy" width="1600" height="1000" decoding="async"><figcaption><b>Every claim, traceable</b>Click a citation to see the passage and the rendered PDF page.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-dashboard.webp" alt="Executive dashboard with KPI tiles and charts" loading="lazy" width="1600" height="1000" decoding="async"><figcaption><b>Role-based dashboards</b>KPIs and charts computed from records the user may see.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-chart.webp" alt="Chart generated in the assistant chat" loading="lazy" width="1600" height="1000" decoding="async"><figcaption><b>Charts on request</b>"Top 10 customers by revenue as a chart" - computed, never generated.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-galaxy.webp" alt="3D knowledge galaxy of documents" loading="lazy" width="1600" height="1000" decoding="async"><figcaption><b>Knowledge galaxy</b>Accessible documents in 3D, clustered by department.</figcaption></figure>
+        <figure class="reveal"><img src="assets/img/portal-reports.webp" alt="One-click PowerPoint and Excel reports" loading="lazy" width="1600" height="1000" decoding="async"><figcaption><b>One-click reports</b>Board-ready PowerPoint decks with editable charts.</figcaption></figure>
       </div>
     </div>
   </section>
@@ -149,7 +149,7 @@
       <h2 class="reveal">Computer vision, NLP and full-stack AI</h2>
       <p class="sub reveal">Systems I have built in industry and at university, from face recognition at live events to voice assistants.</p>
       <div class="feature">
-        <a class="shot reveal" href="geeta/" aria-label="Open the GEETA project page"><img src="assets/img/geeta-chat-only.jpg" alt="GEETA's teddy buddy spotting that a child added instead of multiplying, and giving a hint"><span class="glare"></span></a>
+        <a class="shot reveal" href="geeta/" aria-label="Open the GEETA project page"><img src="assets/img/geeta-chat-only.jpg" alt="GEETA's teddy buddy spotting that a child added instead of multiplying, and giving a hint" width="420" height="470" decoding="async"><span class="glare"></span></a>
         <div class="card info reveal">
           <div class="kicker" style="margin:0">Master's project · AI for children</div>
           <h3>GEETA: a maths buddy that never gives the answer</h3>
@@ -160,17 +160,17 @@
         </div>
       </div>
       <div class="steps">
-        <div class="card step reveal"><div class="n">LEANFOLKS · PRODUCTION</div><h4>NOVARACE race platform</h4><p>Full-stack race management platform (ReactJS + Flask) serving thousands of users; optimised databases and APIs cut image retrieval and race-timing processing by 30%+.</p>
+        <div class="card step reveal"><div class="n">LEANFOLKS · PRODUCTION</div><h3>NOVARACE race platform</h3><p>Full-stack race management platform (ReactJS + Flask) serving thousands of users; optimised databases and APIs cut image retrieval and race-timing processing by 30%+.</p>
           <div class="chips" style="margin-top:14px"><span class="chip">ReactJS</span><span class="chip">Flask</span><span class="chip">REST APIs</span></div></div>
-        <div class="card step reveal"><div class="n">LEANFOLKS · COMPUTER VISION</div><h4>Face recognition for live events</h4><p>Participant identification with HOG, linear SVM and deep metric learning (ResNet), reaching 98%+ accuracy during live races.</p>
+        <div class="card step reveal"><div class="n">LEANFOLKS · COMPUTER VISION</div><h3>Face recognition for live events</h3><p>Participant identification with HOG, linear SVM and deep metric learning (ResNet), reaching 98%+ accuracy during live races.</p>
           <div class="chips" style="margin-top:14px"><span class="chip">HOG</span><span class="chip">SVM</span><span class="chip">ResNet</span><span class="chip">Deep metric learning</span></div></div>
-        <div class="card step reveal"><div class="n">LEANFOLKS · OCR</div><h4>Jersey number recognition</h4><p>K-Means, HOG + ELM and EasyOCR pipeline that processes 10,000+ race photos automatically with minimal manual work.</p>
+        <div class="card step reveal"><div class="n">LEANFOLKS · OCR</div><h3>Jersey number recognition</h3><p>K-Means, HOG + ELM and EasyOCR pipeline that processes 10,000+ race photos automatically with minimal manual work.</p>
           <div class="chips" style="margin-top:14px"><span class="chip">EasyOCR</span><span class="chip">K-Means</span><span class="chip">ELM</span></div></div>
-        <div class="card step reveal"><div class="n">UNIVERSITY · FINANCE</div><h4>Invest With Confidence</h4><p>Next-day stock price forecasting with LSTM and dense networks on decades of market data (YFinance), combined with news sentiment from NLTK VADER.</p>
+        <div class="card step reveal"><div class="n">UNIVERSITY · FINANCE</div><h3>Invest With Confidence</h3><p>Next-day stock price forecasting with LSTM and dense networks on decades of market data (YFinance), combined with news sentiment from NLTK VADER.</p>
           <div class="chips" style="margin-top:14px"><span class="chip">Keras LSTM</span><span class="chip">Time series</span><span class="chip">NLP sentiment</span></div></div>
-        <div class="card step reveal"><div class="n">UNIVERSITY · POSE ESTIMATION</div><h4>AI Fitness Tracker</h4><p>Real-time form checking and rep counting for squats, push-ups and planks with MediaPipe BlazePose and OpenCV, spoken feedback and a SQLite workout log.</p>
+        <div class="card step reveal"><div class="n">UNIVERSITY · POSE ESTIMATION</div><h3>AI Fitness Tracker</h3><p>Real-time form checking and rep counting for squats, push-ups and planks with MediaPipe BlazePose and OpenCV, spoken feedback and a SQLite workout log.</p>
           <div class="chips" style="margin-top:14px"><span class="chip">MediaPipe</span><span class="chip">OpenCV</span><span class="chip">pyttsx3</span></div></div>
-        <div class="card step reveal"><div class="n">UNIVERSITY · NLU</div><h4>Multilingual voice shopping assistant</h4><p>Intent recognition with neural networks, TF-IDF and Naive Bayes, a multilingual speech interface and voice-driven product recommendations.</p>
+        <div class="card step reveal"><div class="n">UNIVERSITY · NLU</div><h3>Multilingual voice shopping assistant</h3><p>Intent recognition with neural networks, TF-IDF and Naive Bayes, a multilingual speech interface and voice-driven product recommendations.</p>
           <div class="chips" style="margin-top:14px"><span class="chip">TensorFlow</span><span class="chip">NLU</span><span class="chip">Speech</span></div></div>
       </div>
     </div>
@@ -184,17 +184,18 @@
       <div class="about">
         <div class="portrait reveal" aria-hidden="true">KR</div>
         <div class="reveal">
-          <p>I'm Kiruthikkumaar Radhakrishnan, an AI specialist and full-stack developer studying for a Master of Artificial Intelligence and Machine Learning at Adelaide University. I build systems that connect neural networks to real products: computer-vision models running at live events, NLP assistants, and now grounded LLM systems that cite their sources.</p>
-          <p>I care about the parts that make AI trustworthy in practice: clean data, honest evaluation, access control, and reporting what works as well as what doesn't.</p>
+          <p>I'm Kiruthikkumaar Radhakrishnan, an AI engineer who likes taking models out of notebooks and into products people rely on. At Leanfolks Technology Solutions I led the full-stack build of NOVARACE, a race-management platform, and added the AI behind it: face recognition that identifies participants with 98%+ accuracy and a jersey-number reader that processes 10,000+ race photos automatically.</p>
+          <p>Now, during my Master of Artificial Intelligence and Machine Learning at Adelaide University, I focus on large language models you can trust: retrieval-augmented generation, fine-tuning (LoRA), and evaluation that measures what actually matters &mdash; correctness, citations, and refusing when the evidence isn't there.</p>
+          <p>I'm looking for <b>AI / ML engineering internships and graduate roles</b> where I can build and evaluate production AI systems &mdash; computer vision, NLP or LLM applications.</p>
           <p>Based in <b>Adelaide, Australia</b>. Bachelor of Information Technology from Coimbatore Institute of Technology, India.</p>
         </div>
       </div>
       <div class="timeline" id="experience">
-        <div class="card tl reveal"><div class="when">Sep 2025 - present</div><div><h4>Master of Artificial Intelligence and Machine Learning · Adelaide University</h4><p>GPA 6.0 / 7. Adelaide, Australia.</p></div></div>
-        <div class="card tl reveal"><div class="when">Nov 2024 - Aug 2025</div><div><h4>Full Stack Web Developer Intern · Leanfolks Technology Solutions</h4><p>Led full-stack development of NOVARACE (ReactJS, Flask), built face recognition (98%+ accuracy) and jersey-number recognition (10,000+ images) for live race events, and cut processing times by 30%+. Erode, India.</p></div></div>
-        <div class="card tl reveal"><div class="when">Aug 2020 - May 2024</div><div><h4>Bachelor of Information Technology · Coimbatore Institute of Technology</h4><p>Grade 76%. Association Treasurer of the IT Department (2023-2024), managing funds for workshops and student events.</p></div></div>
-        <div class="card tl reveal"><div class="when">Nov 2023 - Oct 2024</div><div><h4>Retail Assistant · RG Car Craze</h4><p>Customer support, inventory, and routine system updates, backups and maintenance. Coimbatore, India.</p></div></div>
-        <div class="card tl reveal"><div class="when">Certifications</div><div><h4>Google Project Management · IBM Data Science Methodology · The Complete Python Programming Bootcamp</h4><p>Coursera and Udemy.</p></div></div>
+        <div class="card tl reveal"><div class="when">Sep 2025 - present</div><div><h3>Master of Artificial Intelligence and Machine Learning · Adelaide University</h3><p>GPA 6.0 / 7. Adelaide, Australia.</p></div></div>
+        <div class="card tl reveal"><div class="when">Nov 2024 - Aug 2025</div><div><h3>Full Stack Web Developer Intern · Leanfolks Technology Solutions</h3><p>Led full-stack development of NOVARACE (ReactJS, Flask), built face recognition (98%+ accuracy) and jersey-number recognition (10,000+ images) for live race events, and cut processing times by 30%+. Erode, India.</p></div></div>
+        <div class="card tl reveal"><div class="when">Aug 2020 - May 2024</div><div><h3>Bachelor of Information Technology · Coimbatore Institute of Technology</h3><p>Grade 76%. Association Treasurer of the IT Department (2023-2024), managing funds for workshops and student events.</p></div></div>
+        <div class="card tl reveal"><div class="when">Nov 2023 - Oct 2024</div><div><h3>Retail Assistant · RG Car Craze</h3><p>Customer support, inventory, and routine system updates, backups and maintenance. Coimbatore, India.</p></div></div>
+        <div class="card tl reveal"><div class="when">Certifications</div><div><h3>Google Project Management · IBM Data Science Methodology · The Complete Python Programming Bootcamp</h3><p>Coursera and Udemy.</p></div></div>
       </div>
     </div>
   </section>
@@ -205,10 +206,10 @@
       <div class="kicker reveal">Skills</div>
       <h2 class="reveal">What I work with</h2>
       <div class="skills">
-        <div class="card skill reveal"><h4><i>◆</i>LLMs, NLP &amp; RAG</h4><div class="chips"><span class="chip">Retrieval-augmented generation</span><span class="chip">NLP · NLU</span><span class="chip">Hybrid search</span><span class="chip">Reranking</span><span class="chip">LoRA / PEFT</span><span class="chip">Prompt design</span><span class="chip">llama.cpp · GGUF</span></div></div>
-        <div class="card skill reveal"><h4><i>◎</i>Deep learning &amp; CV</h4><div class="chips"><span class="chip">PyTorch</span><span class="chip">TensorFlow / Keras</span><span class="chip">CNN · RNN · LSTM</span><span class="chip">Face &amp; object recognition</span><span class="chip">OpenCV · MediaPipe</span><span class="chip">EasyOCR</span><span class="chip">SVM · KNN · K-Means</span><span class="chip">RAGAS evaluation</span></div></div>
-        <div class="card skill reveal"><h4><i>▣</i>Data &amp; backend</h4><div class="chips"><span class="chip">Python</span><span class="chip">Java · C</span><span class="chip">Flask · FastAPI</span><span class="chip">REST APIs</span><span class="chip">Qdrant</span><span class="chip">SQLite</span><span class="chip">pandas · NumPy</span><span class="chip">Security &amp; RBAC</span></div></div>
-        <div class="card skill reveal"><h4><i>✦</i>Frontend &amp; viz</h4><div class="chips"><span class="chip">ReactJS</span><span class="chip">JavaScript</span><span class="chip">Three.js</span><span class="chip">Chart.js</span><span class="chip">HTML / CSS</span><span class="chip">IoT · Arduino</span><span class="chip">Android Studio</span><span class="chip">Jupyter</span></div></div>
+        <div class="card skill reveal"><h3><i>◆</i>LLMs, NLP &amp; RAG</h3><div class="chips"><span class="chip">Retrieval-augmented generation</span><span class="chip">NLP · NLU</span><span class="chip">Hybrid search</span><span class="chip">Reranking</span><span class="chip">LoRA / PEFT</span><span class="chip">Prompt design</span><span class="chip">llama.cpp · GGUF</span></div></div>
+        <div class="card skill reveal"><h3><i>◎</i>Deep learning &amp; CV</h3><div class="chips"><span class="chip">PyTorch</span><span class="chip">TensorFlow / Keras</span><span class="chip">CNN · RNN · LSTM</span><span class="chip">Face &amp; object recognition</span><span class="chip">OpenCV · MediaPipe</span><span class="chip">EasyOCR</span><span class="chip">SVM · KNN · K-Means</span><span class="chip">RAGAS evaluation</span></div></div>
+        <div class="card skill reveal"><h3><i>▣</i>Data &amp; backend</h3><div class="chips"><span class="chip">Python</span><span class="chip">Java · C</span><span class="chip">Flask · FastAPI</span><span class="chip">REST APIs</span><span class="chip">Qdrant</span><span class="chip">SQLite</span><span class="chip">pandas · NumPy</span><span class="chip">Security &amp; RBAC</span></div></div>
+        <div class="card skill reveal"><h3><i>✦</i>Frontend &amp; viz</h3><div class="chips"><span class="chip">ReactJS</span><span class="chip">JavaScript</span><span class="chip">Three.js</span><span class="chip">Chart.js</span><span class="chip">HTML / CSS</span><span class="chip">IoT · Arduino</span><span class="chip">Android Studio</span><span class="chip">Jupyter</span></div></div>
       </div>
     </div>
   </section>
@@ -223,6 +224,7 @@
         <a class="btn primary" href="mailto:kiruthikkumaar2003@gmail.com">Email me</a>
         <a class="btn" href="https://www.linkedin.com/in/kiruthikkumaar-r/" target="_blank" rel="noopener">LinkedIn</a>
         <a class="btn" href="https://github.com/KiruthikkumaarR" target="_blank" rel="noopener">GitHub</a>
+        <a class="btn" href="assets/Kiruthikkumaar_Radhakrishnan_CV.pdf" download>Download CV</a>
       </div>
     </div>
   </section>

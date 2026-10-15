@@ -1,4 +1,7 @@
-import { createBackground, createGalaxy, DEPT_COLORS } from "./scene.js";
+// The 3D module (Three.js, ~690 KB) is loaded on demand: after first paint for the background globe (desktop only),
+// or when the Knowledge Galaxy is opened.
+let scene3d = null;
+const loadScene = () => (scene3d ??= import("./scene.js"));
 
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -264,7 +267,7 @@ async function previewDoc(d) {
 async function renderGalaxy(view) {
   view.innerHTML = `<div class="panel galaxy-wrap"><canvas id="galaxy"></canvas><div class="panel galaxy-legend" id="glegend"></div>
     <div class="panel galaxy-help">Drag to rotate · scroll to zoom · click a star to preview</div><div class="panel galaxy-tip hidden" id="gtip"></div></div>`;
-  const docs = await loadDocs();
+  const [docs, { createGalaxy, DEPT_COLORS }] = await Promise.all([loadDocs(), loadScene()]);
   const depts = [...new Set(docs.map(d => d.departments[0]))];
   $("#glegend").innerHTML = depts.map(d => `<div><i style="background:${DEPT_COLORS[d]}"></i>${esc(d)} (${docs.filter(x => x.departments[0] === d).length})</div>`).join("") +
     `<div class="muted" style="margin-top:6px">Ring: <span class="lvl-3">Management</span> / <span class="lvl-4">Executive</span></div>`;
@@ -564,7 +567,10 @@ async function renderReports(view) {
 
 // ------------------------------------------------------------------ boot
 (async function boot() {
-  try { bg = createBackground($("#bg")); } catch (e) { console.warn("WebGL unavailable", e); }
   try { me = await api("/api/me"); enterApp(); } catch { showLogin(); }
-  setTimeout(() => $("#boot").classList.add("gone"), 250);
+  setTimeout(() => $("#boot").classList.add("gone"), 150);
+  const light = matchMedia("(max-width: 720px), (prefers-reduced-motion: reduce)").matches || navigator.connection?.saveData;
+  if (!light) (window.requestIdleCallback || setTimeout)(() => loadScene().then(m => {
+    try { bg = m.createBackground($("#bg")); bg.setMode(me ? "app" : "login"); } catch (e) { console.warn("WebGL unavailable", e); }
+  }).catch(() => {}));
 })();

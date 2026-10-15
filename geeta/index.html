@@ -56,7 +56,7 @@
         <a class="btn primary" href="mailto:kiruthikkumaar2003@gmail.com?subject=GEETA%20demo">Ask for a live demo</a>
         <a class="btn" href="#how">How it works</a>
       </div>
-      <a class="shot hero-shot reveal" href="#worlds" aria-label="See the kid worlds"><img src="../assets/img/geeta-teddy.jpg" alt="GEETA's teddy-bear world: Bobo the teddy greets the child next to a drawing pad and a chat"><span class="glare"></span></a>
+      <a class="shot hero-shot reveal" href="#worlds" aria-label="See the kid worlds"><img src="../assets/img/geeta-teddy.jpg" alt="GEETA's teddy-bear world: Bobo the teddy greets the child next to a drawing pad and a chat" width="800" height="500" decoding="async"><span class="glare"></span></a>
       <div class="metrics">
         <div class="card metric reveal"><b data-count="0">0</b><span>wrong answers delivered</span><small>249 held-out problems (target: 0)</small></div>
         <div class="card metric reveal"><b data-count="0">0</b><span>answers leaked</span><small>36 "just tell me" attack prompts</small></div>
@@ -73,12 +73,12 @@
       <p class="sub reveal">Children choose a world: teddy, car, space, dinosaur, unicorn or ocean. Each has its own buddy, colours and voice.
         They sign in by tapping their picture and typing a 4-digit secret number, only on a device a parent has switched on.</p>
       <div class="worlds">
-        <figure class="reveal"><img src="../assets/img/geeta-teddy.jpg" alt="Teddy's Picnic world"><figcaption><b>Teddy's Picnic</b>Bobo the teddy bear</figcaption></figure>
-        <figure class="reveal"><img src="../assets/img/geeta-car.jpg" alt="Race Track world"><figcaption><b>Race Track</b>Zoom the race car remembers what the child practised last time</figcaption></figure>
-        <figure class="reveal"><img src="../assets/img/geeta-space.jpg" alt="Space Adventure world"><figcaption><b>Space Adventure</b>Cosmo the rocket</figcaption></figure>
+        <figure class="reveal"><img src="../assets/img/geeta-teddy.jpg" alt="Teddy's Picnic world" width="800" height="500" decoding="async"><figcaption><b>Teddy's Picnic</b>Bobo the teddy bear</figcaption></figure>
+        <figure class="reveal"><img src="../assets/img/geeta-car.jpg" alt="Race Track world" width="800" height="500" decoding="async"><figcaption><b>Race Track</b>Zoom the race car remembers what the child practised last time</figcaption></figure>
+        <figure class="reveal"><img src="../assets/img/geeta-space.jpg" alt="Space Adventure world" width="800" height="500" decoding="async"><figcaption><b>Space Adventure</b>Cosmo the rocket</figcaption></figure>
       </div>
       <div class="chat-demo">
-        <div class="shot reveal"><img src="../assets/img/geeta-chat.jpg" style="object-position:right top" alt="Bobo spots that the child added 3 + 5 instead of multiplying 3 groups of 5, and gives a skip-counting hint"><span class="glare"></span></div>
+        <div class="shot reveal"><img src="../assets/img/geeta-chat.jpg" style="object-position:right top" alt="Bobo spots that the child added 3 + 5 instead of multiplying 3 groups of 5, and gives a skip-counting hint" width="800" height="500" decoding="async"><span class="glare"></span></div>
         <div class="card info reveal">
           <div class="kicker">A real reply (demo account)</div>
           <h3>It finds the mistake, not just "wrong"</h3>
@@ -97,12 +97,12 @@
       <p class="sub reveal">Early testing showed that model-written hints were sometimes wrong. A small model's arithmetic isn't safe to show a six-year-old,
         so the system is built to make wrong maths structurally impossible on the common question types.</p>
       <div class="steps">
-        <div class="card step reveal"><div class="n">01 · MODEL</div><h4>A 4B model, fine-tuned and local</h4><p>Qwen3.5-4B, LoRA-tuned on tutoring dialogues and quantised to GGUF (Q4_K_M) with a vision projector, served by llama.cpp on a MacBook. It reads handwriting and photos: 99.3% character accuracy on handwriting.</p></div>
-        <div class="card step reveal"><div class="n">02 · EXACT TUTOR</div><h4>Deterministic Python tutoring</h4><p>About 30 Year 1-3 problem types (word problems, place value, rounding, money, time, fractions, measurement, patterns...) are parsed and solved in Python. Python writes the hints and decides right or wrong.</p></div>
-        <div class="card step reveal"><div class="n">03 · WORKSHEETS</div><h4>Whole pages, one question at a time</h4><p>A photographed worksheet is split into its numbered questions and sub-parts (26a, 26b...). The child picks one by voice or text, and GEETA tracks which questions are still unfinished.</p></div>
-        <div class="card step reveal"><div class="n">04 · GUARDS</div><h4>Gated fallback + leak guard</h4><p>Anything Python can't read falls back to the model. Its reply must pass an independent verifier and a checker that blocks false arithmetic, praise of wrong answers and invented numbers. A leak guard checks every reply for the answer.</p></div>
-        <div class="card step reveal"><div class="n">05 · PRODUCT</div><h4>Portals for kids, parents and staff</h4><p>FastAPI web app with separate sign-ins for children, parents, tutors and admins, progress reports per child, and a parent PDF emailed every night at 10:30 PM Adelaide time.</p></div>
-        <div class="card step reveal"><div class="n">06 · PRIVACY &amp; SECURITY</div><h4>Learning summaries only</h4><p>No chats, photos or camera images are ever stored, only skills practised and scores. argon2 passwords, 2-step sign-in, lock-outs, CSRF and CSP. An in-house attack suite of 78 attacks: all blocked.</p></div>
+        <div class="card step reveal"><div class="n">01 · MODEL</div><h3>A 4B model, fine-tuned and local</h3><p>Qwen3.5-4B, LoRA-tuned on tutoring dialogues and quantised to GGUF (Q4_K_M) with a vision projector, served by llama.cpp on a MacBook. It reads handwriting and photos: 99.3% character accuracy on handwriting.</p></div>
+        <div class="card step reveal"><div class="n">02 · EXACT TUTOR</div><h3>Deterministic Python tutoring</h3><p>About 30 Year 1-3 problem types (word problems, place value, rounding, money, time, fractions, measurement, patterns...) are parsed and solved in Python. Python writes the hints and decides right or wrong.</p></div>
+        <div class="card step reveal"><div class="n">03 · WORKSHEETS</div><h3>Whole pages, one question at a time</h3><p>A photographed worksheet is split into its numbered questions and sub-parts (26a, 26b...). The child picks one by voice or text, and GEETA tracks which questions are still unfinished.</p></div>
+        <div class="card step reveal"><div class="n">04 · GUARDS</div><h3>Gated fallback + leak guard</h3><p>Anything Python can't read falls back to the model. Its reply must pass an independent verifier and a checker that blocks false arithmetic, praise of wrong answers and invented numbers. A leak guard checks every reply for the answer.</p></div>
+        <div class="card step reveal"><div class="n">05 · PRODUCT</div><h3>Portals for kids, parents and staff</h3><p>FastAPI web app with separate sign-ins for children, parents, tutors and admins, progress reports per child, and a parent PDF emailed every night at 10:30 PM Adelaide time.</p></div>
+        <div class="card step reveal"><div class="n">06 · PRIVACY &amp; SECURITY</div><h3>Learning summaries only</h3><p>No chats, photos or camera images are ever stored, only skills practised and scores. argon2 passwords, 2-step sign-in, lock-outs, CSRF and CSP. An in-house attack suite of 78 attacks: all blocked.</p></div>
       </div>
     </div>
   </section>

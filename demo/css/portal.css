@@ -302,6 +302,7 @@ tbody tr:hover { background: rgba(255, 255, 255, .025); }
 
 @media (max-width: 980px) {
   #login { grid-template-columns: 1fr; }
+  .login-panel { padding: 24px 16px; }
   .login-brand { display: none; }
   #app { grid-template-columns: 1fr; grid-template-rows: auto 1fr; }
   .sidebar { flex-direction: row; align-items: center; overflow-x: auto; padding: 10px 12px; gap: 10px; border-right: 0; border-bottom: 1px solid var(--line); }
@@ -353,3 +354,30 @@ tbody tr:hover { background: rgba(255, 255, 255, .025); }
 .report .rec { position: absolute; top: 16px; right: -34px; transform: rotate(35deg); background: linear-gradient(135deg, var(--accent), var(--accent-2)); color: #04111a; font-size: 10px; font-weight: 800; letter-spacing: .06em; padding: 4px 40px; }
 .report .actions { display: flex; gap: 8px; }
 @media (max-width: 980px) { .chart-grid { grid-template-columns: 1fr; } .builder { grid-template-columns: 1fr; } }
+
+/* phones: keep all text at a legible size (>= 12px) */
+@media (max-width: 600px) {
+  body { font-size: 15px; }
+  .badge, .chip, .status, .cite, small, th, .nav-label, .brand-sub, .demo-note, .secure-note, .hint, .msg-meta, .step, .legend span,
+  .cc-head small, .cc-actions button, .cc-insight, .dash-tabs button, .seg button, .doc p, .doc-foot, .source .t small, .kpi small, .kpi span,
+  .galaxy-help, .galaxy-legend, .toast, .bar-row, .donut-legend, .demo-item .who small, .field > span, td, .composer .hint { font-size: 12.5px !important; }
+}
+
+/* phones: keep chat cards and charts inside the viewport */
+.thread > *, .assistant, .chart-card, .msg-ai { min-width: 0; max-width: 100%; }
+@media (max-width: 600px) {
+  .msg-head { flex-wrap: wrap; }
+  .msg-head .cc-actions { margin-left: 0; width: 100%; opacity: 1; }
+  .msg-ai { padding: 14px; }
+  .chat-chart { height: 280px; }
+  .msg-user { max-width: 88%; }
+  .view { padding-left: 12px; padding-right: 12px; }
+  .chart-grid { grid-template-columns: minmax(0, 1fr); }
+  .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .kpi b { font-size: 24px; }
+}
+@media (max-width: 600px) {
+  .seg { flex-wrap: wrap; }
+  .grid, .report-grid { grid-template-columns: minmax(0, 1fr); }
+  .toolbar .search { min-width: 0; width: 100%; }
+}

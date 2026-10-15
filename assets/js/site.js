@@ -1,4 +1,3 @@
-import * as THREE from "../vendor/three.module.min.js";
 
 const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
 document.getElementById("year").textContent = new Date().getFullYear();
@@ -51,10 +50,21 @@ document.querySelectorAll(".shot").forEach(el => {
 });
 
 // ---------------------------------------------------------------- hero: a slowly turning "knowledge constellation"
-(function hero() {
+// The 3D hero is progressive enhancement: Three.js (~690 KB) is fetched only after the page has rendered, and not at
+// all on small screens, data-saver connections or when the visitor prefers reduced motion.
+function startHero() {
+  const small = matchMedia("(max-width: 720px)").matches, saveData = navigator.connection?.saveData;
+  if (reduced || small || saveData) return;
+  import("../vendor/three.module.min.js").then(hero).catch(() => {});
+}
+if (document.readyState === "complete") (window.requestIdleCallback || setTimeout)(startHero);
+else addEventListener("load", () => (window.requestIdleCallback || setTimeout)(startHero));
+
+function hero(THREE) {
   const canvas = document.getElementById("hero3d");
   let renderer;
   try { renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true }); } catch { return; }
+  requestAnimationFrame(() => requestAnimationFrame(() => canvas.classList.add("on")));
   renderer.setPixelRatio(Math.min(devicePixelRatio, 2));
   const scene = new THREE.Scene(), camera = new THREE.PerspectiveCamera(55, 1, .1, 200);
   camera.position.set(0, 0, 34);
@@ -115,4 +125,4 @@ document.querySelectorAll(".shot").forEach(el => {
     }
     renderer.render(scene, camera);
   })();
-})();
+}

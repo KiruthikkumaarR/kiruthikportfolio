@@ -155,3 +155,7 @@ footer .wrap { display: flex; justify-content: space-between; gap: 16px; flex-wr
 }
 @media (max-width: 560px) { .metrics, .skills { grid-template-columns: 1fr; } }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } html { scroll-behavior: auto; } .reveal { opacity: 1; transform: none; } }
+
+img.portrait { display: block; object-fit: cover; padding: 0; background: #fff; height: auto; aspect-ratio: 1;
+  box-shadow: 0 0 0 1px rgba(140, 170, 230, .26), 0 0 0 7px rgba(63, 214, 196, .08), 0 30px 70px rgba(0, 0, 0, .5), 0 0 60px rgba(91, 140, 255, .18); }
+@media (max-width: 960px) { img.portrait { max-width: 260px; margin: 0 auto; } }

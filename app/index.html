@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'; upgrade-insecure-requests">
+<meta name="referrer" content="no-referrer">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Open GEETA</title>
+<meta name="theme-color" content="#05080f">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%233fd6c4'/%3E%3Ctext x='32' y='42' font-size='28' font-family='Arial' font-weight='700' text-anchor='middle' fill='%2304111a'%3EG%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="../assets/css/site.css">
+<style>
+  body { min-height: 100vh; display: grid; place-items: center; }
+  .box { max-width: 460px; margin: 0 16px; padding: 36px 32px; text-align: center; border: 1px solid var(--line); border-radius: 20px; background: #0a1020; }
+  .box h1 { font-size: 30px; margin: 0 0 10px; letter-spacing: -.02em; }
+  .box p { color: var(--ink2); margin: 0 0 18px; }
+  .box .small { font-size: 14px; margin: 18px 0 0; }
+  .spin { width: 34px; height: 34px; margin: 0 auto 18px; border-radius: 50%; border: 3px solid var(--line); border-top-color: var(--a); animation: s 1s linear infinite; }
+  @keyframes s { to { transform: rotate(360deg); } }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<main class="box">
+  <div class="spin" id="spin"></div>
+  <h1>Opening GEETA…</h1>
+  <p id="msg">Finding the maths buddy.</p>
+  <a class="btn primary" id="go" href="../geeta/" hidden>Open GEETA</a>
+  <p class="small">GEETA runs on a private computer. If it doesn't open, that computer may be switched off. Please try again later.</p>
+  <p class="small"><a class="back" href="../geeta/">About the GEETA project</a></p>
+</main>
+<script src="app.js" defer></script>
+</body>
+</html>
